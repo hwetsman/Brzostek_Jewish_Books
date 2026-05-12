@@ -1,0 +1,495 @@
+{
+ "births_per_year": {
+  "1876": 19,
+  "1894": 35,
+  "1895": 28,
+  "1896": 41,
+  "1897": 30,
+  "1898": 40,
+  "1899": 42,
+  "1900": 31,
+  "1901": 34,
+  "1902": 33,
+  "1903": 1,
+  "1904": 37,
+  "1905": 33,
+  "1906": 29,
+  "1907": 40,
+  "1908": 30,
+  "1909": 33,
+  "1910": 27,
+  "1911": 27,
+  "1912": 33,
+  "1913": 25,
+  "1914": 24,
+  "1915": 12,
+  "1916": 21,
+  "1917": 18
+ },
+ "deaths_per_year": {
+  "1894": 15,
+  "1895": 11,
+  "1896": 13,
+  "1897": 12,
+  "1898": 9,
+  "1899": 7,
+  "1900": 18,
+  "1901": 17,
+  "1902": 16,
+  "1903": 7,
+  "1904": 14,
+  "1905": 19,
+  "1906": 10,
+  "1907": 12,
+  "1908": 14,
+  "1909": 8,
+  "1910": 10,
+  "1911": 11,
+  "1912": 12,
+  "1913": 14,
+  "1914": 14,
+  "1915": 10,
+  "1916": 18,
+  "1917": 11,
+  "1918": 9,
+  "1919": 6,
+  "1920": 10,
+  "1921": 16,
+  "1922": 12,
+  "1923": 7,
+  "1924": 6,
+  "1925": 3,
+  "1926": 8,
+  "1927": 6,
+  "1928": 1,
+  "1929": 8,
+  "1930": 4,
+  "1931": 6,
+  "1932": 13,
+  "1933": 6,
+  "1934": 4,
+  "1935": 7,
+  "1936": 3,
+  "1938": 8
+ },
+ "marriages_per_year": {
+  "1894": 3,
+  "1895": 2,
+  "1896": 8,
+  "1897": 5,
+  "1898": 5,
+  "1899": 5,
+  "1900": 22,
+  "1901": 20,
+  "1902": 8,
+  "1903": 7,
+  "1904": 6,
+  "1905": 5,
+  "1906": 12,
+  "1907": 11,
+  "1908": 3,
+  "1909": 2,
+  "1910": 11,
+  "1911": 6,
+  "1912": 3,
+  "1913": 7,
+  "1914": 2,
+  "1916": 6,
+  "1917": 4,
+  "1919": 8,
+  "1920": 2,
+  "1921": 4,
+  "1922": 7,
+  "1923": 3,
+  "1924": 7,
+  "1925": 7,
+  "1926": 5,
+  "1927": 9,
+  "1928": 5,
+  "1929": 5,
+  "1930": 6,
+  "1932": 8,
+  "1933": 5,
+  "1934": 8,
+  "1935": 5,
+  "1936": 5,
+  "1937": 8,
+  "1938": 9
+ },
+ "top_given_names_male": [
+  [
+   "Moses",
+   65
+  ],
+  [
+   "Hersch",
+   58
+  ],
+  [
+   "Joseph",
+   56
+  ],
+  [
+   "Leib",
+   49
+  ],
+  [
+   "Jacob",
+   46
+  ],
+  [
+   "Abraham",
+   45
+  ],
+  [
+   "David",
+   44
+  ],
+  [
+   "Isaac",
+   42
+  ],
+  [
+   "Mendel",
+   42
+  ],
+  [
+   "Samuel",
+   41
+  ]
+ ],
+ "top_given_names_female": [
+  [
+   "Hannah",
+   72
+  ],
+  [
+   "Rivka",
+   71
+  ],
+  [
+   "Sarah",
+   59
+  ],
+  [
+   "Chaya",
+   47
+  ],
+  [
+   "Shayndel",
+   43
+  ],
+  [
+   "Feige",
+   41
+  ],
+  [
+   "Leah",
+   41
+  ],
+  [
+   "Gittla",
+   39
+  ],
+  [
+   "Esther",
+   39
+  ],
+  [
+   "Rachel",
+   39
+  ]
+ ],
+ "top_causes_of_death": [
+  [
+   "Pneumonia",
+   78
+  ],
+  [
+   "Old Age",
+   46
+  ],
+  [
+   "Tuberculosis",
+   38
+  ],
+  [
+   "Urinary Tract Infection",
+   18
+  ],
+  [
+   "Dysentery",
+   17
+  ],
+  [
+   "Failure to Thrive",
+   16
+  ],
+  [
+   "Scarlet Fever",
+   14
+  ],
+  [
+   "Chronic Obstructive Pulmonary Disease",
+   14
+  ],
+  [
+   "Stillborn",
+   13
+  ],
+  [
+   "Heart Disease",
+   13
+  ],
+  [
+   "Stroke-Unspecified",
+   11
+  ],
+  [
+   "Encephalitis",
+   11
+  ],
+  [
+   "Whooping Cough",
+   9
+  ],
+  [
+   "Measles",
+   6
+  ],
+  [
+   "Bronchitis",
+   6
+  ]
+ ],
+ "death_age_buckets": [
+  [
+   "<1 year",
+   93
+  ],
+  [
+   "1–4",
+   64
+  ],
+  [
+   "5–14",
+   28
+  ],
+  [
+   "15–29",
+   35
+  ],
+  [
+   "30–49",
+   37
+  ],
+  [
+   "50–64",
+   60
+  ],
+  [
+   "65+",
+   126
+  ]
+ ],
+ "deaths_by_month": [
+  [
+   "Jan",
+   31
+  ],
+  [
+   "Feb",
+   45
+  ],
+  [
+   "Mar",
+   46
+  ],
+  [
+   "Apr",
+   40
+  ],
+  [
+   "May",
+   37
+  ],
+  [
+   "Jun",
+   30
+  ],
+  [
+   "Jul",
+   31
+  ],
+  [
+   "Aug",
+   27
+  ],
+  [
+   "Sep",
+   33
+  ],
+  [
+   "Oct",
+   40
+  ],
+  [
+   "Nov",
+   40
+  ],
+  [
+   "Dec",
+   42
+  ]
+ ],
+ "death_causes_by_cohort": {
+  "Infant (<1 year)": [
+   [
+    "Pneumonia",
+    21
+   ],
+   [
+    "Failure to Thrive",
+    12
+   ],
+   [
+    "Stillborn",
+    11
+   ],
+   [
+    "Whooping Cough",
+    5
+   ],
+   [
+    "Dysentery",
+    5
+   ],
+   [
+    "Scarlet Fever",
+    4
+   ],
+   [
+    "Measles",
+    3
+   ],
+   [
+    "Sudden Infant Death Syndrome",
+    3
+   ]
+  ],
+  "Child (1–14)": [
+   [
+    "Pneumonia",
+    15
+   ],
+   [
+    "Scarlet Fever",
+    9
+   ],
+   [
+    "Dysentery",
+    8
+   ],
+   [
+    "Encephalitis",
+    6
+   ],
+   [
+    "Urinary Tract Infection",
+    5
+   ],
+   [
+    "Scarlet Fever and Diphtheria",
+    4
+   ],
+   [
+    "Throat infection",
+    3
+   ],
+   [
+    "Failure to Thrive",
+    3
+   ]
+  ],
+  "Adult (15–64)": [
+   [
+    "Tuberculosis",
+    26
+   ],
+   [
+    "Pneumonia",
+    22
+   ],
+   [
+    "Urinary Tract Infection",
+    7
+   ],
+   [
+    "Chronic Obstructive Pulmonary Disease",
+    7
+   ],
+   [
+    "Heart Disease",
+    6
+   ],
+   [
+    "Typhus",
+    4
+   ],
+   [
+    "Dysentery",
+    4
+   ],
+   [
+    "Encephalitis",
+    4
+   ]
+  ],
+  "Senior (65+)": [
+   [
+    "Old Age",
+    45
+   ],
+   [
+    "Pneumonia",
+    20
+   ],
+   [
+    "Tuberculosis",
+    8
+   ],
+   [
+    "Chronic Obstructive Pulmonary Disease",
+    7
+   ],
+   [
+    "Stroke-Unspecified",
+    7
+   ],
+   [
+    "Heart Disease",
+    6
+   ],
+   [
+    "Urinary Tract Infection",
+    5
+   ],
+   [
+    "Heart Attack",
+    2
+   ]
+  ]
+ },
+ "death_totals": {
+  "with_cause": 445,
+  "with_age": 443,
+  "distinct_causes": 97
+ },
+ "totals": {
+  "persons": 2461,
+  "births": 723,
+  "deaths": 445,
+  "marriages": 279,
+  "records": 1447
+ }
+}

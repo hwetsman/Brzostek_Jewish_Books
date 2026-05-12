@@ -1,0 +1,5859 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Buildings — Brzostek Records</title>
+<link rel="stylesheet" href="assets/site.css?v=b4d3e247e0">
+<script defer src="assets/config.js?v=b4d3e247e0"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
+<script defer src="assets/site.js?v=b4d3e247e0"></script>
+</head>
+<body data-depth="0" data-base="">
+<header class="site-header">
+  <div class="hdr-row">
+    <a class="site-title" href="index.html">Brzostek Jewish Records</a>
+    <nav class="site-nav">
+      <a href="browse/birth/index.html">Births</a>
+      <a href="browse/death/index.html">Deaths</a>
+      <a href="browse/marriage/index.html">Marriages</a>
+      <a href="surnames.html">Surnames</a>
+      <a href="buildings.html">Buildings</a>
+      <a href="map.html">Map</a>
+      <a href="stats.html">Stats</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+  <form class="search-form" role="search" onsubmit="return window.brzSearch && window.brzSearch.submit(event);">
+    <input id="search-box" type="search" name="q"
+           placeholder="Search people, surnames, records, IDs…"
+           autocomplete="off" aria-label="Search">
+    <button type="submit">Search</button>
+    <noscript><span class="search-disabled">JavaScript is required for search.</span></noscript>
+  </form>
+  <div id="search-results" class="search-results" hidden>
+    <div class="search-tabs">
+      <button data-tab="people" class="active">People <span id="ppl-count">0</span></button>
+      <button data-tab="records">Records <span id="rec-count">0</span></button>
+    </div>
+    <ol id="people-list"></ol>
+    <ol id="records-list" hidden></ol>
+  </div>
+</header>
+
+<main class="site-main">
+<h1>Buildings</h1>
+<p class="lead">
+The metrical books call them "houses" but in practice these are
+<strong>cadastral building numbers</strong> &mdash; the surveyor's parcel
+identifier for each structure in a town. The same number in two
+different towns refers to two completely different buildings, so every
+table below shows town and number together.
+</p>
+
+<p>
+Patterns to look for:
+</p>
+<ul>
+  <li><strong>High event count + many distinct surnames</strong> at one
+  building usually points to an institutional structure: a hospital, a
+  synagogue, the mohel's residence, a school. (For example, in Brzostek
+  many children were born and people died at <em>Brzostek 1</em>, while
+  many naming events were held at <em>Brzostek 149</em>.)</li>
+  <li><strong>One surname across many buildings</strong> usually points
+  to a large extended family or a family that moved.</li>
+</ul>
+
+<p class="totals">
+  Totals: 1501 dated building events
+  &nbsp;·&nbsp; 246 distinct (town, building)
+  pairs
+  &nbsp;·&nbsp; 202 surnames
+  associated with at least one building
+  &nbsp;·&nbsp; 26 towns.
+</p>
+
+<nav class="building-nav">
+  <a href="#towns">Towns</a> ·
+  <a href="#high-traffic">Most active buildings</a> ·
+  <a href="#diverse">Most surname-diverse buildings</a> ·
+  <a href="#all-buildings">All buildings</a> ·
+  <a href="#by-surname">Surnames &rarr; buildings</a>
+</nav>
+
+<h2 id="towns">Towns</h2>
+<table class="bldg-table">
+  <thead>
+    <tr><th>Town</th><th>Distinct buildings</th><th>Events</th>
+        <th>Year range</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Baczalka</td>
+      <td>8</td>
+      <td>20</td>
+      <td>
+1894&ndash;1925      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>29</td>
+      <td>78</td>
+      <td>
+1894&ndash;1921      </td>
+    </tr>
+    <tr>
+      <td>Brzeziny</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>107</td>
+      <td>991</td>
+      <td>
+1876&ndash;1923      </td>
+    </tr>
+    <tr>
+      <td>Brzyska</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1933
+      </td>
+    </tr>
+    <tr>
+      <td>Bukowa</td>
+      <td>4</td>
+      <td>7</td>
+      <td>
+1895&ndash;1916      </td>
+    </tr>
+    <tr>
+      <td>Dabrowa Tarnowska</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+    </tr>
+    <tr>
+      <td>Gebiczyna</td>
+      <td>4</td>
+      <td>11</td>
+      <td>
+1894&ndash;1908      </td>
+    </tr>
+    <tr>
+      <td>Globikowa</td>
+      <td>3</td>
+      <td>10</td>
+      <td>
+1894&ndash;1903      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>8</td>
+      <td>31</td>
+      <td>
+1894&ndash;1915      </td>
+    </tr>
+    <tr>
+      <td>Grudna Dolna</td>
+      <td>1</td>
+      <td>5</td>
+      <td>
+1894&ndash;1899      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>9</td>
+      <td>32</td>
+      <td>
+1895&ndash;1915      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>15</td>
+      <td>70</td>
+      <td>
+1894&ndash;1917      </td>
+    </tr>
+    <tr>
+      <td>Jaworze</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Dolna</td>
+      <td>5</td>
+      <td>23</td>
+      <td>
+1894&ndash;1930      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Gorna</td>
+      <td>3</td>
+      <td>6</td>
+      <td>
+1895&ndash;1901      </td>
+    </tr>
+    <tr>
+      <td>Klecie</td>
+      <td>3</td>
+      <td>17</td>
+      <td>
+1894&ndash;1911      </td>
+    </tr>
+    <tr>
+      <td>Nawsie Brzosteckie</td>
+      <td>6</td>
+      <td>29</td>
+      <td>
+1894&ndash;1921      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>15</td>
+      <td>75</td>
+      <td>
+1894&ndash;1914      </td>
+    </tr>
+    <tr>
+      <td>Oswiecim</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+    </tr>
+    <tr>
+      <td>Siedliska</td>
+      <td>5</td>
+      <td>26</td>
+      <td>
+1895&ndash;1917      </td>
+    </tr>
+    <tr>
+      <td>Skurowa</td>
+      <td>4</td>
+      <td>24</td>
+      <td>
+1895&ndash;1916      </td>
+    </tr>
+    <tr>
+      <td>Smarzowa</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+    </tr>
+    <tr>
+      <td>Wola Brzostecka</td>
+      <td>5</td>
+      <td>17</td>
+      <td>
+1895&ndash;1909      </td>
+    </tr>
+    <tr>
+      <td>Zawadka Brzostecka</td>
+      <td>5</td>
+      <td>22</td>
+      <td>
+1894&ndash;1911      </td>
+    </tr>
+    <tr>
+      <td>Zurawica near Jaroslaw</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="high-traffic">Most active buildings</h2>
+<p>The 50 buildings with the highest
+event count, sorted alphabetically by town and then numerically by
+building number. The mix of "Birth / Naming / Death / Groom / Bride"
+event kinds and the surname spread are the main signal that a building
+was institutional.</p>
+<table class="bldg-table">
+  <thead>
+    <tr>
+      <th>Town</th><th>Building</th><th>Events</th>
+      <th>Distinct surnames</th>
+      <th>Years</th>
+      <th>Event mix</th>
+      <th>Surnames (most frequent first)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>1</td>
+      <td>9</td>
+      <td>4</td>
+      <td>
+1905&ndash;1921      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Schiff (4),           Berger (2),           Gluckman (2),           Schonwetter (1)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>3</td>
+      <td>8</td>
+      <td>1</td>
+      <td>
+1906&ndash;1915      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 4</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Grunberger (8)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>84</td>
+      <td>8</td>
+      <td>1</td>
+      <td>
+1901&ndash;1908      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 5</span>
+          <span class="ev-naming">Naming 1</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Fichner (8)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>1</td>
+      <td>43</td>
+      <td>9</td>
+      <td>
+1876&ndash;1923      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 26</span>
+          <span class="ev-naming">Naming 9</span>
+          <span class="ev-death">Death 8</span>
+      </td>
+      <td class="surname-list">
+          Schwarz (17),           Rubel (9),           Schuss (8),           Schlenger (3),           Reiss (2),           Zahler (1),           Hoffman (1),           Felsen (1)          <span class="muted"> &hellip; +1 more</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>3</td>
+      <td>15</td>
+      <td>5</td>
+      <td>
+1895&ndash;1914      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 8</span>
+          <span class="ev-naming">Naming 5</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Bergman (11),           Kleinman (1),           Altman (1),           Bochner (1),           Nechemje (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>8</td>
+      <td>10</td>
+      <td>5</td>
+      <td>
+1876&ndash;1921      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 4</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 4</span>
+      </td>
+      <td class="surname-list">
+          Panzer (4),           Frommer (2),           Mass (2),           Wrobel (1),           Druck (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>10</td>
+      <td>10</td>
+      <td>4</td>
+      <td>
+1896&ndash;1915      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Schlenger (4),           Aron (3),           Teitelbaum (2),           Schneerson (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>14</td>
+      <td>8</td>
+      <td>4</td>
+      <td>
+1876&ndash;1910      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 4</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Kurz (4),           Zahler (2),           Welisch (1),           Abraham (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>16</td>
+      <td>13</td>
+      <td>6</td>
+      <td>
+1894&ndash;1921      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 7</span>
+          <span class="ev-naming">Naming 5</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Aron (6),           Rein (2),           Feigenbaum (2),           Faust (1),           Pencier (1),           Neuman (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>31</td>
+      <td>14</td>
+      <td>7</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 9</span>
+          <span class="ev-naming">Naming 1</span>
+          <span class="ev-death">Death 4</span>
+      </td>
+      <td class="surname-list">
+          Schilloj (3),           Czopp (2),           Rauch (2),           Finberg (2),           Nechemje (2),           Bergman (2),           Ratz (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>42</td>
+      <td>13</td>
+      <td>2</td>
+      <td>
+1876&ndash;1911      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 8</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Pencier (12),           Kornreich (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>44</td>
+      <td>10</td>
+      <td>3</td>
+      <td>
+1894&ndash;1909      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Leuchtag (5),           Rauch (4),           Pencier (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>45</td>
+      <td>12</td>
+      <td>7</td>
+      <td>
+1876&ndash;1912      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 7</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Blum (5),           Baumgarten (2),           Kirsch (1),           Pencier (1),           Orner (1),           Dresiewicza (1),           Zahler (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>47</td>
+      <td>24</td>
+      <td>14</td>
+      <td>
+1876&ndash;1914      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 14</span>
+          <span class="ev-naming">Naming 1</span>
+          <span class="ev-death">Death 9</span>
+      </td>
+      <td class="surname-list">
+          Lobel (4),           Orner (3),           Zeisler (3),           Baumgarten (2),           Amsterdam (2),           Schonwetter (1),           Schlenger (1),           Dere (1)          <span class="muted"> &hellip; +6 more</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>50</td>
+      <td>9</td>
+      <td>4</td>
+      <td>
+1899&ndash;1907      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Schlenger (3),           Baumgarten (2),           Abraham (2),           Hirsch (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>51</td>
+      <td>15</td>
+      <td>8</td>
+      <td>
+1876&ndash;1912      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 5</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 7</span>
+      </td>
+      <td class="surname-list">
+          Burstin (4),           Goldman (3),           Abraham (2),           Plattner (2),           Kornfeld (1),           Towel (1),           Siegfried (1),           Baumgarten (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>52</td>
+      <td>48</td>
+      <td>11</td>
+      <td>
+1876&ndash;1921      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 26</span>
+          <span class="ev-naming">Naming 9</span>
+          <span class="ev-death">Death 12</span>
+          <span class="ev-bride">Bride 1</span>
+      </td>
+      <td class="surname-list">
+          Steiner (9),           Zeller (9),           Singer (8),           Blum (5),           Baumgarten (4),           Hirsch (4),           Storch (3),           Sperber (2)          <span class="muted"> &hellip; +3 more</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>55</td>
+      <td>11</td>
+      <td>4</td>
+      <td>
+1895&ndash;1912      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 7</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Kichel (8),           Bieder (1),           Sturm (1),           Weintraub (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>58</td>
+      <td>22</td>
+      <td>4</td>
+      <td>
+1876&ndash;1917      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 13</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 6</span>
+      </td>
+      <td class="surname-list">
+          Konigsdorf (13),           Lobel (4),           Schuss (4),           Wetzler (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>65</td>
+      <td>14</td>
+      <td>5</td>
+      <td>
+1900&ndash;1914      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 4</span>
+          <span class="ev-death">Death 4</span>
+      </td>
+      <td class="surname-list">
+          Panzer (8),           Ratz (2),           Mass (2),           Low (1),           Lehrman (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>73</td>
+      <td>18</td>
+      <td>10</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 10</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 5</span>
+      </td>
+      <td class="surname-list">
+          Silberberg (7),           Guttenberg (2),           Fisch (2),           Gewurtz (1),           Rauch (1),           Czopp (1),           Kaufman (1),           Bloch (1)          <span class="muted"> &hellip; +2 more</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>79</td>
+      <td>8</td>
+      <td>4</td>
+      <td>
+1876&ndash;1906      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 3</span>
+          <span class="ev-naming">Naming 1</span>
+          <span class="ev-death">Death 3</span>
+          <span class="ev-groom">Groom 1</span>
+      </td>
+      <td class="surname-list">
+          Licht (3),           Bergman (3),           Plattner (1),           Birnbaum (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>84</td>
+      <td>9</td>
+      <td>2</td>
+      <td>
+1906&ndash;1912      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 5</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Sperber (7),           Blum (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>111</td>
+      <td>21</td>
+      <td>8</td>
+      <td>
+1894&ndash;1910      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 14</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 3</span>
+          <span class="ev-bride">Bride 1</span>
+      </td>
+      <td class="surname-list">
+          Storch (7),           Beer (3),           Goldberg (3),           Kurz (3),           Feigenbaum (2),           Goldman (1),           Bodner (1),           Wrobel (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>119</td>
+      <td>9</td>
+      <td>2</td>
+      <td>
+1895&ndash;1914      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 4</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Rubel (6),           Fisch (3)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>126</td>
+      <td>8</td>
+      <td>3</td>
+      <td>
+1894&ndash;1913      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 4</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Handler (4),           Schonwetter (3),           Kunstler (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>128</td>
+      <td>13</td>
+      <td>2</td>
+      <td>
+1896&ndash;1913      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 4</span>
+          <span class="ev-death">Death 3</span>
+      </td>
+      <td class="surname-list">
+          Towel (11),           Bodner (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>131</td>
+      <td>12</td>
+      <td>6</td>
+      <td>
+1894&ndash;1913      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 4</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Korzennik (4),           Landau (2),           Rubel (2),           Bauernfreund (2),           Derschewitz (1),           Grun (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>142</td>
+      <td>9</td>
+      <td>1</td>
+      <td>
+1896&ndash;1908      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 7</span>
+          <span class="ev-naming">Naming 1</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Silberman (9)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>143</td>
+      <td>9</td>
+      <td>4</td>
+      <td>
+1906&ndash;1911      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 3</span>
+      </td>
+      <td class="surname-list">
+          Kaufman (3),           Horowitz (2),           Klotz (2),           Bochner (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>149</td>
+      <td>336</td>
+      <td>127</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="event-mix">
+          <span class="ev-naming">Naming 335</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Kornfeld (11),           Reiss (10),           Lobel (9),           Fichner (9),           Schlenger (9),           Schonwetter (8),           Sperber (8),           Konigsdorf (7)          <span class="muted"> &hellip; +119 more</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>156</td>
+      <td>8</td>
+      <td>3</td>
+      <td>
+1894&ndash;1914      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 5</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-groom">Groom 1</span>
+      </td>
+      <td class="surname-list">
+          Klotz (5),           Fichner (2),           Kaufman (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>162</td>
+      <td>8</td>
+      <td>4</td>
+      <td>
+1899&ndash;1917      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 3</span>
+          <span class="ev-naming">Naming 1</span>
+          <span class="ev-death">Death 4</span>
+      </td>
+      <td class="surname-list">
+          Kaufman (3),           Wolkenfeld (2),           Thum (2),           Szkulisk (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>165</td>
+      <td>8</td>
+      <td>1</td>
+      <td>
+1899&ndash;1913      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 5</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Siegfried (8)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>174</td>
+      <td>9</td>
+      <td>3</td>
+      <td>
+1907&ndash;1913      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Kornreich (6),           Low (2),           Fisch (1)      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>100</td>
+      <td>10</td>
+      <td>4</td>
+      <td>
+1894&ndash;1902      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Rothman (4),           Sperber (4),           Turk (1),           Freiberger (1)      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>56</td>
+      <td>11</td>
+      <td>2</td>
+      <td>
+1895&ndash;1915      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 4</span>
+          <span class="ev-death">Death 7</span>
+      </td>
+      <td class="surname-list">
+          Weintraub (9),           Freidman (1)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>16</td>
+      <td>15</td>
+      <td>3</td>
+      <td>
+1896&ndash;1913      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 8</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 4</span>
+      </td>
+      <td class="surname-list">
+          Neuman (12),           Frommer (1),           Roth (1)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>23</td>
+      <td>8</td>
+      <td>1</td>
+      <td>
+1894&ndash;1898      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 4</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Zeughauser (8)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>28</td>
+      <td>12</td>
+      <td>1</td>
+      <td>
+1901&ndash;1914      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 3</span>
+      </td>
+      <td class="surname-list">
+          Lobel (12)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>57</td>
+      <td>9</td>
+      <td>1</td>
+      <td>
+1898&ndash;1907      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 5</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Schneps (9)      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Dolna</td>
+      <td>1</td>
+      <td>8</td>
+      <td>4</td>
+      <td>
+1894&ndash;1901      </td>
+      <td class="event-mix">
+          <span class="ev-naming">Naming 7</span>
+          <span class="ev-birth">Birth 1</span>
+      </td>
+      <td class="surname-list">
+          Rothman (3),           Turk (2),           Spett (2),           Dintenfass (1)      </td>
+    </tr>
+    <tr>
+      <td>Klecie</td>
+      <td>16</td>
+      <td>14</td>
+      <td>3</td>
+      <td>
+1894&ndash;1911      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 9</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Tager (8),           Aron (5),           Katz (1)      </td>
+    </tr>
+    <tr>
+      <td>Nawsie Brzosteckie</td>
+      <td>66</td>
+      <td>12</td>
+      <td>2</td>
+      <td>
+1896&ndash;1908      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 5</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Rowitz (11),           Towel (1)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>12</td>
+      <td>12</td>
+      <td>3</td>
+      <td>
+1894&ndash;1910      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 7</span>
+          <span class="ev-naming">Naming 1</span>
+          <span class="ev-death">Death 4</span>
+      </td>
+      <td class="surname-list">
+          Bodner (10),           Landau (1),           Tager (1)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>37</td>
+      <td>16</td>
+      <td>2</td>
+      <td>
+1897&ndash;1911      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 10</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 3</span>
+      </td>
+      <td class="surname-list">
+          Reiss (14),           Roth (2)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>40</td>
+      <td>11</td>
+      <td>3</td>
+      <td>
+1894&ndash;1912      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 5</span>
+          <span class="ev-naming">Naming 4</span>
+          <span class="ev-death">Death 2</span>
+      </td>
+      <td class="surname-list">
+          Beiles (4),           Unger (4),           Sturm (3)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>72</td>
+      <td>12</td>
+      <td>1</td>
+      <td>
+1899&ndash;1913      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 5</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 4</span>
+      </td>
+      <td class="surname-list">
+          Roth (12)      </td>
+    </tr>
+    <tr>
+      <td>Siedliska</td>
+      <td>150</td>
+      <td>11</td>
+      <td>3</td>
+      <td>
+1901&ndash;1913      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 2</span>
+          <span class="ev-death">Death 3</span>
+      </td>
+      <td class="surname-list">
+          Sperber (4),           Kampf (4),           Dembizer (3)      </td>
+    </tr>
+    <tr>
+      <td>Skurowa</td>
+      <td>3</td>
+      <td>10</td>
+      <td>1</td>
+      <td>
+1901&ndash;1916      </td>
+      <td class="event-mix">
+          <span class="ev-birth">Birth 6</span>
+          <span class="ev-naming">Naming 3</span>
+          <span class="ev-death">Death 1</span>
+      </td>
+      <td class="surname-list">
+          Guttstein (10)      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="diverse">Most surname-diverse buildings</h2>
+<p>Buildings sorted by the number of <em>distinct</em> surnames seen
+there. Rows near the top are the strongest candidates for institutional
+buildings (hospitals, synagogues, mohel's residence, etc.).</p>
+<table class="bldg-table">
+  <thead>
+    <tr><th>Town</th><th>Building</th><th>Distinct surnames</th>
+        <th>Events</th><th>Years</th><th>Most frequent surnames</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Brzostek</td>
+      <td>149</td>
+      <td>127</td>
+      <td>336</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="surname-list">
+          Kornfeld (11),           Reiss (10),           Lobel (9),           Fichner (9),           Schlenger (9),           Schonwetter (8),           Sperber (8),           Konigsdorf (7)          <span class="muted"> &hellip;</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>47</td>
+      <td>14</td>
+      <td>24</td>
+      <td>
+1876&ndash;1914      </td>
+      <td class="surname-list">
+          Lobel (4),           Orner (3),           Zeisler (3),           Baumgarten (2),           Amsterdam (2),           Schonwetter (1),           Schlenger (1),           Dere (1)          <span class="muted"> &hellip;</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>52</td>
+      <td>11</td>
+      <td>48</td>
+      <td>
+1876&ndash;1921      </td>
+      <td class="surname-list">
+          Steiner (9),           Zeller (9),           Singer (8),           Blum (5),           Baumgarten (4),           Hirsch (4),           Storch (3),           Sperber (2)          <span class="muted"> &hellip;</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>73</td>
+      <td>10</td>
+      <td>18</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="surname-list">
+          Silberberg (7),           Guttenberg (2),           Fisch (2),           Gewurtz (1),           Rauch (1),           Czopp (1),           Kaufman (1),           Bloch (1)          <span class="muted"> &hellip;</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>1</td>
+      <td>9</td>
+      <td>43</td>
+      <td>
+1876&ndash;1923      </td>
+      <td class="surname-list">
+          Schwarz (17),           Rubel (9),           Schuss (8),           Schlenger (3),           Reiss (2),           Zahler (1),           Hoffman (1),           Felsen (1)          <span class="muted"> &hellip;</span>
+      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>111</td>
+      <td>8</td>
+      <td>21</td>
+      <td>
+1894&ndash;1910      </td>
+      <td class="surname-list">
+          Storch (7),           Beer (3),           Goldberg (3),           Kurz (3),           Feigenbaum (2),           Goldman (1),           Bodner (1),           Wrobel (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>51</td>
+      <td>8</td>
+      <td>15</td>
+      <td>
+1876&ndash;1912      </td>
+      <td class="surname-list">
+          Burstin (4),           Goldman (3),           Abraham (2),           Plattner (2),           Kornfeld (1),           Towel (1),           Siegfried (1),           Baumgarten (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>31</td>
+      <td>7</td>
+      <td>14</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="surname-list">
+          Schilloj (3),           Czopp (2),           Rauch (2),           Finberg (2),           Nechemje (2),           Bergman (2),           Ratz (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>45</td>
+      <td>7</td>
+      <td>12</td>
+      <td>
+1876&ndash;1912      </td>
+      <td class="surname-list">
+          Blum (5),           Baumgarten (2),           Kirsch (1),           Pencier (1),           Orner (1),           Dresiewicza (1),           Zahler (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>16</td>
+      <td>6</td>
+      <td>13</td>
+      <td>
+1894&ndash;1921      </td>
+      <td class="surname-list">
+          Aron (6),           Rein (2),           Feigenbaum (2),           Faust (1),           Pencier (1),           Neuman (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>131</td>
+      <td>6</td>
+      <td>12</td>
+      <td>
+1894&ndash;1913      </td>
+      <td class="surname-list">
+          Korzennik (4),           Landau (2),           Rubel (2),           Bauernfreund (2),           Derschewitz (1),           Grun (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>3</td>
+      <td>5</td>
+      <td>15</td>
+      <td>
+1895&ndash;1914      </td>
+      <td class="surname-list">
+          Bergman (11),           Kleinman (1),           Altman (1),           Bochner (1),           Nechemje (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>65</td>
+      <td>5</td>
+      <td>14</td>
+      <td>
+1900&ndash;1914      </td>
+      <td class="surname-list">
+          Panzer (8),           Ratz (2),           Mass (2),           Low (1),           Lehrman (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>8</td>
+      <td>5</td>
+      <td>10</td>
+      <td>
+1876&ndash;1921      </td>
+      <td class="surname-list">
+          Panzer (4),           Frommer (2),           Mass (2),           Wrobel (1),           Druck (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>19</td>
+      <td>5</td>
+      <td>7</td>
+      <td>
+1876&ndash;1914      </td>
+      <td class="surname-list">
+          Zahler (2),           Bieder (2),           Rein (1),           Brinbaum (1),           Brand (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>58</td>
+      <td>4</td>
+      <td>22</td>
+      <td>
+1876&ndash;1917      </td>
+      <td class="surname-list">
+          Konigsdorf (13),           Lobel (4),           Schuss (4),           Wetzler (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>55</td>
+      <td>4</td>
+      <td>11</td>
+      <td>
+1895&ndash;1912      </td>
+      <td class="surname-list">
+          Kichel (8),           Bieder (1),           Sturm (1),           Weintraub (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>10</td>
+      <td>4</td>
+      <td>10</td>
+      <td>
+1896&ndash;1915      </td>
+      <td class="surname-list">
+          Schlenger (4),           Aron (3),           Teitelbaum (2),           Schneerson (1)      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>100</td>
+      <td>4</td>
+      <td>10</td>
+      <td>
+1894&ndash;1902      </td>
+      <td class="surname-list">
+          Rothman (4),           Sperber (4),           Turk (1),           Freiberger (1)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>1</td>
+      <td>4</td>
+      <td>9</td>
+      <td>
+1905&ndash;1921      </td>
+      <td class="surname-list">
+          Schiff (4),           Berger (2),           Gluckman (2),           Schonwetter (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>50</td>
+      <td>4</td>
+      <td>9</td>
+      <td>
+1899&ndash;1907      </td>
+      <td class="surname-list">
+          Schlenger (3),           Baumgarten (2),           Abraham (2),           Hirsch (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>143</td>
+      <td>4</td>
+      <td>9</td>
+      <td>
+1906&ndash;1911      </td>
+      <td class="surname-list">
+          Kaufman (3),           Horowitz (2),           Klotz (2),           Bochner (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>14</td>
+      <td>4</td>
+      <td>8</td>
+      <td>
+1876&ndash;1910      </td>
+      <td class="surname-list">
+          Kurz (4),           Zahler (2),           Welisch (1),           Abraham (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>79</td>
+      <td>4</td>
+      <td>8</td>
+      <td>
+1876&ndash;1906      </td>
+      <td class="surname-list">
+          Licht (3),           Bergman (3),           Plattner (1),           Birnbaum (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>162</td>
+      <td>4</td>
+      <td>8</td>
+      <td>
+1899&ndash;1917      </td>
+      <td class="surname-list">
+          Kaufman (3),           Wolkenfeld (2),           Thum (2),           Szkulisk (1)      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Dolna</td>
+      <td>1</td>
+      <td>4</td>
+      <td>8</td>
+      <td>
+1894&ndash;1901      </td>
+      <td class="surname-list">
+          Rothman (3),           Turk (2),           Spett (2),           Dintenfass (1)      </td>
+    </tr>
+    <tr>
+      <td>Zawadka Brzostecka</td>
+      <td>1</td>
+      <td>4</td>
+      <td>8</td>
+      <td>
+1897&ndash;1911      </td>
+      <td class="surname-list">
+          Schonwetter (5),           Krau (1),           Karpf (1),           Sandberg (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>86</td>
+      <td>4</td>
+      <td>7</td>
+      <td>
+1897&ndash;1905      </td>
+      <td class="surname-list">
+          Baumgarten (2),           Landau (2),           Reiss (2),           Leuchtag (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>17</td>
+      <td>4</td>
+      <td>6</td>
+      <td>
+1899&ndash;1916      </td>
+      <td class="surname-list">
+          Feigenbaum (3),           Faust (1),           Rubel (1),           Reiss (1)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>20</td>
+      <td>4</td>
+      <td>6</td>
+      <td>
+1876&ndash;1900      </td>
+      <td class="surname-list">
+          Silberman (3),           Bloch (1),           Schonwetter (1),           Fichner (1)      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="all-buildings">All buildings</h2>
+<p>Every (town, building) pair, sorted by town then building number.</p>
+<table class="bldg-table">
+  <thead>
+    <tr><th>Town</th><th>Building</th><th>Events</th>
+        <th>Distinct surnames</th><th>Years</th>
+        <th>Surnames</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Baczalka</td>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1894&ndash;1898      </td>
+      <td class="surname-list">
+          Hoffman (3)      </td>
+    </tr>
+    <tr>
+      <td>Baczalka</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1898
+      </td>
+      <td class="surname-list">
+          Friedenbach      </td>
+    </tr>
+    <tr>
+      <td>Baczalka</td>
+      <td>10</td>
+      <td>4</td>
+      <td>1</td>
+      <td>
+1902&ndash;1906      </td>
+      <td class="surname-list">
+          Schindel (4)      </td>
+    </tr>
+    <tr>
+      <td>Baczalka</td>
+      <td>13</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1911&ndash;1912      </td>
+      <td class="surname-list">
+          Wolf,           Westreich      </td>
+    </tr>
+    <tr>
+      <td>Baczalka</td>
+      <td>17</td>
+      <td>5</td>
+      <td>2</td>
+      <td>
+1899&ndash;1916      </td>
+      <td class="surname-list">
+          Friedenbach (3),           Berger (2)      </td>
+    </tr>
+    <tr>
+      <td>Baczalka</td>
+      <td>37</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1904
+      </td>
+      <td class="surname-list">
+          Friedenbach      </td>
+    </tr>
+    <tr>
+      <td>Baczalka</td>
+      <td>40</td>
+      <td>3</td>
+      <td>3</td>
+      <td>
+1904&ndash;1925      </td>
+      <td class="surname-list">
+          Neubart,           Haber,           Gruber      </td>
+    </tr>
+    <tr>
+      <td>Baczalka</td>
+      <td>69</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1901
+      </td>
+      <td class="surname-list">
+          Friedenbach      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>1</td>
+      <td>9</td>
+      <td>4</td>
+      <td>
+1905&ndash;1921      </td>
+      <td class="surname-list">
+          Schiff (4),           Berger (2),           Gluckman (2),           Schonwetter      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>3</td>
+      <td>8</td>
+      <td>1</td>
+      <td>
+1906&ndash;1915      </td>
+      <td class="surname-list">
+          Grunberger (8)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>15</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1904
+      </td>
+      <td class="surname-list">
+          Grunberger      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>22</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1900
+      </td>
+      <td class="surname-list">
+          Glassner (2)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>23</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1902
+      </td>
+      <td class="surname-list">
+          Dintenfass      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>27</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1906
+      </td>
+      <td class="surname-list">
+          Herman      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>34</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1894&ndash;1895      </td>
+      <td class="surname-list">
+          Abrahamowicz (3)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>51</td>
+      <td>4</td>
+      <td>2</td>
+      <td>
+1900&ndash;1910      </td>
+      <td class="surname-list">
+          Dintenfass (3),           Altholz      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>52</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Fichner      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>59</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1905
+      </td>
+      <td class="surname-list">
+          Dintenfass (2)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>83</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Altholz      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>84</td>
+      <td>8</td>
+      <td>1</td>
+      <td>
+1901&ndash;1908      </td>
+      <td class="surname-list">
+          Fichner (8)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>85</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1896&ndash;1921      </td>
+      <td class="surname-list">
+          Fichner,           Korzennik      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>124</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Schneyer (2)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>129</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Schneyer      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>142</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1910
+      </td>
+      <td class="surname-list">
+          Glassner      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>146</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1898&ndash;1901      </td>
+      <td class="surname-list">
+          Grunberger (3)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>149</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1899&ndash;1900      </td>
+      <td class="surname-list">
+          Glassner,           Braudsdorfer      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>156</td>
+      <td>4</td>
+      <td>1</td>
+      <td>
+1899&ndash;1902      </td>
+      <td class="surname-list">
+          Steinhorn (4)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>164</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1914
+      </td>
+      <td class="surname-list">
+          Schneyer (2)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>166</td>
+      <td>5</td>
+      <td>1</td>
+      <td>
+1894&ndash;1898      </td>
+      <td class="surname-list">
+          Steinhorn (5)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>227</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Steinhorn      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>229</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1906
+      </td>
+      <td class="surname-list">
+          Steinhorn      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>271</td>
+      <td>6</td>
+      <td>1</td>
+      <td>
+1897&ndash;1905      </td>
+      <td class="surname-list">
+          Abrahamowicz (5)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>272</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Abrahamowicz      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>278</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Glassner      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>312</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1907&ndash;1909      </td>
+      <td class="surname-list">
+          Herman (3)      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>329</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Feik      </td>
+    </tr>
+    <tr>
+      <td>Blaszkowa</td>
+      <td>330</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1906
+      </td>
+      <td class="surname-list">
+          Freiberger      </td>
+    </tr>
+    <tr>
+      <td>Brzeziny</td>
+      <td>171</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Wurst      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>1</td>
+      <td>43</td>
+      <td>9</td>
+      <td>
+1876&ndash;1923      </td>
+      <td class="surname-list">
+          Schwarz (17),           Rubel (9),           Schuss (8),           Schlenger (3),           Reiss (2),           Zahler,           Hoffman,           Felsen,           Walter      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>2</td>
+      <td>5</td>
+      <td>3</td>
+      <td>
+1896&ndash;1905      </td>
+      <td class="surname-list">
+          Rufs (3),           Derschewitz,           Grabkowicz      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>3</td>
+      <td>15</td>
+      <td>5</td>
+      <td>
+1895&ndash;1914      </td>
+      <td class="surname-list">
+          Bergman (11),           Kleinman,           Altman,           Bochner,           Nechemje      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>4</td>
+      <td>4</td>
+      <td>2</td>
+      <td>
+1896&ndash;1904      </td>
+      <td class="surname-list">
+          Fichner (3),           Schlenger      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>5</td>
+      <td>4</td>
+      <td>2</td>
+      <td>
+1876&ndash;1912      </td>
+      <td class="surname-list">
+          Amsterdam (3),           Panzer      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>6</td>
+      <td>5</td>
+      <td>2</td>
+      <td>
+1902&ndash;1917      </td>
+      <td class="surname-list">
+          Aron (4),           Schlenger      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>7</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1916
+      </td>
+      <td class="surname-list">
+          Kornfeld (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>8</td>
+      <td>10</td>
+      <td>5</td>
+      <td>
+1876&ndash;1921      </td>
+      <td class="surname-list">
+          Panzer (4),           Frommer (2),           Mass (2),           Wrobel,           Druck      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>9</td>
+      <td>6</td>
+      <td>3</td>
+      <td>
+1894&ndash;1911      </td>
+      <td class="surname-list">
+          Licht (3),           Wolf (2),           Nechemje      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>10</td>
+      <td>10</td>
+      <td>4</td>
+      <td>
+1896&ndash;1915      </td>
+      <td class="surname-list">
+          Schlenger (4),           Aron (3),           Teitelbaum (2),           Schneerson      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>11</td>
+      <td>5</td>
+      <td>3</td>
+      <td>
+1901&ndash;1916      </td>
+      <td class="surname-list">
+          Schlenger (2),           Wolkenfeld (2),           Aron      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>13</td>
+      <td>7</td>
+      <td>3</td>
+      <td>
+1899&ndash;1916      </td>
+      <td class="surname-list">
+          Reiss (4),           Guttenberg (2),           Friedenbach      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>14</td>
+      <td>8</td>
+      <td>4</td>
+      <td>
+1876&ndash;1910      </td>
+      <td class="surname-list">
+          Kurz (4),           Zahler (2),           Welisch,           Abraham      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>15</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1896&ndash;1899      </td>
+      <td class="surname-list">
+          Goldfluss,           Fisch      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>16</td>
+      <td>13</td>
+      <td>6</td>
+      <td>
+1894&ndash;1921      </td>
+      <td class="surname-list">
+          Aron (6),           Rein (2),           Feigenbaum (2),           Faust,           Pencier,           Neuman      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>17</td>
+      <td>6</td>
+      <td>4</td>
+      <td>
+1899&ndash;1916      </td>
+      <td class="surname-list">
+          Feigenbaum (3),           Faust,           Rubel,           Reiss      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>19</td>
+      <td>7</td>
+      <td>5</td>
+      <td>
+1876&ndash;1914      </td>
+      <td class="surname-list">
+          Zahler (2),           Bieder (2),           Rein,           Brinbaum,           Brand      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>20</td>
+      <td>6</td>
+      <td>4</td>
+      <td>
+1876&ndash;1900      </td>
+      <td class="surname-list">
+          Silberman (3),           Bloch,           Schonwetter,           Fichner      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>23</td>
+      <td>3</td>
+      <td>3</td>
+      <td>
+1896&ndash;1910      </td>
+      <td class="surname-list">
+          Fichner,           Silberberg,           Zeughauser      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>24</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1876
+      </td>
+      <td class="surname-list">
+          Bloch      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>26</td>
+      <td>4</td>
+      <td>1</td>
+      <td>
+1910&ndash;1912      </td>
+      <td class="surname-list">
+          Low (4)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>27</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1898&ndash;1899      </td>
+      <td class="surname-list">
+          Reicher,           Bochner      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>28</td>
+      <td>6</td>
+      <td>3</td>
+      <td>
+1896&ndash;1914      </td>
+      <td class="surname-list">
+          Reicher (2),           Low (2),           Feil (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>29</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1910
+      </td>
+      <td class="surname-list">
+          Baumgarten      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>30</td>
+      <td>3</td>
+      <td>2</td>
+      <td>
+1900&ndash;1917      </td>
+      <td class="surname-list">
+          Rubel (2),           Schlenger      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>31</td>
+      <td>14</td>
+      <td>7</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="surname-list">
+          Schilloj (3),           Czopp (2),           Rauch (2),           Finberg (2),           Nechemje (2),           Bergman (2),           Ratz      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>35</td>
+      <td>6</td>
+      <td>3</td>
+      <td>
+1909&ndash;1917      </td>
+      <td class="surname-list">
+          Bieder (4),           Thau,           Riff      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>37</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Goldberg      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>40</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1920
+      </td>
+      <td class="surname-list">
+          Schindel      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>41</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1876
+      </td>
+      <td class="surname-list">
+          Kolber      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>42</td>
+      <td>13</td>
+      <td>2</td>
+      <td>
+1876&ndash;1911      </td>
+      <td class="surname-list">
+          Pencier (12),           Kornreich      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>44</td>
+      <td>10</td>
+      <td>3</td>
+      <td>
+1894&ndash;1909      </td>
+      <td class="surname-list">
+          Leuchtag (5),           Rauch (4),           Pencier      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>45</td>
+      <td>12</td>
+      <td>7</td>
+      <td>
+1876&ndash;1912      </td>
+      <td class="surname-list">
+          Blum (5),           Baumgarten (2),           Kirsch,           Pencier,           Orner,           Dresiewicza,           Zahler      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>46</td>
+      <td>7</td>
+      <td>2</td>
+      <td>
+1895&ndash;1912      </td>
+      <td class="surname-list">
+          Kornfeld (6),           Scharf      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>47</td>
+      <td>24</td>
+      <td>14</td>
+      <td>
+1876&ndash;1914      </td>
+      <td class="surname-list">
+          Lobel (4),           Orner (3),           Zeisler (3),           Baumgarten (2),           Amsterdam (2),           Schonwetter,           Schlenger,           Dere,           Zahler,           Fichner,           Rieger,           Deresienscz,           Teitelbaum,           Bochner      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>49</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1900
+      </td>
+      <td class="surname-list">
+          Orner      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>50</td>
+      <td>9</td>
+      <td>4</td>
+      <td>
+1899&ndash;1907      </td>
+      <td class="surname-list">
+          Schlenger (3),           Baumgarten (2),           Abraham (2),           Hirsch      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>51</td>
+      <td>15</td>
+      <td>8</td>
+      <td>
+1876&ndash;1912      </td>
+      <td class="surname-list">
+          Burstin (4),           Goldman (3),           Abraham (2),           Plattner (2),           Kornfeld,           Towel,           Siegfried,           Baumgarten      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>52</td>
+      <td>48</td>
+      <td>11</td>
+      <td>
+1876&ndash;1921      </td>
+      <td class="surname-list">
+          Steiner (9),           Zeller (9),           Singer (8),           Blum (5),           Baumgarten (4),           Hirsch (4),           Storch (3),           Sperber (2),           Tager (2),           Stierer,           Scheinbach      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>54</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Goldman      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>55</td>
+      <td>11</td>
+      <td>4</td>
+      <td>
+1895&ndash;1912      </td>
+      <td class="surname-list">
+          Kichel (8),           Bieder,           Sturm,           Weintraub      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>56</td>
+      <td>3</td>
+      <td>2</td>
+      <td>
+1913&ndash;1921      </td>
+      <td class="surname-list">
+          Braunheim (2),           Plattner      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>57</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1912
+      </td>
+      <td class="surname-list">
+          Schuss      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>58</td>
+      <td>22</td>
+      <td>4</td>
+      <td>
+1876&ndash;1917      </td>
+      <td class="surname-list">
+          Konigsdorf (13),           Lobel (4),           Schuss (4),           Wetzler      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>61</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1902
+      </td>
+      <td class="surname-list">
+          Schuss      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>64</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1911&ndash;1912      </td>
+      <td class="surname-list">
+          Kornfeld (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>65</td>
+      <td>14</td>
+      <td>5</td>
+      <td>
+1900&ndash;1914      </td>
+      <td class="surname-list">
+          Panzer (8),           Ratz (2),           Mass (2),           Low,           Lehrman      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>69</td>
+      <td>5</td>
+      <td>4</td>
+      <td>
+1900&ndash;1914      </td>
+      <td class="surname-list">
+          Rauch (2),           Galizer,           Kornfeld,           Kern      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>71</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Zahler      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>72</td>
+      <td>4</td>
+      <td>3</td>
+      <td>
+1906&ndash;1911      </td>
+      <td class="surname-list">
+          Panzer (2),           Noth,           Roth      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>73</td>
+      <td>18</td>
+      <td>10</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="surname-list">
+          Silberberg (7),           Guttenberg (2),           Fisch (2),           Gewurtz,           Rauch,           Czopp,           Kaufman,           Bloch,           Korn,           Rein      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>74</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Kleinman      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>75</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Panzer (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>79</td>
+      <td>8</td>
+      <td>4</td>
+      <td>
+1876&ndash;1906      </td>
+      <td class="surname-list">
+          Licht (3),           Bergman (3),           Plattner,           Birnbaum      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>80</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1876
+      </td>
+      <td class="surname-list">
+          Panzer      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>81</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1902
+      </td>
+      <td class="surname-list">
+          Kaller (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>82</td>
+      <td>4</td>
+      <td>3</td>
+      <td>
+1896&ndash;1911      </td>
+      <td class="surname-list">
+          Grabkowicz (2),           Schmaja,           Weintraub      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>84</td>
+      <td>9</td>
+      <td>2</td>
+      <td>
+1906&ndash;1912      </td>
+      <td class="surname-list">
+          Sperber (7),           Blum (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>86</td>
+      <td>7</td>
+      <td>4</td>
+      <td>
+1897&ndash;1905      </td>
+      <td class="surname-list">
+          Baumgarten (2),           Landau (2),           Reiss (2),           Leuchtag      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>88</td>
+      <td>5</td>
+      <td>1</td>
+      <td>
+1894&ndash;1913      </td>
+      <td class="surname-list">
+          List (5)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>90</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Leib      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>93</td>
+      <td>4</td>
+      <td>3</td>
+      <td>
+1909&ndash;1912      </td>
+      <td class="surname-list">
+          Wolf (2),           Unger,           Licht      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>101</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1894&ndash;1901      </td>
+      <td class="surname-list">
+          Siegfried,           Towel      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>102</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1898&ndash;1917      </td>
+      <td class="surname-list">
+          Littman,           Towel      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>105</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Bloch      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>107</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Siegfried      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>108</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1901
+      </td>
+      <td class="surname-list">
+          Klotz      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>111</td>
+      <td>21</td>
+      <td>8</td>
+      <td>
+1894&ndash;1910      </td>
+      <td class="surname-list">
+          Storch (7),           Beer (3),           Goldberg (3),           Kurz (3),           Feigenbaum (2),           Goldman,           Bodner,           Wrobel      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>112</td>
+      <td>5</td>
+      <td>1</td>
+      <td>
+1899&ndash;1905      </td>
+      <td class="surname-list">
+          Bloch (5)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>113</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Waldman      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>115</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1895&ndash;1907      </td>
+      <td class="surname-list">
+          Littman,           Furst      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>117</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1903
+      </td>
+      <td class="surname-list">
+          Schlenger      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>118</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1903
+      </td>
+      <td class="surname-list">
+          Rubel      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>119</td>
+      <td>9</td>
+      <td>2</td>
+      <td>
+1895&ndash;1914      </td>
+      <td class="surname-list">
+          Rubel (6),           Fisch (3)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>126</td>
+      <td>8</td>
+      <td>3</td>
+      <td>
+1894&ndash;1913      </td>
+      <td class="surname-list">
+          Handler (4),           Schonwetter (3),           Kunstler      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>128</td>
+      <td>13</td>
+      <td>2</td>
+      <td>
+1896&ndash;1913      </td>
+      <td class="surname-list">
+          Towel (11),           Bodner (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>129</td>
+      <td>5</td>
+      <td>3</td>
+      <td>
+1895&ndash;1913      </td>
+      <td class="surname-list">
+          Ungarischer (3),           Formal,           Siegfried      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>131</td>
+      <td>12</td>
+      <td>6</td>
+      <td>
+1894&ndash;1913      </td>
+      <td class="surname-list">
+          Korzennik (4),           Landau (2),           Rubel (2),           Bauernfreund (2),           Derschewitz,           Grun      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>132</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1899&ndash;1901      </td>
+      <td class="surname-list">
+          Bier (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>134</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1910
+      </td>
+      <td class="surname-list">
+          Fisch      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>137</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1894
+      </td>
+      <td class="surname-list">
+          Reicher      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>141</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1902
+      </td>
+      <td class="surname-list">
+          Schonwetter      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>142</td>
+      <td>9</td>
+      <td>1</td>
+      <td>
+1896&ndash;1908      </td>
+      <td class="surname-list">
+          Silberman (9)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>143</td>
+      <td>9</td>
+      <td>4</td>
+      <td>
+1906&ndash;1911      </td>
+      <td class="surname-list">
+          Kaufman (3),           Horowitz (2),           Klotz (2),           Bochner (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>144</td>
+      <td>4</td>
+      <td>2</td>
+      <td>
+1895&ndash;1898      </td>
+      <td class="surname-list">
+          Jolles (2),           Goldberg (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>145</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1904
+      </td>
+      <td class="surname-list">
+          Klotz      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>147</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Bloch      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>148</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1898
+      </td>
+      <td class="surname-list">
+          Schonwetter (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>149</td>
+      <td>336</td>
+      <td>127</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="surname-list">
+          Kornfeld (11),           Reiss (10),           Lobel (9),           Fichner (9),           Schlenger (9),           Schonwetter (8),           Sperber (8),           Konigsdorf (7),           Silberman (7),           Pencier (6),           Rubel (6),           Bloch (5),           Rauch (5),           Bein (5),           Schwarz (5),           Aron (5),           Baumgarten (5),           Fisch (5),           Schuss (5),           Klotz (4),           Siegfried (4),           Bodner (4),           List (4),           Guttstein (4),           Kichel (4),           Tager (4),           Goldberg (4),           Amsterdam (4),           Noth (4),           Licht (3),           Samul (3),           Ungarischer (3),           Littman (3),           Orner (3),           Bieder (3),           Guttenberg (3),           Roth (3),           Grunberger (3),           Singer (3),           Weintraub (3),           Schilloj (3),           Friedenbach (3),           Storch (3),           Blum (3),           Horowitz (3),           Steiner (3),           Kornreich (3),           Rozner (3),           Kaufman (3),           Beer (2),           Hoffman (2),           Faust (2),           Steinhorn (2),           Derschewitz (2),           Goldman (2),           Landau (2),           Panzer (2),           Rosenbaum (2),           Zahler (2),           Karpf (2),           Leuchtag (2),           Towel (2),           Meer (2),           Wolkenfeld (2),           Neuman (2),           Schonberg (2),           Scheier (2),           Sandberg (2),           Low (2),           Schindel (2),           Schneps (2),           Dembizer (2),           Ratz (2),           Bochner (2),           Unger (2),           Altholz (2),           Feigenbaum (2),           Piperberg,           Welisch,           Schild,           Gewurtz,           Kleinman,           Kunstler,           Grabkowicz,           Wolek,           Czopp,           Rowitz,           Schaller,           Zeughauser,           Druck,           Reicher,           Glassner,           Altman,           Bier,           Blumenberg,           Lehrman,           Tesser,           Kornblutt,           Silberberg,           Blatt,           Kurz,           Bergman,           Rufs,           Freiberger,           Burstin,           Brinbaum,           Furst,           Zeisler,           Dere,           Zeller,           Herman,           Braunheim,           Felsen,           Katz,           Schneerson,           Stierer,           Frommer,           Salpeter,           Feik,           Nechemje,           Wolf,           Bauernfreund,           Schonbach,           Leiman,           Sturm,           Scharf,           Alter      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>155</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Landau      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>156</td>
+      <td>8</td>
+      <td>3</td>
+      <td>
+1894&ndash;1914      </td>
+      <td class="surname-list">
+          Klotz (5),           Fichner (2),           Kaufman      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>159</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Shuster (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>162</td>
+      <td>8</td>
+      <td>4</td>
+      <td>
+1899&ndash;1917      </td>
+      <td class="surname-list">
+          Kaufman (3),           Wolkenfeld (2),           Thum (2),           Szkulisk      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>164</td>
+      <td>5</td>
+      <td>4</td>
+      <td>
+1897&ndash;1907      </td>
+      <td class="surname-list">
+          Fenechel (2),           Blumenberg,           Blatt,           Gewurtz      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>165</td>
+      <td>8</td>
+      <td>1</td>
+      <td>
+1899&ndash;1913      </td>
+      <td class="surname-list">
+          Siegfried (8)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>166</td>
+      <td>4</td>
+      <td>3</td>
+      <td>
+1904&ndash;1909      </td>
+      <td class="surname-list">
+          Noth (2),           Amsterdam,           Kornfeld      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>172</td>
+      <td>5</td>
+      <td>2</td>
+      <td>
+1904&ndash;1912      </td>
+      <td class="surname-list">
+          Noth (3),           Amsterdam (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>174</td>
+      <td>9</td>
+      <td>3</td>
+      <td>
+1907&ndash;1913      </td>
+      <td class="surname-list">
+          Kornreich (6),           Low (2),           Fisch      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>176</td>
+      <td>3</td>
+      <td>2</td>
+      <td>
+1906&ndash;1917      </td>
+      <td class="surname-list">
+          Reiss (2),           Panzer      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>180</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1905&ndash;1908      </td>
+      <td class="surname-list">
+          Schonwetter (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>191</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1903
+      </td>
+      <td class="surname-list">
+          Baria      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>192</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Noth      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>193</td>
+      <td>7</td>
+      <td>3</td>
+      <td>
+1908&ndash;1921      </td>
+      <td class="surname-list">
+          Horowitz (5),           Bochner,           Schlenger      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>194</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1898
+      </td>
+      <td class="surname-list">
+          Bloch (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>212</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1913&ndash;1916      </td>
+      <td class="surname-list">
+          Scheinbach (3)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>228</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Malz (2)      </td>
+    </tr>
+    <tr>
+      <td>Brzostek</td>
+      <td>1266</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Schonwetter      </td>
+    </tr>
+    <tr>
+      <td>Brzyska</td>
+      <td>237</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1933
+      </td>
+      <td class="surname-list">
+          Steinhorn      </td>
+    </tr>
+    <tr>
+      <td>Bukowa</td>
+      <td>13</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Diamant (2)      </td>
+    </tr>
+    <tr>
+      <td>Bukowa</td>
+      <td>19</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Offner      </td>
+    </tr>
+    <tr>
+      <td>Bukowa</td>
+      <td>75</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1912
+      </td>
+      <td class="surname-list">
+          Diamant (2)      </td>
+    </tr>
+    <tr>
+      <td>Bukowa</td>
+      <td>98</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1916
+      </td>
+      <td class="surname-list">
+          Diamant (2)      </td>
+    </tr>
+    <tr>
+      <td>Dabrowa Tarnowska</td>
+      <td>31</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Fenechel      </td>
+    </tr>
+    <tr>
+      <td>Gebiczyna</td>
+      <td>72</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1896&ndash;1908      </td>
+      <td class="surname-list">
+          Wolek (2)      </td>
+    </tr>
+    <tr>
+      <td>Gebiczyna</td>
+      <td>77</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1894
+      </td>
+      <td class="surname-list">
+          Piperberg      </td>
+    </tr>
+    <tr>
+      <td>Gebiczyna</td>
+      <td>79</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1898
+      </td>
+      <td class="surname-list">
+          Bodner      </td>
+    </tr>
+    <tr>
+      <td>Gebiczyna</td>
+      <td>95</td>
+      <td>7</td>
+      <td>2</td>
+      <td>
+1901&ndash;1907      </td>
+      <td class="surname-list">
+          Bodner (4),           Gastwirt (3)      </td>
+    </tr>
+    <tr>
+      <td>Globikowa</td>
+      <td>5</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1894&ndash;1897      </td>
+      <td class="surname-list">
+          Meer (3)      </td>
+    </tr>
+    <tr>
+      <td>Globikowa</td>
+      <td>10</td>
+      <td>6</td>
+      <td>1</td>
+      <td>
+1898&ndash;1903      </td>
+      <td class="surname-list">
+          Meer (6)      </td>
+    </tr>
+    <tr>
+      <td>Globikowa</td>
+      <td>100</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1902
+      </td>
+      <td class="surname-list">
+          Sperber      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>1</td>
+      <td>4</td>
+      <td>2</td>
+      <td>
+1900&ndash;1914      </td>
+      <td class="surname-list">
+          Schlenger (3),           Sandberg      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>5</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1902
+      </td>
+      <td class="surname-list">
+          Sandberg (2)      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>36</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Dintenfass      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>54</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Szydel      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>82</td>
+      <td>4</td>
+      <td>3</td>
+      <td>
+1901&ndash;1915      </td>
+      <td class="surname-list">
+          Kornreich (2),           Schindel,           Sperber      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>84</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1912
+      </td>
+      <td class="surname-list">
+          Fruhman (2)      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>99</td>
+      <td>7</td>
+      <td>2</td>
+      <td>
+1905&ndash;1914      </td>
+      <td class="surname-list">
+          Walter (5),           Sperber (2)      </td>
+    </tr>
+    <tr>
+      <td>Gorzejowa</td>
+      <td>100</td>
+      <td>10</td>
+      <td>4</td>
+      <td>
+1894&ndash;1902      </td>
+      <td class="surname-list">
+          Rothman (4),           Sperber (4),           Turk,           Freiberger      </td>
+    </tr>
+    <tr>
+      <td>Grudna Dolna</td>
+      <td>3</td>
+      <td>5</td>
+      <td>2</td>
+      <td>
+1894&ndash;1899      </td>
+      <td class="surname-list">
+          Rosenbaum (4),           Schlenger      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1899
+      </td>
+      <td class="surname-list">
+          Schlenger      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>5</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1903
+      </td>
+      <td class="surname-list">
+          Rozner      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>6</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1904
+      </td>
+      <td class="surname-list">
+          Rozner (2)      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>10</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1903
+      </td>
+      <td class="surname-list">
+          Meer      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>51</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Rozner (2)      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>56</td>
+      <td>11</td>
+      <td>2</td>
+      <td>
+1895&ndash;1915      </td>
+      <td class="surname-list">
+          Weintraub (9),           Freidman      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>70</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1905
+      </td>
+      <td class="surname-list">
+          Rosenbaum (2)      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>72</td>
+      <td>6</td>
+      <td>1</td>
+      <td>
+1895&ndash;1905      </td>
+      <td class="surname-list">
+          Weintraub (6)      </td>
+    </tr>
+    <tr>
+      <td>Grudna Gorna</td>
+      <td>90</td>
+      <td>6</td>
+      <td>1</td>
+      <td>
+1898&ndash;1903      </td>
+      <td class="surname-list">
+          Rosenbaum (6)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1899
+      </td>
+      <td class="surname-list">
+          Amsterdam (2)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>13</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Roth (2)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>16</td>
+      <td>15</td>
+      <td>3</td>
+      <td>
+1896&ndash;1913      </td>
+      <td class="surname-list">
+          Neuman (12),           Frommer,           Roth      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>23</td>
+      <td>8</td>
+      <td>1</td>
+      <td>
+1894&ndash;1898      </td>
+      <td class="surname-list">
+          Zeughauser (8)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>26</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Reiss      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>28</td>
+      <td>12</td>
+      <td>1</td>
+      <td>
+1901&ndash;1914      </td>
+      <td class="surname-list">
+          Lobel (12)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>38</td>
+      <td>4</td>
+      <td>1</td>
+      <td>
+1912&ndash;1915      </td>
+      <td class="surname-list">
+          Frommer (4)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>57</td>
+      <td>9</td>
+      <td>1</td>
+      <td>
+1898&ndash;1907      </td>
+      <td class="surname-list">
+          Schneps (9)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>58</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1909
+      </td>
+      <td class="surname-list">
+          Kirsch (2)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>66</td>
+      <td>4</td>
+      <td>1</td>
+      <td>
+1912&ndash;1914      </td>
+      <td class="surname-list">
+          Unger (4)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>77</td>
+      <td>4</td>
+      <td>2</td>
+      <td>
+1914&ndash;1917      </td>
+      <td class="surname-list">
+          Lobel (2),           Sturm (2)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>91</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1906
+      </td>
+      <td class="surname-list">
+          Sturm (2)      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>96</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1894
+      </td>
+      <td class="surname-list">
+          Reiss      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>97</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Lobel      </td>
+    </tr>
+    <tr>
+      <td>Januszkowice</td>
+      <td>113</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Waldman (3)      </td>
+    </tr>
+    <tr>
+      <td>Jaworze</td>
+      <td>376</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Druck      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Dolna</td>
+      <td>1</td>
+      <td>8</td>
+      <td>4</td>
+      <td>
+1894&ndash;1901      </td>
+      <td class="surname-list">
+          Rothman (3),           Turk (2),           Spett (2),           Dintenfass      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Dolna</td>
+      <td>12</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1913&ndash;1916      </td>
+      <td class="surname-list">
+          Weisman,           Schonwetter      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Dolna</td>
+      <td>23</td>
+      <td>4</td>
+      <td>1</td>
+      <td>
+1895&ndash;1898      </td>
+      <td class="surname-list">
+          Schonwetter (4)      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Dolna</td>
+      <td>56</td>
+      <td>7</td>
+      <td>2</td>
+      <td>
+1896&ndash;1930      </td>
+      <td class="surname-list">
+          Ritter (6),           Sperber      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Dolna</td>
+      <td>99</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1914
+      </td>
+      <td class="surname-list">
+          Sperber (2)      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Gorna</td>
+      <td>72</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1899
+      </td>
+      <td class="surname-list">
+          Herman      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Gorna</td>
+      <td>96</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1896&ndash;1901      </td>
+      <td class="surname-list">
+          Samul (3)      </td>
+    </tr>
+    <tr>
+      <td>Kamienica Gorna</td>
+      <td>120</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1895&ndash;1900      </td>
+      <td class="surname-list">
+          Kornfeld,           Samul      </td>
+    </tr>
+    <tr>
+      <td>Klecie</td>
+      <td>16</td>
+      <td>14</td>
+      <td>3</td>
+      <td>
+1894&ndash;1911      </td>
+      <td class="surname-list">
+          Tager (8),           Aron (5),           Katz      </td>
+    </tr>
+    <tr>
+      <td>Klecie</td>
+      <td>19</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Weitz (2)      </td>
+    </tr>
+    <tr>
+      <td>Klecie</td>
+      <td>55</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Roth      </td>
+    </tr>
+    <tr>
+      <td>Nawsie Brzosteckie</td>
+      <td>1</td>
+      <td>7</td>
+      <td>3</td>
+      <td>
+1904&ndash;1916      </td>
+      <td class="surname-list">
+          Thau (3),           Rozner (3),           Wurzel      </td>
+    </tr>
+    <tr>
+      <td>Nawsie Brzosteckie</td>
+      <td>31</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1912
+      </td>
+      <td class="surname-list">
+          Rowitz (3)      </td>
+    </tr>
+    <tr>
+      <td>Nawsie Brzosteckie</td>
+      <td>44</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1894&ndash;1900      </td>
+      <td class="surname-list">
+          Lehrman,           Noth      </td>
+    </tr>
+    <tr>
+      <td>Nawsie Brzosteckie</td>
+      <td>66</td>
+      <td>12</td>
+      <td>2</td>
+      <td>
+1896&ndash;1908      </td>
+      <td class="surname-list">
+          Rowitz (11),           Towel      </td>
+    </tr>
+    <tr>
+      <td>Nawsie Brzosteckie</td>
+      <td>93</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1895&ndash;1921      </td>
+      <td class="surname-list">
+          Langer (3)      </td>
+    </tr>
+    <tr>
+      <td>Nawsie Brzosteckie</td>
+      <td>195</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1914
+      </td>
+      <td class="surname-list">
+          Sperber (2)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>1</td>
+      <td>4</td>
+      <td>2</td>
+      <td>
+1900&ndash;1909      </td>
+      <td class="surname-list">
+          Kornblutt (3),           Rozner      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>11</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Schonbach      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>12</td>
+      <td>12</td>
+      <td>3</td>
+      <td>
+1894&ndash;1910      </td>
+      <td class="surname-list">
+          Bodner (10),           Landau,           Tager      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>13</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Salpeter      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>37</td>
+      <td>16</td>
+      <td>2</td>
+      <td>
+1897&ndash;1911      </td>
+      <td class="surname-list">
+          Reiss (14),           Roth (2)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>40</td>
+      <td>11</td>
+      <td>3</td>
+      <td>
+1894&ndash;1912      </td>
+      <td class="surname-list">
+          Beiles (4),           Unger (4),           Sturm (3)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>44</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Faust (2)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>66</td>
+      <td>3</td>
+      <td>2</td>
+      <td>
+1905&ndash;1908      </td>
+      <td class="surname-list">
+          Reich (2),           Unger      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>69</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Herman      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>70</td>
+      <td>4</td>
+      <td>1</td>
+      <td>
+1900&ndash;1902      </td>
+      <td class="surname-list">
+          Unger (4)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>72</td>
+      <td>12</td>
+      <td>1</td>
+      <td>
+1899&ndash;1913      </td>
+      <td class="surname-list">
+          Roth (12)      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>79</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1906
+      </td>
+      <td class="surname-list">
+          Ratz      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>84</td>
+      <td>5</td>
+      <td>3</td>
+      <td>
+1905&ndash;1911      </td>
+      <td class="surname-list">
+          Fisch (2),           Sturm (2),           Leiman      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>89</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1914
+      </td>
+      <td class="surname-list">
+          Herman      </td>
+    </tr>
+    <tr>
+      <td>Opacionka</td>
+      <td>131</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Bauernfreund      </td>
+    </tr>
+    <tr>
+      <td>Oswiecim</td>
+      <td>88</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Wolf      </td>
+    </tr>
+    <tr>
+      <td>Siedliska</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1909
+      </td>
+      <td class="surname-list">
+          Bein      </td>
+    </tr>
+    <tr>
+      <td>Siedliska</td>
+      <td>12</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Kornreich (2)      </td>
+    </tr>
+    <tr>
+      <td>Siedliska</td>
+      <td>48</td>
+      <td>4</td>
+      <td>2</td>
+      <td>
+1906&ndash;1915      </td>
+      <td class="surname-list">
+          Wrobel (2),           Birn (2)      </td>
+    </tr>
+    <tr>
+      <td>Siedliska</td>
+      <td>125</td>
+      <td>8</td>
+      <td>1</td>
+      <td>
+1895&ndash;1907      </td>
+      <td class="surname-list">
+          Bein (8)      </td>
+    </tr>
+    <tr>
+      <td>Siedliska</td>
+      <td>150</td>
+      <td>11</td>
+      <td>3</td>
+      <td>
+1901&ndash;1913      </td>
+      <td class="surname-list">
+          Sperber (4),           Kampf (4),           Dembizer (3)      </td>
+    </tr>
+    <tr>
+      <td>Skurowa</td>
+      <td>1</td>
+      <td>7</td>
+      <td>3</td>
+      <td>
+1895&ndash;1901      </td>
+      <td class="surname-list">
+          Guttstein (5),           Schaller,           Finder      </td>
+    </tr>
+    <tr>
+      <td>Skurowa</td>
+      <td>2</td>
+      <td>3</td>
+      <td>2</td>
+      <td>
+1904
+      </td>
+      <td class="surname-list">
+          Reimer (2),           Lederer      </td>
+    </tr>
+    <tr>
+      <td>Skurowa</td>
+      <td>3</td>
+      <td>10</td>
+      <td>1</td>
+      <td>
+1901&ndash;1916      </td>
+      <td class="surname-list">
+          Guttstein (10)      </td>
+    </tr>
+    <tr>
+      <td>Skurowa</td>
+      <td>4</td>
+      <td>4</td>
+      <td>1</td>
+      <td>
+1906&ndash;1909      </td>
+      <td class="surname-list">
+          Reimer (4)      </td>
+    </tr>
+    <tr>
+      <td>Smarzowa</td>
+      <td>15</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Goldfluss      </td>
+    </tr>
+    <tr>
+      <td>Wola Brzostecka</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Kornfeld      </td>
+    </tr>
+    <tr>
+      <td>Wola Brzostecka</td>
+      <td>4</td>
+      <td>5</td>
+      <td>2</td>
+      <td>
+1895&ndash;1901      </td>
+      <td class="surname-list">
+          Tesser (4),           Ezra      </td>
+    </tr>
+    <tr>
+      <td>Wola Brzostecka</td>
+      <td>35</td>
+      <td>7</td>
+      <td>1</td>
+      <td>
+1898&ndash;1909      </td>
+      <td class="surname-list">
+          Kornfeld (7)      </td>
+    </tr>
+    <tr>
+      <td>Wola Brzostecka</td>
+      <td>40</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1901
+      </td>
+      <td class="surname-list">
+          Tesser      </td>
+    </tr>
+    <tr>
+      <td>Wola Brzostecka</td>
+      <td>63</td>
+      <td>3</td>
+      <td>1</td>
+      <td>
+1897&ndash;1899      </td>
+      <td class="surname-list">
+          Samul (3)      </td>
+    </tr>
+    <tr>
+      <td>Zawadka Brzostecka</td>
+      <td>1</td>
+      <td>8</td>
+      <td>4</td>
+      <td>
+1897&ndash;1911      </td>
+      <td class="surname-list">
+          Schonwetter (5),           Krau,           Karpf,           Sandberg      </td>
+    </tr>
+    <tr>
+      <td>Zawadka Brzostecka</td>
+      <td>2</td>
+      <td>3</td>
+      <td>2</td>
+      <td>
+1897&ndash;1902      </td>
+      <td class="surname-list">
+          Karpf (2),           Schonwetter      </td>
+    </tr>
+    <tr>
+      <td>Zawadka Brzostecka</td>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>
+1896&ndash;1897      </td>
+      <td class="surname-list">
+          Dintenfass (2),           Turk      </td>
+    </tr>
+    <tr>
+      <td>Zawadka Brzostecka</td>
+      <td>23</td>
+      <td>6</td>
+      <td>3</td>
+      <td>
+1898&ndash;1905      </td>
+      <td class="surname-list">
+          Scheier (4),           Sandberg,           Schonwetter      </td>
+    </tr>
+    <tr>
+      <td>Zawadka Brzostecka</td>
+      <td>50</td>
+      <td>2</td>
+      <td>1</td>
+      <td>
+1894
+      </td>
+      <td class="surname-list">
+          Schonwetter (2)      </td>
+    </tr>
+    <tr>
+      <td>Zurawica near Jaroslaw</td>
+      <td>82</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Frommer      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="by-surname">Surnames &rarr; buildings</h2>
+<p>For each surname (alphabetical), every building it was associated
+with, ordered most frequent first.</p>
+<table class="bldg-table">
+  <thead>
+    <tr><th>Surname</th><th>Distinct buildings</th><th>Events</th>
+        <th>Years</th><th>Buildings</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Abraham</td>
+      <td>3</td>
+      <td>5</td>
+      <td>
+1896&ndash;1910      </td>
+      <td class="surname-list">
+          Brzostek 51 (2),           Brzostek 50 (2),           Brzostek 14      </td>
+    </tr>
+    <tr>
+      <td>Abrahamowicz</td>
+      <td>3</td>
+      <td>9</td>
+      <td>
+1894&ndash;1911      </td>
+      <td class="surname-list">
+          Blaszkowa 271 (5),           Blaszkowa 34 (3),           Blaszkowa 272      </td>
+    </tr>
+    <tr>
+      <td>Alter</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1916
+      </td>
+      <td class="surname-list">
+          Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Altholz</td>
+      <td>3</td>
+      <td>4</td>
+      <td>
+1910&ndash;1911      </td>
+      <td class="surname-list">
+          Brzostek 149 (2),           Blaszkowa 51,           Blaszkowa 83      </td>
+    </tr>
+    <tr>
+      <td>Altman</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1899
+      </td>
+      <td class="surname-list">
+          Brzostek 3,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Amsterdam</td>
+      <td>6</td>
+      <td>14</td>
+      <td>
+1899&ndash;1914      </td>
+      <td class="surname-list">
+          Brzostek 149 (4),           Brzostek 5 (3),           Januszkowice 1 (2),           Brzostek 172 (2),           Brzostek 47 (2),           Brzostek 166      </td>
+    </tr>
+    <tr>
+      <td>Aron</td>
+      <td>6</td>
+      <td>24</td>
+      <td>
+1897&ndash;1921      </td>
+      <td class="surname-list">
+          Brzostek 16 (6),           Klecie 16 (5),           Brzostek 149 (5),           Brzostek 6 (4),           Brzostek 10 (3),           Brzostek 11      </td>
+    </tr>
+    <tr>
+      <td>Baria</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1903
+      </td>
+      <td class="surname-list">
+          Brzostek 191      </td>
+    </tr>
+    <tr>
+      <td>Bauernfreund</td>
+      <td>3</td>
+      <td>4</td>
+      <td>
+1911&ndash;1913      </td>
+      <td class="surname-list">
+          Brzostek 131 (2),           Opacionka 131,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Baumgarten</td>
+      <td>8</td>
+      <td>19</td>
+      <td>
+1897&ndash;1921      </td>
+      <td class="surname-list">
+          Brzostek 149 (5),           Brzostek 52 (4),           Brzostek 50 (2),           Brzostek 86 (2),           Brzostek 47 (2),           Brzostek 45 (2),           Brzostek 51,           Brzostek 29      </td>
+    </tr>
+    <tr>
+      <td>Beer</td>
+      <td>2</td>
+      <td>5</td>
+      <td>
+1894&ndash;1897      </td>
+      <td class="surname-list">
+          Brzostek 111 (3),           Brzostek 149 (2)      </td>
+    </tr>
+    <tr>
+      <td>Beiles</td>
+      <td>1</td>
+      <td>4</td>
+      <td>
+1894&ndash;1898      </td>
+      <td class="surname-list">
+          Opacionka 40 (4)      </td>
+    </tr>
+    <tr>
+      <td>Bein</td>
+      <td>3</td>
+      <td>14</td>
+      <td>
+1895&ndash;1909      </td>
+      <td class="surname-list">
+          Siedliska 125 (8),           Brzostek 149 (5),           Siedliska 1      </td>
+    </tr>
+    <tr>
+      <td>Berger</td>
+      <td>2</td>
+      <td>4</td>
+      <td>
+1905&ndash;1916      </td>
+      <td class="surname-list">
+          Blaszkowa 1 (2),           Baczalka 17 (2)      </td>
+    </tr>
+    <tr>
+      <td>Bergman</td>
+      <td>4</td>
+      <td>17</td>
+      <td>
+1905&ndash;1915      </td>
+      <td class="surname-list">
+          Brzostek 3 (11),           Brzostek 79 (3),           Brzostek 31 (2),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Bieder</td>
+      <td>4</td>
+      <td>10</td>
+      <td>
+1896&ndash;1917      </td>
+      <td class="surname-list">
+          Brzostek 35 (4),           Brzostek 149 (3),           Brzostek 19 (2),           Brzostek 55      </td>
+    </tr>
+    <tr>
+      <td>Bier</td>
+      <td>2</td>
+      <td>3</td>
+      <td>
+1899&ndash;1901      </td>
+      <td class="surname-list">
+          Brzostek 132 (2),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Birn</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1906&ndash;1915      </td>
+      <td class="surname-list">
+          Siedliska 48 (2)      </td>
+    </tr>
+    <tr>
+      <td>Birnbaum</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1905
+      </td>
+      <td class="surname-list">
+          Brzostek 79      </td>
+    </tr>
+    <tr>
+      <td>Blatt</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1904
+      </td>
+      <td class="surname-list">
+          Brzostek 164,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Bloch</td>
+      <td>8</td>
+      <td>17</td>
+      <td>
+1876&ndash;1905      </td>
+      <td class="surname-list">
+          Brzostek 149 (5),           Brzostek 112 (5),           Brzostek 194 (2),           Brzostek 105,           Brzostek 20,           Brzostek 24,           Brzostek 147,           Brzostek 73      </td>
+    </tr>
+    <tr>
+      <td>Blum</td>
+      <td>4</td>
+      <td>15</td>
+      <td>
+1904&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 52 (5),           Brzostek 45 (5),           Brzostek 149 (3),           Brzostek 84 (2)      </td>
+    </tr>
+    <tr>
+      <td>Blumenberg</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1899
+      </td>
+      <td class="surname-list">
+          Brzostek 164,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Bochner</td>
+      <td>6</td>
+      <td>8</td>
+      <td>
+1899&ndash;1913      </td>
+      <td class="surname-list">
+          Brzostek 149 (2),           Brzostek 143 (2),           Brzostek 3,           Brzostek 193,           Brzostek 27,           Brzostek 47      </td>
+    </tr>
+    <tr>
+      <td>Bodner</td>
+      <td>6</td>
+      <td>22</td>
+      <td>
+1894&ndash;1910      </td>
+      <td class="surname-list">
+          Opacionka 12 (10),           Brzostek 149 (4),           Gebiczyna 95 (4),           Brzostek 128 (2),           Brzostek 111,           Gebiczyna 79      </td>
+    </tr>
+    <tr>
+      <td>Brand</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1914
+      </td>
+      <td class="surname-list">
+          Brzostek 19      </td>
+    </tr>
+    <tr>
+      <td>Braudsdorfer</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1900
+      </td>
+      <td class="surname-list">
+          Blaszkowa 149      </td>
+    </tr>
+    <tr>
+      <td>Braunheim</td>
+      <td>2</td>
+      <td>3</td>
+      <td>
+1909&ndash;1913      </td>
+      <td class="surname-list">
+          Brzostek 56 (2),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Brinbaum</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1906
+      </td>
+      <td class="surname-list">
+          Brzostek 19,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Burstin</td>
+      <td>2</td>
+      <td>5</td>
+      <td>
+1906&ndash;1909      </td>
+      <td class="surname-list">
+          Brzostek 51 (4),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Czopp</td>
+      <td>3</td>
+      <td>4</td>
+      <td>
+1894&ndash;1896      </td>
+      <td class="surname-list">
+          Brzostek 31 (2),           Brzostek 73,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Dembizer</td>
+      <td>2</td>
+      <td>5</td>
+      <td>
+1904&ndash;1910      </td>
+      <td class="surname-list">
+          Siedliska 150 (3),           Brzostek 149 (2)      </td>
+    </tr>
+    <tr>
+      <td>Dere</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1908
+      </td>
+      <td class="surname-list">
+          Brzostek 47,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Deresienscz</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1908
+      </td>
+      <td class="surname-list">
+          Brzostek 47      </td>
+    </tr>
+    <tr>
+      <td>Derschewitz</td>
+      <td>3</td>
+      <td>4</td>
+      <td>
+1894&ndash;1896      </td>
+      <td class="surname-list">
+          Brzostek 149 (2),           Brzostek 131,           Brzostek 2      </td>
+    </tr>
+    <tr>
+      <td>Diamant</td>
+      <td>3</td>
+      <td>6</td>
+      <td>
+1896&ndash;1916      </td>
+      <td class="surname-list">
+          Bukowa 13 (2),           Bukowa 75 (2),           Bukowa 98 (2)      </td>
+    </tr>
+    <tr>
+      <td>Dintenfass</td>
+      <td>6</td>
+      <td>10</td>
+      <td>
+1895&ndash;1905      </td>
+      <td class="surname-list">
+          Blaszkowa 51 (3),           Zawadka Brzostecka 3 (2),           Blaszkowa 59 (2),           Gorzejowa 36,           Kamienica Dolna 1,           Blaszkowa 23      </td>
+    </tr>
+    <tr>
+      <td>Dresiewicza</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Brzostek 45      </td>
+    </tr>
+    <tr>
+      <td>Druck</td>
+      <td>3</td>
+      <td>3</td>
+      <td>
+1897&ndash;1898      </td>
+      <td class="surname-list">
+          Brzostek 8,           Brzostek 149,           Jaworze 376      </td>
+    </tr>
+    <tr>
+      <td>Ezra</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1901
+      </td>
+      <td class="surname-list">
+          Wola Brzostecka 4      </td>
+    </tr>
+    <tr>
+      <td>Faust</td>
+      <td>4</td>
+      <td>6</td>
+      <td>
+1894&ndash;1899      </td>
+      <td class="surname-list">
+          Brzostek 149 (2),           Opacionka 44 (2),           Brzostek 16,           Brzostek 17      </td>
+    </tr>
+    <tr>
+      <td>Feigenbaum</td>
+      <td>4</td>
+      <td>9</td>
+      <td>
+1910&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 17 (3),           Brzostek 111 (2),           Brzostek 149 (2),           Brzostek 16 (2)      </td>
+    </tr>
+    <tr>
+      <td>Feik</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Blaszkowa 329,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Feil</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1914
+      </td>
+      <td class="surname-list">
+          Brzostek 28 (2)      </td>
+    </tr>
+    <tr>
+      <td>Felsen</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1909
+      </td>
+      <td class="surname-list">
+          Brzostek 1,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Fenechel</td>
+      <td>2</td>
+      <td>3</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Brzostek 164 (2),           Dabrowa Tarnowska 31      </td>
+    </tr>
+    <tr>
+      <td>Fichner</td>
+      <td>9</td>
+      <td>27</td>
+      <td>
+1894&ndash;1911      </td>
+      <td class="surname-list">
+          Brzostek 149 (9),           Blaszkowa 84 (8),           Brzostek 4 (3),           Brzostek 156 (2),           Blaszkowa 85,           Brzostek 20,           Brzostek 23,           Brzostek 47,           Blaszkowa 52      </td>
+    </tr>
+    <tr>
+      <td>Finberg</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1913
+      </td>
+      <td class="surname-list">
+          Brzostek 31 (2)      </td>
+    </tr>
+    <tr>
+      <td>Finder</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Skurowa 1      </td>
+    </tr>
+    <tr>
+      <td>Fisch</td>
+      <td>7</td>
+      <td>15</td>
+      <td>
+1899&ndash;1910      </td>
+      <td class="surname-list">
+          Brzostek 149 (5),           Brzostek 119 (3),           Opacionka 84 (2),           Brzostek 73 (2),           Brzostek 15,           Brzostek 174,           Brzostek 134      </td>
+    </tr>
+    <tr>
+      <td>Formal</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Brzostek 129      </td>
+    </tr>
+    <tr>
+      <td>Freiberger</td>
+      <td>3</td>
+      <td>3</td>
+      <td>
+1901&ndash;1906      </td>
+      <td class="surname-list">
+          Blaszkowa 330,           Brzostek 149,           Gorzejowa 100      </td>
+    </tr>
+    <tr>
+      <td>Freidman</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1899
+      </td>
+      <td class="surname-list">
+          Grudna Gorna 56      </td>
+    </tr>
+    <tr>
+      <td>Friedenbach</td>
+      <td>6</td>
+      <td>10</td>
+      <td>
+1898&ndash;1916      </td>
+      <td class="surname-list">
+          Baczalka 17 (3),           Brzostek 149 (3),           Baczalka 69,           Baczalka 37,           Brzostek 13,           Baczalka 3      </td>
+    </tr>
+    <tr>
+      <td>Frommer</td>
+      <td>5</td>
+      <td>9</td>
+      <td>
+1907&ndash;1915      </td>
+      <td class="surname-list">
+          Januszkowice 38 (4),           Brzostek 8 (2),           Januszkowice 16,           Brzostek 149,           Zurawica near Jaroslaw 82      </td>
+    </tr>
+    <tr>
+      <td>Fruhman</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1912
+      </td>
+      <td class="surname-list">
+          Gorzejowa 84 (2)      </td>
+    </tr>
+    <tr>
+      <td>Furst</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Brzostek 115,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Galizer</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Brzostek 69      </td>
+    </tr>
+    <tr>
+      <td>Gastwirt</td>
+      <td>1</td>
+      <td>3</td>
+      <td>
+1901&ndash;1904      </td>
+      <td class="surname-list">
+          Gebiczyna 95 (3)      </td>
+    </tr>
+    <tr>
+      <td>Gewurtz</td>
+      <td>3</td>
+      <td>3</td>
+      <td>
+1894&ndash;1907      </td>
+      <td class="surname-list">
+          Brzostek 73,           Brzostek 149,           Brzostek 164      </td>
+    </tr>
+    <tr>
+      <td>Glassner</td>
+      <td>5</td>
+      <td>6</td>
+      <td>
+1899&ndash;1917      </td>
+      <td class="surname-list">
+          Blaszkowa 22 (2),           Blaszkowa 149,           Brzostek 149,           Blaszkowa 142,           Blaszkowa 278      </td>
+    </tr>
+    <tr>
+      <td>Gluckman</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1912&ndash;1917      </td>
+      <td class="surname-list">
+          Blaszkowa 1 (2)      </td>
+    </tr>
+    <tr>
+      <td>Goldberg</td>
+      <td>4</td>
+      <td>10</td>
+      <td>
+1896&ndash;1901      </td>
+      <td class="surname-list">
+          Brzostek 149 (4),           Brzostek 111 (3),           Brzostek 144 (2),           Brzostek 37      </td>
+    </tr>
+    <tr>
+      <td>Goldfluss</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Smarzowa 15,           Brzostek 15      </td>
+    </tr>
+    <tr>
+      <td>Goldman</td>
+      <td>4</td>
+      <td>7</td>
+      <td>
+1894&ndash;1912      </td>
+      <td class="surname-list">
+          Brzostek 51 (3),           Brzostek 149 (2),           Brzostek 111,           Brzostek 54      </td>
+    </tr>
+    <tr>
+      <td>Grabkowicz</td>
+      <td>3</td>
+      <td>4</td>
+      <td>
+1896&ndash;1902      </td>
+      <td class="surname-list">
+          Brzostek 82 (2),           Brzostek 149,           Brzostek 2      </td>
+    </tr>
+    <tr>
+      <td>Gruber</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1925
+      </td>
+      <td class="surname-list">
+          Baczalka 40      </td>
+    </tr>
+    <tr>
+      <td>Grun</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1910
+      </td>
+      <td class="surname-list">
+          Brzostek 131      </td>
+    </tr>
+    <tr>
+      <td>Grunberger</td>
+      <td>4</td>
+      <td>15</td>
+      <td>
+1898&ndash;1915      </td>
+      <td class="surname-list">
+          Blaszkowa 3 (8),           Blaszkowa 146 (3),           Brzostek 149 (3),           Blaszkowa 15      </td>
+    </tr>
+    <tr>
+      <td>Guttenberg</td>
+      <td>3</td>
+      <td>7</td>
+      <td>
+1895&ndash;1901      </td>
+      <td class="surname-list">
+          Brzostek 149 (3),           Brzostek 73 (2),           Brzostek 13 (2)      </td>
+    </tr>
+    <tr>
+      <td>Guttstein</td>
+      <td>3</td>
+      <td>19</td>
+      <td>
+1895&ndash;1916      </td>
+      <td class="surname-list">
+          Skurowa 3 (10),           Skurowa 1 (5),           Brzostek 149 (4)      </td>
+    </tr>
+    <tr>
+      <td>Haber</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1906
+      </td>
+      <td class="surname-list">
+          Baczalka 40      </td>
+    </tr>
+    <tr>
+      <td>Handler</td>
+      <td>1</td>
+      <td>4</td>
+      <td>
+1908&ndash;1910      </td>
+      <td class="surname-list">
+          Brzostek 126 (4)      </td>
+    </tr>
+    <tr>
+      <td>Herman</td>
+      <td>6</td>
+      <td>8</td>
+      <td>
+1899&ndash;1914      </td>
+      <td class="surname-list">
+          Blaszkowa 312 (3),           Brzostek 149,           Kamienica Gorna 72,           Blaszkowa 27,           Opacionka 69,           Opacionka 89      </td>
+    </tr>
+    <tr>
+      <td>Hirsch</td>
+      <td>2</td>
+      <td>5</td>
+      <td>
+1896&ndash;1913      </td>
+      <td class="surname-list">
+          Brzostek 52 (4),           Brzostek 50      </td>
+    </tr>
+    <tr>
+      <td>Hoffman</td>
+      <td>3</td>
+      <td>6</td>
+      <td>
+1894&ndash;1898      </td>
+      <td class="surname-list">
+          Baczalka 1 (3),           Brzostek 149 (2),           Brzostek 1      </td>
+    </tr>
+    <tr>
+      <td>Horowitz</td>
+      <td>3</td>
+      <td>10</td>
+      <td>
+1906&ndash;1915      </td>
+      <td class="surname-list">
+          Brzostek 193 (5),           Brzostek 149 (3),           Brzostek 143 (2)      </td>
+    </tr>
+    <tr>
+      <td>Jolles</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Brzostek 144 (2)      </td>
+    </tr>
+    <tr>
+      <td>Kaller</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1902
+      </td>
+      <td class="surname-list">
+          Brzostek 81 (2)      </td>
+    </tr>
+    <tr>
+      <td>Kampf</td>
+      <td>1</td>
+      <td>4</td>
+      <td>
+1911&ndash;1913      </td>
+      <td class="surname-list">
+          Siedliska 150 (4)      </td>
+    </tr>
+    <tr>
+      <td>Karpf</td>
+      <td>3</td>
+      <td>5</td>
+      <td>
+1897&ndash;1898      </td>
+      <td class="surname-list">
+          Zawadka Brzostecka 2 (2),           Brzostek 149 (2),           Zawadka Brzostecka 1      </td>
+    </tr>
+    <tr>
+      <td>Katz</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1909
+      </td>
+      <td class="surname-list">
+          Klecie 16,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Kaufman</td>
+      <td>5</td>
+      <td>11</td>
+      <td>
+1910&ndash;1917      </td>
+      <td class="surname-list">
+          Brzostek 143 (3),           Brzostek 149 (3),           Brzostek 162 (3),           Brzostek 73,           Brzostek 156      </td>
+    </tr>
+    <tr>
+      <td>Kern</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1914
+      </td>
+      <td class="surname-list">
+          Brzostek 69      </td>
+    </tr>
+    <tr>
+      <td>Kichel</td>
+      <td>2</td>
+      <td>12</td>
+      <td>
+1895&ndash;1912      </td>
+      <td class="surname-list">
+          Brzostek 55 (8),           Brzostek 149 (4)      </td>
+    </tr>
+    <tr>
+      <td>Kirsch</td>
+      <td>2</td>
+      <td>3</td>
+      <td>
+1876&ndash;1909      </td>
+      <td class="surname-list">
+          Januszkowice 58 (2),           Brzostek 45      </td>
+    </tr>
+    <tr>
+      <td>Kleinman</td>
+      <td>3</td>
+      <td>3</td>
+      <td>
+1895&ndash;1897      </td>
+      <td class="surname-list">
+          Brzostek 3,           Brzostek 149,           Brzostek 74      </td>
+    </tr>
+    <tr>
+      <td>Klotz</td>
+      <td>5</td>
+      <td>13</td>
+      <td>
+1894&ndash;1906      </td>
+      <td class="surname-list">
+          Brzostek 156 (5),           Brzostek 149 (4),           Brzostek 143 (2),           Brzostek 108,           Brzostek 145      </td>
+    </tr>
+    <tr>
+      <td>Kolber</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1876
+      </td>
+      <td class="surname-list">
+          Brzostek 41      </td>
+    </tr>
+    <tr>
+      <td>Konigsdorf</td>
+      <td>2</td>
+      <td>20</td>
+      <td>
+1894&ndash;1911      </td>
+      <td class="surname-list">
+          Brzostek 58 (13),           Brzostek 149 (7)      </td>
+    </tr>
+    <tr>
+      <td>Korn</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Brzostek 73      </td>
+    </tr>
+    <tr>
+      <td>Kornblutt</td>
+      <td>2</td>
+      <td>4</td>
+      <td>
+1900&ndash;1902      </td>
+      <td class="surname-list">
+          Opacionka 1 (3),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Kornfeld</td>
+      <td>10</td>
+      <td>33</td>
+      <td>
+1876&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 149 (11),           Wola Brzostecka 35 (7),           Brzostek 46 (6),           Brzostek 64 (2),           Brzostek 7 (2),           Kamienica Gorna 120,           Brzostek 51,           Brzostek 166,           Wola Brzostecka 3,           Brzostek 69      </td>
+    </tr>
+    <tr>
+      <td>Kornreich</td>
+      <td>5</td>
+      <td>14</td>
+      <td>
+1876&ndash;1917      </td>
+      <td class="surname-list">
+          Brzostek 174 (6),           Brzostek 149 (3),           Gorzejowa 82 (2),           Siedliska 12 (2),           Brzostek 42      </td>
+    </tr>
+    <tr>
+      <td>Korzennik</td>
+      <td>2</td>
+      <td>5</td>
+      <td>
+1895&ndash;1921      </td>
+      <td class="surname-list">
+          Brzostek 131 (4),           Blaszkowa 85      </td>
+    </tr>
+    <tr>
+      <td>Krau</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Zawadka Brzostecka 1      </td>
+    </tr>
+    <tr>
+      <td>Kunstler</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Brzostek 126,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Kurz</td>
+      <td>3</td>
+      <td>8</td>
+      <td>
+1904&ndash;1908      </td>
+      <td class="surname-list">
+          Brzostek 14 (4),           Brzostek 111 (3),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Landau</td>
+      <td>5</td>
+      <td>8</td>
+      <td>
+1895&ndash;1908      </td>
+      <td class="surname-list">
+          Brzostek 149 (2),           Brzostek 86 (2),           Brzostek 131 (2),           Brzostek 155,           Opacionka 12      </td>
+    </tr>
+    <tr>
+      <td>Langer</td>
+      <td>1</td>
+      <td>3</td>
+      <td>
+1895&ndash;1921      </td>
+      <td class="surname-list">
+          Nawsie Brzosteckie 93 (3)      </td>
+    </tr>
+    <tr>
+      <td>Lederer</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1904
+      </td>
+      <td class="surname-list">
+          Skurowa 2      </td>
+    </tr>
+    <tr>
+      <td>Lehrman</td>
+      <td>3</td>
+      <td>3</td>
+      <td>
+1900&ndash;1912      </td>
+      <td class="surname-list">
+          Nawsie Brzosteckie 44,           Brzostek 149,           Brzostek 65      </td>
+    </tr>
+    <tr>
+      <td>Leib</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Brzostek 90      </td>
+    </tr>
+    <tr>
+      <td>Leiman</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Opacionka 84,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Leuchtag</td>
+      <td>3</td>
+      <td>8</td>
+      <td>
+1894&ndash;1898      </td>
+      <td class="surname-list">
+          Brzostek 44 (5),           Brzostek 149 (2),           Brzostek 86      </td>
+    </tr>
+    <tr>
+      <td>Licht</td>
+      <td>4</td>
+      <td>10</td>
+      <td>
+1876&ndash;1912      </td>
+      <td class="surname-list">
+          Brzostek 9 (3),           Brzostek 149 (3),           Brzostek 79 (3),           Brzostek 93      </td>
+    </tr>
+    <tr>
+      <td>List</td>
+      <td>2</td>
+      <td>9</td>
+      <td>
+1894&ndash;1913      </td>
+      <td class="surname-list">
+          Brzostek 88 (5),           Brzostek 149 (4)      </td>
+    </tr>
+    <tr>
+      <td>Littman</td>
+      <td>3</td>
+      <td>5</td>
+      <td>
+1895&ndash;1901      </td>
+      <td class="surname-list">
+          Brzostek 149 (3),           Brzostek 115,           Brzostek 102      </td>
+    </tr>
+    <tr>
+      <td>Lobel</td>
+      <td>6</td>
+      <td>32</td>
+      <td>
+1894&ndash;1914      </td>
+      <td class="surname-list">
+          Januszkowice 28 (12),           Brzostek 149 (9),           Brzostek 47 (4),           Brzostek 58 (4),           Januszkowice 77 (2),           Januszkowice 97      </td>
+    </tr>
+    <tr>
+      <td>Low</td>
+      <td>5</td>
+      <td>11</td>
+      <td>
+1902&ndash;1914      </td>
+      <td class="surname-list">
+          Brzostek 26 (4),           Brzostek 149 (2),           Brzostek 174 (2),           Brzostek 28 (2),           Brzostek 65      </td>
+    </tr>
+    <tr>
+      <td>Malz</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Brzostek 228 (2)      </td>
+    </tr>
+    <tr>
+      <td>Mass</td>
+      <td>2</td>
+      <td>4</td>
+      <td>
+1914&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 65 (2),           Brzostek 8 (2)      </td>
+    </tr>
+    <tr>
+      <td>Meer</td>
+      <td>4</td>
+      <td>12</td>
+      <td>
+1894&ndash;1903      </td>
+      <td class="surname-list">
+          Globikowa 10 (6),           Globikowa 5 (3),           Brzostek 149 (2),           Grudna Gorna 10      </td>
+    </tr>
+    <tr>
+      <td>Nechemje</td>
+      <td>4</td>
+      <td>5</td>
+      <td>
+1905&ndash;1917      </td>
+      <td class="surname-list">
+          Brzostek 31 (2),           Brzostek 9,           Brzostek 149,           Brzostek 3      </td>
+    </tr>
+    <tr>
+      <td>Neubart</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1904
+      </td>
+      <td class="surname-list">
+          Baczalka 40      </td>
+    </tr>
+    <tr>
+      <td>Neuman</td>
+      <td>3</td>
+      <td>15</td>
+      <td>
+1896&ndash;1913      </td>
+      <td class="surname-list">
+          Januszkowice 16 (12),           Brzostek 149 (2),           Brzostek 16      </td>
+    </tr>
+    <tr>
+      <td>Noth</td>
+      <td>6</td>
+      <td>12</td>
+      <td>
+1894&ndash;1912      </td>
+      <td class="surname-list">
+          Brzostek 149 (4),           Brzostek 172 (3),           Brzostek 166 (2),           Brzostek 72,           Brzostek 192,           Nawsie Brzosteckie 44      </td>
+    </tr>
+    <tr>
+      <td>Offner</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1895
+      </td>
+      <td class="surname-list">
+          Bukowa 19      </td>
+    </tr>
+    <tr>
+      <td>Orner</td>
+      <td>4</td>
+      <td>8</td>
+      <td>
+1876&ndash;1913      </td>
+      <td class="surname-list">
+          Brzostek 149 (3),           Brzostek 47 (3),           Brzostek 49,           Brzostek 45      </td>
+    </tr>
+    <tr>
+      <td>Panzer</td>
+      <td>8</td>
+      <td>21</td>
+      <td>
+1876&ndash;1921      </td>
+      <td class="surname-list">
+          Brzostek 65 (8),           Brzostek 8 (4),           Brzostek 149 (2),           Brzostek 72 (2),           Brzostek 75 (2),           Brzostek 5,           Brzostek 80,           Brzostek 176      </td>
+    </tr>
+    <tr>
+      <td>Pencier</td>
+      <td>5</td>
+      <td>21</td>
+      <td>
+1894&ndash;1911      </td>
+      <td class="surname-list">
+          Brzostek 42 (12),           Brzostek 149 (6),           Brzostek 16,           Brzostek 45,           Brzostek 44      </td>
+    </tr>
+    <tr>
+      <td>Piperberg</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1894
+      </td>
+      <td class="surname-list">
+          Gebiczyna 77,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Plattner</td>
+      <td>3</td>
+      <td>4</td>
+      <td>
+1896&ndash;1921      </td>
+      <td class="surname-list">
+          Brzostek 51 (2),           Brzostek 79,           Brzostek 56      </td>
+    </tr>
+    <tr>
+      <td>Ratz</td>
+      <td>4</td>
+      <td>6</td>
+      <td>
+1904&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 65 (2),           Brzostek 149 (2),           Opacionka 79,           Brzostek 31      </td>
+    </tr>
+    <tr>
+      <td>Rauch</td>
+      <td>5</td>
+      <td>14</td>
+      <td>
+1895&ndash;1909      </td>
+      <td class="surname-list">
+          Brzostek 149 (5),           Brzostek 44 (4),           Brzostek 31 (2),           Brzostek 69 (2),           Brzostek 73      </td>
+    </tr>
+    <tr>
+      <td>Reich</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1905
+      </td>
+      <td class="surname-list">
+          Opacionka 66 (2)      </td>
+    </tr>
+    <tr>
+      <td>Reicher</td>
+      <td>4</td>
+      <td>5</td>
+      <td>
+1894&ndash;1898      </td>
+      <td class="surname-list">
+          Brzostek 28 (2),           Brzostek 137,           Brzostek 27,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Reimer</td>
+      <td>2</td>
+      <td>6</td>
+      <td>
+1904&ndash;1909      </td>
+      <td class="surname-list">
+          Skurowa 4 (4),           Skurowa 2 (2)      </td>
+    </tr>
+    <tr>
+      <td>Rein</td>
+      <td>3</td>
+      <td>4</td>
+      <td>
+1876&ndash;1917      </td>
+      <td class="surname-list">
+          Brzostek 16 (2),           Brzostek 19,           Brzostek 73      </td>
+    </tr>
+    <tr>
+      <td>Reiss</td>
+      <td>9</td>
+      <td>37</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="surname-list">
+          Opacionka 37 (14),           Brzostek 149 (10),           Brzostek 13 (4),           Brzostek 176 (2),           Brzostek 86 (2),           Brzostek 1 (2),           Januszkowice 96,           Januszkowice 26,           Brzostek 17      </td>
+    </tr>
+    <tr>
+      <td>Rieger</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1907
+      </td>
+      <td class="surname-list">
+          Brzostek 47      </td>
+    </tr>
+    <tr>
+      <td>Riff</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Brzostek 35      </td>
+    </tr>
+    <tr>
+      <td>Ritter</td>
+      <td>1</td>
+      <td>6</td>
+      <td>
+1896&ndash;1901      </td>
+      <td class="surname-list">
+          Kamienica Dolna 56 (6)      </td>
+    </tr>
+    <tr>
+      <td>Rosenbaum</td>
+      <td>4</td>
+      <td>14</td>
+      <td>
+1894&ndash;1905      </td>
+      <td class="surname-list">
+          Grudna Gorna 90 (6),           Grudna Dolna 3 (4),           Brzostek 149 (2),           Grudna Gorna 70 (2)      </td>
+    </tr>
+    <tr>
+      <td>Roth</td>
+      <td>7</td>
+      <td>22</td>
+      <td>
+1895&ndash;1913      </td>
+      <td class="surname-list">
+          Opacionka 72 (12),           Brzostek 149 (3),           Januszkowice 13 (2),           Opacionka 37 (2),           Klecie 55,           Brzostek 72,           Januszkowice 16      </td>
+    </tr>
+    <tr>
+      <td>Rothman</td>
+      <td>2</td>
+      <td>7</td>
+      <td>
+1894&ndash;1901      </td>
+      <td class="surname-list">
+          Gorzejowa 100 (4),           Kamienica Dolna 1 (3)      </td>
+    </tr>
+    <tr>
+      <td>Rowitz</td>
+      <td>3</td>
+      <td>15</td>
+      <td>
+1896&ndash;1912      </td>
+      <td class="surname-list">
+          Nawsie Brzosteckie 66 (11),           Nawsie Brzosteckie 31 (3),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Rozner</td>
+      <td>6</td>
+      <td>12</td>
+      <td>
+1903&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 149 (3),           Nawsie Brzosteckie 1 (3),           Grudna Gorna 6 (2),           Grudna Gorna 51 (2),           Opacionka 1,           Grudna Gorna 5      </td>
+    </tr>
+    <tr>
+      <td>Rubel</td>
+      <td>7</td>
+      <td>27</td>
+      <td>
+1894&ndash;1923      </td>
+      <td class="surname-list">
+          Brzostek 1 (9),           Brzostek 149 (6),           Brzostek 119 (6),           Brzostek 131 (2),           Brzostek 30 (2),           Brzostek 17,           Brzostek 118      </td>
+    </tr>
+    <tr>
+      <td>Rufs</td>
+      <td>2</td>
+      <td>4</td>
+      <td>
+1904&ndash;1905      </td>
+      <td class="surname-list">
+          Brzostek 2 (3),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Salpeter</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Opacionka 13,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Samul</td>
+      <td>4</td>
+      <td>10</td>
+      <td>
+1894&ndash;1901      </td>
+      <td class="surname-list">
+          Brzostek 149 (3),           Kamienica Gorna 96 (3),           Wola Brzostecka 63 (3),           Kamienica Gorna 120      </td>
+    </tr>
+    <tr>
+      <td>Sandberg</td>
+      <td>5</td>
+      <td>7</td>
+      <td>
+1898&ndash;1904      </td>
+      <td class="surname-list">
+          Brzostek 149 (2),           Gorzejowa 5 (2),           Zawadka Brzostecka 23,           Gorzejowa 1,           Zawadka Brzostecka 1      </td>
+    </tr>
+    <tr>
+      <td>Schaller</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Skurowa 1,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Scharf</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1912
+      </td>
+      <td class="surname-list">
+          Brzostek 46,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Scheier</td>
+      <td>2</td>
+      <td>6</td>
+      <td>
+1900&ndash;1905      </td>
+      <td class="surname-list">
+          Zawadka Brzostecka 23 (4),           Brzostek 149 (2)      </td>
+    </tr>
+    <tr>
+      <td>Scheinbach</td>
+      <td>2</td>
+      <td>4</td>
+      <td>
+1913&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 212 (3),           Brzostek 52      </td>
+    </tr>
+    <tr>
+      <td>Schiff</td>
+      <td>1</td>
+      <td>4</td>
+      <td>
+1913&ndash;1921      </td>
+      <td class="surname-list">
+          Blaszkowa 1 (4)      </td>
+    </tr>
+    <tr>
+      <td>Schild</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1894
+      </td>
+      <td class="surname-list">
+          Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Schilloj</td>
+      <td>2</td>
+      <td>6</td>
+      <td>
+1900&ndash;1904      </td>
+      <td class="surname-list">
+          Brzostek 149 (3),           Brzostek 31 (3)      </td>
+    </tr>
+    <tr>
+      <td>Schindel</td>
+      <td>4</td>
+      <td>8</td>
+      <td>
+1901&ndash;1920      </td>
+      <td class="surname-list">
+          Baczalka 10 (4),           Brzostek 149 (2),           Gorzejowa 82,           Brzostek 40      </td>
+    </tr>
+    <tr>
+      <td>Schlenger</td>
+      <td>14</td>
+      <td>32</td>
+      <td>
+1895&ndash;1921      </td>
+      <td class="surname-list">
+          Brzostek 149 (9),           Brzostek 10 (4),           Brzostek 1 (3),           Brzostek 50 (3),           Gorzejowa 1 (3),           Brzostek 11 (2),           Grudna Dolna 3,           Grudna Gorna 3,           Brzostek 47,           Brzostek 30,           Brzostek 6,           Brzostek 4,           Brzostek 117,           Brzostek 193      </td>
+    </tr>
+    <tr>
+      <td>Schmaja</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Brzostek 82      </td>
+    </tr>
+    <tr>
+      <td>Schneerson</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1910
+      </td>
+      <td class="surname-list">
+          Brzostek 10,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Schneps</td>
+      <td>2</td>
+      <td>11</td>
+      <td>
+1898&ndash;1907      </td>
+      <td class="surname-list">
+          Januszkowice 57 (9),           Brzostek 149 (2)      </td>
+    </tr>
+    <tr>
+      <td>Schneyer</td>
+      <td>3</td>
+      <td>5</td>
+      <td>
+1914&ndash;1917      </td>
+      <td class="surname-list">
+          Blaszkowa 164 (2),           Blaszkowa 124 (2),           Blaszkowa 129      </td>
+    </tr>
+    <tr>
+      <td>Schonbach</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Opacionka 11,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Schonberg</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1899&ndash;1901      </td>
+      <td class="surname-list">
+          Brzostek 149 (2)      </td>
+    </tr>
+    <tr>
+      <td>Schonwetter</td>
+      <td>15</td>
+      <td>34</td>
+      <td>
+1894&ndash;1913      </td>
+      <td class="surname-list">
+          Brzostek 149 (8),           Zawadka Brzostecka 1 (5),           Kamienica Dolna 23 (4),           Brzostek 126 (3),           Zawadka Brzostecka 50 (2),           Brzostek 148 (2),           Brzostek 180 (2),           Brzostek 1266,           Brzostek 47,           Brzostek 20,           Brzostek 141,           Blaszkowa 1,           Zawadka Brzostecka 23,           Kamienica Dolna 12,           Zawadka Brzostecka 2      </td>
+    </tr>
+    <tr>
+      <td>Schuss</td>
+      <td>5</td>
+      <td>19</td>
+      <td>
+1899&ndash;1917      </td>
+      <td class="surname-list">
+          Brzostek 1 (8),           Brzostek 149 (5),           Brzostek 58 (4),           Brzostek 57,           Brzostek 61      </td>
+    </tr>
+    <tr>
+      <td>Schwarz</td>
+      <td>2</td>
+      <td>22</td>
+      <td>
+1897&ndash;1921      </td>
+      <td class="surname-list">
+          Brzostek 1 (17),           Brzostek 149 (5)      </td>
+    </tr>
+    <tr>
+      <td>Shuster</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1911
+      </td>
+      <td class="surname-list">
+          Brzostek 159 (2)      </td>
+    </tr>
+    <tr>
+      <td>Siegfried</td>
+      <td>6</td>
+      <td>16</td>
+      <td>
+1894&ndash;1913      </td>
+      <td class="surname-list">
+          Brzostek 165 (8),           Brzostek 149 (4),           Brzostek 101,           Brzostek 107,           Brzostek 51,           Brzostek 129      </td>
+    </tr>
+    <tr>
+      <td>Silberberg</td>
+      <td>3</td>
+      <td>9</td>
+      <td>
+1902&ndash;1915      </td>
+      <td class="surname-list">
+          Brzostek 73 (7),           Brzostek 149,           Brzostek 23      </td>
+    </tr>
+    <tr>
+      <td>Silberman</td>
+      <td>3</td>
+      <td>19</td>
+      <td>
+1895&ndash;1908      </td>
+      <td class="surname-list">
+          Brzostek 142 (9),           Brzostek 149 (7),           Brzostek 20 (3)      </td>
+    </tr>
+    <tr>
+      <td>Singer</td>
+      <td>2</td>
+      <td>11</td>
+      <td>
+1900&ndash;1906      </td>
+      <td class="surname-list">
+          Brzostek 52 (8),           Brzostek 149 (3)      </td>
+    </tr>
+    <tr>
+      <td>Sperber</td>
+      <td>11</td>
+      <td>34</td>
+      <td>
+1876&ndash;1930      </td>
+      <td class="surname-list">
+          Brzostek 149 (8),           Brzostek 84 (7),           Gorzejowa 100 (4),           Siedliska 150 (4),           Brzostek 52 (2),           Gorzejowa 99 (2),           Nawsie Brzosteckie 195 (2),           Kamienica Dolna 99 (2),           Globikowa 100,           Gorzejowa 82,           Kamienica Dolna 56      </td>
+    </tr>
+    <tr>
+      <td>Spett</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1897
+      </td>
+      <td class="surname-list">
+          Kamienica Dolna 1 (2)      </td>
+    </tr>
+    <tr>
+      <td>Steiner</td>
+      <td>2</td>
+      <td>12</td>
+      <td>
+1907&ndash;1914      </td>
+      <td class="surname-list">
+          Brzostek 52 (9),           Brzostek 149 (3)      </td>
+    </tr>
+    <tr>
+      <td>Steinhorn</td>
+      <td>6</td>
+      <td>14</td>
+      <td>
+1894&ndash;1933      </td>
+      <td class="surname-list">
+          Blaszkowa 166 (5),           Blaszkowa 156 (4),           Brzostek 149 (2),           Blaszkowa 227,           Blaszkowa 229,           Brzyska 237      </td>
+    </tr>
+    <tr>
+      <td>Stierer</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1910
+      </td>
+      <td class="surname-list">
+          Brzostek 52,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Storch</td>
+      <td>3</td>
+      <td>13</td>
+      <td>
+1876&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 111 (7),           Brzostek 52 (3),           Brzostek 149 (3)      </td>
+    </tr>
+    <tr>
+      <td>Sturm</td>
+      <td>6</td>
+      <td>11</td>
+      <td>
+1897&ndash;1917      </td>
+      <td class="surname-list">
+          Opacionka 40 (3),           Januszkowice 91 (2),           Opacionka 84 (2),           Januszkowice 77 (2),           Brzostek 149,           Brzostek 55      </td>
+    </tr>
+    <tr>
+      <td>Szkulisk</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1902
+      </td>
+      <td class="surname-list">
+          Brzostek 162      </td>
+    </tr>
+    <tr>
+      <td>Szydel</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Gorzejowa 54      </td>
+    </tr>
+    <tr>
+      <td>Tager</td>
+      <td>4</td>
+      <td>15</td>
+      <td>
+1894&ndash;1911      </td>
+      <td class="surname-list">
+          Klecie 16 (8),           Brzostek 149 (4),           Brzostek 52 (2),           Opacionka 12      </td>
+    </tr>
+    <tr>
+      <td>Teitelbaum</td>
+      <td>2</td>
+      <td>3</td>
+      <td>
+1911&ndash;1912      </td>
+      <td class="surname-list">
+          Brzostek 10 (2),           Brzostek 47      </td>
+    </tr>
+    <tr>
+      <td>Tesser</td>
+      <td>3</td>
+      <td>6</td>
+      <td>
+1895&ndash;1901      </td>
+      <td class="surname-list">
+          Wola Brzostecka 4 (4),           Wola Brzostecka 40,           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Thau</td>
+      <td>2</td>
+      <td>4</td>
+      <td>
+1904&ndash;1915      </td>
+      <td class="surname-list">
+          Nawsie Brzosteckie 1 (3),           Brzostek 35      </td>
+    </tr>
+    <tr>
+      <td>Thum</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1913&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 162 (2)      </td>
+    </tr>
+    <tr>
+      <td>Towel</td>
+      <td>6</td>
+      <td>17</td>
+      <td>
+1894&ndash;1917      </td>
+      <td class="surname-list">
+          Brzostek 128 (11),           Brzostek 149 (2),           Brzostek 51,           Nawsie Brzosteckie 66,           Brzostek 101,           Brzostek 102      </td>
+    </tr>
+    <tr>
+      <td>Turk</td>
+      <td>3</td>
+      <td>4</td>
+      <td>
+1894&ndash;1896      </td>
+      <td class="surname-list">
+          Kamienica Dolna 1 (2),           Gorzejowa 100,           Zawadka Brzostecka 3      </td>
+    </tr>
+    <tr>
+      <td>Ungarischer</td>
+      <td>2</td>
+      <td>6</td>
+      <td>
+1895&ndash;1900      </td>
+      <td class="surname-list">
+          Brzostek 129 (3),           Brzostek 149 (3)      </td>
+    </tr>
+    <tr>
+      <td>Unger</td>
+      <td>6</td>
+      <td>16</td>
+      <td>
+1899&ndash;1914      </td>
+      <td class="surname-list">
+          Opacionka 40 (4),           Opacionka 70 (4),           Januszkowice 66 (4),           Brzostek 149 (2),           Opacionka 66,           Brzostek 93      </td>
+    </tr>
+    <tr>
+      <td>Waldman</td>
+      <td>2</td>
+      <td>4</td>
+      <td>
+1917
+      </td>
+      <td class="surname-list">
+          Januszkowice 113 (3),           Brzostek 113      </td>
+    </tr>
+    <tr>
+      <td>Walter</td>
+      <td>2</td>
+      <td>6</td>
+      <td>
+1912&ndash;1921      </td>
+      <td class="surname-list">
+          Gorzejowa 99 (5),           Brzostek 1      </td>
+    </tr>
+    <tr>
+      <td>Weintraub</td>
+      <td>5</td>
+      <td>20</td>
+      <td>
+1895&ndash;1915      </td>
+      <td class="surname-list">
+          Grudna Gorna 56 (9),           Grudna Gorna 72 (6),           Brzostek 149 (3),           Brzostek 55,           Brzostek 82      </td>
+    </tr>
+    <tr>
+      <td>Weisman</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1916
+      </td>
+      <td class="surname-list">
+          Kamienica Dolna 12      </td>
+    </tr>
+    <tr>
+      <td>Weitz</td>
+      <td>1</td>
+      <td>2</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Klecie 19 (2)      </td>
+    </tr>
+    <tr>
+      <td>Welisch</td>
+      <td>2</td>
+      <td>2</td>
+      <td>
+1876&ndash;1894      </td>
+      <td class="surname-list">
+          Brzostek 149,           Brzostek 14      </td>
+    </tr>
+    <tr>
+      <td>Westreich</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1912
+      </td>
+      <td class="surname-list">
+          Baczalka 13      </td>
+    </tr>
+    <tr>
+      <td>Wetzler</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1876
+      </td>
+      <td class="surname-list">
+          Brzostek 58      </td>
+    </tr>
+    <tr>
+      <td>Wolek</td>
+      <td>2</td>
+      <td>3</td>
+      <td>
+1896&ndash;1908      </td>
+      <td class="surname-list">
+          Gebiczyna 72 (2),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Wolf</td>
+      <td>5</td>
+      <td>7</td>
+      <td>
+1907&ndash;1911      </td>
+      <td class="surname-list">
+          Brzostek 9 (2),           Brzostek 93 (2),           Baczalka 13,           Brzostek 149,           Oswiecim 88      </td>
+    </tr>
+    <tr>
+      <td>Wolkenfeld</td>
+      <td>3</td>
+      <td>6</td>
+      <td>
+1899&ndash;1916      </td>
+      <td class="surname-list">
+          Brzostek 162 (2),           Brzostek 149 (2),           Brzostek 11 (2)      </td>
+    </tr>
+    <tr>
+      <td>Wrobel</td>
+      <td>3</td>
+      <td>4</td>
+      <td>
+1876&ndash;1913      </td>
+      <td class="surname-list">
+          Siedliska 48 (2),           Brzostek 8,           Brzostek 111      </td>
+    </tr>
+    <tr>
+      <td>Wurst</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1896
+      </td>
+      <td class="surname-list">
+          Brzeziny 171      </td>
+    </tr>
+    <tr>
+      <td>Wurzel</td>
+      <td>1</td>
+      <td>1</td>
+      <td>
+1908
+      </td>
+      <td class="surname-list">
+          Nawsie Brzosteckie 1      </td>
+    </tr>
+    <tr>
+      <td>Zahler</td>
+      <td>7</td>
+      <td>10</td>
+      <td>
+1876&ndash;1907      </td>
+      <td class="surname-list">
+          Brzostek 149 (2),           Brzostek 14 (2),           Brzostek 19 (2),           Brzostek 1,           Brzostek 71,           Brzostek 47,           Brzostek 45      </td>
+    </tr>
+    <tr>
+      <td>Zeisler</td>
+      <td>2</td>
+      <td>4</td>
+      <td>
+1908
+      </td>
+      <td class="surname-list">
+          Brzostek 47 (3),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Zeller</td>
+      <td>2</td>
+      <td>10</td>
+      <td>
+1908&ndash;1917      </td>
+      <td class="surname-list">
+          Brzostek 52 (9),           Brzostek 149      </td>
+    </tr>
+    <tr>
+      <td>Zeughauser</td>
+      <td>3</td>
+      <td>10</td>
+      <td>
+1894&ndash;1898      </td>
+      <td class="surname-list">
+          Januszkowice 23 (8),           Brzostek 149,           Brzostek 23      </td>
+    </tr>
+  </tbody>
+</table>
+</main>
+
+<footer class="site-footer">
+  <p>Brzostek metrical books, 1894–1938. Static site, no tracking.
+  <a href="about.html">About this project</a>.</p>
+</footer>
+
+</body>
+</html>

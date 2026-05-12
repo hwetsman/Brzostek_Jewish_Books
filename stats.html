@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Statistics — Brzostek Records</title>
+<link rel="stylesheet" href="assets/site.css?v=b4d3e247e0">
+<script defer src="assets/config.js?v=b4d3e247e0"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
+<script defer src="assets/site.js?v=b4d3e247e0"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body data-depth="0" data-base="">
+<header class="site-header">
+  <div class="hdr-row">
+    <a class="site-title" href="index.html">Brzostek Jewish Records</a>
+    <nav class="site-nav">
+      <a href="browse/birth/index.html">Births</a>
+      <a href="browse/death/index.html">Deaths</a>
+      <a href="browse/marriage/index.html">Marriages</a>
+      <a href="surnames.html">Surnames</a>
+      <a href="buildings.html">Buildings</a>
+      <a href="map.html">Map</a>
+      <a href="stats.html">Stats</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+  <form class="search-form" role="search" onsubmit="return window.brzSearch && window.brzSearch.submit(event);">
+    <input id="search-box" type="search" name="q"
+           placeholder="Search people, surnames, records, IDs…"
+           autocomplete="off" aria-label="Search">
+    <button type="submit">Search</button>
+    <noscript><span class="search-disabled">JavaScript is required for search.</span></noscript>
+  </form>
+  <div id="search-results" class="search-results" hidden>
+    <div class="search-tabs">
+      <button data-tab="people" class="active">People <span id="ppl-count">0</span></button>
+      <button data-tab="records">Records <span id="rec-count">0</span></button>
+    </div>
+    <ol id="people-list"></ol>
+    <ol id="records-list" hidden></ol>
+  </div>
+</header>
+
+<main class="site-main">
+<h1>Statistics</h1>
+<table class="totals">
+  <tbody>
+    <tr><th>People (CONFIRMED)</th><td>2461</td></tr>
+    <tr><th>Birth records</th><td>723</td></tr>
+    <tr><th>Death records</th><td>445</td></tr>
+    <tr><th>Marriage records</th><td>279</td></tr>
+    <tr><th>Total records</th><td>1447</td></tr>
+  </tbody>
+</table>
+
+<h2>Records per year</h2>
+<canvas id="chart-births" width="800" height="280"></canvas>
+<canvas id="chart-deaths" width="800" height="280"></canvas>
+<canvas id="chart-marriages" width="800" height="280"></canvas>
+
+<h2>Top given names</h2>
+<canvas id="chart-given-male" width="800" height="320"></canvas>
+<canvas id="chart-given-female" width="800" height="320"></canvas>
+
+<h2>Causes &amp; demographics of death</h2>
+<p class="muted">
+  445 of 445 death
+  records have an adjudicated cause of death recorded
+  (97 distinct causes).
+  443 have an age recorded.
+</p>
+
+<canvas id="chart-cod" width="800" height="420"></canvas>
+<canvas id="chart-age" width="800" height="280"></canvas>
+<canvas id="chart-month" width="800" height="280"></canvas>
+
+<h3>Top causes of death by age cohort</h3>
+<div class="cohort-charts">
+  <canvas id="chart-cod-infant" width="380" height="260"></canvas>
+  <canvas id="chart-cod-child"  width="380" height="260"></canvas>
+  <canvas id="chart-cod-adult"  width="380" height="260"></canvas>
+  <canvas id="chart-cod-senior" width="380" height="260"></canvas>
+</div>
+
+<script id="stats-data" type="application/json">{"births_per_year": {"1876": 19, "1894": 35, "1895": 28, "1896": 41, "1897": 30, "1898": 40, "1899": 42, "1900": 31, "1901": 34, "1902": 33, "1903": 1, "1904": 37, "1905": 33, "1906": 29, "1907": 40, "1908": 30, "1909": 33, "1910": 27, "1911": 27, "1912": 33, "1913": 25, "1914": 24, "1915": 12, "1916": 21, "1917": 18}, "death_age_buckets": [["\u003c1 year", 93], ["1\u20134", 64], ["5\u201314", 28], ["15\u201329", 35], ["30\u201349", 37], ["50\u201364", 60], ["65+", 126]], "death_causes_by_cohort": {"Adult (15\u201364)": [["Tuberculosis", 26], ["Pneumonia", 22], ["Urinary Tract Infection", 7], ["Chronic Obstructive Pulmonary Disease", 7], ["Heart Disease", 6], ["Typhus", 4], ["Dysentery", 4], ["Encephalitis", 4]], "Child (1\u201314)": [["Pneumonia", 15], ["Scarlet Fever", 9], ["Dysentery", 8], ["Encephalitis", 6], ["Urinary Tract Infection", 5], ["Scarlet Fever and Diphtheria", 4], ["Throat infection", 3], ["Failure to Thrive", 3]], "Infant (\u003c1 year)": [["Pneumonia", 21], ["Failure to Thrive", 12], ["Stillborn", 11], ["Whooping Cough", 5], ["Dysentery", 5], ["Scarlet Fever", 4], ["Measles", 3], ["Sudden Infant Death Syndrome", 3]], "Senior (65+)": [["Old Age", 45], ["Pneumonia", 20], ["Tuberculosis", 8], ["Chronic Obstructive Pulmonary Disease", 7], ["Stroke-Unspecified", 7], ["Heart Disease", 6], ["Urinary Tract Infection", 5], ["Heart Attack", 2]]}, "death_totals": {"distinct_causes": 97, "with_age": 443, "with_cause": 445}, "deaths_by_month": [["Jan", 31], ["Feb", 45], ["Mar", 46], ["Apr", 40], ["May", 37], ["Jun", 30], ["Jul", 31], ["Aug", 27], ["Sep", 33], ["Oct", 40], ["Nov", 40], ["Dec", 42]], "deaths_per_year": {"1894": 15, "1895": 11, "1896": 13, "1897": 12, "1898": 9, "1899": 7, "1900": 18, "1901": 17, "1902": 16, "1903": 7, "1904": 14, "1905": 19, "1906": 10, "1907": 12, "1908": 14, "1909": 8, "1910": 10, "1911": 11, "1912": 12, "1913": 14, "1914": 14, "1915": 10, "1916": 18, "1917": 11, "1918": 9, "1919": 6, "1920": 10, "1921": 16, "1922": 12, "1923": 7, "1924": 6, "1925": 3, "1926": 8, "1927": 6, "1928": 1, "1929": 8, "1930": 4, "1931": 6, "1932": 13, "1933": 6, "1934": 4, "1935": 7, "1936": 3, "1938": 8}, "marriages_per_year": {"1894": 3, "1895": 2, "1896": 8, "1897": 5, "1898": 5, "1899": 5, "1900": 22, "1901": 20, "1902": 8, "1903": 7, "1904": 6, "1905": 5, "1906": 12, "1907": 11, "1908": 3, "1909": 2, "1910": 11, "1911": 6, "1912": 3, "1913": 7, "1914": 2, "1916": 6, "1917": 4, "1919": 8, "1920": 2, "1921": 4, "1922": 7, "1923": 3, "1924": 7, "1925": 7, "1926": 5, "1927": 9, "1928": 5, "1929": 5, "1930": 6, "1932": 8, "1933": 5, "1934": 8, "1935": 5, "1936": 5, "1937": 8, "1938": 9}, "top_causes_of_death": [["Pneumonia", 78], ["Old Age", 46], ["Tuberculosis", 38], ["Urinary Tract Infection", 18], ["Dysentery", 17], ["Failure to Thrive", 16], ["Scarlet Fever", 14], ["Chronic Obstructive Pulmonary Disease", 14], ["Stillborn", 13], ["Heart Disease", 13], ["Stroke-Unspecified", 11], ["Encephalitis", 11], ["Whooping Cough", 9], ["Measles", 6], ["Bronchitis", 6]], "top_given_names_female": [["Hannah", 72], ["Rivka", 71], ["Sarah", 59], ["Chaya", 47], ["Shayndel", 43], ["Feige", 41], ["Leah", 41], ["Gittla", 39], ["Esther", 39], ["Rachel", 39]], "top_given_names_male": [["Moses", 65], ["Hersch", 58], ["Joseph", 56], ["Leib", 49], ["Jacob", 46], ["Abraham", 45], ["David", 44], ["Isaac", 42], ["Mendel", 42], ["Samuel", 41]], "totals": {"births": 723, "deaths": 445, "marriages": 279, "persons": 2461, "records": 1447}}</script>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+  if (typeof Chart === 'undefined') return;
+  var stats = JSON.parse(document.getElementById('stats-data').textContent);
+  function yearChart(canvasId, byYear, label, color) {
+    var labels = Object.keys(byYear).sort();
+    var values = labels.map(function (k) { return byYear[k]; });
+    new Chart(document.getElementById(canvasId), {
+      type: 'bar',
+      data: { labels: labels, datasets: [{ label: label, data: values, backgroundColor: color }] },
+      options: { responsive: false, plugins: { title: { display: true, text: label } } }
+    });
+  }
+  yearChart('chart-births',    stats.births_per_year,    'Births per year',    '#5b8db8');
+  yearChart('chart-deaths',    stats.deaths_per_year,    'Deaths per year',    '#a26b6b');
+  yearChart('chart-marriages', stats.marriages_per_year, 'Marriages per year', '#7a9b6b');
+
+  function topChart(canvasId, list, label, color) {
+    var labels = list.map(function (e) { return e[0]; });
+    var values = list.map(function (e) { return e[1]; });
+    new Chart(document.getElementById(canvasId), {
+      type: 'bar',
+      data: { labels: labels, datasets: [{ label: label, data: values, backgroundColor: color }] },
+      options: { indexAxis: 'y', responsive: false,
+                 plugins: { title: { display: true, text: label } } }
+    });
+  }
+  topChart('chart-given-male',   stats.top_given_names_male,   'Top 10 male given names',   '#5b8db8');
+  topChart('chart-given-female', stats.top_given_names_female, 'Top 10 female given names', '#b8709b');
+
+  // --- Top 15 causes of death (horizontal bar) ---
+  topChart('chart-cod', stats.top_causes_of_death,
+           'Top 15 causes of death (adjudicated)', '#a26b6b');
+
+  // --- Age-at-death distribution (vertical bar) ---
+  function pairChart(canvasId, pairs, label, color, opts) {
+    var labels = pairs.map(function(e){ return e[0]; });
+    var values = pairs.map(function(e){ return e[1]; });
+    var cfg = { responsive: false, plugins: { title: { display: true, text: label } } };
+    if (opts) { for (var k in opts) cfg[k] = opts[k]; }
+    new Chart(document.getElementById(canvasId), {
+      type: 'bar',
+      data: { labels: labels, datasets: [{ label: label, data: values, backgroundColor: color }] },
+      options: cfg
+    });
+  }
+  pairChart('chart-age',   stats.death_age_buckets, 'Age at death', '#a26b6b');
+  pairChart('chart-month', stats.deaths_by_month,
+            'Deaths by month of the year (seasonality)', '#5b8db8');
+
+  // --- Cause of death by cohort (4 small horizontal bars) ---
+  var cohortColors = {
+    'Infant (<1 year)': '#a26b6b',
+    'Child (1–14)':     '#b8709b',
+    'Adult (15–64)':    '#7a9b6b',
+    'Senior (65+)':     '#5b8db8'
+  };
+  var cohortCanvases = {
+    'Infant (<1 year)': 'chart-cod-infant',
+    'Child (1–14)':     'chart-cod-child',
+    'Adult (15–64)':    'chart-cod-adult',
+    'Senior (65+)':     'chart-cod-senior'
+  };
+  Object.keys(cohortCanvases).forEach(function(label) {
+    var pairs = stats.death_causes_by_cohort[label] || [];
+    new Chart(document.getElementById(cohortCanvases[label]), {
+      type: 'bar',
+      data: { labels: pairs.map(function(e){return e[0];}),
+              datasets: [{ label: label, data: pairs.map(function(e){return e[1];}),
+                           backgroundColor: cohortColors[label] }] },
+      options: { indexAxis: 'y', responsive: false,
+                 plugins: { title: { display: true, text: label } } }
+    });
+  });
+});
+</script>
+</main>
+
+<footer class="site-footer">
+  <p>Brzostek metrical books, 1894–1938. Static site, no tracking.
+  <a href="about.html">About this project</a>.</p>
+</footer>
+
+</body>
+</html>

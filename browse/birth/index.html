@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Browse Birth records — Brzostek Records</title>
+<link rel="stylesheet" href="../../assets/site.css?v=b4d3e247e0">
+<script defer src="../../assets/config.js?v=b4d3e247e0"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
+<script defer src="../../assets/site.js?v=b4d3e247e0"></script>
+</head>
+<body data-depth="2" data-base="../../">
+<header class="site-header">
+  <div class="hdr-row">
+    <a class="site-title" href="../../index.html">Brzostek Jewish Records</a>
+    <nav class="site-nav">
+      <a href="../../browse/birth/index.html">Births</a>
+      <a href="../../browse/death/index.html">Deaths</a>
+      <a href="../../browse/marriage/index.html">Marriages</a>
+      <a href="../../surnames.html">Surnames</a>
+      <a href="../../buildings.html">Buildings</a>
+      <a href="../../map.html">Map</a>
+      <a href="../../stats.html">Stats</a>
+      <a href="../../about.html">About</a>
+    </nav>
+  </div>
+  <form class="search-form" role="search" onsubmit="return window.brzSearch && window.brzSearch.submit(event);">
+    <input id="search-box" type="search" name="q"
+           placeholder="Search people, surnames, records, IDs…"
+           autocomplete="off" aria-label="Search">
+    <button type="submit">Search</button>
+    <noscript><span class="search-disabled">JavaScript is required for search.</span></noscript>
+  </form>
+  <div id="search-results" class="search-results" hidden>
+    <div class="search-tabs">
+      <button data-tab="people" class="active">People <span id="ppl-count">0</span></button>
+      <button data-tab="records">Records <span id="rec-count">0</span></button>
+    </div>
+    <ol id="people-list"></ol>
+    <ol id="records-list" hidden></ol>
+  </div>
+</header>
+
+<main class="site-main">
+<h1>Browse Birth records</h1>
+<p>Choose a year to see all birth records from that year, in record-number order.</p>
+<table class="year-index">
+  <thead><tr><th>Year</th><th>Records</th></tr></thead>
+  <tbody>
+    <tr><td><a href="1876.html">1876</a></td><td>19</td></tr>
+    <tr><td><a href="1894.html">1894</a></td><td>35</td></tr>
+    <tr><td><a href="1895.html">1895</a></td><td>28</td></tr>
+    <tr><td><a href="1896.html">1896</a></td><td>41</td></tr>
+    <tr><td><a href="1897.html">1897</a></td><td>30</td></tr>
+    <tr><td><a href="1898.html">1898</a></td><td>40</td></tr>
+    <tr><td><a href="1899.html">1899</a></td><td>42</td></tr>
+    <tr><td><a href="1900.html">1900</a></td><td>31</td></tr>
+    <tr><td><a href="1901.html">1901</a></td><td>34</td></tr>
+    <tr><td><a href="1902.html">1902</a></td><td>33</td></tr>
+    <tr><td><a href="1903.html">1903</a></td><td>1</td></tr>
+    <tr><td><a href="1904.html">1904</a></td><td>37</td></tr>
+    <tr><td><a href="1905.html">1905</a></td><td>33</td></tr>
+    <tr><td><a href="1906.html">1906</a></td><td>29</td></tr>
+    <tr><td><a href="1907.html">1907</a></td><td>40</td></tr>
+    <tr><td><a href="1908.html">1908</a></td><td>30</td></tr>
+    <tr><td><a href="1909.html">1909</a></td><td>33</td></tr>
+    <tr><td><a href="1910.html">1910</a></td><td>27</td></tr>
+    <tr><td><a href="1911.html">1911</a></td><td>27</td></tr>
+    <tr><td><a href="1912.html">1912</a></td><td>33</td></tr>
+    <tr><td><a href="1913.html">1913</a></td><td>25</td></tr>
+    <tr><td><a href="1914.html">1914</a></td><td>24</td></tr>
+    <tr><td><a href="1915.html">1915</a></td><td>12</td></tr>
+    <tr><td><a href="1916.html">1916</a></td><td>21</td></tr>
+    <tr><td><a href="1917.html">1917</a></td><td>18</td></tr>
+  </tbody>
+</table>
+</main>
+
+<footer class="site-footer">
+  <p>Brzostek metrical books, 1894–1938. Static site, no tracking.
+  <a href="../../about.html">About this project</a>.</p>
+</footer>
+
+</body>
+</html>

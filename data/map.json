@@ -1,0 +1,9464 @@
+{
+ "pins": [
+  {
+   "town": "America",
+   "lat": 40.721487,
+   "lon": -73.982261,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1913,
+   "year_max": 1913,
+   "top_surnames": [
+    [
+     "Wrobel",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Babule",
+   "lat": 50.4,
+   "lon": 21.5333,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1910,
+   "year_max": 1910,
+   "top_surnames": [
+    [
+     "Guttstein",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used \"Ostrowie near Habula\" — Habula is misread of Babule (Gmina Padew Narodowa, B read as H). Ostrów is likely a small przysiółek attached to Padew or Babule that doesn't appear separately on standard maps; coords are Babule center."
+  },
+  {
+   "town": "Baczal Dolny",
+   "lat": 49.768385,
+   "lon": 21.379758,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1916,
+   "year_max": 1921,
+   "top_surnames": [
+    [
+     "Neubart",
+     2
+    ],
+    [
+     "Friedenbach",
+     1
+    ],
+    [
+     "Schneps",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 2,
+    "Bride birthplace": 1,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Baczalka",
+   "lat": 49.909137,
+   "lon": 21.48057,
+   "events": 33,
+   "buildings": 8,
+   "year_min": 1894,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Friedenbach",
+     10
+    ],
+    [
+     "Schindel",
+     8
+    ],
+    [
+     "Hoffman",
+     6
+    ],
+    [
+     "Berger",
+     4
+    ],
+    [
+     "Wolf",
+     1
+    ],
+    [
+     "Westreich",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 10,
+    "Naming": 4,
+    "Groom": 1,
+    "Death": 5,
+    "Father_Residence": 10,
+    "BF_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 14,
+    "death": 5,
+    "marriage_spouse": 1,
+    "remote_relative": 13
+   },
+   "top_buildings": [
+    {
+     "number": "17",
+     "events": 5,
+     "surnames": [
+      [
+       "Friedenbach",
+       3
+      ],
+      [
+       "Berger",
+       2
+      ]
+     ],
+     "year_min": 1899,
+     "year_max": 1916
+    },
+    {
+     "number": "10",
+     "events": 4,
+     "surnames": [
+      [
+       "Schindel",
+       4
+      ]
+     ],
+     "year_min": 1902,
+     "year_max": 1906
+    },
+    {
+     "number": "1",
+     "events": 3,
+     "surnames": [
+      [
+       "Hoffman",
+       3
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1898
+    },
+    {
+     "number": "40",
+     "events": 3,
+     "surnames": [
+      [
+       "Neubart",
+       1
+      ],
+      [
+       "Haber",
+       1
+      ],
+      [
+       "Gruber",
+       1
+      ]
+     ],
+     "year_min": 1904,
+     "year_max": 1925
+    },
+    {
+     "number": "13",
+     "events": 2,
+     "surnames": [
+      [
+       "Wolf",
+       1
+      ],
+      [
+       "Westreich",
+       1
+      ]
+     ],
+     "year_min": 1911,
+     "year_max": 1912
+    },
+    {
+     "number": "3",
+     "events": 1,
+     "surnames": [
+      [
+       "Friedenbach",
+       1
+      ]
+     ],
+     "year_min": 1898,
+     "year_max": 1898
+    },
+    {
+     "number": "37",
+     "events": 1,
+     "surnames": [
+      [
+       "Friedenbach",
+       1
+      ]
+     ],
+     "year_min": 1904,
+     "year_max": 1904
+    },
+    {
+     "number": "69",
+     "events": 1,
+     "surnames": [
+      [
+       "Friedenbach",
+       1
+      ]
+     ],
+     "year_min": 1901,
+     "year_max": 1901
+    }
+   ],
+   "town_only_events": 13,
+   "notes": "Bączalka, ~7 km NE of Brzostek"
+  },
+  {
+   "town": "Baranivtsi",
+   "lat": 49.621059,
+   "lon": 23.170494,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1924,
+   "year_max": 1924,
+   "top_surnames": [
+    [
+     "Bierman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Modern Ukrainian; was misread 'Baranowka near Sanbor' on m-1924-4"
+  },
+  {
+   "town": "Baranow",
+   "lat": 50.482708,
+   "lon": 21.534023,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1929,
+   "year_max": 1929,
+   "top_surnames": [
+    [
+     "Nusbaum",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was misread 'Bazanowka' on m-1929-1"
+  },
+  {
+   "town": "Bardejov (Hungary)",
+   "lat": 49.291988,
+   "lon": 21.275561,
+   "events": 5,
+   "buildings": 0,
+   "year_min": 1899,
+   "year_max": 1906,
+   "top_surnames": [
+    [
+     "Unger",
+     4
+    ],
+    [
+     "Schlenger",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 4,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 4
+   },
+   "top_buildings": [],
+   "town_only_events": 5,
+   "notes": "Slovak town (Bardejov), historically Hungarian"
+  },
+  {
+   "town": "Belzec",
+   "lat": 50.384226,
+   "lon": 23.438318,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1916,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Shuster",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Biecz",
+   "lat": 49.732888,
+   "lon": 21.262579,
+   "events": 14,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Kichel",
+     7
+    ],
+    [
+     "Sturm",
+     2
+    ],
+    [
+     "Plattner",
+     2
+    ],
+    [
+     "Wrobel",
+     1
+    ],
+    [
+     "Kolber",
+     1
+    ],
+    [
+     "Kleinman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 6,
+    "MGM_Residence": 1,
+    "Bride birthplace": 1,
+    "BF_Residence": 1,
+    "Groom birthplace": 3,
+    "GF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 4,
+    "remote_relative": 10
+   },
+   "top_buildings": [],
+   "town_only_events": 14,
+   "notes": ""
+  },
+  {
+   "town": "Bistuszowa near Ryglice",
+   "lat": 49.884874,
+   "lon": 21.093868,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1902,
+   "year_max": 1902,
+   "top_surnames": [
+    [
+     "Hirsch",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Blaszkowa",
+   "lat": 49.85038,
+   "lon": 21.368913,
+   "events": 186,
+   "buildings": 29,
+   "year_min": 1894,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Grunberger",
+     26
+    ],
+    [
+     "Fichner",
+     25
+    ],
+    [
+     "Steinhorn",
+     19
+    ],
+    [
+     "Abrahamowicz",
+     15
+    ],
+    [
+     "Dintenfass",
+     11
+    ],
+    [
+     "Herman",
+     11
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 40,
+    "Naming": 19,
+    "Death": 18,
+    "Bride": 1,
+    "MGF_Residence": 37,
+    "Father_Residence": 40,
+    "MGM_Residence": 4,
+    "Bride birthplace": 8,
+    "BF_Residence": 13,
+    "Groom birthplace": 2,
+    "GF_Residence": 4
+   },
+   "categories": {
+    "birth_naming": 59,
+    "death": 18,
+    "marriage_spouse": 11,
+    "remote_relative": 98
+   },
+   "top_buildings": [
+    {
+     "number": "1",
+     "events": 9,
+     "surnames": [
+      [
+       "Schiff",
+       4
+      ],
+      [
+       "Berger",
+       2
+      ],
+      [
+       "Gluckman",
+       2
+      ],
+      [
+       "Schonwetter",
+       1
+      ]
+     ],
+     "year_min": 1905,
+     "year_max": 1921
+    },
+    {
+     "number": "3",
+     "events": 8,
+     "surnames": [
+      [
+       "Grunberger",
+       8
+      ]
+     ],
+     "year_min": 1906,
+     "year_max": 1915
+    },
+    {
+     "number": "84",
+     "events": 8,
+     "surnames": [
+      [
+       "Fichner",
+       8
+      ]
+     ],
+     "year_min": 1901,
+     "year_max": 1908
+    },
+    {
+     "number": "271",
+     "events": 6,
+     "surnames": [
+      [
+       "Abrahamowicz",
+       5
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1905
+    },
+    {
+     "number": "166",
+     "events": 5,
+     "surnames": [
+      [
+       "Steinhorn",
+       5
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1898
+    },
+    {
+     "number": "51",
+     "events": 4,
+     "surnames": [
+      [
+       "Dintenfass",
+       3
+      ],
+      [
+       "Altholz",
+       1
+      ]
+     ],
+     "year_min": 1900,
+     "year_max": 1910
+    },
+    {
+     "number": "156",
+     "events": 4,
+     "surnames": [
+      [
+       "Steinhorn",
+       4
+      ]
+     ],
+     "year_min": 1899,
+     "year_max": 1902
+    },
+    {
+     "number": "34",
+     "events": 3,
+     "surnames": [
+      [
+       "Abrahamowicz",
+       3
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1895
+    }
+   ],
+   "town_only_events": 108,
+   "notes": ""
+  },
+  {
+   "town": "Bobowa",
+   "lat": 49.708102,
+   "lon": 20.942792,
+   "events": 6,
+   "buildings": 0,
+   "year_min": 1899,
+   "year_max": 1926,
+   "top_surnames": [
+    [
+     "Zehnwirth",
+     2
+    ],
+    [
+     "Bauernfreund",
+     2
+    ],
+    [
+     "Wolkenfeld",
+     1
+    ],
+    [
+     "Gottlieb",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "Bride birthplace": 1,
+    "BF_Residence": 1,
+    "Groom birthplace": 2,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 6,
+   "notes": ""
+  },
+  {
+   "town": "Bochnia",
+   "lat": 49.967438,
+   "lon": 20.428253,
+   "events": 6,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1934,
+   "top_surnames": [
+    [
+     "Storch",
+     2
+    ],
+    [
+     "Stern",
+     2
+    ],
+    [
+     "Faust",
+     1
+    ],
+    [
+     "Horowitz",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "MGM_Residence": 2,
+    "Groom birthplace": 2,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 4
+   },
+   "top_buildings": [],
+   "town_only_events": 6,
+   "notes": ""
+  },
+  {
+   "town": "Bogumilowice",
+   "lat": 50.007646,
+   "lon": 20.868928,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1902,
+   "top_surnames": [
+    [
+     "Kornblutt",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Brzesko",
+   "lat": 49.969893,
+   "lon": 20.606672,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Glassner",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "MGM_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Brzeziny",
+   "lat": 49.9611,
+   "lon": 21.54,
+   "events": 27,
+   "buildings": 1,
+   "year_min": 1895,
+   "year_max": 1927,
+   "top_surnames": [
+    [
+     "Bein",
+     7
+    ],
+    [
+     "Berger",
+     5
+    ],
+    [
+     "Tesser",
+     4
+    ],
+    [
+     "Wurst",
+     3
+    ],
+    [
+     "Weintraub",
+     3
+    ],
+    [
+     "List",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "Groom": 1,
+    "MGF_Residence": 14,
+    "Groom birthplace": 3,
+    "GF_Residence": 3,
+    "Bride birthplace": 4,
+    "BF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 8,
+    "remote_relative": 19
+   },
+   "top_buildings": [
+    {
+     "number": "171",
+     "events": 1,
+     "surnames": [
+      [
+       "Wurst",
+       1
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1896
+    }
+   ],
+   "town_only_events": 26,
+   "notes": "Editorial note: coords updated from 51.80,19.75 (Łódź Voivodeship Brzeziny — wrong) to 49.9611,21.5400 (Brzeziny sołectwo of Gmina Wielopole Skrzyńskie, Ropczyce-Sędziszów County). All corpus 'Brzeziny' references (Berger, List, Tesser families; 'Brzeziny ad Ropczyce') belong to this Wielopole-area sołectwo, not the famous Łódź town. 16th-century wooden parish church of St. Nicholas. Source readings 'Brzezikach' (locative case) also normalized to 'Brzeziny' in source rows."
+  },
+  {
+   "town": "Brzeznica",
+   "lat": 50.101212,
+   "lon": 21.483109,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1921,
+   "top_surnames": [
+    [
+     "Berger",
+     2
+    ],
+    [
+     "Goldfluss",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Brzostek",
+   "lat": 49.880454,
+   "lon": 21.409835,
+   "events": 1837,
+   "buildings": 107,
+   "year_min": 1876,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Rubel",
+     51
+    ],
+    [
+     "Schlenger",
+     48
+    ],
+    [
+     "Schwarz",
+     46
+    ],
+    [
+     "Kornfeld",
+     42
+    ],
+    [
+     "Bergman",
+     41
+    ],
+    [
+     "Baumgarten",
+     40
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 380,
+    "Naming": 474,
+    "Death": 129,
+    "Bride": 3,
+    "Groom": 5,
+    "Father_Residence": 388,
+    "MGF_Residence": 191,
+    "MGM_Residence": 8,
+    "Mother_Residence": 5,
+    "Bride birthplace": 68,
+    "BF_Residence": 111,
+    "Groom birthplace": 31,
+    "GF_Residence": 44
+   },
+   "categories": {
+    "birth_naming": 854,
+    "death": 129,
+    "marriage_spouse": 107,
+    "remote_relative": 747
+   },
+   "top_buildings": [
+    {
+     "number": "149",
+     "events": 336,
+     "surnames": [
+      [
+       "Kornfeld",
+       11
+      ],
+      [
+       "Reiss",
+       10
+      ],
+      [
+       "Lobel",
+       9
+      ],
+      [
+       "Fichner",
+       9
+      ],
+      [
+       "Schlenger",
+       9
+      ],
+      [
+       "Schonwetter",
+       8
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1917
+    },
+    {
+     "number": "52",
+     "events": 48,
+     "surnames": [
+      [
+       "Steiner",
+       9
+      ],
+      [
+       "Zeller",
+       9
+      ],
+      [
+       "Singer",
+       8
+      ],
+      [
+       "Blum",
+       5
+      ],
+      [
+       "Baumgarten",
+       4
+      ],
+      [
+       "Hirsch",
+       4
+      ]
+     ],
+     "year_min": 1876,
+     "year_max": 1921
+    },
+    {
+     "number": "1",
+     "events": 43,
+     "surnames": [
+      [
+       "Schwarz",
+       17
+      ],
+      [
+       "Rubel",
+       9
+      ],
+      [
+       "Schuss",
+       8
+      ],
+      [
+       "Schlenger",
+       3
+      ],
+      [
+       "Reiss",
+       2
+      ],
+      [
+       "Zahler",
+       1
+      ]
+     ],
+     "year_min": 1876,
+     "year_max": 1923
+    },
+    {
+     "number": "47",
+     "events": 24,
+     "surnames": [
+      [
+       "Lobel",
+       4
+      ],
+      [
+       "Orner",
+       3
+      ],
+      [
+       "Zeisler",
+       3
+      ],
+      [
+       "Baumgarten",
+       2
+      ],
+      [
+       "Amsterdam",
+       2
+      ],
+      [
+       "Schonwetter",
+       1
+      ]
+     ],
+     "year_min": 1876,
+     "year_max": 1914
+    },
+    {
+     "number": "58",
+     "events": 22,
+     "surnames": [
+      [
+       "Konigsdorf",
+       13
+      ],
+      [
+       "Lobel",
+       4
+      ],
+      [
+       "Schuss",
+       4
+      ],
+      [
+       "Wetzler",
+       1
+      ]
+     ],
+     "year_min": 1876,
+     "year_max": 1917
+    },
+    {
+     "number": "111",
+     "events": 21,
+     "surnames": [
+      [
+       "Storch",
+       7
+      ],
+      [
+       "Beer",
+       3
+      ],
+      [
+       "Goldberg",
+       3
+      ],
+      [
+       "Kurz",
+       3
+      ],
+      [
+       "Feigenbaum",
+       2
+      ],
+      [
+       "Goldman",
+       1
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1910
+    },
+    {
+     "number": "73",
+     "events": 18,
+     "surnames": [
+      [
+       "Silberberg",
+       7
+      ],
+      [
+       "Guttenberg",
+       2
+      ],
+      [
+       "Fisch",
+       2
+      ],
+      [
+       "Gewurtz",
+       1
+      ],
+      [
+       "Rauch",
+       1
+      ],
+      [
+       "Czopp",
+       1
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1917
+    },
+    {
+     "number": "3",
+     "events": 15,
+     "surnames": [
+      [
+       "Bergman",
+       11
+      ],
+      [
+       "Kleinman",
+       1
+      ],
+      [
+       "Altman",
+       1
+      ],
+      [
+       "Bochner",
+       1
+      ],
+      [
+       "Nechemje",
+       1
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1914
+    }
+   ],
+   "town_only_events": 846,
+   "notes": "Town center"
+  },
+  {
+   "town": "Brzozow",
+   "lat": 49.6943,
+   "lon": 22.0194,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1919,
+   "year_max": 1929,
+   "top_surnames": [
+    [
+     "Ratz",
+     1
+    ],
+    [
+     "Parnes",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Brzyscie",
+   "lat": 49.715814,
+   "lon": 21.437417,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Strumpf",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Brzyscie near Mielec",
+   "lat": 50.372305,
+   "lon": 21.400918,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1902,
+   "top_surnames": [
+    [
+     "Schilloj",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Distinct from existing 'Brzyscie' (Pilzno-area, 49.71°N) — this is the Mielec-area Brzyscie at 50.37°N. Disambiguated name to avoid coord conflict."
+  },
+  {
+   "town": "Brzyska",
+   "lat": 49.821732,
+   "lon": 21.394105,
+   "events": 1,
+   "buildings": 1,
+   "year_min": 1933,
+   "year_max": 1933,
+   "top_surnames": [
+    [
+     "Steinhorn",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Death": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 1,
+    "marriage_spouse": 0,
+    "remote_relative": 0
+   },
+   "top_buildings": [
+    {
+     "number": "237",
+     "events": 1,
+     "surnames": [
+      [
+       "Steinhorn",
+       1
+      ]
+     ],
+     "year_min": 1933,
+     "year_max": 1933
+    }
+   ],
+   "town_only_events": 0,
+   "notes": ""
+  },
+  {
+   "town": "Brzyszczki",
+   "lat": 49.75986,
+   "lon": 21.508413,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1936,
+   "year_max": 1936,
+   "top_surnames": [
+    [
+     "Springer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Brzyszczki near Jaslo' on m-1936-3"
+  },
+  {
+   "town": "Bukowa",
+   "lat": 49.840154,
+   "lon": 21.41072,
+   "events": 21,
+   "buildings": 4,
+   "year_min": 1895,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Diamant",
+     13
+    ],
+    [
+     "Offner",
+     7
+    ],
+    [
+     "Baum",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 3,
+    "Naming": 3,
+    "Groom": 1,
+    "Father_Residence": 3,
+    "MGF_Residence": 3,
+    "Groom birthplace": 3,
+    "GF_Residence": 4,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 6,
+    "death": 0,
+    "marriage_spouse": 4,
+    "remote_relative": 11
+   },
+   "top_buildings": [
+    {
+     "number": "13",
+     "events": 2,
+     "surnames": [
+      [
+       "Diamant",
+       2
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1896
+    },
+    {
+     "number": "75",
+     "events": 2,
+     "surnames": [
+      [
+       "Diamant",
+       2
+      ]
+     ],
+     "year_min": 1912,
+     "year_max": 1912
+    },
+    {
+     "number": "98",
+     "events": 2,
+     "surnames": [
+      [
+       "Diamant",
+       2
+      ]
+     ],
+     "year_min": 1916,
+     "year_max": 1916
+    },
+    {
+     "number": "19",
+     "events": 1,
+     "surnames": [
+      [
+       "Offner",
+       1
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1895
+    }
+   ],
+   "town_only_events": 14,
+   "notes": ""
+  },
+  {
+   "town": "Chelmiec",
+   "lat": 49.632314,
+   "lon": 20.659811,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1932,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Hollander",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Chelmiec near Nowy Sacz' on m-1932-5"
+  },
+  {
+   "town": "Chlebna",
+   "lat": 49.702288,
+   "lon": 21.624128,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1908,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Altholz",
+     4
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 2,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": "Was 'Chlebna near Krosno' on m-1908-3"
+  },
+  {
+   "town": "Chrzanow",
+   "lat": 50.132149,
+   "lon": 19.403223,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1904,
+   "year_max": 1908,
+   "top_surnames": [
+    [
+     "Kurz",
+     4
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 4
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 4
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Chyrowa",
+   "lat": 49.522697,
+   "lon": 21.615579,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Schaller",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Cieklin",
+   "lat": 49.648348,
+   "lon": 21.388879,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Krautblatt",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Cieklin near Lwigrod' on m-1900-21"
+  },
+  {
+   "town": "Cieszyna",
+   "lat": 49.862815,
+   "lon": 21.627426,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1917,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Nechemje",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records had 'Cicszyn near Frysztak' (likely auto-curator transcription error); Confirmed identification as Cieszyna."
+  },
+  {
+   "town": "Czarna",
+   "lat": 50.0656,
+   "lon": 21.2581,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1907,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Bodner",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Czermna",
+   "lat": 49.81755,
+   "lon": 21.295195,
+   "events": 15,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Fichner",
+     8
+    ],
+    [
+     "Bieder",
+     3
+    ],
+    [
+     "Thau",
+     1
+    ],
+    [
+     "Weisman",
+     1
+    ],
+    [
+     "Low",
+     1
+    ],
+    [
+     "Ader",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 13,
+    "Bride birthplace": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 13
+   },
+   "top_buildings": [],
+   "town_only_events": 15,
+   "notes": "Covers m-1907-9 (kept) and m-1899-1 (was 'Ciemny')"
+  },
+  {
+   "town": "Dabrowa Tarnowska",
+   "lat": 50.172521,
+   "lon": 20.983448,
+   "events": 12,
+   "buildings": 1,
+   "year_min": 1896,
+   "year_max": 1937,
+   "top_surnames": [
+    [
+     "Fenechel",
+     3
+    ],
+    [
+     "Goldberg",
+     2
+    ],
+    [
+     "Gluckman",
+     2
+    ],
+    [
+     "Abrahamowicz",
+     2
+    ],
+    [
+     "Brand",
+     2
+    ],
+    [
+     "Wind",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride": 1,
+    "MGF_Residence": 4,
+    "Bride birthplace": 1,
+    "BF_Residence": 1,
+    "Groom birthplace": 3,
+    "GF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 5,
+    "remote_relative": 7
+   },
+   "top_buildings": [
+    {
+     "number": "31",
+     "events": 1,
+     "surnames": [
+      [
+       "Fenechel",
+       1
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1897
+    }
+   ],
+   "town_only_events": 11,
+   "notes": ""
+  },
+  {
+   "town": "Debica",
+   "lat": 50.048818,
+   "lon": 21.415039,
+   "events": 41,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Towel",
+     5
+    ],
+    [
+     "Lobel",
+     5
+    ],
+    [
+     "Noth",
+     5
+    ],
+    [
+     "Schonwetter",
+     4
+    ],
+    [
+     "Schlenger",
+     3
+    ],
+    [
+     "Wurzel",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 20,
+    "MGM_Residence": 2,
+    "Groom birthplace": 9,
+    "GF_Residence": 8,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 10,
+    "remote_relative": 31
+   },
+   "top_buildings": [],
+   "town_only_events": 41,
+   "notes": ""
+  },
+  {
+   "town": "Deborzyn",
+   "lat": 49.909821,
+   "lon": 21.317378,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Krebs",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was tagged '(Dgborzyna)' in m-1900-4 narrative"
+  },
+  {
+   "town": "Debowa",
+   "lat": 49.853724,
+   "lon": 21.34076,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1898,
+   "year_max": 1909,
+   "top_surnames": [
+    [
+     "Schonwetter",
+     2
+    ],
+    [
+     "Kornfeld",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Debowiec",
+   "lat": 49.681244,
+   "lon": 21.459367,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1911,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Kornfeld",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Dukla",
+   "lat": 49.557309,
+   "lon": 21.682902,
+   "events": 10,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1910,
+   "top_surnames": [
+    [
+     "Czopp",
+     5
+    ],
+    [
+     "Littman",
+     2
+    ],
+    [
+     "Steiner",
+     2
+    ],
+    [
+     "Riw",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3,
+    "Groom birthplace": 3,
+    "GF_Residence": 3,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 4,
+    "remote_relative": 6
+   },
+   "top_buildings": [],
+   "town_only_events": 10,
+   "notes": ""
+  },
+  {
+   "town": "Dwernik",
+   "lat": 49.209968,
+   "lon": 22.62637,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1916,
+   "year_max": 1930,
+   "top_surnames": [
+    [
+     "Welkes",
+     1
+    ],
+    [
+     "Lehrer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGM_Residence": 1,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Dwernik near Lutowiska' on m-1930-2"
+  },
+  {
+   "town": "Dzwonowa",
+   "lat": 49.907334,
+   "lon": 21.294658,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Krebs",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was misread 'Dzwonowice' on m-1900-4"
+  },
+  {
+   "town": "Frysztak",
+   "lat": 49.839096,
+   "lon": 21.609848,
+   "events": 31,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1936,
+   "top_surnames": [
+    [
+     "Unger",
+     8
+    ],
+    [
+     "Sperber",
+     5
+    ],
+    [
+     "Klotz",
+     4
+    ],
+    [
+     "Fisch",
+     4
+    ],
+    [
+     "Herman",
+     2
+    ],
+    [
+     "Teitelbaum",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 9,
+    "MGM_Residence": 1,
+    "Groom birthplace": 8,
+    "GF_Residence": 7,
+    "Bride birthplace": 3,
+    "BF_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 11,
+    "remote_relative": 20
+   },
+   "top_buildings": [],
+   "town_only_events": 31,
+   "notes": ""
+  },
+  {
+   "town": "Gawlow",
+   "lat": 50.02447,
+   "lon": 20.461631,
+   "events": 7,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1904,
+   "top_surnames": [
+    [
+     "Guttstein",
+     5
+    ],
+    [
+     "Windstroh",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 5,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 6
+   },
+   "top_buildings": [],
+   "town_only_events": 7,
+   "notes": "Was 'Gawlowo near Bochnia' on m-1901-13"
+  },
+  {
+   "town": "Gebiczyna",
+   "lat": 49.957274,
+   "lon": 21.398802,
+   "events": 18,
+   "buildings": 4,
+   "year_min": 1894,
+   "year_max": 1908,
+   "top_surnames": [
+    [
+     "Bodner",
+     8
+    ],
+    [
+     "Wolek",
+     3
+    ],
+    [
+     "Piperberg",
+     3
+    ],
+    [
+     "Gastwirt",
+     3
+    ],
+    [
+     "Wiesenfeld",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 6,
+    "Death": 2,
+    "Naming": 3,
+    "Father_Residence": 4,
+    "MGF_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 9,
+    "death": 2,
+    "marriage_spouse": 0,
+    "remote_relative": 7
+   },
+   "top_buildings": [
+    {
+     "number": "95",
+     "events": 7,
+     "surnames": [
+      [
+       "Bodner",
+       4
+      ],
+      [
+       "Gastwirt",
+       3
+      ]
+     ],
+     "year_min": 1901,
+     "year_max": 1907
+    },
+    {
+     "number": "72",
+     "events": 2,
+     "surnames": [
+      [
+       "Wolek",
+       2
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1908
+    },
+    {
+     "number": "77",
+     "events": 1,
+     "surnames": [
+      [
+       "Piperberg",
+       1
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1894
+    },
+    {
+     "number": "79",
+     "events": 1,
+     "surnames": [
+      [
+       "Bodner",
+       1
+      ]
+     ],
+     "year_min": 1898,
+     "year_max": 1898
+    }
+   ],
+   "town_only_events": 7,
+   "notes": "Gębiczyna Refined 2026-05-02 by the curator."
+  },
+  {
+   "town": "Gliniczek near Jaslo",
+   "lat": 49.73828,
+   "lon": 21.540308,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1901,
+   "top_surnames": [
+    [
+     "Dembizer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was misread as 'Glimiezko' in m-1901-14"
+  },
+  {
+   "town": "Glinik",
+   "lat": 49.974808,
+   "lon": 21.574155,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1907,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Langer",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Distinct from 'Glinik Gorny'; was 'Glinik, Mielec district' on m-1907-5"
+  },
+  {
+   "town": "Glinik Gorny",
+   "lat": 49.848575,
+   "lon": 21.542659,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1925,
+   "year_max": 1925,
+   "top_surnames": [
+    [
+     "Steinberger",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Glinka Srednie near Frysztak",
+   "lat": 49.844269,
+   "lon": 21.581121,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1902,
+   "year_max": 1902,
+   "top_surnames": [
+    [
+     "Bodner",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Globikowa",
+   "lat": 49.961885,
+   "lon": 21.450846,
+   "events": 37,
+   "buildings": 3,
+   "year_min": 1894,
+   "year_max": 1912,
+   "top_surnames": [
+    [
+     "Meer",
+     23
+    ],
+    [
+     "Rosenbaum",
+     6
+    ],
+    [
+     "Sturm",
+     4
+    ],
+    [
+     "Wurzel",
+     2
+    ],
+    [
+     "Sperber",
+     1
+    ],
+    [
+     "Rozner",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 4,
+    "Naming": 2,
+    "Death": 4,
+    "Father_Residence": 5,
+    "MGF_Residence": 14,
+    "MGM_Residence": 2,
+    "Groom birthplace": 2,
+    "Bride birthplace": 1,
+    "GF_Residence": 2,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 6,
+    "death": 4,
+    "marriage_spouse": 3,
+    "remote_relative": 24
+   },
+   "top_buildings": [
+    {
+     "number": "10",
+     "events": 6,
+     "surnames": [
+      [
+       "Meer",
+       6
+      ]
+     ],
+     "year_min": 1898,
+     "year_max": 1903
+    },
+    {
+     "number": "5",
+     "events": 3,
+     "surnames": [
+      [
+       "Meer",
+       3
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1897
+    },
+    {
+     "number": "100",
+     "events": 1,
+     "surnames": [
+      [
+       "Sperber",
+       1
+      ]
+     ],
+     "year_min": 1902,
+     "year_max": 1902
+    }
+   ],
+   "town_only_events": 27,
+   "notes": "Coords refined 2026-05-02 by the curator."
+  },
+  {
+   "town": "Glogow Malopolski",
+   "lat": 50.1512,
+   "lon": 21.9629,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1904,
+   "year_max": 1909,
+   "top_surnames": [
+    [
+     "Storch",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Gogolow",
+   "lat": 49.852191,
+   "lon": 21.503058,
+   "events": 6,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Storch",
+     2
+    ],
+    [
+     "Neuman",
+     2
+    ],
+    [
+     "Weller",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1,
+    "BF_Residence": 1,
+    "Groom birthplace": 3,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 4,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 6,
+   "notes": ""
+  },
+  {
+   "town": "Gora Ropczycka near Ropczyce",
+   "lat": 50.053897,
+   "lon": 21.684626,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1905,
+   "year_max": 1905,
+   "top_surnames": [
+    [
+     "Gleicher",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Gorajowice",
+   "lat": 49.768184,
+   "lon": 21.48735,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1905,
+   "year_max": 1905,
+   "top_surnames": [
+    [
+     "Bein",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Gorajowice near Jaslo' on m-1905-5"
+  },
+  {
+   "town": "Gorlice",
+   "lat": 49.660717,
+   "lon": 21.159719,
+   "events": 21,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1928,
+   "top_surnames": [
+    [
+     "Fichner",
+     4
+    ],
+    [
+     "Kleinman",
+     4
+    ],
+    [
+     "Rieger",
+     2
+    ],
+    [
+     "Low",
+     2
+    ],
+    [
+     "Wild",
+     2
+    ],
+    [
+     "Reiger",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 7,
+    "Groom birthplace": 5,
+    "GF_Residence": 4,
+    "BF_Residence": 3,
+    "Bride birthplace": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 7,
+    "remote_relative": 14
+   },
+   "top_buildings": [],
+   "town_only_events": 21,
+   "notes": ""
+  },
+  {
+   "town": "Gorzejowa",
+   "lat": 49.923085,
+   "lon": 21.386031,
+   "events": 77,
+   "buildings": 8,
+   "year_min": 1894,
+   "year_max": 1925,
+   "top_surnames": [
+    [
+     "Rothman",
+     20
+    ],
+    [
+     "Sperber",
+     11
+    ],
+    [
+     "Kornreich",
+     10
+    ],
+    [
+     "Walter",
+     9
+    ],
+    [
+     "Schlenger",
+     8
+    ],
+    [
+     "Sandberg",
+     7
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 18,
+    "Naming": 8,
+    "Death": 5,
+    "Father_Residence": 28,
+    "MGF_Residence": 7,
+    "MGM_Residence": 1,
+    "Bride birthplace": 4,
+    "BF_Residence": 6
+   },
+   "categories": {
+    "birth_naming": 26,
+    "death": 5,
+    "marriage_spouse": 4,
+    "remote_relative": 42
+   },
+   "top_buildings": [
+    {
+     "number": "100",
+     "events": 10,
+     "surnames": [
+      [
+       "Rothman",
+       4
+      ],
+      [
+       "Sperber",
+       4
+      ],
+      [
+       "Turk",
+       1
+      ],
+      [
+       "Freiberger",
+       1
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1902
+    },
+    {
+     "number": "99",
+     "events": 7,
+     "surnames": [
+      [
+       "Walter",
+       5
+      ],
+      [
+       "Sperber",
+       2
+      ]
+     ],
+     "year_min": 1905,
+     "year_max": 1914
+    },
+    {
+     "number": "1",
+     "events": 4,
+     "surnames": [
+      [
+       "Schlenger",
+       3
+      ],
+      [
+       "Sandberg",
+       1
+      ]
+     ],
+     "year_min": 1900,
+     "year_max": 1914
+    },
+    {
+     "number": "82",
+     "events": 4,
+     "surnames": [
+      [
+       "Kornreich",
+       2
+      ],
+      [
+       "Schindel",
+       1
+      ],
+      [
+       "Sperber",
+       1
+      ]
+     ],
+     "year_min": 1901,
+     "year_max": 1915
+    },
+    {
+     "number": "5",
+     "events": 2,
+     "surnames": [
+      [
+       "Sandberg",
+       2
+      ]
+     ],
+     "year_min": 1902,
+     "year_max": 1902
+    },
+    {
+     "number": "84",
+     "events": 2,
+     "surnames": [
+      [
+       "Fruhman",
+       2
+      ]
+     ],
+     "year_min": 1912,
+     "year_max": 1912
+    },
+    {
+     "number": "36",
+     "events": 1,
+     "surnames": [
+      [
+       "Dintenfass",
+       1
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1895
+    },
+    {
+     "number": "54",
+     "events": 1,
+     "surnames": [
+      [
+       "Szydel",
+       1
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1896
+    }
+   ],
+   "town_only_events": 46,
+   "notes": ""
+  },
+  {
+   "town": "Gorzyce",
+   "lat": 49.633143,
+   "lon": 21.526112,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1929,
+   "year_max": 1929,
+   "top_surnames": [
+    [
+     "Lehrhaupt",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Gorzyce near Debowiec' on m-1929-3"
+  },
+  {
+   "town": "Grabiny",
+   "lat": 50.047458,
+   "lon": 21.3337935,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1911,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Leiman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Grodzisko",
+   "lat": 49.911089,
+   "lon": 21.724843,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1930,
+   "year_max": 1930,
+   "top_surnames": [
+    [
+     "Diamant",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Grudna Dolna",
+   "lat": 49.941463,
+   "lon": 21.475757,
+   "events": 9,
+   "buildings": 1,
+   "year_min": 1894,
+   "year_max": 1899,
+   "top_surnames": [
+    [
+     "Rosenbaum",
+     6
+    ],
+    [
+     "Schlenger",
+     2
+    ],
+    [
+     "Friedenbach",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 3,
+    "Naming": 1,
+    "Death": 1,
+    "Father_Residence": 3,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 4,
+    "death": 1,
+    "marriage_spouse": 1,
+    "remote_relative": 3
+   },
+   "top_buildings": [
+    {
+     "number": "3",
+     "events": 5,
+     "surnames": [
+      [
+       "Rosenbaum",
+       4
+      ],
+      [
+       "Schlenger",
+       1
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1899
+    }
+   ],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Grudna Gorna",
+   "lat": 49.933217,
+   "lon": 21.487085,
+   "events": 58,
+   "buildings": 9,
+   "year_min": 1895,
+   "year_max": 1929,
+   "top_surnames": [
+    [
+     "Weintraub",
+     29
+    ],
+    [
+     "Rosenbaum",
+     13
+    ],
+    [
+     "Rozner",
+     7
+    ],
+    [
+     "Berger",
+     2
+    ],
+    [
+     "Schlenger",
+     1
+    ],
+    [
+     "Meer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Naming": 8,
+    "Death": 10,
+    "Birth": 14,
+    "Father_Residence": 15,
+    "Mother_Residence": 2,
+    "Groom birthplace": 2,
+    "GF_Residence": 2,
+    "BF_Residence": 4,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 22,
+    "death": 10,
+    "marriage_spouse": 3,
+    "remote_relative": 23
+   },
+   "top_buildings": [
+    {
+     "number": "56",
+     "events": 11,
+     "surnames": [
+      [
+       "Weintraub",
+       9
+      ],
+      [
+       "Freidman",
+       1
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1915
+    },
+    {
+     "number": "72",
+     "events": 6,
+     "surnames": [
+      [
+       "Weintraub",
+       6
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1905
+    },
+    {
+     "number": "90",
+     "events": 6,
+     "surnames": [
+      [
+       "Rosenbaum",
+       6
+      ]
+     ],
+     "year_min": 1898,
+     "year_max": 1903
+    },
+    {
+     "number": "6",
+     "events": 2,
+     "surnames": [
+      [
+       "Rozner",
+       2
+      ]
+     ],
+     "year_min": 1904,
+     "year_max": 1904
+    },
+    {
+     "number": "51",
+     "events": 2,
+     "surnames": [
+      [
+       "Rozner",
+       2
+      ]
+     ],
+     "year_min": 1907,
+     "year_max": 1907
+    },
+    {
+     "number": "70",
+     "events": 2,
+     "surnames": [
+      [
+       "Rosenbaum",
+       2
+      ]
+     ],
+     "year_min": 1905,
+     "year_max": 1905
+    },
+    {
+     "number": "3",
+     "events": 1,
+     "surnames": [
+      [
+       "Schlenger",
+       1
+      ]
+     ],
+     "year_min": 1899,
+     "year_max": 1899
+    },
+    {
+     "number": "5",
+     "events": 1,
+     "surnames": [
+      [
+       "Rozner",
+       1
+      ]
+     ],
+     "year_min": 1903,
+     "year_max": 1903
+    }
+   ],
+   "town_only_events": 26,
+   "notes": ""
+  },
+  {
+   "town": "Grybow",
+   "lat": 49.612487,
+   "lon": 20.952388,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1924,
+   "year_max": 1924,
+   "top_surnames": [
+    [
+     "Bieder",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Gumniska",
+   "lat": 50.003653,
+   "lon": 21.401968,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1910,
+   "year_max": 1910,
+   "top_surnames": [
+    [
+     "Rosenbaum",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Gumniska near Debica' on m-1910-11"
+  },
+  {
+   "town": "Hagen",
+   "lat": 51.346442,
+   "lon": 7.49874,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1914,
+   "year_max": 1914,
+   "top_surnames": [
+    [
+     "Brand",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Hagen, Westphalia, Germany"
+  },
+  {
+   "town": "Halberstadt Germany",
+   "lat": 51.881334,
+   "lon": 11.041214,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1908,
+   "year_max": 1908,
+   "top_surnames": [
+    [
+     "Handler",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Halberstadt Germany; appears in births source narrative as 'Halberstadt Germany' (Ephraim Handler, haberdashery merchant)"
+  },
+  {
+   "town": "Halicz",
+   "lat": 49.072201,
+   "lon": 22.768884,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1908,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Feier",
+     1
+    ],
+    [
+     "Kasten",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Covers m-1908-1 ('Halez, Stanislawice district') and m-1932-1"
+  },
+  {
+   "town": "Halych",
+   "lat": 49.1,
+   "lon": 24.74,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1908,
+   "year_max": 1908,
+   "top_surnames": [
+    [
+     "Guttstein",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Hamburg",
+   "lat": 53.534387,
+   "lon": 9.99442,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1927,
+   "year_max": 1927,
+   "top_surnames": [
+    [
+     "Low",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Hamburg Germany; appears in m-1924-7 GF_Residence (groom's father Schmul Low residing in Hamburg)"
+  },
+  {
+   "town": "Hermanowa",
+   "lat": 49.935391,
+   "lon": 22.019803,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1938,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Korn",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Husow",
+   "lat": 49.9433,
+   "lon": 22.2983,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1934,
+   "year_max": 1934,
+   "top_surnames": [
+    [
+     "Seeman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Huta Gogolowska",
+   "lat": 49.873628,
+   "lon": 21.526458,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1929,
+   "year_max": 1929,
+   "top_surnames": [
+    [
+     "Neubart",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Janowice",
+   "lat": 49.892837,
+   "lon": 20.86097,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Grunberger",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Janowice near Tarnow' on m-1900-8"
+  },
+  {
+   "town": "Januszkowice",
+   "lat": 49.855886,
+   "lon": 21.459905,
+   "events": 144,
+   "buildings": 15,
+   "year_min": 1894,
+   "year_max": 1937,
+   "top_surnames": [
+    [
+     "Lobel",
+     26
+    ],
+    [
+     "Neuman",
+     20
+    ],
+    [
+     "Zeughauser",
+     16
+    ],
+    [
+     "Schneps",
+     15
+    ],
+    [
+     "Reiss",
+     13
+    ],
+    [
+     "Sturm",
+     9
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 37,
+    "Naming": 23,
+    "Death": 10,
+    "Father_Residence": 34,
+    "MGF_Residence": 19,
+    "MGM_Residence": 3,
+    "GF_Residence": 6,
+    "Groom birthplace": 4,
+    "Bride birthplace": 4,
+    "BF_Residence": 4
+   },
+   "categories": {
+    "birth_naming": 60,
+    "death": 10,
+    "marriage_spouse": 8,
+    "remote_relative": 66
+   },
+   "top_buildings": [
+    {
+     "number": "16",
+     "events": 15,
+     "surnames": [
+      [
+       "Neuman",
+       12
+      ],
+      [
+       "Frommer",
+       1
+      ],
+      [
+       "Roth",
+       1
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1913
+    },
+    {
+     "number": "28",
+     "events": 12,
+     "surnames": [
+      [
+       "Lobel",
+       12
+      ]
+     ],
+     "year_min": 1901,
+     "year_max": 1914
+    },
+    {
+     "number": "57",
+     "events": 9,
+     "surnames": [
+      [
+       "Schneps",
+       9
+      ]
+     ],
+     "year_min": 1898,
+     "year_max": 1907
+    },
+    {
+     "number": "23",
+     "events": 8,
+     "surnames": [
+      [
+       "Zeughauser",
+       8
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1898
+    },
+    {
+     "number": "38",
+     "events": 4,
+     "surnames": [
+      [
+       "Frommer",
+       4
+      ]
+     ],
+     "year_min": 1912,
+     "year_max": 1915
+    },
+    {
+     "number": "66",
+     "events": 4,
+     "surnames": [
+      [
+       "Unger",
+       4
+      ]
+     ],
+     "year_min": 1912,
+     "year_max": 1914
+    },
+    {
+     "number": "77",
+     "events": 4,
+     "surnames": [
+      [
+       "Lobel",
+       2
+      ],
+      [
+       "Sturm",
+       2
+      ]
+     ],
+     "year_min": 1914,
+     "year_max": 1917
+    },
+    {
+     "number": "113",
+     "events": 3,
+     "surnames": [
+      [
+       "Waldman",
+       3
+      ]
+     ],
+     "year_min": 1917,
+     "year_max": 1917
+    }
+   ],
+   "town_only_events": 74,
+   "notes": ""
+  },
+  {
+   "town": "Jasienica",
+   "lat": 49.814401,
+   "lon": 18.916027,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1909,
+   "top_surnames": [
+    [
+     "Panzer",
+     3
+    ],
+    [
+     "Szkolnik",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Jasienica Rosielna",
+   "lat": 49.752968,
+   "lon": 21.935477,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1929,
+   "year_max": 1929,
+   "top_surnames": [
+    [
+     "Lieber",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Jaslo",
+   "lat": 49.742565,
+   "lon": 21.468461,
+   "events": 13,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Mahler",
+     2
+    ],
+    [
+     "Altman",
+     1
+    ],
+    [
+     "Rufs",
+     1
+    ],
+    [
+     "Panzer",
+     1
+    ],
+    [
+     "Kurz",
+     1
+    ],
+    [
+     "Lichtman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 2,
+    "MGF_Residence": 1,
+    "GF_Residence": 7,
+    "Groom birthplace": 2,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 11
+   },
+   "top_buildings": [],
+   "town_only_events": 13,
+   "notes": ""
+  },
+  {
+   "town": "Jaszczurowa",
+   "lat": 49.902522,
+   "lon": 21.570482,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1919,
+   "top_surnames": [
+    [
+     "Grzyb",
+     2
+    ],
+    [
+     "Jolles",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Jaworze",
+   "lat": 49.930016,
+   "lon": 21.346429,
+   "events": 10,
+   "buildings": 1,
+   "year_min": 1896,
+   "year_max": 1906,
+   "top_surnames": [
+    [
+     "Druck",
+     4
+    ],
+    [
+     "Kampf",
+     3
+    ],
+    [
+     "Samul",
+     2
+    ],
+    [
+     "Turk",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom": 1,
+    "MGF_Residence": 2,
+    "Father_Residence": 1,
+    "Groom birthplace": 2,
+    "GF_Residence": 2,
+    "BF_Residence": 1,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 4,
+    "remote_relative": 6
+   },
+   "top_buildings": [
+    {
+     "number": "376",
+     "events": 1,
+     "surnames": [
+      [
+       "Druck",
+       1
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1897
+    }
+   ],
+   "town_only_events": 9,
+   "notes": "Jaworze Górne"
+  },
+  {
+   "town": "Jaworze Dolne",
+   "lat": 49.954686,
+   "lon": 21.350799,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1903,
+   "year_max": 1903,
+   "top_surnames": [
+    [
+     "Turk",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Jawor near Pilzno' on m-1903-3"
+  },
+  {
+   "town": "Jaworze Gorne",
+   "lat": 49.931861,
+   "lon": 21.347801,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1894,
+   "top_surnames": [
+    [
+     "Samul",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Jazowa",
+   "lat": 49.858059,
+   "lon": 21.650422,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1910,
+   "year_max": 1910,
+   "top_surnames": [
+    [
+     "Bodner",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Jazowy' on m-1910-2"
+  },
+  {
+   "town": "Jazwiny",
+   "lat": 50.089133,
+   "lon": 21.248693,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Gastwirt",
+     2
+    ],
+    [
+     "Jachimowicz",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Jedlicze",
+   "lat": 49.716499,
+   "lon": 21.642792,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1936,
+   "year_max": 1936,
+   "top_surnames": [
+    [
+     "Zahler",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Jedlinka",
+   "lat": 49.400048,
+   "lon": 21.367457,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1911,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Waldman",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": "Jedlinka, Slovakia (near Bardejov). Source records called it 'Borokas near Bardejov Hungary'; Confirmed identification."
+  },
+  {
+   "town": "Jezupol",
+   "lat": 48.97,
+   "lon": 24.65,
+   "events": 6,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Guttstein",
+     6
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 3,
+    "GF_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 6,
+   "notes": "Modern Ukrainian Yezupil/Єзупіль, ~10 km N of Ivano-Frankivsk (historical Galician Stanisławów). Approximate village center."
+  },
+  {
+   "town": "Jodlowa",
+   "lat": 49.871692,
+   "lon": 21.277942,
+   "events": 18,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1919,
+   "top_surnames": [
+    [
+     "Steinhorn",
+     4
+    ],
+    [
+     "Reicher",
+     3
+    ],
+    [
+     "Rubel",
+     3
+    ],
+    [
+     "Walter",
+     3
+    ],
+    [
+     "Bochner",
+     2
+    ],
+    [
+     "Mahrer",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 11,
+    "Groom birthplace": 3,
+    "GF_Residence": 3,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 4,
+    "remote_relative": 14
+   },
+   "top_buildings": [],
+   "town_only_events": 18,
+   "notes": ""
+  },
+  {
+   "town": "Joniny",
+   "lat": 49.883973,
+   "lon": 21.187739,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1902,
+   "year_max": 1905,
+   "top_surnames": [
+    [
+     "Sperber",
+     2
+    ],
+    [
+     "Rubel",
+     1
+    ],
+    [
+     "Steinhorn",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 4
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 4
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Kamienica Dolna",
+   "lat": 49.910047,
+   "lon": 21.352569,
+   "events": 55,
+   "buildings": 5,
+   "year_min": 1894,
+   "year_max": 1934,
+   "top_surnames": [
+    [
+     "Ritter",
+     9
+    ],
+    [
+     "Roth",
+     9
+    ],
+    [
+     "Schonwetter",
+     7
+    ],
+    [
+     "Sperber",
+     6
+    ],
+    [
+     "Kleinman",
+     6
+    ],
+    [
+     "Spett",
+     4
+    ]
+   ],
+   "events_by_kind": {
+    "Naming": 13,
+    "Birth": 8,
+    "Death": 2,
+    "MGF_Residence": 14,
+    "Father_Residence": 9,
+    "Mother_Residence": 1,
+    "Bride birthplace": 2,
+    "BF_Residence": 4,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 21,
+    "death": 2,
+    "marriage_spouse": 3,
+    "remote_relative": 29
+   },
+   "top_buildings": [
+    {
+     "number": "1",
+     "events": 8,
+     "surnames": [
+      [
+       "Rothman",
+       3
+      ],
+      [
+       "Turk",
+       2
+      ],
+      [
+       "Spett",
+       2
+      ],
+      [
+       "Dintenfass",
+       1
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1901
+    },
+    {
+     "number": "56",
+     "events": 7,
+     "surnames": [
+      [
+       "Ritter",
+       6
+      ],
+      [
+       "Sperber",
+       1
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1930
+    },
+    {
+     "number": "23",
+     "events": 4,
+     "surnames": [
+      [
+       "Schonwetter",
+       4
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1898
+    },
+    {
+     "number": "12",
+     "events": 2,
+     "surnames": [
+      [
+       "Weisman",
+       1
+      ],
+      [
+       "Schonwetter",
+       1
+      ]
+     ],
+     "year_min": 1913,
+     "year_max": 1916
+    },
+    {
+     "number": "99",
+     "events": 2,
+     "surnames": [
+      [
+       "Sperber",
+       2
+      ]
+     ],
+     "year_min": 1914,
+     "year_max": 1914
+    }
+   ],
+   "town_only_events": 32,
+   "notes": ""
+  },
+  {
+   "town": "Kamienica Gorna",
+   "lat": 49.896097,
+   "lon": 21.486927,
+   "events": 23,
+   "buildings": 3,
+   "year_min": 1894,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Samul",
+     9
+    ],
+    [
+     "Herman",
+     8
+    ],
+    [
+     "Tager",
+     3
+    ],
+    [
+     "Kornfeld",
+     2
+    ],
+    [
+     "Langer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Death": 2,
+    "Birth": 3,
+    "Naming": 1,
+    "Father_Residence": 3,
+    "MGF_Residence": 5,
+    "Groom birthplace": 3,
+    "Bride birthplace": 2,
+    "BF_Residence": 3,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 4,
+    "death": 2,
+    "marriage_spouse": 5,
+    "remote_relative": 12
+   },
+   "top_buildings": [
+    {
+     "number": "96",
+     "events": 3,
+     "surnames": [
+      [
+       "Samul",
+       3
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1901
+    },
+    {
+     "number": "120",
+     "events": 2,
+     "surnames": [
+      [
+       "Kornfeld",
+       1
+      ],
+      [
+       "Samul",
+       1
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1900
+    },
+    {
+     "number": "72",
+     "events": 1,
+     "surnames": [
+      [
+       "Herman",
+       1
+      ]
+     ],
+     "year_min": 1899,
+     "year_max": 1899
+    }
+   ],
+   "town_only_events": 17,
+   "notes": ""
+  },
+  {
+   "town": "Kije",
+   "lat": 50.606864,
+   "lon": 20.573284,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1917,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Finder",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Klecie",
+   "lat": 49.858287,
+   "lon": 21.418376,
+   "events": 49,
+   "buildings": 3,
+   "year_min": 1894,
+   "year_max": 1920,
+   "top_surnames": [
+    [
+     "Aron",
+     19
+    ],
+    [
+     "Tager",
+     17
+    ],
+    [
+     "Weitz",
+     4
+    ],
+    [
+     "Katz",
+     3
+    ],
+    [
+     "Roth",
+     2
+    ],
+    [
+     "Baumgarten",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 11,
+    "Naming": 4,
+    "Death": 2,
+    "Father_Residence": 10,
+    "MGF_Residence": 16,
+    "Groom birthplace": 2,
+    "GF_Residence": 1,
+    "Bride birthplace": 2,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 15,
+    "death": 2,
+    "marriage_spouse": 4,
+    "remote_relative": 28
+   },
+   "top_buildings": [
+    {
+     "number": "16",
+     "events": 14,
+     "surnames": [
+      [
+       "Tager",
+       8
+      ],
+      [
+       "Aron",
+       5
+      ],
+      [
+       "Katz",
+       1
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1911
+    },
+    {
+     "number": "19",
+     "events": 2,
+     "surnames": [
+      [
+       "Weitz",
+       2
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1896
+    },
+    {
+     "number": "55",
+     "events": 1,
+     "surnames": [
+      [
+       "Roth",
+       1
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1897
+    }
+   ],
+   "town_only_events": 32,
+   "notes": ""
+  },
+  {
+   "town": "Kolbuszowa",
+   "lat": 50.23932,
+   "lon": 21.766045,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1898,
+   "year_max": 1906,
+   "top_surnames": [
+    [
+     "Storch",
+     1
+    ],
+    [
+     "Sporn",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Koln Germany",
+   "lat": 50.933657,
+   "lon": 6.96009,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1905,
+   "year_max": 1906,
+   "top_surnames": [
+    [
+     "Brinbaum",
+     1
+    ],
+    [
+     "Kampf",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Köln (Cologne) Germany; appears in m-1905-4 BF_Residence as 'Koln Germany' (Jakob Kampf, merchant, bride Kajla Mirla Kampf's father)"
+  },
+  {
+   "town": "Korczyna",
+   "lat": 49.715539,
+   "lon": 21.809964,
+   "events": 5,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1934,
+   "top_surnames": [
+    [
+     "Baumgarten",
+     2
+    ],
+    [
+     "Weinberger",
+     2
+    ],
+    [
+     "Parnes",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 3,
+    "GF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 5,
+   "notes": ""
+  },
+  {
+   "town": "Kozlow",
+   "lat": 50.487459,
+   "lon": 20.024232,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1912,
+   "year_max": 1912,
+   "top_surnames": [
+    [
+     "Rothman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Krakow",
+   "lat": 50.052515,
+   "lon": 19.953286,
+   "events": 10,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1937,
+   "top_surnames": [
+    [
+     "Schlenger",
+     8
+    ],
+    [
+     "Anker",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 8,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 9
+   },
+   "top_buildings": [],
+   "town_only_events": 10,
+   "notes": ""
+  },
+  {
+   "town": "Krolowka",
+   "lat": 49.884773,
+   "lon": 20.426779,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1903,
+   "year_max": 1915,
+   "top_surnames": [
+    [
+     "Rothman",
+     3
+    ],
+    [
+     "Kollender",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": "Polish Królówka, ~5 km S of Bochnia. Was 'Krolowka near Bochnia' on m-1903-6"
+  },
+  {
+   "town": "Krosno",
+   "lat": 49.686712,
+   "lon": 21.767027,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1932,
+   "year_max": 1933,
+   "top_surnames": [
+    [
+     "Kleinman",
+     1
+    ],
+    [
+     "Trinczer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Labowa",
+   "lat": 49.527241,
+   "lon": 20.859562,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1906,
+   "year_max": 1906,
+   "top_surnames": [
+    [
+     "Lustig",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Lajsce",
+   "lat": 49.672193,
+   "lon": 21.54514,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Trachman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Lajska near Jaslo' on m-1900-22"
+  },
+  {
+   "town": "Laskowka Choraska",
+   "lat": 50.122622,
+   "lon": 20.968296,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1911,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Feig",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was misread 'Laskowice Olpozryszewski' on m-1911-3"
+  },
+  {
+   "town": "Lazy Debowieckie",
+   "lat": 49.687053,
+   "lon": 21.435991,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1920,
+   "year_max": 1920,
+   "top_surnames": [
+    [
+     "Gruber",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Leki Dolne",
+   "lat": 49.977893,
+   "lon": 21.235539,
+   "events": 7,
+   "buildings": 0,
+   "year_min": 1904,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Sperber",
+     7
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 7
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 7
+   },
+   "top_buildings": [],
+   "town_only_events": 7,
+   "notes": ""
+  },
+  {
+   "town": "Leki Strzyzowskie",
+   "lat": 49.806879,
+   "lon": 21.660729,
+   "events": 6,
+   "buildings": 0,
+   "year_min": 1904,
+   "year_max": 1914,
+   "top_surnames": [
+    [
+     "Lobel",
+     4
+    ],
+    [
+     "Karpf",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 4,
+    "Bride birthplace": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 4
+   },
+   "top_buildings": [],
+   "town_only_events": 6,
+   "notes": "Was misread as 'Lek/Lekki near Frysztak' on m-1904-2 and m-1907-2"
+  },
+  {
+   "town": "Lezajsk",
+   "lat": 50.260868,
+   "lon": 22.421792,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1910,
+   "year_max": 1935,
+   "top_surnames": [
+    [
+     "Stierer",
+     2
+    ],
+    [
+     "Steinbok",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Limanowa",
+   "lat": 49.703054,
+   "lon": 20.423943,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1910,
+   "year_max": 1928,
+   "top_surnames": [
+    [
+     "Horowitz",
+     1
+    ],
+    [
+     "Lehrer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Lipinki",
+   "lat": 49.668756,
+   "lon": 21.298538,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1910,
+   "year_max": 1910,
+   "top_surnames": [
+    [
+     "Kaufman",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Lipinki near Gorlice' on m-1910-9"
+  },
+  {
+   "town": "Lopuchowa",
+   "lat": 50.011984,
+   "lon": 21.547668,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1909,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Braunheim",
+     2
+    ],
+    [
+     "Nechemje",
+     1
+    ],
+    [
+     "Fruhman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3,
+    "MGM_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 4
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Lubatowa",
+   "lat": 49.5419,
+   "lon": 21.7617,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1912,
+   "year_max": 1912,
+   "top_surnames": [
+    [
+     "Nechemje",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used 'Lupolowo' — Editorial note: Lupolowo = Lubatowa."
+  },
+  {
+   "town": "Lubatowka",
+   "lat": 49.579992,
+   "lon": 21.752717,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1906,
+   "year_max": 1906,
+   "top_surnames": [
+    [
+     "Propker",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Lubatowka near Dzialka, Krosno district' on m-1906-12"
+  },
+  {
+   "town": "Lubcza",
+   "lat": 49.911982,
+   "lon": 21.250673,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1924,
+   "year_max": 1924,
+   "top_surnames": [
+    [
+     "Sturm",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Lubcza near Jodlowa' on m-1924-3"
+  },
+  {
+   "town": "Lubienko",
+   "lat": 49.652197,
+   "lon": 21.566057,
+   "events": 6,
+   "buildings": 0,
+   "year_min": 1904,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Rozner",
+     6
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 6
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 6
+   },
+   "top_buildings": [],
+   "town_only_events": 6,
+   "notes": ""
+  },
+  {
+   "town": "Ludwin",
+   "lat": 51.345728,
+   "lon": 22.9056,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1913,
+   "year_max": 1913,
+   "top_surnames": [
+    [
+     "Schiff",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Magdalena near Gorlice",
+   "lat": 49.667652,
+   "lon": 21.171444,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1909,
+   "top_surnames": [
+    [
+     "Low",
+     3
+    ],
+    [
+     "Fichner",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "GF_Residence": 2,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": "Now part of Gorlice; was misread as 'Magdalamy' on m-1909-1"
+  },
+  {
+   "town": "Magierow",
+   "lat": 50.110856,
+   "lon": 23.69667,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1930,
+   "year_max": 1930,
+   "top_surnames": [
+    [
+     "Rokach",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Makowiska",
+   "lat": 49.602648,
+   "lon": 21.596697,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1907,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Handler",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Makowiska near Jaslo' on m-1907-8"
+  },
+  {
+   "town": "Maly near Ropczyce",
+   "lat": 49.964136,
+   "lon": 21.508621,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1934,
+   "year_max": 1937,
+   "top_surnames": [
+    [
+     "Spira",
+     3
+    ],
+    [
+     "Spiera",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "Bride birthplace": 2,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Malzenice",
+   "lat": 48.4661,
+   "lon": 17.6172,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Kleinman",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Source records used 'Matzau in Hungary' — Editorial note: = Malženice (now in Slovakia, Hungarian-Empire era 'Matzau')."
+  },
+  {
+   "town": "Medrzechow",
+   "lat": 50.278086,
+   "lon": 20.953908,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1932,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Kahana",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Medrzechow near Dabrowa Tarnowska' on m-1932-6"
+  },
+  {
+   "town": "Mielec",
+   "lat": 50.285997,
+   "lon": 21.420603,
+   "events": 20,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1926,
+   "top_surnames": [
+    [
+     "Kornfeld",
+     6
+    ],
+    [
+     "Tager",
+     3
+    ],
+    [
+     "Klausner",
+     3
+    ],
+    [
+     "Goldberg",
+     2
+    ],
+    [
+     "Aron",
+     2
+    ],
+    [
+     "Galizer",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 11,
+    "Bride birthplace": 2,
+    "BF_Residence": 2,
+    "Groom birthplace": 3,
+    "GF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 5,
+    "remote_relative": 15
+   },
+   "top_buildings": [],
+   "town_only_events": 20,
+   "notes": ""
+  },
+  {
+   "town": "Mosciska",
+   "lat": 52.288196,
+   "lon": 20.869799,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1913,
+   "year_max": 1915,
+   "top_surnames": [
+    [
+     "Schiff",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGM_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Nagawczyna near Debica",
+   "lat": 50.057231,
+   "lon": 21.461242,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1910,
+   "year_max": 1935,
+   "top_surnames": [
+    [
+     "Goldman",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 2,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": "Covers both m-1910-4 and m-1935-1"
+  },
+  {
+   "town": "Nawsie Brzosteckie",
+   "lat": 49.883633,
+   "lon": 21.436984,
+   "events": 53,
+   "buildings": 6,
+   "year_min": 1894,
+   "year_max": 1935,
+   "top_surnames": [
+    [
+     "Rowitz",
+     21
+    ],
+    [
+     "Langer",
+     6
+    ],
+    [
+     "Thau",
+     5
+    ],
+    [
+     "Rozner",
+     5
+    ],
+    [
+     "Sperber",
+     3
+    ],
+    [
+     "Bloch",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 13,
+    "Naming": 10,
+    "Death": 6,
+    "Father_Residence": 12,
+    "MGF_Residence": 1,
+    "MGM_Residence": 1,
+    "Mother_Residence": 1,
+    "Groom birthplace": 2,
+    "GF_Residence": 3,
+    "Bride birthplace": 1,
+    "BF_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 23,
+    "death": 6,
+    "marriage_spouse": 3,
+    "remote_relative": 21
+   },
+   "top_buildings": [
+    {
+     "number": "66",
+     "events": 12,
+     "surnames": [
+      [
+       "Rowitz",
+       11
+      ],
+      [
+       "Towel",
+       1
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1908
+    },
+    {
+     "number": "1",
+     "events": 7,
+     "surnames": [
+      [
+       "Thau",
+       3
+      ],
+      [
+       "Rozner",
+       3
+      ],
+      [
+       "Wurzel",
+       1
+      ]
+     ],
+     "year_min": 1904,
+     "year_max": 1916
+    },
+    {
+     "number": "31",
+     "events": 3,
+     "surnames": [
+      [
+       "Rowitz",
+       3
+      ]
+     ],
+     "year_min": 1912,
+     "year_max": 1912
+    },
+    {
+     "number": "93",
+     "events": 3,
+     "surnames": [
+      [
+       "Langer",
+       3
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1921
+    },
+    {
+     "number": "44",
+     "events": 2,
+     "surnames": [
+      [
+       "Lehrman",
+       1
+      ],
+      [
+       "Noth",
+       1
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1900
+    },
+    {
+     "number": "195",
+     "events": 2,
+     "surnames": [
+      [
+       "Sperber",
+       2
+      ]
+     ],
+     "year_min": 1914,
+     "year_max": 1914
+    }
+   ],
+   "town_only_events": 24,
+   "notes": ""
+  },
+  {
+   "town": "Nawsie Wielopolskie",
+   "lat": 50.061578,
+   "lon": 19.703228,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1919,
+   "year_max": 1919,
+   "top_surnames": [
+    [
+     "Berger",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Nawsie Wielski' on m-1919-6"
+  },
+  {
+   "town": "Niebylec",
+   "lat": 49.8667,
+   "lon": 21.9,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1922,
+   "year_max": 1922,
+   "top_surnames": [
+    [
+     "Blum",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Nockowa",
+   "lat": 50.020099,
+   "lon": 21.790245,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1912,
+   "year_max": 1912,
+   "top_surnames": [
+    [
+     "Fruhman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Nowy Sacz",
+   "lat": 49.615797,
+   "lon": 20.715738,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Schlenger",
+     2
+    ],
+    [
+     "Zeughauser",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Nowy Zmigrod",
+   "lat": 49.602615,
+   "lon": 21.524396,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1929,
+   "year_max": 1929,
+   "top_surnames": [
+    [
+     "Engel",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Olchowa",
+   "lat": 50.0611,
+   "lon": 21.5742,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1913,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Scheinbach",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Olpiny",
+   "lat": 49.804682,
+   "lon": 21.194015,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1938,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Kleinman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Olszyny",
+   "lat": 49.80876,
+   "lon": 21.143243,
+   "events": 11,
+   "buildings": 0,
+   "year_min": 1899,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Amsterdam",
+     9
+    ],
+    [
+     "Lambek",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 9,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 10
+   },
+   "top_buildings": [],
+   "town_only_events": 11,
+   "notes": ""
+  },
+  {
+   "town": "Opacionka",
+   "lat": 49.863131,
+   "lon": 21.457826,
+   "events": 126,
+   "buildings": 15,
+   "year_min": 1894,
+   "year_max": 1937,
+   "top_surnames": [
+    [
+     "Roth",
+     27
+    ],
+    [
+     "Reiss",
+     24
+    ],
+    [
+     "Bodner",
+     16
+    ],
+    [
+     "Unger",
+     14
+    ],
+    [
+     "Sturm",
+     8
+    ],
+    [
+     "Beiles",
+     6
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 42,
+    "Naming": 17,
+    "Death": 16,
+    "Father_Residence": 39,
+    "MGF_Residence": 3,
+    "BF_Residence": 6,
+    "Bride birthplace": 2,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 59,
+    "death": 16,
+    "marriage_spouse": 2,
+    "remote_relative": 49
+   },
+   "top_buildings": [
+    {
+     "number": "37",
+     "events": 16,
+     "surnames": [
+      [
+       "Reiss",
+       14
+      ],
+      [
+       "Roth",
+       2
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1911
+    },
+    {
+     "number": "12",
+     "events": 12,
+     "surnames": [
+      [
+       "Bodner",
+       10
+      ],
+      [
+       "Landau",
+       1
+      ],
+      [
+       "Tager",
+       1
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1910
+    },
+    {
+     "number": "72",
+     "events": 12,
+     "surnames": [
+      [
+       "Roth",
+       12
+      ]
+     ],
+     "year_min": 1899,
+     "year_max": 1913
+    },
+    {
+     "number": "40",
+     "events": 11,
+     "surnames": [
+      [
+       "Beiles",
+       4
+      ],
+      [
+       "Unger",
+       4
+      ],
+      [
+       "Sturm",
+       3
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1912
+    },
+    {
+     "number": "84",
+     "events": 5,
+     "surnames": [
+      [
+       "Fisch",
+       2
+      ],
+      [
+       "Sturm",
+       2
+      ],
+      [
+       "Leiman",
+       1
+      ]
+     ],
+     "year_min": 1905,
+     "year_max": 1911
+    },
+    {
+     "number": "1",
+     "events": 4,
+     "surnames": [
+      [
+       "Kornblutt",
+       3
+      ],
+      [
+       "Rozner",
+       1
+      ]
+     ],
+     "year_min": 1900,
+     "year_max": 1909
+    },
+    {
+     "number": "70",
+     "events": 4,
+     "surnames": [
+      [
+       "Unger",
+       4
+      ]
+     ],
+     "year_min": 1900,
+     "year_max": 1902
+    },
+    {
+     "number": "66",
+     "events": 3,
+     "surnames": [
+      [
+       "Reich",
+       2
+      ],
+      [
+       "Unger",
+       1
+      ]
+     ],
+     "year_min": 1905,
+     "year_max": 1908
+    }
+   ],
+   "town_only_events": 51,
+   "notes": ""
+  },
+  {
+   "town": "Osiek Jasielski",
+   "lat": 49.634269,
+   "lon": 21.491462,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1934,
+   "year_max": 1934,
+   "top_surnames": [
+    [
+     "Stadtfeld",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Ostrowiec Swietokrzski",
+   "lat": 50.946003,
+   "lon": 21.401823,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1912,
+   "year_max": 1912,
+   "top_surnames": [
+    [
+     "Guttstein",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used 'Ostrow' — Editorial note: Ostrow = Ostrowiec Świętokrzyski."
+  },
+  {
+   "town": "Oswiecim",
+   "lat": 50.034538,
+   "lon": 19.212888,
+   "events": 4,
+   "buildings": 1,
+   "year_min": 1907,
+   "year_max": 1936,
+   "top_surnames": [
+    [
+     "Wolf",
+     3
+    ],
+    [
+     "Wulkan",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom": 1,
+    "Groom birthplace": 2,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 1
+   },
+   "top_buildings": [
+    {
+     "number": "88",
+     "events": 1,
+     "surnames": [
+      [
+       "Wolf",
+       1
+      ]
+     ],
+     "year_min": 1907,
+     "year_max": 1907
+    }
+   ],
+   "town_only_events": 3,
+   "notes": "Oświęcim (Auschwitz)"
+  },
+  {
+   "town": "Padew Narodowa",
+   "lat": 50.4356,
+   "lon": 21.4958,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1938,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Silber",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used \"Pawdowa near Dabrowa Tarnowska\" — Padew Narodowa is in Gmina Padew Narodowa, Mielec County, ~15km north of Dabrowa Tarnowska. The -dowa ending was misread as -dew."
+  },
+  {
+   "town": "Pawezow",
+   "lat": 50.0711,
+   "lon": 20.9861,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1894,
+   "top_surnames": [
+    [
+     "Zeughauser",
+     4
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2,
+    "MGM_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 4
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Pawlosiow",
+   "lat": 49.992846,
+   "lon": 22.642425,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1925,
+   "year_max": 1925,
+   "top_surnames": [
+    [
+     "Podhorzer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Polish Pawłosiów; was 'Pawlosiow near Jaroslaw' on m-1925-2"
+  },
+  {
+   "town": "Piatkowa",
+   "lat": 49.627644,
+   "lon": 20.760959,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1903,
+   "year_max": 1903,
+   "top_surnames": [
+    [
+     "Glassner",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Piatkowa near Nowy Sacz' on m-1903-6"
+  },
+  {
+   "town": "Pielnia near Sanok",
+   "lat": 49.535835,
+   "lon": 22.052192,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Silberbartz",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Village in Sanok County"
+  },
+  {
+   "town": "Pilzno",
+   "lat": 49.97974,
+   "lon": 21.294866,
+   "events": 13,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Siegfried",
+     8
+    ],
+    [
+     "Bochner",
+     2
+    ],
+    [
+     "Zehnwirth",
+     2
+    ],
+    [
+     "Dere",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 8,
+    "MGM_Residence": 1,
+    "Groom birthplace": 2,
+    "GF_Residence": 1,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 10
+   },
+   "top_buildings": [],
+   "town_only_events": 13,
+   "notes": ""
+  },
+  {
+   "town": "Podgrodzie",
+   "lat": 50.011012,
+   "lon": 21.346998,
+   "events": 11,
+   "buildings": 0,
+   "year_min": 1898,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Schneps",
+     9
+    ],
+    [
+     "Guttstein",
+     1
+    ],
+    [
+     "Bakon",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 6,
+    "Groom birthplace": 1,
+    "Bride birthplace": 2,
+    "GF_Residence": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 8
+   },
+   "top_buildings": [],
+   "town_only_events": 11,
+   "notes": "Also covers Golgrod misread on m-1901-18"
+  },
+  {
+   "town": "Posada",
+   "lat": 49.537246,
+   "lon": 22.222449,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1917,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Schonbach",
+     1
+    ],
+    [
+     "Szyjowicz",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Potakowka",
+   "lat": 49.7136,
+   "lon": 21.6014,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1903,
+   "year_max": 1903,
+   "top_surnames": [
+    [
+     "Schlenger",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used 'Godokowice' — Editorial note: Godokowice = Potakówka (Jasło district)."
+  },
+  {
+   "town": "Pruchnik",
+   "lat": 49.907177,
+   "lon": 22.51549,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1905,
+   "year_max": 1905,
+   "top_surnames": [
+    [
+     "Berger",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Editorial note: coords refined from (49.9011, 22.4849) to (49.907177, 22.515490). 'Pruchniku obok Jaroslawa' (=near Jarosław) normalizes to Pruchnik."
+  },
+  {
+   "town": "Przeclaw",
+   "lat": 50.194037,
+   "lon": 21.478622,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1911,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Amsterdam",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was misread as 'Pzreclow near Rzenic' on m-1911-4"
+  },
+  {
+   "town": "Przeczyca",
+   "lat": 49.887163,
+   "lon": 21.362234,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1901,
+   "top_surnames": [
+    [
+     "Bika",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was misread as 'Grzeczyey' in m-1901-8"
+  },
+  {
+   "town": "Przemysl",
+   "lat": 49.783823,
+   "lon": 22.771532,
+   "events": 11,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1913,
+   "top_surnames": [
+    [
+     "Konigsdorf",
+     5
+    ],
+    [
+     "Scharf",
+     3
+    ],
+    [
+     "Fenechel",
+     2
+    ],
+    [
+     "Miltan",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 6,
+    "MGM_Residence": 1,
+    "Father_Residence": 1,
+    "Groom birthplace": 1,
+    "GF_Residence": 1,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 9
+   },
+   "top_buildings": [],
+   "town_only_events": 11,
+   "notes": "Also covers Grzymyslaw misread on m-1912-1"
+  },
+  {
+   "town": "Przeworsk",
+   "lat": 50.056724,
+   "lon": 22.497377,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1932,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Diller",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Przybowka",
+   "lat": 49.7903,
+   "lon": 21.6447,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1923,
+   "year_max": 1923,
+   "top_surnames": [
+    [
+     "Bigaer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Pstragowa",
+   "lat": 49.942755,
+   "lon": 21.752613,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Karpf",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Pstragowa (near Strzyzow). Per b-1897-3 Mother prose: Abraham Diamant owned an estate here. Distinct village from Strzyzow proper (P0467 Abraham Diamant's Pstragowa estate)."
+  },
+  {
+   "town": "Pstragowka",
+   "lat": 49.882149,
+   "lon": 21.609555,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1932,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Baum",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Pstragowka near Wielopole Skrzynskie' on m-1932-6"
+  },
+  {
+   "town": "Pysznica",
+   "lat": 50.565253,
+   "lon": 22.126189,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1938,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Felsen",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Pysznica near Ulanow' on m-1938-3"
+  },
+  {
+   "town": "Radgoszcz near Dabrowa Tarnowska",
+   "lat": 50.20434,
+   "lon": 21.109305,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1899,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Fafs",
+     2
+    ],
+    [
+     "Zahler",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Radymno",
+   "lat": 49.9471,
+   "lon": 22.824,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Fenechel",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Radziechow",
+   "lat": 50.2828,
+   "lon": 24.6375,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1913,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Wolkenfeld",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "MGM_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Rakszawa",
+   "lat": 50.15,
+   "lon": 22.25,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1914,
+   "year_max": 1914,
+   "top_surnames": [
+    [
+     "Feil",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Ranizow",
+   "lat": 50.275,
+   "lon": 21.9667,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1923,
+   "year_max": 1923,
+   "top_surnames": [
+    [
+     "Wachner",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Rava-Ruska",
+   "lat": 50.23173,
+   "lon": 23.621271,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1930,
+   "year_max": 1930,
+   "top_surnames": [
+    [
+     "Rokach",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Ropczyce",
+   "lat": 50.052314,
+   "lon": 21.609222,
+   "events": 16,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1922,
+   "top_surnames": [
+    [
+     "Reiss",
+     3
+    ],
+    [
+     "Faust",
+     2
+    ],
+    [
+     "Feigenbaum",
+     2
+    ],
+    [
+     "Hoffing",
+     2
+    ],
+    [
+     "Basler",
+     2
+    ],
+    [
+     "Blut",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3,
+    "Groom birthplace": 5,
+    "GF_Residence": 4,
+    "Bride birthplace": 2,
+    "BF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 7,
+    "remote_relative": 9
+   },
+   "top_buildings": [],
+   "town_only_events": 16,
+   "notes": ""
+  },
+  {
+   "town": "Roza",
+   "lat": 50.112224,
+   "lon": 21.303459,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Rinder",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Roza near Radomysl' on m-1900-2"
+  },
+  {
+   "town": "Rozanka",
+   "lat": 49.912432,
+   "lon": 21.679134,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1898,
+   "year_max": 1898,
+   "top_surnames": [
+    [
+     "Karpf",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Rozanka (near Strzyzow). Per b-1898-35 Mother prose: Abraham Diamant owned estate here (P0467 Abraham Diamant — same patriarch who owned Pstragowa estate per b-1897-3, multiple estates over time)."
+  },
+  {
+   "town": "Rozwadow",
+   "lat": 50.589476,
+   "lon": 22.050245,
+   "events": 7,
+   "buildings": 0,
+   "year_min": 1908,
+   "year_max": 1935,
+   "top_surnames": [
+    [
+     "Felsen",
+     3
+    ],
+    [
+     "Greisman",
+     2
+    ],
+    [
+     "Nusbaum",
+     1
+    ],
+    [
+     "Silber",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 1,
+    "Groom birthplace": 2,
+    "GF_Residence": 3,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 5
+   },
+   "top_buildings": [],
+   "town_only_events": 7,
+   "notes": ""
+  },
+  {
+   "town": "Ruda",
+   "lat": 50.201995,
+   "lon": 21.346994,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1907,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Feld",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Rudy near Mielec' on m-1907-6"
+  },
+  {
+   "town": "Rudka",
+   "lat": 49.9611,
+   "lon": 20.8597,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Finder",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Rudka near Wieckowice",
+   "lat": 49.942502,
+   "lon": 20.800468,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Finder",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Brzesko County. Was misread on m-1897-1 as 'Kudawy ad Miechowice' and 'Rodawy ad Wisekowsce' (same row, same place)"
+  },
+  {
+   "town": "Rudki",
+   "lat": 50.892315,
+   "lon": 21.091569,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1924,
+   "year_max": 1924,
+   "top_surnames": [
+    [
+     "Baar",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Rudnick nad Sanem",
+   "lat": 50.440256,
+   "lon": 22.241678,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1901,
+   "top_surnames": [
+    [
+     "Teitelbaum",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Polish Rudnik nad Sanem; was 'Rudnick near Nisko' on m-1901-11"
+  },
+  {
+   "town": "Rudnik",
+   "lat": 49.849957,
+   "lon": 19.840726,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1937,
+   "top_surnames": [
+    [
+     "Schlusselberg",
+     1
+    ],
+    [
+     "Teitelbaum",
+     1
+    ],
+    [
+     "Brand",
+     1
+    ],
+    [
+     "Spinad",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1,
+    "BF_Residence": 2,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Ryglice",
+   "lat": 49.878683,
+   "lon": 21.137134,
+   "events": 11,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Reimer",
+     3
+    ],
+    [
+     "Blum",
+     2
+    ],
+    [
+     "Schachter",
+     2
+    ],
+    [
+     "Walter",
+     2
+    ],
+    [
+     "Leuchtag",
+     1
+    ],
+    [
+     "Zeughauser",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 4,
+    "Groom birthplace": 3,
+    "GF_Residence": 2,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 4,
+    "remote_relative": 7
+   },
+   "top_buildings": [],
+   "town_only_events": 11,
+   "notes": ""
+  },
+  {
+   "town": "Rymanow",
+   "lat": 49.578152,
+   "lon": 21.866401,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Abraham",
+     2
+    ],
+    [
+     "Wenig",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Rzedzin near Tarnow",
+   "lat": 50.01897,
+   "lon": 21.026552,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1896,
+   "top_surnames": [
+    [
+     "Kurz",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Rzepiennik Strzyzewski",
+   "lat": 49.808615,
+   "lon": 21.029308,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Goldberg",
+     2
+    ],
+    [
+     "Kichel",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 2,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Rzeszow",
+   "lat": 50.035977,
+   "lon": 21.997294,
+   "events": 9,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1919,
+   "top_surnames": [
+    [
+     "Schaufel",
+     2
+    ],
+    [
+     "Holloschutz",
+     2
+    ],
+    [
+     "Kranzler",
+     2
+    ],
+    [
+     "Plutzer",
+     2
+    ],
+    [
+     "Kornfeld",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "Bride birthplace": 2,
+    "BF_Residence": 2,
+    "Groom birthplace": 2,
+    "GF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 4,
+    "remote_relative": 5
+   },
+   "top_buildings": [],
+   "town_only_events": 9,
+   "notes": ""
+  },
+  {
+   "town": "Rzochow",
+   "lat": 50.244143,
+   "lon": 21.490035,
+   "events": 5,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1906,
+   "top_surnames": [
+    [
+     "Schonwetter",
+     3
+    ],
+    [
+     "Amsterdam",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3,
+    "Groom birthplace": 1,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 5,
+   "notes": ""
+  },
+  {
+   "town": "Samokleski",
+   "lat": 49.6094,
+   "lon": 21.4675,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1896,
+   "top_surnames": [
+    [
+     "Kunstler",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Sanok",
+   "lat": 49.553766,
+   "lon": 22.207338,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1910,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Zeller",
+     1
+    ],
+    [
+     "Schonbach",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Father_Residence": 1,
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Sedziszow Malopolski",
+   "lat": 50.072321,
+   "lon": 21.711388,
+   "events": 7,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Lobel",
+     2
+    ],
+    [
+     "Senft",
+     2
+    ],
+    [
+     "Malz",
+     1
+    ],
+    [
+     "Birnbaum",
+     1
+    ],
+    [
+     "Lichtman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "Groom birthplace": 2,
+    "GF_Residence": 2,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 4
+   },
+   "top_buildings": [],
+   "town_only_events": 7,
+   "notes": "Covers m-1900-11 (was 'Sedziszow'), m-1902-3 (was 'Sedziszow near Ropczyce'), m-1900-13 (was 'Sedziszowice')"
+  },
+  {
+   "town": "Siedliska",
+   "lat": 49.913891,
+   "lon": 21.414602,
+   "events": 63,
+   "buildings": 5,
+   "year_min": 1895,
+   "year_max": 1925,
+   "top_surnames": [
+    [
+     "Bein",
+     16
+    ],
+    [
+     "Sperber",
+     16
+    ],
+    [
+     "Kampf",
+     8
+    ],
+    [
+     "Birn",
+     7
+    ],
+    [
+     "Dembizer",
+     7
+    ],
+    [
+     "Kornreich",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 15,
+    "Naming": 6,
+    "Death": 5,
+    "Father_Residence": 14,
+    "MGF_Residence": 7,
+    "Groom birthplace": 3,
+    "Bride birthplace": 6,
+    "BF_Residence": 6,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 21,
+    "death": 5,
+    "marriage_spouse": 9,
+    "remote_relative": 28
+   },
+   "top_buildings": [
+    {
+     "number": "150",
+     "events": 11,
+     "surnames": [
+      [
+       "Sperber",
+       4
+      ],
+      [
+       "Kampf",
+       4
+      ],
+      [
+       "Dembizer",
+       3
+      ]
+     ],
+     "year_min": 1901,
+     "year_max": 1913
+    },
+    {
+     "number": "125",
+     "events": 8,
+     "surnames": [
+      [
+       "Bein",
+       8
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1907
+    },
+    {
+     "number": "48",
+     "events": 4,
+     "surnames": [
+      [
+       "Wrobel",
+       2
+      ],
+      [
+       "Birn",
+       2
+      ]
+     ],
+     "year_min": 1906,
+     "year_max": 1915
+    },
+    {
+     "number": "12",
+     "events": 2,
+     "surnames": [
+      [
+       "Kornreich",
+       2
+      ]
+     ],
+     "year_min": 1917,
+     "year_max": 1917
+    },
+    {
+     "number": "1",
+     "events": 1,
+     "surnames": [
+      [
+       "Bein",
+       1
+      ]
+     ],
+     "year_min": 1909,
+     "year_max": 1909
+    }
+   ],
+   "town_only_events": 37,
+   "notes": "Siedliska-Bogusz, just N of Zawadka Brzostecka"
+  },
+  {
+   "town": "Siedliska-Bogusz",
+   "lat": 49.8389,
+   "lon": 21.4256,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1926,
+   "year_max": 1926,
+   "top_surnames": [
+    [
+     "Gottlieb",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Siedliszowice",
+   "lat": 50.205402,
+   "lon": 20.76552,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1900,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Faber",
+     2
+    ],
+    [
+     "Birnbaum",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": "Was 'Siedlce near Zabno' on m-1911-2"
+  },
+  {
+   "town": "Skolyszyn",
+   "lat": 49.750494,
+   "lon": 21.333577,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1925,
+   "year_max": 1925,
+   "top_surnames": [
+    [
+     "Bier",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Skorodne",
+   "lat": 49.275074,
+   "lon": 22.63239,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1937,
+   "year_max": 1937,
+   "top_surnames": [
+    [
+     "Welkes",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Skorodne near Lutowiska' on m-1937-3"
+  },
+  {
+   "town": "Skrzyszow",
+   "lat": 49.9961,
+   "lon": 21.0547,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1915,
+   "year_max": 1915,
+   "top_surnames": [
+    [
+     "Malz",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Skurowa",
+   "lat": 49.875746,
+   "lon": 21.377735,
+   "events": 42,
+   "buildings": 4,
+   "year_min": 1895,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Guttstein",
+     24
+    ],
+    [
+     "Reimer",
+     9
+    ],
+    [
+     "Schaller",
+     3
+    ],
+    [
+     "Finder",
+     3
+    ],
+    [
+     "Dewbicer",
+     2
+    ],
+    [
+     "Lederer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 13,
+    "Naming": 7,
+    "Death": 4,
+    "Father_Residence": 12,
+    "MGF_Residence": 1,
+    "MGM_Residence": 1,
+    "Bride birthplace": 1,
+    "BF_Residence": 1,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 20,
+    "death": 4,
+    "marriage_spouse": 2,
+    "remote_relative": 16
+   },
+   "top_buildings": [
+    {
+     "number": "3",
+     "events": 10,
+     "surnames": [
+      [
+       "Guttstein",
+       10
+      ]
+     ],
+     "year_min": 1901,
+     "year_max": 1916
+    },
+    {
+     "number": "1",
+     "events": 7,
+     "surnames": [
+      [
+       "Guttstein",
+       5
+      ],
+      [
+       "Schaller",
+       1
+      ],
+      [
+       "Finder",
+       1
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1901
+    },
+    {
+     "number": "4",
+     "events": 4,
+     "surnames": [
+      [
+       "Reimer",
+       4
+      ]
+     ],
+     "year_min": 1906,
+     "year_max": 1909
+    },
+    {
+     "number": "2",
+     "events": 3,
+     "surnames": [
+      [
+       "Reimer",
+       2
+      ],
+      [
+       "Lederer",
+       1
+      ]
+     ],
+     "year_min": 1904,
+     "year_max": 1904
+    }
+   ],
+   "town_only_events": 18,
+   "notes": "~3 km W of Brzostek"
+  },
+  {
+   "town": "Slopnice",
+   "lat": 49.681071,
+   "lon": 20.342727,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1938,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Mastbaum",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used 'Slowec near Mszana Dolna' — Editorial note: Slowec = Slopnice (Mszana Dolna area)."
+  },
+  {
+   "town": "Smarzowa",
+   "lat": 49.918376,
+   "lon": 21.442765,
+   "events": 2,
+   "buildings": 1,
+   "year_min": 1896,
+   "year_max": 1896,
+   "top_surnames": [
+    [
+     "Goldfluss",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 1,
+    "Father_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 1,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [
+    {
+     "number": "15",
+     "events": 1,
+     "surnames": [
+      [
+       "Goldfluss",
+       1
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1896
+    }
+   ],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Sobniow",
+   "lat": 49.718343,
+   "lon": 21.493934,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1894,
+   "top_surnames": [
+    [
+     "Goldman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Near Jaslo. Added 2026-05-02. Renamed Sobinow→Sobniow 2026-05-03 (the curator correction)."
+  },
+  {
+   "town": "Sokolow Malopolski",
+   "lat": 50.230013,
+   "lon": 22.119177,
+   "events": 6,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Panzer",
+     3
+    ],
+    [
+     "Mass",
+     1
+    ],
+    [
+     "Alter",
+     1
+    ],
+    [
+     "Wolkenfeld",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "MGM_Residence": 3,
+    "Father_Residence": 1,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 5
+   },
+   "top_buildings": [],
+   "town_only_events": 6,
+   "notes": "Was misread as 'Sokotow' on m-1901-10"
+  },
+  {
+   "town": "Sokolowka",
+   "lat": 49.518,
+   "lon": 24.197,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1917,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Matt",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used 'Jockolowo' — Editorial note: Jockolowo = Sokołówka."
+  },
+  {
+   "town": "Stara Wies",
+   "lat": 49.631296,
+   "lon": 20.883167,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1899,
+   "year_max": 1899,
+   "top_surnames": [
+    [
+     "Scheier",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Stara Wieś near Grybów (Nowy Sącz County, per m-1899-2 narrative 'Grybow starosty')"
+  },
+  {
+   "town": "Stary Lupkow",
+   "lat": 49.247649,
+   "lon": 22.058128,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1901,
+   "top_surnames": [
+    [
+     "Riw",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Added 2026-05-02 per m-1901-20 BF_Residence — birthplace of Reisla Ryf/Indyk's father Leib Ryf, industrialist; village in southeastern Poland near Slovak border."
+  },
+  {
+   "town": "Stepina",
+   "lat": 49.873643,
+   "lon": 21.577445,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1926,
+   "year_max": 1926,
+   "top_surnames": [
+    [
+     "Sperber",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used 'Silruic' — Editorial note: Silruic = Stepina (modern Stępina)."
+  },
+  {
+   "town": "Strzyzow",
+   "lat": 49.868543,
+   "lon": 21.786704,
+   "events": 10,
+   "buildings": 0,
+   "year_min": 1903,
+   "year_max": 1936,
+   "top_surnames": [
+    [
+     "Rufs",
+     2
+    ],
+    [
+     "Rosen",
+     2
+    ],
+    [
+     "Nechemje",
+     1
+    ],
+    [
+     "Welch",
+     1
+    ],
+    [
+     "Groskopf",
+     1
+    ],
+    [
+     "Nurnberg",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "Groom birthplace": 3,
+    "GF_Residence": 6
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 7
+   },
+   "top_buildings": [],
+   "town_only_events": 10,
+   "notes": ""
+  },
+  {
+   "town": "Sucha Beskidzka",
+   "lat": 49.74,
+   "lon": 19.5917,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1907,
+   "year_max": 1913,
+   "top_surnames": [
+    [
+     "Bauernfreund",
+     3
+    ],
+    [
+     "Landau",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 4
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 4
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Swilcza",
+   "lat": 50.06,
+   "lon": 21.8761,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1898,
+   "year_max": 1899,
+   "top_surnames": [
+    [
+     "Kornfeld",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Szczawnica",
+   "lat": 49.427233,
+   "lon": 20.46831,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1927,
+   "year_max": 1927,
+   "top_surnames": [
+    [
+     "Barber",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Upper Szczawnica' on m-1927-9"
+  },
+  {
+   "town": "Szebnie",
+   "lat": 49.759669,
+   "lon": 21.59645,
+   "events": 9,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1905,
+   "top_surnames": [
+    [
+     "Weintraub",
+     8
+    ],
+    [
+     "Trachman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 4,
+    "MGM_Residence": 4,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 9
+   },
+   "top_buildings": [],
+   "town_only_events": 9,
+   "notes": ""
+  },
+  {
+   "town": "Tarnobrzeg",
+   "lat": 50.573165,
+   "lon": 21.679168,
+   "events": 6,
+   "buildings": 0,
+   "year_min": 1899,
+   "year_max": 1930,
+   "top_surnames": [
+    [
+     "Schwarz",
+     2
+    ],
+    [
+     "Burstin",
+     2
+    ],
+    [
+     "Heringfass",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 3,
+    "GF_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 3,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 6,
+   "notes": ""
+  },
+  {
+   "town": "Tarnow",
+   "lat": 50.012513,
+   "lon": 20.988356,
+   "events": 37,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1933,
+   "top_surnames": [
+    [
+     "Konigsdorf",
+     6
+    ],
+    [
+     "Ritter",
+     3
+    ],
+    [
+     "Zeisler",
+     3
+    ],
+    [
+     "Orner",
+     2
+    ],
+    [
+     "Zahler",
+     2
+    ],
+    [
+     "Staub",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 15,
+    "Father_Residence": 1,
+    "Bride birthplace": 6,
+    "BF_Residence": 8,
+    "Groom birthplace": 3,
+    "GF_Residence": 4
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 9,
+    "remote_relative": 28
+   },
+   "top_buildings": [],
+   "town_only_events": 37,
+   "notes": ""
+  },
+  {
+   "town": "Thum Germany",
+   "lat": 50.670708,
+   "lon": 12.949259,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1894,
+   "top_surnames": [
+    [
+     "Turk",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "MGM_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Toki",
+   "lat": 49.622705,
+   "lon": 21.539925,
+   "events": 9,
+   "buildings": 0,
+   "year_min": 1903,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Rubel",
+     7
+    ],
+    [
+     "Fisch",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 7,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 8
+   },
+   "top_buildings": [],
+   "town_only_events": 9,
+   "notes": "Was 'Toki near Nowy Zmigrod' on m-1903-5"
+  },
+  {
+   "town": "Trzcinica",
+   "lat": 49.740776,
+   "lon": 21.415023,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1901,
+   "top_surnames": [
+    [
+     "Pencier",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Trzcinica near Jaslo' on m-1901-19"
+  },
+  {
+   "town": "Trzebinia",
+   "lat": 50.164548,
+   "lon": 19.452682,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Sandberg",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Tuchow",
+   "lat": 49.8964,
+   "lon": 21.0608,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1911,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Wolf",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Twierdza near Frysztak",
+   "lat": 49.829998,
+   "lon": 21.617715,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1911,
+   "year_max": 1911,
+   "top_surnames": [
+    [
+     "Neubart",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Tyczyn",
+   "lat": 49.961423,
+   "lon": 22.034121,
+   "events": 5,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1937,
+   "top_surnames": [
+    [
+     "Kornfeld",
+     2
+    ],
+    [
+     "Ratz",
+     2
+    ],
+    [
+     "Heffner",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2,
+    "Father_Residence": 1,
+    "Groom birthplace": 1,
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 5,
+   "notes": "Also covers misread 'Tyczywa' on m-1919-7"
+  },
+  {
+   "town": "Ulanow",
+   "lat": 50.491184,
+   "lon": 22.266547,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1927,
+   "year_max": 1935,
+   "top_surnames": [
+    [
+     "Tugendhoft",
+     2
+    ],
+    [
+     "Baron",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Ulaszowice near Jaslo",
+   "lat": 49.756397,
+   "lon": 21.477261,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1935,
+   "year_max": 1935,
+   "top_surnames": [
+    [
+     "Ehrenfreund",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Uniszowa",
+   "lat": 49.8792,
+   "lon": 21.11,
+   "events": 6,
+   "buildings": 0,
+   "year_min": 1906,
+   "year_max": 1914,
+   "top_surnames": [
+    [
+     "Sperber",
+     2
+    ],
+    [
+     "Walter",
+     2
+    ],
+    [
+     "Rubel",
+     1
+    ],
+    [
+     "Steinhorn",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 5,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 6
+   },
+   "top_buildings": [],
+   "town_only_events": 6,
+   "notes": ""
+  },
+  {
+   "town": "Vysny Komarnik",
+   "lat": 49.404585,
+   "lon": 21.703555,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1901,
+   "year_max": 1901,
+   "top_surnames": [
+    [
+     "Grunberger",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Slovak side, near Polish border. Was misread 'Kormarnik' on m-1901-9; narrative cited 'Comitat Greszow (Hungary)'"
+  },
+  {
+   "town": "Wadowice Gorne",
+   "lat": 50.258142,
+   "lon": 21.299679,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1924,
+   "year_max": 1924,
+   "top_surnames": [
+    [
+     "Roth",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was 'Wadowice Gorne near Radomysl Wielki' on m-1924-1"
+  },
+  {
+   "town": "Wandsbek",
+   "lat": 53.582305,
+   "lon": 10.083952,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1927,
+   "year_max": 1927,
+   "top_surnames": [
+    [
+     "Low",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Hamburg district, Germany"
+  },
+  {
+   "town": "Warsaw",
+   "lat": 52.248444,
+   "lon": 21.034634,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1905,
+   "year_max": 1927,
+   "top_surnames": [
+    [
+     "Sarno",
+     2
+    ],
+    [
+     "Kampf",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Widacz",
+   "lat": 49.810202,
+   "lon": 21.626586,
+   "events": 5,
+   "buildings": 0,
+   "year_min": 1902,
+   "year_max": 1906,
+   "top_surnames": [
+    [
+     "Schindel",
+     5
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3,
+    "MGM_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 5
+   },
+   "top_buildings": [],
+   "town_only_events": 5,
+   "notes": ""
+  },
+  {
+   "town": "Wielka Wies",
+   "lat": 49.935881,
+   "lon": 20.823428,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Kornhauser",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Was misread as 'Wielkiwsi' on m-1897-1"
+  },
+  {
+   "town": "Wielopole",
+   "lat": 49.945895,
+   "lon": 21.614397,
+   "events": 23,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1928,
+   "top_surnames": [
+    [
+     "Bloch",
+     7
+    ],
+    [
+     "Littman",
+     4
+    ],
+    [
+     "Schonwetter",
+     2
+    ],
+    [
+     "Samul",
+     2
+    ],
+    [
+     "Barth",
+     2
+    ],
+    [
+     "Landau",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 9,
+    "MGM_Residence": 2,
+    "Bride birthplace": 3,
+    "BF_Residence": 2,
+    "Groom birthplace": 3,
+    "GF_Residence": 4
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 6,
+    "remote_relative": 17
+   },
+   "top_buildings": [],
+   "town_only_events": 23,
+   "notes": ""
+  },
+  {
+   "town": "Wierzbica",
+   "lat": 51.247236,
+   "lon": 21.083408,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1904,
+   "year_max": 1904,
+   "top_surnames": [
+    [
+     "Ratz",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was misread 'Wierzleica' on m-1904-3; narrative cited 'starosty of Rawa'"
+  },
+  {
+   "town": "Wojtowa",
+   "lat": 49.6917,
+   "lon": 21.2761,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1923,
+   "year_max": 1923,
+   "top_surnames": [
+    [
+     "Sperber",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Wokowice",
+   "lat": 50.0081,
+   "lon": 20.6997,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1900,
+   "top_surnames": [
+    [
+     "Zeughauser",
+     4
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": "Source records used 'Wolkowice' (with L) and the long-form 'Wolkowice in the Brzyska Imperial and Royal District'. Editorial note: canonical is Wokowice (no L), in the Brzesko area (not Brzyska — that was a misreading). Updates the earlier 2026-05-05 Zeughauser-cluster ruling."
+  },
+  {
+   "town": "Wola Brzostecka",
+   "lat": 49.885454,
+   "lon": 21.459344,
+   "events": 34,
+   "buildings": 5,
+   "year_min": 1895,
+   "year_max": 1909,
+   "top_surnames": [
+    [
+     "Kornfeld",
+     14
+    ],
+    [
+     "Tesser",
+     12
+    ],
+    [
+     "Samul",
+     5
+    ],
+    [
+     "Ezra",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "Death": 3,
+    "Birth": 9,
+    "Naming": 5,
+    "MGF_Residence": 3,
+    "MGM_Residence": 2,
+    "Father_Residence": 8,
+    "Groom birthplace": 1,
+    "GF_Residence": 1,
+    "Bride birthplace": 1,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 14,
+    "death": 3,
+    "marriage_spouse": 2,
+    "remote_relative": 15
+   },
+   "top_buildings": [
+    {
+     "number": "35",
+     "events": 7,
+     "surnames": [
+      [
+       "Kornfeld",
+       7
+      ]
+     ],
+     "year_min": 1898,
+     "year_max": 1909
+    },
+    {
+     "number": "4",
+     "events": 5,
+     "surnames": [
+      [
+       "Tesser",
+       4
+      ],
+      [
+       "Ezra",
+       1
+      ]
+     ],
+     "year_min": 1895,
+     "year_max": 1901
+    },
+    {
+     "number": "63",
+     "events": 3,
+     "surnames": [
+      [
+       "Samul",
+       3
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1899
+    },
+    {
+     "number": "3",
+     "events": 1,
+     "surnames": [
+      [
+       "Kornfeld",
+       1
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1897
+    },
+    {
+     "number": "40",
+     "events": 1,
+     "surnames": [
+      [
+       "Tesser",
+       1
+      ]
+     ],
+     "year_min": 1901,
+     "year_max": 1901
+    }
+   ],
+   "town_only_events": 17,
+   "notes": ""
+  },
+  {
+   "town": "Wola Lubecka",
+   "lat": 49.919766,
+   "lon": 21.198028,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1902,
+   "year_max": 1902,
+   "top_surnames": [
+    [
+     "Steinhorn",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Zabawa",
+   "lat": 50.1206,
+   "lon": 20.8228,
+   "events": 3,
+   "buildings": 0,
+   "year_min": 1904,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Neuman",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 3
+   },
+   "top_buildings": [],
+   "town_only_events": 3,
+   "notes": ""
+  },
+  {
+   "town": "Zabawa near Nowy Sacz",
+   "lat": 49.6,
+   "lon": 20.6,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1909,
+   "year_max": 1909,
+   "top_surnames": [
+    [
+     "Neuman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "approximate location — the curator flagged uncertain (~49.6, 20.6)"
+  },
+  {
+   "town": "Zabno",
+   "lat": 50.13243,
+   "lon": 20.884965,
+   "events": 4,
+   "buildings": 0,
+   "year_min": 1898,
+   "year_max": 1909,
+   "top_surnames": [
+    [
+     "Goldberg",
+     3
+    ],
+    [
+     "Schiff",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2,
+    "Bride birthplace": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 4,
+   "notes": ""
+  },
+  {
+   "town": "Zabuze",
+   "lat": 52.312145,
+   "lon": 23.042793,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1896,
+   "year_max": 1896,
+   "top_surnames": [
+    [
+     "Turk",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used 'Zabrze' — Editorial note: Zabrze (here) = Zabuze (small village near Bug river), NOT the famous Silesian city Zabrze."
+  },
+  {
+   "town": "Zaczarnie",
+   "lat": 50.0944,
+   "lon": 21.0011,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1898,
+   "year_max": 1898,
+   "top_surnames": [
+    [
+     "Dembizer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Zalubincze near Nowy Sacz",
+   "lat": 49.633518,
+   "lon": 20.70098,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1899,
+   "year_max": 1930,
+   "top_surnames": [
+    [
+     "Amsterdam",
+     1
+    ],
+    [
+     "Glassner",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Zator",
+   "lat": 49.99101,
+   "lon": 19.428226,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1899,
+   "year_max": 1901,
+   "top_surnames": [
+    [
+     "Schonberg",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Source records used 'Zatorze' — Editorial note: Zatorze = Zator. Locative-case reading."
+  },
+  {
+   "town": "Zawadka Brzostecka",
+   "lat": 49.901406,
+   "lon": 21.399574,
+   "events": 65,
+   "buildings": 5,
+   "year_min": 1894,
+   "year_max": 1937,
+   "top_surnames": [
+    [
+     "Schonwetter",
+     25
+    ],
+    [
+     "Scheier",
+     10
+    ],
+    [
+     "Dintenfass",
+     9
+    ],
+    [
+     "Sandberg",
+     8
+    ],
+    [
+     "Karpf",
+     5
+    ],
+    [
+     "Turk",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 11,
+    "Naming": 4,
+    "Death": 6,
+    "Groom": 1,
+    "Father_Residence": 12,
+    "MGF_Residence": 13,
+    "MGM_Residence": 1,
+    "Bride birthplace": 6,
+    "BF_Residence": 3,
+    "Groom birthplace": 3,
+    "GF_Residence": 5
+   },
+   "categories": {
+    "birth_naming": 15,
+    "death": 6,
+    "marriage_spouse": 10,
+    "remote_relative": 34
+   },
+   "top_buildings": [
+    {
+     "number": "1",
+     "events": 8,
+     "surnames": [
+      [
+       "Schonwetter",
+       5
+      ],
+      [
+       "Krau",
+       1
+      ],
+      [
+       "Karpf",
+       1
+      ],
+      [
+       "Sandberg",
+       1
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1911
+    },
+    {
+     "number": "23",
+     "events": 6,
+     "surnames": [
+      [
+       "Scheier",
+       4
+      ],
+      [
+       "Sandberg",
+       1
+      ],
+      [
+       "Schonwetter",
+       1
+      ]
+     ],
+     "year_min": 1898,
+     "year_max": 1905
+    },
+    {
+     "number": "2",
+     "events": 3,
+     "surnames": [
+      [
+       "Karpf",
+       2
+      ],
+      [
+       "Schonwetter",
+       1
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1902
+    },
+    {
+     "number": "3",
+     "events": 3,
+     "surnames": [
+      [
+       "Dintenfass",
+       2
+      ],
+      [
+       "Turk",
+       1
+      ]
+     ],
+     "year_min": 1896,
+     "year_max": 1897
+    },
+    {
+     "number": "50",
+     "events": 2,
+     "surnames": [
+      [
+       "Schonwetter",
+       2
+      ]
+     ],
+     "year_min": 1894,
+     "year_max": 1894
+    }
+   ],
+   "town_only_events": 43,
+   "notes": ""
+  },
+  {
+   "town": "Zawadka Strzyzski",
+   "lat": 49.933776,
+   "lon": 21.706429,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1921,
+   "year_max": 1921,
+   "top_surnames": [
+    [
+     "Unger",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Was 'Zawadka near Strzyzow' on m-1921-2 (Isaac Unger family)"
+  },
+  {
+   "town": "Zmigrod",
+   "lat": 49.602177,
+   "lon": 21.523258,
+   "events": 12,
+   "buildings": 0,
+   "year_min": 1895,
+   "year_max": 1932,
+   "top_surnames": [
+    [
+     "Schonwetter",
+     4
+    ],
+    [
+     "Wolmuth",
+     2
+    ],
+    [
+     "Citronenbaum",
+     2
+    ],
+    [
+     "Kolber",
+     2
+    ],
+    [
+     "Wiesenfeld",
+     1
+    ],
+    [
+     "Krebs",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2,
+    "Father_Residence": 1,
+    "Groom birthplace": 3,
+    "Bride birthplace": 1,
+    "GF_Residence": 4,
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 4,
+    "remote_relative": 8
+   },
+   "top_buildings": [],
+   "town_only_events": 12,
+   "notes": ""
+  },
+  {
+   "town": "Zolynia",
+   "lat": 50.160949,
+   "lon": 22.308121,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1894,
+   "top_surnames": [
+    [
+     "Stempel",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": ""
+  },
+  {
+   "town": "Zurawica near Jaroslaw",
+   "lat": 49.824817,
+   "lon": 22.790035,
+   "events": 2,
+   "buildings": 1,
+   "year_min": 1907,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Frommer",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom": 1,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 0
+   },
+   "top_buildings": [
+    {
+     "number": "82",
+     "events": 1,
+     "surnames": [
+      [
+       "Frommer",
+       1
+      ]
+     ],
+     "year_min": 1907,
+     "year_max": 1907
+    }
+   ],
+   "town_only_events": 1,
+   "notes": ""
+  },
+  {
+   "town": "Zurawiczki",
+   "lat": 50.010689,
+   "lon": 22.49161,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1907,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Frommer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Source records used 'Lurawiezki' — Editorial note: Z↔L misread + locative case. Zurawiczki near Jarosław. | Editorial note: coords refined to (50.010689, 22.491610)."
+  },
+  {
+   "town": "Zywiec",
+   "lat": 49.6853,
+   "lon": 19.1924,
+   "events": 5,
+   "buildings": 0,
+   "year_min": 1894,
+   "year_max": 1898,
+   "top_surnames": [
+    [
+     "Hoffman",
+     5
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3,
+    "MGM_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 5
+   },
+   "top_buildings": [],
+   "town_only_events": 5,
+   "notes": ""
+  }
+ ],
+ "towns_without_pins": [
+  "Jodegrodaic"
+ ],
+ "towns_without_pins_with_refs": [
+  {
+   "town": "Jodegrodaic",
+   "refs": [
+    "m-1916-3"
+   ],
+   "ref_count": 1
+  }
+ ],
+ "totals": {
+  "towns_on_map": 234,
+  "towns_in_corpus": 235
+ }
+}

@@ -1,0 +1,14 @@
+# Mac filesystem metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build artifacts that aren't part of the served site
+*.log
+*.bak

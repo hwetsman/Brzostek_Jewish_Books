@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>About — Brzostek Records</title>
+<link rel="stylesheet" href="assets/site.css?v=b4d3e247e0">
+<script defer src="assets/config.js?v=b4d3e247e0"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
+<script defer src="assets/site.js?v=b4d3e247e0"></script>
+</head>
+<body data-depth="0" data-base="">
+<header class="site-header">
+  <div class="hdr-row">
+    <a class="site-title" href="index.html">Brzostek Jewish Records</a>
+    <nav class="site-nav">
+      <a href="browse/birth/index.html">Births</a>
+      <a href="browse/death/index.html">Deaths</a>
+      <a href="browse/marriage/index.html">Marriages</a>
+      <a href="surnames.html">Surnames</a>
+      <a href="buildings.html">Buildings</a>
+      <a href="map.html">Map</a>
+      <a href="stats.html">Stats</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+  <form class="search-form" role="search" onsubmit="return window.brzSearch && window.brzSearch.submit(event);">
+    <input id="search-box" type="search" name="q"
+           placeholder="Search people, surnames, records, IDs…"
+           autocomplete="off" aria-label="Search">
+    <button type="submit">Search</button>
+    <noscript><span class="search-disabled">JavaScript is required for search.</span></noscript>
+  </form>
+  <div id="search-results" class="search-results" hidden>
+    <div class="search-tabs">
+      <button data-tab="people" class="active">People <span id="ppl-count">0</span></button>
+      <button data-tab="records">Records <span id="rec-count">0</span></button>
+    </div>
+    <ol id="people-list"></ol>
+    <ol id="records-list" hidden></ol>
+  </div>
+</header>
+
+<main class="site-main">
+<h1>About this project</h1>
+
+<p>This site publishes the Jewish metrical books of Brzostek (Brzostek
+Jewish community, Galicia), covering births, deaths, and marriages from
+1894 through 1938. Page-scans of the original books were transcribed and
+matched against a single reconciled person index. The site is a static
+build &mdash; every page is just HTML, JSON, and JPGs that anyone can
+host on a free service such as GitHub Pages, Netlify, or Cloudflare
+Pages.</p>
+
+<h2>More about Brzostek</h2>
+<ul class="external-links">
+  <li>
+    <a href="https://vimeo.com/ondemand/atowncalledbrzostek"
+       target="_blank" rel="noopener">A Town Called Brzostek</a>
+    &mdash; documentary about the town, watch on demand at Vimeo.
+  </li>
+  <li>
+    <a href="https://jri-poland.org/town/brzostek/"
+       target="_blank" rel="noopener">Brzostek at JRI-Poland</a>
+    &mdash; Jewish Records Indexing &ndash; Poland's town page.
+  </li>
+  <li>
+    <a href="https://galiciainterns.wordpress.com/2020/03/23/a-visit-in-a-town-called-brzostek/"
+       target="_blank" rel="noopener">A visit in a town called Brzostek</a>
+    &mdash; blog post by the Galicia Jewish Heritage Institute interns
+    after a 2020 visit.
+  </li>
+  <li>
+    <a href="https://en.wikipedia.org/wiki/Brzostek"
+       target="_blank" rel="noopener">Brzostek on Wikipedia</a>
+    &mdash; general town history.
+  </li>
+  <li>
+    <a href="https://www.genealogiawarchiwach.pl/archiwum-front?locale=en"
+       target="_blank" rel="noopener">Genealogia w Archiwach</a>
+    &mdash; the Polish State Archives' genealogy portal (English
+    interface). Brzostek's books haven't been published there yet.
+  </li>
+</ul>
+
+<h2>Sources</h2>
+<ul>
+  <li>Brzostek birth book, 1894&ndash;1938. 723 records, 216 page-scans.</li>
+  <li>Brzostek death book, 1894&ndash;1938. 445 records, 161 page-scans.</li>
+  <li>Brzostek marriage book, 1894&ndash;1938. 279 records, 150 page-scans.</li>
+</ul>
+
+<h2>Methodology</h2>
+<p>Every record was transcribed from the original page-scan into a
+spreadsheet (one workbook per book). Names were normalized for an
+English-speaking audience. Names fall into a two-tier system &mdash;
+"legal" (the form that would have been seen as legal in Vienna) and
+"common" (the form the family used on an everyday basis at home). A
+single Person Index reconciles duplicates across books: each unique
+person is assigned a Person_ID (<code>P0001</code>, <code>P0002</code>,
+&hellip;), and every record's role columns reference those IDs. Where
+two record entries clearly refer to the same person, the duplicate row
+is RETIRED (kept as a tombstone only) and merged into the canonical
+row. Only CONFIRMED rows are published here.</p>
+
+<h2>Inline name links</h2>
+<p>Inside each record's transcription, names are rendered as clickable
+links to the corresponding person page. The link engine is conservative:
+it only considers people the structured columns of <em>that</em> record
+already identify, never strangers from elsewhere in the corpus. When a
+name in the prose cannot be confidently linked, the small "People in
+this record" panel beside the transcription still names the person and
+links to their page; entries that the inline pass missed are tagged
+"linked here only".</p>
+
+<h2>Corrections</h2>
+<p>Each record page and each person page has a "Submit a correction"
+button. Submissions go to the project owner by email; nothing is
+published automatically. The owner edits the underlying spreadsheet and
+re-runs the build to apply a correction.</p>
+
+<h2>Privacy</h2>
+<p>This site has no analytics, no cookies, and no third-party trackers.
+The only external services it talks to are MiniSearch and Chart.js
+(loaded from public CDNs as static JavaScript, not user data) and the
+form service that emails corrections to the owner.</p>
+
+<h2>Credits</h2>
+<p>Translation, transcription, and reconciliation: project team.
+Page-scans contributed by descendants and researchers. Site build by
+the project's static-site pipeline.</p>
+</main>
+
+<footer class="site-footer">
+  <p>Brzostek metrical books, 1894–1938. Static site, no tracking.
+  <a href="about.html">About this project</a>.</p>
+</footer>
+
+</body>
+</html>

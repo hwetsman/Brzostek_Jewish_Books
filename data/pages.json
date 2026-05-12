@@ -1,0 +1,2789 @@
+{
+ "1876_138-146.jpg": {
+  "kind": "records",
+  "year": 1876,
+  "lo": 138,
+  "hi": 146,
+  "book": "birth"
+ },
+ "1876_147-156.jpg": {
+  "kind": "records",
+  "year": 1876,
+  "lo": 147,
+  "hi": 156,
+  "book": "birth"
+ },
+ "1894_1-4.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1894_13-16.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1894_17-20.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1894_21-24.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1894_25-28.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1894_29-32_Bodner_1747746929391.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 29,
+  "hi": 32,
+  "book": "birth"
+ },
+ "1894_33-34.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 33,
+  "hi": 34,
+  "book": "birth"
+ },
+ "1894_5-8.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1894_9-12.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1894_Seal.jpg": {
+  "kind": "seal",
+  "year": 1894,
+  "book": "birth"
+ },
+ "1895-1917_Cover.jpg": {
+  "kind": "cover",
+  "year_range": [
+   1895,
+   1917
+  ],
+  "book": "birth"
+ },
+ "1895_1-4.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1895_13-16.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1895_17-20.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1895_21-24.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1895_25-28.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1895_5-8.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 5,
+  "hi": 8,
+  "book": "birth"
+ },
+ "1895_9-12.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1895_Seal.jpg": {
+  "kind": "seal",
+  "year": 1895,
+  "book": "marriage"
+ },
+ "1896_1-4.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1896_13-16_Offner_1747746929308.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1896_17-20.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1896_21-24.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1896_25-28.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1896_29-32.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 29,
+  "hi": 32,
+  "book": "birth"
+ },
+ "1896_33-36.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 33,
+  "hi": 36,
+  "book": "birth"
+ },
+ "1896_37-40.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 37,
+  "hi": 40,
+  "book": "birth"
+ },
+ "1896_41.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 41,
+  "hi": 41,
+  "book": "birth"
+ },
+ "1896_5-8.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 5,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1896_9-12.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1897_1-4.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1897_13-16.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1897_17-20_Bodner_1747746929073.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1897_21-24_Bodner_1747746929039.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1897_25-28.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1897_29-30.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 29,
+  "hi": 30,
+  "book": "birth"
+ },
+ "1897_5-8.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1897_9-12.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1897_Seal.jpg": {
+  "kind": "seal",
+  "year": 1897,
+  "book": "marriage"
+ },
+ "1898_1-4.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 1,
+  "hi": 4,
+  "book": "birth"
+ },
+ "1898_13-16.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1898_17-20.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1898_21-24.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1898_25-28.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1898_29-32.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 29,
+  "hi": 32,
+  "book": "birth"
+ },
+ "1898_33-36.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 33,
+  "hi": 36,
+  "book": "birth"
+ },
+ "1898_37-40.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 37,
+  "hi": 40,
+  "book": "birth"
+ },
+ "1898_5-8.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1898_9-12.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1899_1-4.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 1,
+  "hi": 4,
+  "book": "birth"
+ },
+ "1899_13-16.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1899_17-20.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1899_21-24_Bodner_1747746928648.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1899_25-28.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1899_29-32_Bodner_1747746928628.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 29,
+  "hi": 32,
+  "book": "birth"
+ },
+ "1899_33-36.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 33,
+  "hi": 36,
+  "book": "birth"
+ },
+ "1899_37-40.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 37,
+  "hi": 40,
+  "book": "birth"
+ },
+ "1899_41-42.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 41,
+  "hi": 42,
+  "book": "birth"
+ },
+ "1899_5-8.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 5,
+  "hi": 8,
+  "book": "birth"
+ },
+ "1899_9-12.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1899_Seal.jpg": {
+  "kind": "seal",
+  "year": 1899,
+  "book": "marriage"
+ },
+ "1900_1-4.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1900_12-15.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 12,
+  "hi": 15,
+  "book": "birth"
+ },
+ "1900_16-19.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 16,
+  "hi": 19,
+  "book": "birth"
+ },
+ "1900_20-23.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 20,
+  "hi": 23,
+  "book": "birth"
+ },
+ "1900_24-26.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 24,
+  "hi": 26,
+  "book": "birth"
+ },
+ "1900_25-28_Bodner_1747746928714.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1900_27-30.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 27,
+  "hi": 30,
+  "book": "birth"
+ },
+ "1900_5-7.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 5,
+  "hi": 7,
+  "book": "birth"
+ },
+ "1900_8-11.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 8,
+  "hi": 11,
+  "book": "birth"
+ },
+ "1900_Seal.jpg": {
+  "kind": "seal",
+  "year": 1900,
+  "book": "marriage"
+ },
+ "1900b_1-4.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 1,
+  "hi": 4,
+  "book": "birth"
+ },
+ "1900b_13-16.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1900b_17-20.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1900b_21-24.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1900b_29-31.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 29,
+  "hi": 31,
+  "book": "birth"
+ },
+ "1900b_5-8.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 5,
+  "hi": 8,
+  "book": "birth"
+ },
+ "1900b_9-12.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1901_1-4.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1901_13-16.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 13,
+  "hi": 16,
+  "book": "death"
+ },
+ "1901_17-20.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1901_21-24_Bodner_1747746928522.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1901_25-28.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1901_29-31.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 29,
+  "hi": 31,
+  "book": "birth"
+ },
+ "1901_32-34.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 32,
+  "hi": 34,
+  "book": "birth"
+ },
+ "1901_5-8.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1901_9-12.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1901_Seal.jpg": {
+  "kind": "seal",
+  "year": 1901,
+  "book": "marriage"
+ },
+ "1902_1-4.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1902_13-16.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 13,
+  "hi": 16,
+  "book": "death"
+ },
+ "1902_17-20.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1902_21-23.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 21,
+  "hi": 23,
+  "book": "birth"
+ },
+ "1902_24-27.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 24,
+  "hi": 27,
+  "book": "birth"
+ },
+ "1902_28-31_Bodner_1747746928405.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 28,
+  "hi": 31,
+  "book": "birth"
+ },
+ "1902_32-33.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 32,
+  "hi": 33,
+  "book": "birth"
+ },
+ "1902_5-8.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1902_9-12.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1902_Seal.jpg": {
+  "kind": "seal",
+  "year": 1902,
+  "book": "marriage"
+ },
+ "1904_1-4.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1904_13-16.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1904_17-19.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 17,
+  "hi": 19,
+  "book": "birth"
+ },
+ "1904_20-23.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 20,
+  "hi": 23,
+  "book": "birth"
+ },
+ "1904_24-27.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 24,
+  "hi": 27,
+  "book": "birth"
+ },
+ "1904_28-31.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 28,
+  "hi": 31,
+  "book": "birth"
+ },
+ "1904_32-35_Bodner_1747746928301.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 32,
+  "hi": 35,
+  "book": "birth"
+ },
+ "1904_36-37.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 36,
+  "hi": 37,
+  "book": "birth"
+ },
+ "1904_5-8.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 5,
+  "hi": 8,
+  "book": "birth"
+ },
+ "1904_9-12.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1904_Seal.jpg": {
+  "kind": "seal",
+  "year": 1904,
+  "book": "marriage"
+ },
+ "1905_1-3.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 1,
+  "hi": 3,
+  "book": "death"
+ },
+ "1905_11-14.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 11,
+  "hi": 14,
+  "book": "birth"
+ },
+ "1905_15-18.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 15,
+  "hi": 18,
+  "book": "death"
+ },
+ "1905_19-21.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 19,
+  "hi": 21,
+  "book": "birth"
+ },
+ "1905_22-25.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 22,
+  "hi": 25,
+  "book": "birth"
+ },
+ "1905_26-29.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 26,
+  "hi": 29,
+  "book": "birth"
+ },
+ "1905_30-33.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 30,
+  "hi": 33,
+  "book": "birth"
+ },
+ "1905_4-6_Abraham_Bodner_1747746928261.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 4,
+  "hi": 6,
+  "book": "birth"
+ },
+ "1905_7-10.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 7,
+  "hi": 10,
+  "book": "birth"
+ },
+ "1906_1-4.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 1,
+  "hi": 4,
+  "book": "birth"
+ },
+ "1906_13-16.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1906_17-20.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1906_21-24.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1906_25-28.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1906_29.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 29,
+  "hi": 29,
+  "book": "birth"
+ },
+ "1906_5-8.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 5,
+  "hi": 8,
+  "book": "birth"
+ },
+ "1906_9-12.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1907_1-4.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1907_13-16.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1907_17-20.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1907_21-24.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1907_25-28_Bodner_1747746928063.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1907_29-32.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 29,
+  "hi": 32,
+  "book": "birth"
+ },
+ "1907_33-36.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 33,
+  "hi": 36,
+  "book": "birth"
+ },
+ "1907_37-39.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 37,
+  "hi": 39,
+  "book": "birth"
+ },
+ "1907_40.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 40,
+  "hi": 40,
+  "book": "birth"
+ },
+ "1907_5-8.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 5,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1907_9-12.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1908_1-4.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1908_13-16.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1908_17-20.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1908_21-24.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1908_25-28.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1908_29-30.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 29,
+  "hi": 30,
+  "book": "birth"
+ },
+ "1908_5-8.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1908_9-12.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1909_1-4.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1909_13-16.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1909_17-20.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1909_21-24.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1909_25-28.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 25,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1909_29-32.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 29,
+  "hi": 32,
+  "book": "birth"
+ },
+ "1909_33.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 33,
+  "hi": 33,
+  "book": "birth"
+ },
+ "1909_5-8.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1909_9-12.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1910_1-4.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1910_13-16.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1910_17-20.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1910_21-24.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1910_25-27.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 25,
+  "hi": 27,
+  "book": "birth"
+ },
+ "1910_5-8.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1910_9-12.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1911_1-4.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1911_13-16.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1911_17-20.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1911_21-24.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1911_25-27.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 25,
+  "hi": 27,
+  "book": "birth"
+ },
+ "1911_5-8.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1911_9-12.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1912_1-3.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 1,
+  "hi": 3,
+  "book": "birth"
+ },
+ "1912_12-15.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 12,
+  "hi": 15,
+  "book": "birth"
+ },
+ "1912_16-19.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 16,
+  "hi": 19,
+  "book": "birth"
+ },
+ "1912_20-23.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 20,
+  "hi": 23,
+  "book": "birth"
+ },
+ "1912_24-28_Offner_1747746927663.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 24,
+  "hi": 28,
+  "book": "birth"
+ },
+ "1912_29-33.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 29,
+  "hi": 33,
+  "book": "birth"
+ },
+ "1912_4-7.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 4,
+  "hi": 7,
+  "book": "birth"
+ },
+ "1912_8-11.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 8,
+  "hi": 11,
+  "book": "birth"
+ },
+ "1913_1-4.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 1,
+  "hi": 4,
+  "book": "birth"
+ },
+ "1913_10-13.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 10,
+  "hi": 13,
+  "book": "birth"
+ },
+ "1913_14-17.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 14,
+  "hi": 17,
+  "book": "birth"
+ },
+ "1913_18-22.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 18,
+  "hi": 22,
+  "book": "birth"
+ },
+ "1913_23-25.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 23,
+  "hi": 25,
+  "book": "birth"
+ },
+ "1913_5-9.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 5,
+  "hi": 9,
+  "book": "birth"
+ },
+ "1914_1-4.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1914_13-16.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1914_17-20.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1914_21-24.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 21,
+  "hi": 24,
+  "book": "birth"
+ },
+ "1914_5-8.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1914_9-12.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1914_Index.jpg": {
+  "kind": "index",
+  "year": 1914,
+  "book": "marriage"
+ },
+ "1915_1-4.jpg": {
+  "kind": "records",
+  "year": 1915,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1915_5-8.jpg": {
+  "kind": "records",
+  "year": 1915,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1915_9-12.jpg": {
+  "kind": "records",
+  "year": 1915,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1916_1-4.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1916_13-16.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 13,
+  "hi": 16,
+  "book": "death"
+ },
+ "1916_17-20.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 17,
+  "hi": 20,
+  "book": "birth"
+ },
+ "1916_21.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 21,
+  "hi": 21,
+  "book": "birth"
+ },
+ "1916_5-8_Offner_1747746927452.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 5,
+  "hi": 8,
+  "book": "birth"
+ },
+ "1916_9-12.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1916_Index.jpg": {
+  "kind": "index",
+  "year": 1916,
+  "book": "marriage"
+ },
+ "1917_1-4.jpg": {
+  "kind": "records",
+  "year": 1917,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1917_13-16.jpg": {
+  "kind": "records",
+  "year": 1917,
+  "lo": 13,
+  "hi": 16,
+  "book": "birth"
+ },
+ "1917_17-18.jpg": {
+  "kind": "records",
+  "year": 1917,
+  "lo": 17,
+  "hi": 18,
+  "book": "birth"
+ },
+ "1917_5-8.jpg": {
+  "kind": "records",
+  "year": 1917,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1917_9-12.jpg": {
+  "kind": "records",
+  "year": 1917,
+  "lo": 9,
+  "hi": 12,
+  "book": "birth"
+ },
+ "1917_Seal.jpg": {
+  "kind": "seal",
+  "year": 1917,
+  "book": "marriage"
+ },
+ "1894_1-4 2.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1894_13-15.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 13,
+  "hi": 15,
+  "book": "death"
+ },
+ "1895_10-11.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 10,
+  "hi": 11,
+  "book": "death"
+ },
+ "1895_5-9.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 5,
+  "hi": 9,
+  "book": "death"
+ },
+ "1896_13.jpg": {
+  "kind": "records",
+  "year": 1896,
+  "lo": 13,
+  "hi": 13,
+  "book": "death"
+ },
+ "1898_1-4_Nusym_Bodner.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1898_9.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 9,
+  "hi": 9,
+  "book": "death"
+ },
+ "1898_Seal.jpg": {
+  "kind": "seal",
+  "year": 1898,
+  "book": "marriage"
+ },
+ "1899_1-5.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 1,
+  "hi": 5,
+  "book": "death"
+ },
+ "1899_6-7.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 6,
+  "hi": 7,
+  "book": "death"
+ },
+ "1900_13-16.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 13,
+  "hi": 16,
+  "book": "marriage"
+ },
+ "1900_17-18.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 17,
+  "hi": 18,
+  "book": "death"
+ },
+ "1900_5-8.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 5,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1900_9-12.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 9,
+  "hi": 12,
+  "book": "marriage"
+ },
+ "1901_17.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 17,
+  "hi": 17,
+  "book": "death"
+ },
+ "1903_1-4.jpg": {
+  "kind": "records",
+  "year": 1903,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1903_5-7.jpg": {
+  "kind": "records",
+  "year": 1903,
+  "lo": 5,
+  "hi": 7,
+  "book": "marriage"
+ },
+ "1904_10-13.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 10,
+  "hi": 13,
+  "book": "death"
+ },
+ "1904_14_Bodner.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 14,
+  "hi": 14,
+  "book": "death"
+ },
+ "1904_5-9.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 5,
+  "hi": 9,
+  "book": "death"
+ },
+ "1905_12-14.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 12,
+  "hi": 14,
+  "book": "death"
+ },
+ "1905_19.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 19,
+  "hi": 19,
+  "book": "death"
+ },
+ "1905_4-7.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 4,
+  "hi": 7,
+  "book": "death"
+ },
+ "1905_8-11.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 8,
+  "hi": 11,
+  "book": "death"
+ },
+ "1906_1-5.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 1,
+  "hi": 5,
+  "book": "death"
+ },
+ "1906_10.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 10,
+  "hi": 10,
+  "book": "death"
+ },
+ "1906_6-9.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 6,
+  "hi": 9,
+  "book": "death"
+ },
+ "1908_13-14.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 13,
+  "hi": 14,
+  "book": "death"
+ },
+ "1910_9-10_Bodner.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 9,
+  "hi": 10,
+  "book": "death"
+ },
+ "1911_9-11.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 9,
+  "hi": 11,
+  "book": "death"
+ },
+ "1912_1-4.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1912_5-8.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1912_9-12.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1913_1-5.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 1,
+  "hi": 5,
+  "book": "death"
+ },
+ "1913_11-14_Bodner.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 11,
+  "hi": 14,
+  "book": "death"
+ },
+ "1913_6-10.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 6,
+  "hi": 10,
+  "book": "death"
+ },
+ "1913_Seal.jpg": {
+  "kind": "seal",
+  "year": 1913,
+  "book": "death"
+ },
+ "1914_14.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 14,
+  "hi": 14,
+  "book": "death"
+ },
+ "1914_1918_Supplemental_Indeces.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 1918,
+  "hi": 1918,
+  "book": "death"
+ },
+ "1914_9-13.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 9,
+  "hi": 13,
+  "book": "death"
+ },
+ "1915_9-10.jpg": {
+  "kind": "records",
+  "year": 1915,
+  "lo": 9,
+  "hi": 10,
+  "book": "death"
+ },
+ "1915_Index.jpg": {
+  "kind": "index",
+  "year": 1915,
+  "book": "death"
+ },
+ "1916_17-18.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 17,
+  "hi": 18,
+  "book": "death"
+ },
+ "1916_5-8.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1917_9-11.jpg": {
+  "kind": "records",
+  "year": 1917,
+  "lo": 9,
+  "hi": 11,
+  "book": "death"
+ },
+ "1917_index.jpg": {
+  "kind": "index",
+  "year": 1917,
+  "book": "death"
+ },
+ "1918_1-4_Bodner.jpg": {
+  "kind": "records",
+  "year": 1918,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1918_5-8.jpg": {
+  "kind": "records",
+  "year": 1918,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1918_9.jpg": {
+  "kind": "records",
+  "year": 1918,
+  "lo": 9,
+  "hi": 9,
+  "book": "death"
+ },
+ "1918_Seal.jpg": {
+  "kind": "seal",
+  "year": 1918,
+  "book": "marriage"
+ },
+ "1919_1-4.jpg": {
+  "kind": "records",
+  "year": 1919,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1919_5-6.jpg": {
+  "kind": "records",
+  "year": 1919,
+  "lo": 5,
+  "hi": 6,
+  "book": "death"
+ },
+ "1920_1-4.jpg": {
+  "kind": "records",
+  "year": 1920,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1920_5-8.jpg": {
+  "kind": "records",
+  "year": 1920,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1920_9-10.jpg": {
+  "kind": "records",
+  "year": 1920,
+  "lo": 9,
+  "hi": 10,
+  "book": "death"
+ },
+ "1920_Index.jpg": {
+  "kind": "index",
+  "year": 1920,
+  "book": "marriage"
+ },
+ "1921_1-4.jpg": {
+  "kind": "records",
+  "year": 1921,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1921_13-16.jpg": {
+  "kind": "records",
+  "year": 1921,
+  "lo": 13,
+  "hi": 16,
+  "book": "death"
+ },
+ "1921_5-8.jpg": {
+  "kind": "records",
+  "year": 1921,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1921_9-12_Bodner.jpg": {
+  "kind": "records",
+  "year": 1921,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1921_Index.jpg": {
+  "kind": "index",
+  "year": 1921,
+  "book": "death"
+ },
+ "1921_Seal.jpg": {
+  "kind": "seal",
+  "year": 1921,
+  "book": "marriage"
+ },
+ "1922_1-4.jpg": {
+  "kind": "records",
+  "year": 1922,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1922_5-8.jpg": {
+  "kind": "records",
+  "year": 1922,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1922_9-12.jpg": {
+  "kind": "records",
+  "year": 1922,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1922_Seal.jpg": {
+  "kind": "seal",
+  "year": 1922,
+  "book": "marriage"
+ },
+ "1923_1-4.jpg": {
+  "kind": "records",
+  "year": 1923,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1923_5-7.jpg": {
+  "kind": "records",
+  "year": 1923,
+  "lo": 5,
+  "hi": 7,
+  "book": "death"
+ },
+ "1924_1-4.jpg": {
+  "kind": "records",
+  "year": 1924,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1924_5-6.jpg": {
+  "kind": "records",
+  "year": 1924,
+  "lo": 5,
+  "hi": 6,
+  "book": "death"
+ },
+ "1925_1-3.jpg": {
+  "kind": "records",
+  "year": 1925,
+  "lo": 1,
+  "hi": 3,
+  "book": "death"
+ },
+ "1926_1-4.jpg": {
+  "kind": "records",
+  "year": 1926,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1926_5-8.jpg": {
+  "kind": "records",
+  "year": 1926,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1926_9.jpg": {
+  "kind": "records",
+  "year": 1926,
+  "lo": 9,
+  "hi": 9,
+  "book": "death"
+ },
+ "1926_Seal.jpg": {
+  "kind": "seal",
+  "year": 1926,
+  "book": "marriage"
+ },
+ "1927_1-4.jpg": {
+  "kind": "records",
+  "year": 1927,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1927_5-6.jpg": {
+  "kind": "records",
+  "year": 1927,
+  "lo": 5,
+  "hi": 6,
+  "book": "death"
+ },
+ "1927_Seal.jpg": {
+  "kind": "seal",
+  "year": 1927,
+  "book": "death"
+ },
+ "1928_1.jpg": {
+  "kind": "records",
+  "year": 1928,
+  "lo": 1,
+  "hi": 1,
+  "book": "death"
+ },
+ "1929_1-4.jpg": {
+  "kind": "records",
+  "year": 1929,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1929_5-8.jpg": {
+  "kind": "records",
+  "year": 1929,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1930_1-4.jpg": {
+  "kind": "records",
+  "year": 1930,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1930_6.jpg": {
+  "kind": "records",
+  "year": 1930,
+  "lo": 6,
+  "hi": 6,
+  "book": "death"
+ },
+ "1931_1-4.jpg": {
+  "kind": "records",
+  "year": 1931,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1931_5-6.jpg": {
+  "kind": "records",
+  "year": 1931,
+  "lo": 5,
+  "hi": 6,
+  "book": "death"
+ },
+ "1932_1-4.jpg": {
+  "kind": "records",
+  "year": 1932,
+  "lo": 1,
+  "hi": 4,
+  "book": "death"
+ },
+ "1932_13.jpg": {
+  "kind": "records",
+  "year": 1932,
+  "lo": 13,
+  "hi": 13,
+  "book": "death"
+ },
+ "1932_5-8.jpg": {
+  "kind": "records",
+  "year": 1932,
+  "lo": 5,
+  "hi": 8,
+  "book": "death"
+ },
+ "1932_9-12.jpg": {
+  "kind": "records",
+  "year": 1932,
+  "lo": 9,
+  "hi": 12,
+  "book": "death"
+ },
+ "1932_Seal.jpg": {
+  "kind": "seal",
+  "year": 1932,
+  "book": "marriage"
+ },
+ "1933_1-4.jpg": {
+  "kind": "records",
+  "year": 1933,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1933_5-6.jpg": {
+  "kind": "records",
+  "year": 1933,
+  "lo": 5,
+  "hi": 6,
+  "book": "death"
+ },
+ "1934_1-4.jpg": {
+  "kind": "records",
+  "year": 1934,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1935_1-4.jpg": {
+  "kind": "records",
+  "year": 1935,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1935_5-7.jpg": {
+  "kind": "records",
+  "year": 1935,
+  "lo": 5,
+  "hi": 7,
+  "book": "death"
+ },
+ "1936_1-3.jpg": {
+  "kind": "records",
+  "year": 1936,
+  "lo": 1,
+  "hi": 3,
+  "book": "death"
+ },
+ "1938_1-4.jpg": {
+  "kind": "records",
+  "year": 1938,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1938_5-8.jpg": {
+  "kind": "records",
+  "year": 1938,
+  "lo": 5,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1894_1-2.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1894_1933-1936_Back_Cover.jpg": {
+  "kind": "cover",
+  "year": 1894,
+  "year_range": [
+   1933,
+   1936
+  ],
+  "book": "marriage"
+ },
+ "1894_1933-1936_Front_Cover.jpg": {
+  "kind": "cover",
+  "year": 1894,
+  "year_range": [
+   1933,
+   1936
+  ],
+  "book": "marriage"
+ },
+ "1894_3.jpg": {
+  "kind": "records",
+  "year": 1894,
+  "lo": 3,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1895_1-2_Israel_Offner.jpg": {
+  "kind": "records",
+  "year": 1895,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1895_Index.jpg": {
+  "kind": "index",
+  "year": 1895,
+  "book": "marriage"
+ },
+ "1897_1-2.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1897_3-4.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 3,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1897_5.jpg": {
+  "kind": "records",
+  "year": 1897,
+  "lo": 5,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1897_Index.jpg": {
+  "kind": "index",
+  "year": 1897,
+  "book": "marriage"
+ },
+ "1898_1-3_Bodner.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1898_4-5.jpg": {
+  "kind": "records",
+  "year": 1898,
+  "lo": 4,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1899_1-3.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1899_4-5.jpg": {
+  "kind": "records",
+  "year": 1899,
+  "lo": 4,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1900_1-2.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1900_17-20.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 17,
+  "hi": 20,
+  "book": "marriage"
+ },
+ "1900_21-22_Josef_Offner.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 21,
+  "hi": 22,
+  "book": "marriage"
+ },
+ "1900_3-4.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 3,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1900_5-6 2.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 5,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1900_5-6.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 5,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1900_7-8.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 7,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1900_9-10.jpg": {
+  "kind": "records",
+  "year": 1900,
+  "lo": 9,
+  "hi": 10,
+  "book": "marriage"
+ },
+ "1901_1-3.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1901_10-11.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 10,
+  "hi": 11,
+  "book": "marriage"
+ },
+ "1901_12-14.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 12,
+  "hi": 14,
+  "book": "marriage"
+ },
+ "1901_15-17.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 15,
+  "hi": 17,
+  "book": "marriage"
+ },
+ "1901_18-20.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 18,
+  "hi": 20,
+  "book": "marriage"
+ },
+ "1901_4-6.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 4,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1901_7-9.jpg": {
+  "kind": "records",
+  "year": 1901,
+  "lo": 7,
+  "hi": 9,
+  "book": "marriage"
+ },
+ "1902_1-3.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1902_4-6.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 4,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1902_7-8_Hersch_Bodner.jpg": {
+  "kind": "records",
+  "year": 1902,
+  "lo": 7,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1903_1-2.jpg": {
+  "kind": "records",
+  "year": 1903,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1903_3-4.jpg": {
+  "kind": "records",
+  "year": 1903,
+  "lo": 3,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1903_5-6.jpg": {
+  "kind": "records",
+  "year": 1903,
+  "lo": 5,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1903_7.jpg": {
+  "kind": "records",
+  "year": 1903,
+  "lo": 7,
+  "hi": 7,
+  "book": "marriage"
+ },
+ "1903_Seal.jpg": {
+  "kind": "seal",
+  "year": 1903,
+  "book": "marriage"
+ },
+ "1904_1-3.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1904_4-5.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 4,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1904_6.jpg": {
+  "kind": "records",
+  "year": 1904,
+  "lo": 6,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1905_1-3_Leibel.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1905_4-5.jpg": {
+  "kind": "records",
+  "year": 1905,
+  "lo": 4,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1905_Seal.jpg": {
+  "kind": "seal",
+  "year": 1905,
+  "book": "marriage"
+ },
+ "1906_1-3_Weber.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1906_10-12.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 10,
+  "hi": 12,
+  "book": "marriage"
+ },
+ "1906_4-6.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 4,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1906_7-9.jpg": {
+  "kind": "records",
+  "year": 1906,
+  "lo": 7,
+  "hi": 9,
+  "book": "marriage"
+ },
+ "1906_Index.jpg": {
+  "kind": "index",
+  "year": 1906,
+  "book": "marriage"
+ },
+ "1907_1-4_Diamand.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1907_9-11.jpg": {
+  "kind": "records",
+  "year": 1907,
+  "lo": 9,
+  "hi": 11,
+  "book": "marriage"
+ },
+ "1908_1-3.jpg": {
+  "kind": "records",
+  "year": 1908,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1909_1-2.jpg": {
+  "kind": "records",
+  "year": 1909,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1910_1-2_Bodner.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1910_3-4.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 3,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1910_5-6.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 5,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1910_7-8.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 7,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1910_9-11.jpg": {
+  "kind": "records",
+  "year": 1910,
+  "lo": 9,
+  "hi": 11,
+  "book": "marriage"
+ },
+ "1911_1-4_Offner.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1911_5-6.jpg": {
+  "kind": "records",
+  "year": 1911,
+  "lo": 5,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1912_1-2.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1912_3.jpg": {
+  "kind": "records",
+  "year": 1912,
+  "lo": 3,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1913_1-3.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1913_4-6.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 4,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1913_7_Offner_Leibel.jpg": {
+  "kind": "records",
+  "year": 1913,
+  "lo": 7,
+  "hi": 7,
+  "book": "marriage"
+ },
+ "1914_1-2.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1914_1915_Seal.jpg": {
+  "kind": "records",
+  "year": 1914,
+  "lo": 1915,
+  "hi": 1915,
+  "book": "marriage"
+ },
+ "1916_1-3.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1916_4-6.jpg": {
+  "kind": "records",
+  "year": 1916,
+  "lo": 4,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1917_Index.jpg": {
+  "kind": "index",
+  "year": 1917,
+  "book": "marriage"
+ },
+ "1919_5-8.jpg": {
+  "kind": "records",
+  "year": 1919,
+  "lo": 5,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1920_1-2.jpg": {
+  "kind": "records",
+  "year": 1920,
+  "lo": 1,
+  "hi": 2,
+  "book": "marriage"
+ },
+ "1922_5-7.jpg": {
+  "kind": "records",
+  "year": 1922,
+  "lo": 5,
+  "hi": 7,
+  "book": "marriage"
+ },
+ "1923_1-3.jpg": {
+  "kind": "records",
+  "year": 1923,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1924_5-7.jpg": {
+  "kind": "records",
+  "year": 1924,
+  "lo": 5,
+  "hi": 7,
+  "book": "marriage"
+ },
+ "1925_1-4.jpg": {
+  "kind": "records",
+  "year": 1925,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1925_5-7.jpg": {
+  "kind": "records",
+  "year": 1925,
+  "lo": 5,
+  "hi": 7,
+  "book": "marriage"
+ },
+ "1925_Seal.jpg": {
+  "kind": "seal",
+  "year": 1925,
+  "book": "marriage"
+ },
+ "1926_5.jpg": {
+  "kind": "records",
+  "year": 1926,
+  "lo": 5,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1927_5-8.jpg": {
+  "kind": "records",
+  "year": 1927,
+  "lo": 5,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1927_9.jpg": {
+  "kind": "records",
+  "year": 1927,
+  "lo": 9,
+  "hi": 9,
+  "book": "marriage"
+ },
+ "1928_1-4.jpg": {
+  "kind": "records",
+  "year": 1928,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1928_5.jpg": {
+  "kind": "records",
+  "year": 1928,
+  "lo": 5,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1929_5.jpg": {
+  "kind": "records",
+  "year": 1929,
+  "lo": 5,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1930_1-4_Offner_Diamand.jpg": {
+  "kind": "records",
+  "year": 1930,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1930_5-6.jpg": {
+  "kind": "records",
+  "year": 1930,
+  "lo": 5,
+  "hi": 6,
+  "book": "marriage"
+ },
+ "1931_Seal.jpg": {
+  "kind": "seal",
+  "year": 1931,
+  "book": "marriage"
+ },
+ "1932_1-3.jpg": {
+  "kind": "records",
+  "year": 1932,
+  "lo": 1,
+  "hi": 3,
+  "book": "marriage"
+ },
+ "1932_4-7.jpg": {
+  "kind": "records",
+  "year": 1932,
+  "lo": 4,
+  "hi": 7,
+  "book": "marriage"
+ },
+ "1932_8.jpg": {
+  "kind": "records",
+  "year": 1932,
+  "lo": 8,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1933_5.jpg": {
+  "kind": "records",
+  "year": 1933,
+  "lo": 5,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1933_Seal.jpg": {
+  "kind": "seal",
+  "year": 1933,
+  "book": "marriage"
+ },
+ "1934_5-8.jpg": {
+  "kind": "records",
+  "year": 1934,
+  "lo": 5,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1935_5.jpg": {
+  "kind": "records",
+  "year": 1935,
+  "lo": 5,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1935_Seal.jpg": {
+  "kind": "seal",
+  "year": 1935,
+  "book": "marriage"
+ },
+ "1936_1-4.jpg": {
+  "kind": "records",
+  "year": 1936,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1936_5.jpg": {
+  "kind": "records",
+  "year": 1936,
+  "lo": 5,
+  "hi": 5,
+  "book": "marriage"
+ },
+ "1937_1-4.jpg": {
+  "kind": "records",
+  "year": 1937,
+  "lo": 1,
+  "hi": 4,
+  "book": "marriage"
+ },
+ "1937_5-8.jpg": {
+  "kind": "records",
+  "year": 1937,
+  "lo": 5,
+  "hi": 8,
+  "book": "marriage"
+ },
+ "1937_Back_Cover.jpg": {
+  "kind": "cover",
+  "year": 1937,
+  "book": "marriage"
+ },
+ "1937_Front_Cover.jpg": {
+  "kind": "cover",
+  "year": 1937,
+  "book": "marriage"
+ },
+ "1938_9.jpg": {
+  "kind": "records",
+  "year": 1938,
+  "lo": 9,
+  "hi": 9,
+  "book": "marriage"
+ },
+ "1938_Back_Cover.jpg": {
+  "kind": "cover",
+  "year": 1938,
+  "book": "marriage"
+ },
+ "1938_Front_Cover.jpg": {
+  "kind": "cover",
+  "year": 1938,
+  "book": "marriage"
+ }
+}

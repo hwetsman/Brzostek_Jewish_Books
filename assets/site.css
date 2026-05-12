@@ -1,0 +1,437 @@
+:root {
+  /* Palette drawn from the 1850 Brzostek cadastral map:
+     parchment, terracotta-rose streets, sage gardens, ochre parcels,
+     synagogue blue, sepia ink. */
+  --bg: #f6ecd1;            /* parchment cream */
+  --bg-soft: #fbf5e3;       /* lighter parchment for sections */
+  --bg-card: #fffcf2;       /* card surface */
+  --fg: #2a1810;            /* deep sepia */
+  --muted: #6b4f38;         /* warm brown */
+  --line: #d4bf94;          /* warm parchment rule */
+  --accent: #8b3220;        /* terracotta — the cadastral street ink */
+  --accent-light: #c47556;  /* dusty terracotta */
+  --accent-soft: #ecc8b5;   /* rose wash */
+  --header-bg: #6e3c2c;     /* muted sepia-rose for header */
+  --green: #6f9166;         /* sage — the gardens */
+  --green-soft: #ccdac0;    /* pale sage wash */
+  --gold: #c08428;          /* warm ochre — yellow parcels */
+  --blue: #4a6e94;          /* synagogue blue accent */
+  --link: #8b3220;
+  --link-hover: #5c1f0d;
+  --side-only-bg: #f7e9b8;
+  --code-bg: #ede1c4;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 16px; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.55;
+}
+
+a { color: var(--link); }
+a:hover { color: var(--link-hover); }
+
+code {
+  background: var(--code-bg);
+  padding: 0 0.25em;
+  border-radius: 3px;
+  font-size: 0.92em;
+}
+
+h1, h2, h3, h4, .site-title, .site-nav, .role-tag, .corr-toggle, button, input, select {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Helvetica, Arial, sans-serif;
+}
+
+/* Header */
+.site-header {
+  background: var(--header-bg);
+  color: #fef9eb;
+  padding: 0.75rem 1.25rem 0.6rem;
+  border-bottom: 6px solid transparent;
+  /* Cadastral colour-strip below the header — sage / ochre / rose / blue
+     in the proportions they appear on the 1850 map. */
+  border-image: linear-gradient(to right,
+    var(--green) 0 22%,
+    var(--gold) 22% 44%,
+    var(--accent-light) 44% 70%,
+    var(--blue) 70% 88%,
+    var(--green-soft) 88% 100%) 1;
+}
+.hdr-row {
+  display: flex; align-items: baseline; flex-wrap: wrap;
+  gap: 1rem; max-width: 1200px; margin: 0 auto;
+}
+.site-title {
+  color: #fef9eb; text-decoration: none; font-weight: 700;
+  font-size: 1.25rem; letter-spacing: 0.01em;
+}
+.site-nav { display: flex; gap: 1rem; flex-wrap: wrap; }
+.site-nav a { color: #fef9eb; text-decoration: none; font-size: 0.95rem; }
+.site-nav a:hover { text-decoration: underline; }
+
+.search-form {
+  display: flex; gap: 0.5rem; max-width: 1200px;
+  margin: 0.6rem auto 0; align-items: center;
+}
+.search-form input[type=search] {
+  flex: 1; padding: 0.45rem 0.6rem; font-size: 1rem;
+  border: 1px solid var(--accent-light); border-radius: 3px;
+}
+.search-form button {
+  padding: 0.45rem 0.9rem; font-size: 1rem;
+  background: #fef9eb; color: var(--accent);
+  border: 1px solid var(--accent-light); border-radius: 3px;
+  cursor: pointer;
+}
+.search-form button:hover { background: #fff; }
+.search-disabled { color: #fffafa; opacity: 0.8; font-size: 0.9rem; }
+
+/* Search results */
+.search-results {
+  max-width: 1200px; margin: 0.5rem auto 0;
+  background: #fff; color: var(--fg);
+  border: 1px solid var(--line); border-radius: 4px;
+  max-height: 60vh; overflow: auto;
+}
+.search-tabs { display: flex; border-bottom: 1px solid var(--line); }
+.search-tabs button {
+  flex: 1; padding: 0.5rem 1rem; cursor: pointer;
+  background: #f5efe1; color: var(--fg);
+  border: none; border-right: 1px solid var(--line);
+  font-size: 0.95rem;
+}
+.search-tabs button.active { background: #fff; font-weight: 600; }
+.search-results ol { list-style: none; padding: 0; margin: 0; }
+.search-results li { padding: 0.5rem 1rem; border-bottom: 1px solid var(--line); }
+.search-results li:last-child { border-bottom: none; }
+.search-results li a { display: block; text-decoration: none; }
+.search-results li a:hover { background: #faf5e7; }
+.search-results .meta { color: var(--muted); font-size: 0.85rem; }
+
+/* Main */
+.site-main {
+  max-width: 1100px; margin: 1.5rem auto; padding: 0 1.25rem;
+}
+
+/* Home — cadastral-map landing */
+.map-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: 2rem;
+  margin: 0 0 2rem;
+  align-items: start;
+}
+@media (max-width: 900px) {
+  .map-hero { grid-template-columns: 1fr; }
+}
+.cadastral-map {
+  margin: 0;
+  background: var(--bg-card);
+  padding: 0.75rem;
+  border: 1px solid var(--line);
+  box-shadow: 0 2px 0 var(--line), 0 1px 8px rgba(80, 50, 20, 0.08);
+}
+.cadastral-map img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+}
+.cadastral-map .placeholder {
+  display: block;
+  aspect-ratio: 1962 / 1283;
+  background:
+    repeating-linear-gradient(45deg,
+      var(--green-soft) 0 18px,
+      var(--accent-soft) 18px 36px,
+      var(--bg-soft) 36px 60px);
+  border: 1px solid var(--line);
+  position: relative;
+}
+.cadastral-map .placeholder::after {
+  content: "Drop the 1850 cadastral map JPG at site_build/site/assets/cadastral_1850.jpg";
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  text-align: center; padding: 2rem;
+  color: var(--fg); background: rgba(255, 252, 242, 0.85);
+  font-style: italic; font-family: Georgia, serif;
+}
+.cadastral-map figcaption {
+  margin-top: 0.6rem; font-size: 0.85rem; color: var(--muted);
+  line-height: 1.5;
+}
+.cadastral-map figcaption strong { color: var(--accent); font-weight: 600; }
+
+.hero-text h1 {
+  margin: 0 0 0.25rem; font-size: 2.1rem; color: var(--fg);
+  letter-spacing: -0.005em; line-height: 1.15;
+  font-family: Georgia, "Times New Roman", serif;
+}
+.hero-text .years {
+  display: block; font-size: 1rem; color: var(--accent);
+  letter-spacing: 0.18em; text-transform: uppercase;
+  margin: 0 0 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+.hero-text p { font-size: 1.02rem; line-height: 1.6; }
+.hero-text p + p { margin-top: 0.8rem; }
+
+.cards {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem; margin: 0 0 1.5rem;
+}
+.card {
+  display: block; background: var(--bg-card); padding: 1.1rem 1.25rem;
+  border: 1px solid var(--line); border-radius: 2px;
+  text-decoration: none; color: var(--fg);
+  transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+  position: relative;
+}
+.card::before {
+  content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+  width: 3px; background: var(--accent-light);
+}
+.card:hover {
+  border-color: var(--accent-light); transform: translateY(-1px);
+  box-shadow: 0 2px 0 var(--line);
+}
+.card h2 {
+  margin: 0 0 0.3rem; font-size: 1.1rem; color: var(--accent);
+  letter-spacing: 0.03em;
+}
+.card p { margin: 0; color: var(--muted); font-size: 0.95rem; }
+
+.quickstats {
+  background: var(--bg-soft); border: 1px solid var(--line);
+  padding: 1.1rem 1.4rem; margin-top: 1.5rem;
+}
+.quickstats h2 {
+  margin: 0 0 0.6rem; font-size: 1rem;
+  color: var(--accent); letter-spacing: 0.12em; text-transform: uppercase;
+}
+.quickstats ul {
+  list-style: none; padding: 0; margin: 0;
+  display: flex; flex-wrap: wrap; gap: 0.4rem 2rem;
+}
+.quickstats li { padding: 0.15rem 0; }
+
+/* Person page */
+.person-header h1 { margin-bottom: 0.25rem; }
+.meta, .fields {
+  display: grid; grid-template-columns: max-content 1fr;
+  gap: 0.25rem 1rem; margin: 0.5rem 0;
+}
+.meta dt, .fields dt { color: var(--muted); font-weight: normal; }
+.meta dd, .fields dd { margin: 0; }
+
+.tree {
+  display: grid; gap: 0.6rem; margin: 0.5rem 0 1rem;
+}
+.tier { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+.card-mini {
+  display: inline-flex; flex-direction: column;
+  background: #fff; padding: 0.5rem 0.7rem;
+  border: 1px solid var(--line); border-radius: 4px;
+  text-decoration: none; color: var(--fg); min-width: 12rem;
+}
+.card-mini:hover { border-color: var(--accent-light); }
+.card-mini.muted { background: #f7f3e6; color: var(--muted); }
+.card-mini.self-card { background: #fdf6e3; border-color: var(--accent-light); }
+.card-mini .role { font-size: 0.78rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+.card-mini .name { font-weight: 500; }
+
+.refs table, .surnames, .year-index, .totals, .record-list {
+  width: 100%; border-collapse: collapse; margin: 0.5rem 0 1rem;
+}
+.refs th, .refs td, .surnames th, .surnames td,
+.year-index th, .year-index td, .totals th, .totals td,
+.record-list th, .record-list td {
+  padding: 0.4rem 0.6rem; border-bottom: 1px solid var(--line);
+  text-align: left; vertical-align: top;
+}
+.refs th, .surnames th, .year-index th, .record-list th {
+  background: #f5efe1; font-weight: 600;
+}
+
+/* Record page */
+.record-header h1 { margin-bottom: 0.2rem; }
+.record-meta { color: var(--muted); margin: 0; }
+.record-nav { margin: 0.4rem 0 1rem; }
+.record-grid {
+  display: grid; gap: 1.5rem;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr) 18rem;
+}
+@media (max-width: 1000px) {
+  .record-grid { grid-template-columns: 1fr; }
+}
+.record-image img {
+  max-width: 100%; height: auto; border: 1px solid var(--line);
+  border-radius: 4px;
+}
+.image-caption { font-size: 0.9rem; color: var(--muted); margin-top: 0.4rem; }
+.record-fields h2, .record-people h2, .record-image h2 { margin-top: 0; }
+.record-people {
+  background: #fdf6e3; border: 1px solid var(--line); border-radius: 4px;
+  padding: 0.8rem 1rem;
+}
+.record-people ol { list-style: none; padding: 0; margin: 0; }
+.record-people li { padding: 0.3rem 0; }
+.record-people li.side-only { background: var(--side-only-bg); padding: 0.3rem 0.5rem; border-radius: 3px; }
+.role-tag {
+  display: inline-block; font-size: 0.75rem; color: var(--muted);
+  text-transform: uppercase; letter-spacing: 0.05em; margin-right: 0.4rem;
+  border: 1px solid var(--line); padding: 0 0.35em; border-radius: 2px;
+  background: #fff;
+}
+.side-only-tag {
+  font-size: 0.75rem; color: #8a6300; font-style: italic;
+  margin-left: 0.4rem;
+}
+
+/* Lightbox */
+.lightbox[hidden] { display: none !important; }
+.lightbox {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.85);
+  display: flex; align-items: center; justify-content: center;
+  z-index: 1000; padding: 1rem;
+}
+.lightbox img { max-width: 96vw; max-height: 92vh; }
+.lightbox-close {
+  position: absolute; top: 0.6rem; right: 0.8rem;
+  background: transparent; color: #fff; border: none;
+  font-size: 2.4rem; cursor: pointer;
+}
+
+/* Image strip */
+.image-strip .strip {
+  display: flex; gap: 0.6rem; flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+.image-strip img {
+  height: 120px; width: auto; border: 1px solid var(--line); border-radius: 3px;
+}
+
+/* Corrections form */
+.corrections { margin: 2rem 0 1rem; }
+.corr-toggle {
+  background: #fff; border: 1px solid var(--accent-light);
+  color: var(--accent); padding: 0.5rem 1rem; border-radius: 3px;
+  cursor: pointer; font-size: 0.95rem;
+}
+.corr-toggle:hover { background: #fdf6e3; }
+.corr-form {
+  margin-top: 1rem; padding: 1rem; background: #fff;
+  border: 1px solid var(--line); border-radius: 4px;
+  max-width: 40rem;
+}
+.corr-form label { display: block; margin: 0.5rem 0; font-size: 0.95rem; }
+.corr-form input, .corr-form textarea {
+  width: 100%; padding: 0.4rem 0.5rem; font-size: 1rem;
+  border: 1px solid var(--line); border-radius: 3px;
+  font-family: inherit;
+}
+.corr-form button {
+  margin-top: 0.6rem; padding: 0.5rem 1.2rem; cursor: pointer;
+  background: var(--accent); color: #fef9eb; border: none;
+  border-radius: 3px; font-size: 0.95rem;
+}
+.corr-status { margin-top: 0.6rem; font-size: 0.9rem; }
+.corr-status.ok { color: #2c6a2c; }
+.corr-status.err { color: #a02020; }
+
+.muted { color: var(--muted); }
+.source-note { color: var(--muted); font-size: 0.9rem; margin-top: 1.5rem; }
+
+.people-list { padding-left: 1.2rem; }
+.people-list li { padding: 0.15rem 0; }
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 1rem 1.25rem; margin-top: 3rem;
+  font-size: 0.9rem; color: var(--muted);
+  background: #f3eeda;
+}
+.site-footer p { max-width: 1100px; margin: 0 auto; }
+
+/* Inline links inside record prose */
+.fields dd a { text-decoration: underline; text-decoration-style: dotted; }
+
+/* Translator's Note — curatorial annotation displayed at the top of the
+   Transcription section to flag scribal slips, ambiguities, or other
+   editorial commentary that should be visible to readers without altering
+   the source prose. */
+.translator-note {
+  background: #f6f0e0;
+  border-left: 4px solid #c4a045;
+  padding: 0.7rem 1rem;
+  margin: 0 0 1rem 0;
+  font-style: italic;
+  color: #4a3a1f;
+  border-radius: 2px;
+}
+.translator-note strong {
+  font-style: normal;
+  color: #2a1a00;
+  margin-right: 0.4em;
+}
+
+/* (Curator scaffolding for unlinked-role highlighting was removed
+   for the public site. The data-unlinked-roles attribute is still
+   emitted on .record articles so a curator-mode stylesheet could
+   re-enable the visual flag if needed.) */
+
+/* Buildings page */
+.lead { max-width: 60em; }
+.totals { color: var(--muted); font-size: 0.95em; }
+.building-nav {
+  margin: 1rem 0 2rem; padding: 0.6rem 0.8rem;
+  background: #fdf6e3; border: 1px solid var(--line);
+  border-radius: 4px; font-size: 0.95rem;
+}
+.building-nav a { margin-right: 0.4em; }
+.bldg-table {
+  width: 100%; border-collapse: collapse; margin: 0.5rem 0 2rem;
+  font-size: 0.92rem;
+}
+.bldg-table th, .bldg-table td {
+  border-bottom: 1px solid var(--line);
+  padding: 0.4rem 0.6rem;
+  vertical-align: top;
+  text-align: left;
+}
+.bldg-table th { background: #f5efe1; font-weight: 600; }
+.bldg-table td.surname-list { color: var(--fg); line-height: 1.4; }
+.bldg-table .event-mix span {
+  display: inline-block; margin-right: 0.4em;
+  padding: 0 0.4em; font-size: 0.8rem;
+  border: 1px solid var(--line); border-radius: 2px;
+  background: #fff;
+}
+.bldg-table .event-mix .ev-birth   { background: #e8f0f8; }
+.bldg-table .event-mix .ev-naming  { background: #fdf6e3; }
+.bldg-table .event-mix .ev-death   { background: #f6e8e8; }
+.bldg-table .event-mix .ev-groom   { background: #eef3e8; }
+.bldg-table .event-mix .ev-bride   { background: #f6eaf3; }
+
+/* Map popup */
+.leaflet-popup-content .map-popup h3 { margin: 0 0 0.25rem; font-size: 1.1rem; }
+.leaflet-popup-content .map-popup .meta { color: var(--muted); font-size: 0.9rem; margin: 0 0 0.4rem; }
+.leaflet-popup-content .map-popup .kind-mix { font-size: 0.85rem; margin: 0.2rem 0; color: var(--accent-light); }
+.leaflet-popup-content .map-popup ul { padding-left: 1rem; margin: 0.3rem 0; font-size: 0.9rem; }
+.leaflet-popup-content .map-popup p { margin: 0.3rem 0; }
+
+/* Stats: cohort small-multiples */
+.cohort-charts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.cohort-charts canvas { max-width: 100%; }
