@@ -1,0 +1,70 @@
+name: Submit a correction
+description: Report an error in the Brzostek Jewish Books site — wrong name, wrong date, missing relationship, transcription error, etc.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve this record. Please fill in what you can — only the first field is required.
+
+        **Privacy note:** Your GitHub username and anything you type below will be public on this issue thread. Do not include personal contact information you don't want public.
+
+  - type: input
+    id: page-url
+    attributes:
+      label: Page URL
+      description: The URL of the page you were viewing when you spotted the issue (e.g. https://.../record/b-1900-12.html or https://.../person/P0293.html). If you came here from outside the site, leave blank.
+      placeholder: https://...
+    validations:
+      required: false
+
+  - type: input
+    id: record-or-person-id
+    attributes:
+      label: Record ID or Person ID
+      description: The identifier shown on the page (e.g. `b-1900-12`, `d-1932-13`, `P0293`).
+      placeholder: e.g. b-1900-12 or P0293
+    validations:
+      required: false
+
+  - type: textarea
+    id: what-is-wrong
+    attributes:
+      label: What is wrong?
+      description: Describe the error. Quote the current text on the page if helpful.
+      placeholder: |
+        The mother's name is currently shown as "Miriam Hirsch" but the JPG reads "Miriam Hirschberg"...
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-it-should-say
+    attributes:
+      label: What should it say?
+      description: The correct value, as you understand it.
+      placeholder: |
+        Miriam Hirschberg
+    validations:
+      required: false
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source or reasoning
+      description: How do you know? Cite the JPG, an external genealogy record, a family tree, a Yad Vashem testimony, oral history, etc.
+      placeholder: |
+        - Per the m-1912-3 marriage JPG, page 47 column 4
+        - Per Yad Vashem testimony 1234567
+        - Per my grandmother's family records
+    validations:
+      required: false
+
+  - type: input
+    id: relationship
+    attributes:
+      label: Your relationship to this person (optional)
+      description: Are you a descendant, a researcher, a translator? Helps the maintainer weigh the correction.
+      placeholder: e.g. great-granddaughter, JewishGen researcher, professional translator
+    validations:
+      required: false

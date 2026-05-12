@@ -318,8 +318,20 @@ h1, h2, h3, h4, .site-title, .site-nav, .role-tag, .corr-toggle, button, input, 
   height: 120px; width: auto; border: 1px solid var(--line); border-radius: 3px;
 }
 
-/* Corrections form */
+/* Corrections — link to GitHub Issues */
 .corrections { margin: 2rem 0 1rem; }
+.corr-link {
+  display: inline-block;
+  background: #fff; border: 1px solid var(--accent-light);
+  color: var(--accent); padding: 0.5rem 1rem; border-radius: 3px;
+  text-decoration: none; font-size: 0.95rem;
+}
+.corr-link:hover { background: #fdf6e3; text-decoration: none; }
+.corr-note {
+  margin: 0.5rem 0 0; font-size: 0.85rem; color: var(--muted, #6e6055);
+  max-width: 40rem;
+}
+/* legacy form classes — retained until next template/CSS prune */
 .corr-toggle {
   background: #fff; border: 1px solid var(--accent-light);
   color: var(--accent); padding: 0.5rem 1rem; border-radius: 3px;
