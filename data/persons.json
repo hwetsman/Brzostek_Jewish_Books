@@ -191,10 +191,8 @@
    "P0018"
   ],
   "spouse_names": [
-   "Itta Leuchtag née Hoffmeister (1st",
-   "d.1895)",
-   "Hannah Leuchtag née Gewelter (2nd",
-   "religious-only)"
+   "Itta Leuchtag née Hoffmeister (1st, d.1895)",
+   "Hannah Leuchtag née Gewelter (2nd, religious-only)"
   ],
   "children_ids": [
    "P0003",
@@ -6262,12 +6260,8 @@
   "mother_name": "Chaya Kleinman née Grunberger",
   "spouse_ids": [],
   "spouse_names": [],
-  "children_ids": [
-   "P0131"
-  ],
-  "children_names": [
-   "Malka Kleinman"
-  ],
+  "children_ids": [],
+  "children_names": [],
   "in_area": "IN_AREA",
   "refs": [
    {
@@ -10435,10 +10429,8 @@
    "P0099"
   ],
   "spouse_names": [
-   "Necha Towel née Bodner (ritual",
-   "mother of Machla)",
-   "Maria Matla Towel née Rebhan (other wife",
-   "mother of Sarah)"
+   "Necha Towel née Bodner (ritual, mother of Machla)",
+   "Maria Matla Towel née Rebhan (other wife, mother of Sarah)"
   ],
   "children_ids": [
    "P0083",
@@ -11908,27 +11900,15 @@
   "father_name": "Solomon Guttenberg",
   "mother_id": "P0110",
   "mother_name": "Hannah Guttenberg née Towel",
-  "spouse_ids": [
-   "P2152"
-  ],
-  "spouse_names": [
-   "Heisig Bodner"
-  ],
-  "children_ids": [
-   "P1834"
-  ],
-  "children_names": [
-   "Selman Bodner"
-  ],
+  "spouse_ids": [],
+  "spouse_names": [],
+  "children_ids": [],
+  "children_names": [],
   "in_area": "IN_AREA",
   "refs": [
    {
     "record_id": "b-1897-10",
     "role": "Child"
-   },
-   {
-    "record_id": "m-1910-2",
-    "role": "GM"
    }
   ],
   "external_resources": null
@@ -13681,8 +13661,7 @@
    "P2091"
   ],
   "spouse_names": [
-   "Yehudit Meer née Kranz/Wurzel (4-way: Legal=Kranz mother's",
-   "Common=Wurzel father's)",
+   "Yehudit Meer née Kranz/Wurzel (4-way: Legal=Kranz mother's, Common=Wurzel father's)",
    "Riva Rachel Meer née Gleicher"
   ],
   "children_ids": [
@@ -14766,7 +14745,7 @@
   "mother_id": "P2705",
   "mother_name": "Sarah Roth",
   "spouse_ids": [
-   "P1262"
+   "P0160"
   ],
   "spouse_names": [
    "Samuel David Rothman"
@@ -18938,8 +18917,7 @@
    "P0839"
   ],
   "spouse_names": [
-   "Hinde Walter née Freiberger (1st wife",
-   "ritual)",
+   "Hinde Walter née Freiberger (1st wife, ritual)",
    "Sima Walter née Kleinman (2nd wife)"
   ],
   "children_ids": [
@@ -21178,9 +21156,7 @@
   ],
   "spouse_names": [
    "Hannah #2 Tesser née Ezra (P0266)",
-   "Hannah #1 Tesser née Geller (P2709",
-   "1st wife",
-   "deceased 1898-1901)"
+   "Hannah #1 Tesser née Geller (P2709, 1st wife, deceased 1898-1901)"
   ],
   "children_ids": [
    "P0762",
@@ -21910,8 +21886,7 @@
    "P0276"
   ],
   "children_names": [
-   "Malka Kornfeld (b. 1895",
-   "posthumous)"
+   "Malka Kornfeld (b. 1895, posthumous)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -21954,11 +21929,8 @@
    "P0250"
   ],
   "spouse_names": [
-   "Abraham Kornfeld (1st",
-   "civil 1891",
-   "deceased 1894)",
-   "Leib Tager (2nd",
-   "ritual only — Status N relationship)"
+   "Abraham Kornfeld (1st, civil 1891, deceased 1894)",
+   "Leib Tager (2nd, ritual only — Status N relationship)"
   ],
   "children_ids": [
    "P0276",
@@ -21967,8 +21939,7 @@
    "P1284"
   ],
   "children_names": [
-   "Malka Kornfeld (b. 1895",
-   "by Abraham)",
+   "Malka Kornfeld (b. 1895, by Abraham)",
    "Freida Liba Tager (Legal: Samul)",
    "Leah Tager (Legal: Samul)",
    "Naftali Hersch Tager (Legal: Samul)"
@@ -25706,10 +25677,8 @@
    "P1360"
   ],
   "spouse_names": [
-   "Vitla Karpf (2nd",
-   "1893+)",
-   "Sarah Zahler (1st",
-   "deceased pre-1893)"
+   "Vitla Karpf (2nd, 1893+)",
+   "Sarah Zahler (1st, deceased pre-1893)"
   ],
   "children_ids": [
    "P1362",
@@ -28211,10 +28180,8 @@
    "P0396"
   ],
   "spouse_names": [
-   "Sarah Rivka Rubel née Freiberger (1st",
-   "no civil record)",
-   "Malka Reisla Rubel née Walter (2nd wife",
-   "civil 1893)"
+   "Sarah Rivka Rubel née Freiberger (1st, no civil record)",
+   "Malka Reisla Rubel née Walter (2nd wife, civil 1893)"
   ],
   "children_ids": [
    "P0471",
@@ -28736,8 +28703,7 @@
    "P1485"
   ],
   "children_names": [
-   "Moses Berchiel Diamant (b. 1896",
-   "Status N→legitimized 1905)",
+   "Moses Berchiel Diamant (b. 1896, Status N→legitimized 1905)",
    "Leah Diamant (b. 1908)",
    "Aron Diamant (b. 1912)",
    "Israel Diamant (b. 1916)"
@@ -35920,13 +35886,11 @@
    "Joel Baumgarten",
    "Mendel Baumgarten",
    "Esther Baumgarten",
-   "Hannah Baumgarten (b. 5 Nov 1902",
-   "d. 22 Nov 1902 age 17d)",
+   "Hannah Baumgarten (b. 5 Nov 1902, d. 22 Nov 1902 age 17d)",
    "Leah Baumgarten",
    "Rivka Baumgarten",
    "Leib Baumgarten",
-   "(Unnamed son who died) Baumgarten (b-1916-12",
-   "d-1916-6)",
+   "(Unnamed son who died) Baumgarten (b-1916-12, d-1916-6)",
    "Breindel Baumgarten"
   ],
   "in_area": "IN_AREA",
@@ -36050,13 +36014,11 @@
    "Joel Baumgarten",
    "Mendel Baumgarten",
    "Esther Baumgarten",
-   "Hannah Baumgarten (b. 5 Nov 1902",
-   "d. 22 Nov 1902 age 17d)",
+   "Hannah Baumgarten (b. 5 Nov 1902, d. 22 Nov 1902 age 17d)",
    "Leah Baumgarten",
    "Rivka Baumgarten",
    "Leib Baumgarten",
-   "(Unnamed son who died) Baumgarten (b-1916-12",
-   "d-1916-6)",
+   "(Unnamed son who died) Baumgarten (b-1916-12, d-1916-6)",
    "Breindel Baumgarten"
   ],
   "in_area": "IN_AREA",
@@ -49760,9 +49722,7 @@
    "P1455"
   ],
   "children_names": [
-   "Marcus Joseph Sperber (Status N",
-   "b. 1903",
-   "d. 1904)",
+   "Marcus Joseph Sperber (Status N, b. 1903, d. 1904)",
    "Chaim Sperber (Legal: Walter)",
    "Sima Sperber (Legal: Walter)",
    "Leah Sperber (Legal: Walter)",
@@ -61510,7 +61470,7 @@
   "occupations": null,
   "residences": "Gorzejowa (birthplace); Brzostek (1907-1913 with Israel); Gorzejowa (1915); Siedliska (1917)",
   "status": "M",
-  "father_id": "P1262",
+  "father_id": "P0160",
   "father_name": "Samuel David Rothman",
   "mother_id": "P0161",
   "mother_name": "Freida Roth",
@@ -68232,15 +68192,9 @@
   "father_name": "Hersch Rothman",
   "mother_id": "P1145",
   "mother_name": "Necha Rothman née Diamant",
-  "spouse_ids": [
-   "P0161"
-  ],
-  "spouse_names": [
-   "Freida Roth"
-  ],
-  "children_ids": [
-   "P1098"
-  ],
+  "spouse_ids": [],
+  "spouse_names": [],
+  "children_ids": [],
   "children_names": [],
   "in_area": "IN_AREA",
   "refs": [
@@ -70774,12 +70728,9 @@
   ],
   "children_names": [
    "Sarah Kornfeld (b. 1913)",
-   "Freida Kornfeld (b. ~1915",
-   "d. 1916)",
-   "Abraham Kornfeld (b. 1916",
-   "d. 1916)",
-   "Regina Kornfeld (b. ~1920",
-   "d. 1934 — mother not named in source)"
+   "Freida Kornfeld (b. ~1915, d. 1916)",
+   "Abraham Kornfeld (b. 1916, d. 1916)",
+   "Regina Kornfeld (b. ~1920, d. 1934 — mother not named in source)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -71360,7 +71311,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": "22 Apr 1912",
-  "death_date": "11 Mar 1901",
+  "death_date": null,
   "marriage_dates": null,
   "occupations": "unemployed",
   "residences": "Brzostek (house 84)",
@@ -72857,12 +72808,8 @@
   "mother_name": "Feige Rothman",
   "spouse_ids": [],
   "spouse_names": [],
-  "children_ids": [
-   "P1522"
-  ],
-  "children_names": [
-   "Solomon Isaac Malz (Legal: Wallech)"
-  ],
+  "children_ids": [],
+  "children_names": [],
   "in_area": "IN_AREA",
   "refs": [
    {
@@ -74092,10 +74039,8 @@
   ],
   "children_names": [
    "Sarah Kornfeld (b. 1913)",
-   "Freida Kornfeld (b. ~1915",
-   "d. 1916)",
-   "Abraham Kornfeld (b. 1916",
-   "d. 1916)"
+   "Freida Kornfeld (b. ~1915, d. 1916)",
+   "Abraham Kornfeld (b. 1916, d. 1916)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -77899,7 +77844,7 @@
   "occupations": null,
   "residences": "Brzostek (house 228)",
   "status": "S",
-  "father_id": "P1387",
+  "father_id": "P2669",
   "father_name": "Chaim Wigidor Wallech/Malz",
   "mother_id": "P1391",
   "mother_name": "Malka Malz née Teitelbaum",
@@ -86642,8 +86587,8 @@
   "status": "M",
   "father_id": "P2152",
   "father_name": "Heisig Bodner",
-  "mother_id": "P0112",
-  "mother_name": "Rivka Bodner",
+  "mother_id": "P2732",
+  "mother_name": "Rivka Bodner née Tratner",
   "spouse_ids": [
    "P1835"
   ],
@@ -96895,10 +96840,8 @@
    "P1097"
   ],
   "children_names": [
-   "Sarah Kornreich (b. 1876",
-   "b-1876-147)",
-   "Israel Bieder/Kornreich (b. ~Jul 1881",
-   "m-1907-11)"
+   "Sarah Kornreich (b. 1876, b-1876-147)",
+   "Israel Bieder/Kornreich (b. ~Jul 1881, m-1907-11)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -97333,10 +97276,10 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P0112"
+   "P2732"
   ],
   "spouse_names": [
-   "Rivka Bodner née Tratner"
+   "Rivka Tratner"
   ],
   "children_ids": [
    "P1834"
@@ -113043,8 +112986,7 @@
   "children_names": [
    "Reizel Kornfeld/Reiss (b. 1909)",
    "Yocheved Kornfeld/Reiss (b. 1912)",
-   "Gedalia Reiss (b. 1915",
-   "d. 1916)"
+   "Gedalia Reiss (b. 1915, d. 1916)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -114703,8 +114645,12 @@
   "spouse_names": [
    "Malka"
   ],
-  "children_ids": [],
-  "children_names": [],
+  "children_ids": [
+   "P1522"
+  ],
+  "children_names": [
+   "Solomon Isaac Malz (Legal: Wallech)"
+  ],
   "in_area": "IN_AREA",
   "refs": [
    {
@@ -116785,6 +116731,46 @@
   "children_names": [],
   "in_area": "NOT_IN_AREA",
   "refs": [],
+  "external_resources": null
+ },
+ {
+  "id": "P2732",
+  "legal_given": "Rivka",
+  "common_given": "Rivka",
+  "legal_surname": "Tratner",
+  "common_surname": "Tratner",
+  "maiden_surname": null,
+  "married_surname": null,
+  "sex": "F",
+  "birth_date": null,
+  "death_date": null,
+  "marriage_dates": null,
+  "occupations": null,
+  "residences": null,
+  "status": null,
+  "father_id": null,
+  "father_name": null,
+  "mother_id": null,
+  "mother_name": null,
+  "spouse_ids": [
+   "P2152"
+  ],
+  "spouse_names": [
+   "Heisig Bodner"
+  ],
+  "children_ids": [
+   "P1834"
+  ],
+  "children_names": [
+   "Selman Bodner"
+  ],
+  "in_area": "NOT_IN_AREA",
+  "refs": [
+   {
+    "record_id": "m-1910-2",
+    "role": "GM"
+   }
+  ],
   "external_resources": null
  }
 ]
