@@ -6329,10 +6329,12 @@
    "Rivka Kleinman née Jasner"
   ],
   "children_ids": [
-   "P0008"
+   "P0008",
+   "P0131"
   ],
   "children_names": [
-   "Marcus Kleinman"
+   "Marcus Kleinman",
+   "Malka Kleinman"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -17728,8 +17730,12 @@
   "spouse_names": [
    "Zelda Lobel née Glassner"
   ],
-  "children_ids": [],
-  "children_names": [],
+  "children_ids": [
+   "P0204"
+  ],
+  "children_names": [
+   "Shayndel Lobel"
+  ],
   "in_area": "IN_AREA",
   "refs": [
    {
@@ -17816,8 +17822,12 @@
   "spouse_names": [
    "Isaac Lobel"
   ],
-  "children_ids": [],
-  "children_names": [],
+  "children_ids": [
+   "P0204"
+  ],
+  "children_names": [
+   "Shayndel Lobel"
+  ],
   "in_area": "IN_AREA",
   "refs": [
    {
@@ -20012,11 +20022,13 @@
   "spouse_names": [],
   "children_ids": [
    "P1739",
-   "P0673"
+   "P0673",
+   "P0246"
   ],
   "children_names": [
    "Itta Rubel/Sperber",
-   "Feige Bieder"
+   "Feige Bieder",
+   "Tyla List"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -20074,11 +20086,13 @@
   "spouse_names": [],
   "children_ids": [
    "P1739",
-   "P0673"
+   "P0673",
+   "P0246"
   ],
   "children_names": [
    "Itta Rubel/Sperber",
-   "Feige Bieder"
+   "Feige Bieder",
+   "Tyla List"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -21274,8 +21288,12 @@
   "mother_name": null,
   "spouse_ids": [],
   "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
+  "children_ids": [
+   "P2709"
+  ],
+  "children_names": [
+   "Hannah Tesser"
+  ],
   "in_area": "IN_AREA",
   "refs": [
    {
@@ -21310,8 +21328,12 @@
   "mother_name": null,
   "spouse_ids": [],
   "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
+  "children_ids": [
+   "P2709"
+  ],
+  "children_names": [
+   "Hannah Tesser"
+  ],
   "in_area": "IN_AREA",
   "refs": [
    {
@@ -36995,13 +37017,15 @@
    "P0556",
    "P0747",
    "P0874",
-   "P1103"
+   "P1103",
+   "P2696"
   ],
   "children_names": [
    "Fishel Landau (Legal: Korzennik)",
    "Chaskel Landau (Legal: Korzennik)",
    "David Moses Landau (Legal: Korzennik)",
-   "Shaya Landau (Legal: Korzennik)"
+   "Shaya Landau (Legal: Korzennik)",
+   "Esther Landau"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -37065,13 +37089,15 @@
    "P0556",
    "P0747",
    "P0874",
-   "P1103"
+   "P1103",
+   "P2696"
   ],
   "children_names": [
    "Fishel Landau (Legal: Korzennik)",
    "Chaskel Landau (Legal: Korzennik)",
    "David Moses Landau (Legal: Korzennik)",
-   "Shaya Landau (Legal: Korzennik)"
+   "Shaya Landau (Legal: Korzennik)",
+   "Esther Landau"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -69851,11 +69877,10 @@
    "Sarah Schonbach née Traum"
   ],
   "children_ids": [
-   "P1304",
+   "P2227",
    "P1391"
   ],
   "children_names": [
-   "Amalia Schonbach",
    "Amalia Schonbach",
    "Malka Schonbach"
   ],
@@ -69906,11 +69931,10 @@
    "Mendel Schonbach"
   ],
   "children_ids": [
-   "P1304",
+   "P2227",
    "P1391"
   ],
   "children_names": [
-   "Amalia Schonbach",
    "Amalia Schonbach",
    "Malka Schonbach"
   ],
@@ -71313,9 +71337,9 @@
   "birth_date": "22 Apr 1912",
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "unemployed",
+  "occupations": null,
   "residences": "Brzostek (house 84)",
-  "status": "S",
+  "status": null,
   "father_id": "P0891",
   "father_name": "Hersch Sperber",
   "mother_id": "P0892",
@@ -80452,8 +80476,12 @@
   "spouse_names": [
    "Eiga Rubel née Panzer"
   ],
-  "children_ids": [],
-  "children_names": [],
+  "children_ids": [
+   "P2693"
+  ],
+  "children_names": [
+   "Joel Rubel"
+  ],
   "in_area": "IN_AREA",
   "refs": [
    {
@@ -93016,10 +93044,12 @@
    "Fishel Weintraub"
   ],
   "children_ids": [
-   "P0317"
+   "P0575",
+   "P0329"
   ],
   "children_names": [
-   "Simcha Joseph Bodner"
+   "Simcha Joseph Bodner",
+   "Nusim Weintraub"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -95588,7 +95618,7 @@
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [
-   "P2107"
+   "P1180"
   ],
   "children_names": [
    "Moses Shaya Eisen/Kirsch"
