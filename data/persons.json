@@ -14699,6 +14699,34 @@
     "role": "Father"
    },
    {
+    "record_id": "b-1907-33",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1909-17",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1911-11",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1913-2",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1913-3",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1915-2",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1917-11",
+    "role": "MGF"
+   },
+   {
     "record_id": "d-1900-17",
     "role": "Decedent"
    },
@@ -68229,36 +68257,8 @@
   "in_area": "IN_AREA",
   "refs": [
    {
-    "record_id": "b-1907-33",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1909-17",
-    "role": "MGF"
-   },
-   {
     "record_id": "b-1910-25",
     "role": "Child"
-   },
-   {
-    "record_id": "b-1911-11",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1913-2",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1913-3",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1915-2",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1917-11",
-    "role": "MGF"
    }
   ],
   "external_resources": null
