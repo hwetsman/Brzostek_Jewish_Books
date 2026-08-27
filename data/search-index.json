@@ -2170,7 +2170,7 @@
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "",
-   "spouse_names": "Feige Roth; Sarah Roth (1st wife — Freida P0161's mother)",
+   "spouse_names": "Feige Roth",
    "residences": "Opacionka",
    "birth_date": "",
    "death_date": "28 Mar 1904",
@@ -2577,7 +2577,7 @@
    "common_surname": "Roth",
    "maiden_surname": "",
    "father_name": "Chiel Roth",
-   "mother_name": "Sarah Roth",
+   "mother_name": "Feige Roth nee Fenechel",
    "spouse_names": "Samuel David Rothman",
    "residences": "Gorzejowa",
    "birth_date": "c. 1854 (age 65 at death 1919)",
@@ -2588,7 +2588,7 @@
    "id": "P0162",
    "type": "person",
    "display": "Feige Fenechel",
-   "legal_given": "Feige",
+   "legal_given": "Sara Feige",
    "common_given": "Feige",
    "legal_surname": "Fenechel",
    "common_surname": "Fenechel",
@@ -2599,7 +2599,7 @@
    "residences": "Opacionka",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "750000 764800 765800"
+   "phonetic": "490000 750000 764800 765800"
   },
   {
    "id": "P0163",
@@ -41396,23 +41396,6 @@
    "phonetic": "049800 580000 797959"
   },
   {
-   "id": "P2705",
-   "type": "person",
-   "display": "Sarah Roth",
-   "legal_given": "Sarah",
-   "common_given": "Sarah",
-   "legal_surname": "Roth",
-   "common_surname": "Roth",
-   "maiden_surname": "",
-   "father_name": "",
-   "mother_name": "",
-   "spouse_names": "Yechiel/Chiel Roth",
-   "residences": "Januszkowice",
-   "birth_date": "",
-   "death_date": "before 1894 (deceased — daughter Freida already a married mother by 1894)",
-   "phonetic": "490000 930000"
-  },
-  {
    "id": "P2706",
    "type": "person",
    "display": "Hudesy Stein",
@@ -53271,8 +53254,8 @@
    "number": "4",
    "summary": "Death 4/1919: Freida Roth",
    "prose": "24 May 1919 Gorzejowa 25 May 1919 Brzostek Freida Rothman farmer in Gorzejowa, daughter of Yechiel and Sarah Roth inkeepers in Januszkowice Gorzejowa Female 65y Widowed farmer Gorzejowa Unspecified Bacterial Infection, infection Unspecified Bacterial Infection daughter of",
-   "people": "Freida Roth; Chiel Roth; Sarah Roth",
-   "phonetic": "480000 490000 580000 793000 930000"
+   "people": "Freida Roth; Chiel Roth; Feige Fenechel",
+   "phonetic": "480000 580000 750000 764800 765800 793000 930000"
   },
   {
    "id": "d-1919-5",

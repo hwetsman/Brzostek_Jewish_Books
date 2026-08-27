@@ -70349,15 +70349,15 @@
    },
    {
     "role": "Mother",
-    "person_id": "P2705",
-    "display": "Sarah Roth",
+    "person_id": "P0162",
+    "display": "Feige Fenechel",
     "linked_inline": true
    }
   ],
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P0161.html\" data-pid=\"P0161\">Freida Rothman</a> farmer in Gorzejowa, daughter of <a href=\"../person/P0136.html\" data-pid=\"P0136\">Yechiel</a> and <a href=\"../person/P2705.html\" data-pid=\"P2705\">Sarah Roth</a> inkeepers in Januszkowice",
+   "Decedent (prose)": "<a href=\"../person/P0161.html\" data-pid=\"P0161\">Freida Rothman</a> farmer in Gorzejowa, daughter of <a href=\"../person/P0136.html\" data-pid=\"P0136\">Yechiel</a> and <a href=\"../person/P0162.html\" data-pid=\"P0162\">Sarah Roth</a> inkeepers in Januszkowice",
    "Cause of Death": "Unspecified Bacterial Infection, infection"
   }
  },

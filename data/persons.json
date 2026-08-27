@@ -13297,12 +13297,10 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P0162",
-   "P2705"
+   "P0162"
   ],
   "spouse_names": [
-   "Feige Roth",
-   "Sarah Roth (1st wife — Freida P0161's mother)"
+   "Feige Roth"
   ],
   "children_ids": [
    "P0135",
@@ -14744,8 +14742,8 @@
   "status": "W",
   "father_id": "P0136",
   "father_name": "Chiel Roth",
-  "mother_id": "P2705",
-  "mother_name": "Sarah Roth",
+  "mother_id": "P0162",
+  "mother_name": "Feige Roth nee Fenechel",
   "spouse_ids": [
    "P0160"
   ],
@@ -14837,7 +14835,7 @@
  },
  {
   "id": "P0162",
-  "legal_given": "Feige",
+  "legal_given": "Sara Feige",
   "common_given": "Feige",
   "legal_surname": "Fenechel",
   "common_surname": "Fenechel",
@@ -14865,14 +14863,16 @@
    "P0729",
    "P2013",
    "P0477",
-   "P0135"
+   "P0135",
+   "P0161"
   ],
   "children_names": [
    "Hene Neuman",
    "Hene Roth",
    "Moses Fenechel/Roth",
    "Selig Roth",
-   "Rosa Beiles"
+   "Rosa Beiles",
+   "Freida Rothman nee Roth"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -14906,6 +14906,10 @@
    },
    {
     "record_id": "d-1896-13",
+    "role": "Mother"
+   },
+   {
+    "record_id": "d-1919-4",
     "role": "Mother"
    },
    {
@@ -115755,46 +115759,6 @@
    {
     "record_id": "m-1924-7",
     "role": "Groom"
-   }
-  ],
-  "external_resources": null
- },
- {
-  "id": "P2705",
-  "legal_given": "Sarah",
-  "common_given": "Sarah",
-  "legal_surname": "Roth",
-  "common_surname": "Roth",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": "before 1894 (deceased — daughter Freida already a married mother by 1894)",
-  "marriage_dates": null,
-  "occupations": "innkeeper",
-  "residences": "Januszkowice",
-  "status": "M",
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [
-   "P0136"
-  ],
-  "spouse_names": [
-   "Yechiel/Chiel Roth"
-  ],
-  "children_ids": [
-   "P0161"
-  ],
-  "children_names": [
-   "Freida Rothman née Roth"
-  ],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "d-1919-4",
-    "role": "Mother"
    }
   ],
   "external_resources": null
