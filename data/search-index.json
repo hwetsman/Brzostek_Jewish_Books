@@ -26011,23 +26011,6 @@
    "phonetic": "043590 454900"
   },
   {
-   "id": "P1618",
-   "type": "person",
-   "display": "Stillborn Weintraub",
-   "legal_given": "(Stillborn) Trachman",
-   "common_given": "Stillborn",
-   "legal_surname": "Trachman",
-   "common_surname": "Weintraub",
-   "maiden_surname": "",
-   "father_name": "Nusim Weintraub",
-   "mother_name": "Hannah Shayndel Weintraub née Trachman",
-   "spouse_names": "",
-   "residences": "Grudna Gorna (house 56)",
-   "birth_date": "Stillborn early Apr 1896",
-   "death_date": "Stillborn (buried 10 Apr 1896)",
-   "phonetic": "287960 394600 395600 763970"
-  },
-  {
    "id": "P1619",
    "type": "person",
    "display": "Aidla Rubel",
@@ -26145,23 +26128,6 @@
    "birth_date": "c. Oct 1877",
    "death_date": "15 Nov 1897",
    "phonetic": "689000 694000 695400 790000"
-  },
-  {
-   "id": "P1630",
-   "type": "person",
-   "display": "Stillborn Weintraub",
-   "legal_given": "(Stillborn) Trachman",
-   "common_given": "Stillborn",
-   "legal_surname": "Trachman",
-   "common_surname": "Weintraub",
-   "maiden_surname": "",
-   "father_name": "Nusim Weintraub",
-   "mother_name": "Hannah Shayndel Weintraub née Trachman",
-   "spouse_names": "",
-   "residences": "Grudna Gorna",
-   "birth_date": "Stillborn 29 May 1898",
-   "death_date": "29 May 1898",
-   "phonetic": "287960 394600 395600 763970"
   },
   {
    "id": "P1632",
@@ -26349,23 +26315,6 @@
    "birth_date": "c. Feb 1899",
    "death_date": "8 Mar 1900",
    "phonetic": "583000 698000 793439"
-  },
-  {
-   "id": "P1643",
-   "type": "person",
-   "display": "Stillborn Weintraub",
-   "legal_given": "(Stillborn) Trachman",
-   "common_given": "Stillborn",
-   "legal_surname": "Trachman",
-   "common_surname": "Weintraub",
-   "maiden_surname": "",
-   "father_name": "Nusim Weintraub",
-   "mother_name": "Hannah Shayndel Weintraub née Trachman",
-   "spouse_names": "",
-   "residences": "Grudna Gorna",
-   "birth_date": "Stillborn 27 Apr 1900",
-   "death_date": "27 Apr 1900",
-   "phonetic": "287960 394600 395600 763970"
   },
   {
    "id": "P1645",
