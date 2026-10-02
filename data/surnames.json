@@ -3234,15 +3234,21 @@
   ]
  },
  {
+  "surname": "Offen",
+  "count": 1,
+  "person_ids": [
+   "P2202"
+  ]
+ },
+ {
   "surname": "Offner",
-  "count": 6,
+  "count": 5,
   "person_ids": [
    "P0403",
    "P0404",
    "P1912",
    "P2003",
-   "P2178",
-   "P2202"
+   "P2178"
   ]
  },
  {

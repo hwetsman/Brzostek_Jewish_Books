@@ -79076,7 +79076,7 @@
   "father_id": "P2201",
   "father_name": "Michael Brand",
   "mother_id": "P2202",
-  "mother_name": "Malka Hannah Offner",
+  "mother_name": "Malka Hannah Offen",
   "spouse_ids": [
    "P1446"
   ],
@@ -105152,8 +105152,8 @@
   "id": "P2202",
   "legal_given": "Malka Hannah",
   "common_given": "Malka Hannah",
-  "legal_surname": "Offner",
-  "common_surname": "Offner",
+  "legal_surname": "Offen",
+  "common_surname": "Offen",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",

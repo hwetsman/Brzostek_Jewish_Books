@@ -87019,13 +87019,13 @@
   "fields": {
    "Marriage Date": "17 August 1913",
    "Marriage Place": "Brzostek",
-   "Groom (prose)": "Mordechi Brand, born in Dąbrowa 5/3 1890, no profession, son of Michael Brand, a local glassmaker in Dąbrowa, and Malka Hannah, née Offner",
+   "Groom (prose)": "Mordechi Brand, born in Dąbrowa 5/3 1890, no profession, son of Michael Brand, a local glassmaker in Dąbrowa, and Malka Hannah, née Offen",
    "Bride (prose)": "Beila Zahler, born in Brzostek on 6/12/1890, no profession, daughter of Wilhelm Zahler, director of (something) advance payment in Brzostek",
    "Rabbi": "Judah Leib Wolkenfeld",
    "Groom (summary)": "Mordechi Brand, age 23 years 5 months, no profession, born in Dabrowa Tarnowska, single.",
    "Bride (summary)": "Beila Zahler, age 23 years 4 months, no profession, born in Brzostek, single.",
    "Groom's Father (summary)": "Michael Brand, glassmaker, of Dabrowa Tarnowska.",
-   "Groom's Mother (summary)": "Malka Hannah Brand née Offner.",
+   "Groom's Mother (summary)": "Malka Hannah Brand née Offen.",
    "Bride's Father (summary)": "Wilhelm Zahler, director of (something) advance payment, of Brzostek."
   },
   "people": [
@@ -87050,7 +87050,7 @@
    {
     "role": "GM",
     "person_id": "P2202",
-    "display": "Malka Hannah Offner",
+    "display": "Malka Hannah Offen",
     "linked_inline": true
    },
    {
@@ -87075,13 +87075,13 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "<a href=\"../person/P1445.html\" data-pid=\"P1445\">Mordechi Brand</a>, born in Dąbrowa 5/3 1890, no profession, son of <a href=\"../person/P2201.html\" data-pid=\"P2201\">Michael Brand</a>, a local glassmaker in Dąbrowa, and <a href=\"../person/P2202.html\" data-pid=\"P2202\">Malka Hannah</a>, née <a href=\"../person/P2202.html\" data-pid=\"P2202\">Offner</a>",
+   "Groom (prose)": "<a href=\"../person/P1445.html\" data-pid=\"P1445\">Mordechi Brand</a>, born in Dąbrowa 5/3 1890, no profession, son of <a href=\"../person/P2201.html\" data-pid=\"P2201\">Michael Brand</a>, a local glassmaker in Dąbrowa, and <a href=\"../person/P2202.html\" data-pid=\"P2202\">Malka Hannah</a>, née <a href=\"../person/P2202.html\" data-pid=\"P2202\">Offen</a>",
    "Bride (prose)": "<a href=\"../person/P1446.html\" data-pid=\"P1446\">Beila Zahler</a>, born in Brzostek on 6/12/1890, no profession, daughter of <a href=\"../person/P0456.html\" data-pid=\"P0456\">Wilhelm Zahler</a>, director of (something) advance payment in Brzostek",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Groom (summary)": "<a href=\"../person/P1445.html\" data-pid=\"P1445\">Mordechi Brand</a>, age 23 years 5 months, no profession, born in Dabrowa Tarnowska, single.",
    "Bride (summary)": "<a href=\"../person/P1446.html\" data-pid=\"P1446\">Beila Zahler</a>, age 23 years 4 months, no profession, born in Brzostek, single.",
    "Groom's Father (summary)": "<a href=\"../person/P2201.html\" data-pid=\"P2201\">Michael Brand</a>, glassmaker, of Dabrowa Tarnowska.",
-   "Groom's Mother (summary)": "<a href=\"../person/P2202.html\" data-pid=\"P2202\">Malka Hannah Brand</a> née <a href=\"../person/P2202.html\" data-pid=\"P2202\">Offner</a>.",
+   "Groom's Mother (summary)": "<a href=\"../person/P2202.html\" data-pid=\"P2202\">Malka Hannah Brand</a> née <a href=\"../person/P2202.html\" data-pid=\"P2202\">Offen</a>.",
    "Bride's Father (summary)": "<a href=\"../person/P0456.html\" data-pid=\"P0456\">Wilhelm Zahler</a>, director of (something) advance payment, of Brzostek."
   }
  },

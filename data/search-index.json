@@ -23334,7 +23334,7 @@
    "common_surname": "Brand",
    "maiden_surname": "",
    "father_name": "Michael Brand",
-   "mother_name": "Malka Hannah Offner",
+   "mother_name": "Malka Hannah Offen",
    "spouse_names": "Beila Zahler",
    "residences": "Dąbrowa Tarnowska (birthplace); Hagen, Westphalia (per b-1914-14)",
    "birth_date": "5 Mar 1890 in Dąbrowa Tarnowska (per m-1913-7)",
@@ -34190,11 +34190,11 @@
   {
    "id": "P2202",
    "type": "person",
-   "display": "Malka Hannah Offner",
+   "display": "Malka Hannah Offen",
    "legal_given": "Malka Hannah",
    "common_given": "Malka Hannah",
-   "legal_surname": "Offner",
-   "common_surname": "Offner",
+   "legal_surname": "Offen",
+   "common_surname": "Offen",
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "",
@@ -34202,7 +34202,7 @@
    "residences": "Dąbrowa Tarnowska (per m-1913-7 husband's residence)",
    "birth_date": "c. 1865 (inferred — son Mordechi born 1890)",
    "death_date": "",
-   "phonetic": "076900 560000 685000"
+   "phonetic": "076000 560000 685000"
   },
   {
    "id": "P2203",
@@ -56293,9 +56293,9 @@
    "year": 1913,
    "number": "7",
    "summary": "Marriage 7/1913: Mordechi Brand & Beila Zahler",
-   "prose": "17 August 1913 Brzostek Mordechi Brand, born in Dąbrowa 5/3 1890, no profession, son of Michael Brand, a local glassmaker in Dąbrowa, and Malka Hannah, née Offner Beila Zahler, born in Brzostek on 6/12/1890, no profession, daughter of Wilhelm Zahler, director of (something) advance payment in Brzostek Judah Leib Wolkenfeld Mordechi Brand, age 23 years 5 months, no profession, born in Dabrowa Tarnowska, single. Beila Zahler, age 23 years 4 months, no profession, born in Brzostek, single. Michael Brand, glassmaker, of Dabrowa Tarnowska. Malka Hannah Brand née Offner. Wilhelm Zahler, director of (something) advance payment, of Brzostek.",
-   "people": "Mordechi Brand; Beila Zahler; Michael Brand; Malka Hannah Offner; Wilhelm Zahler; Maria Leibel; Judah Leib Wolkenfeld",
-   "phonetic": "076900 130000 430000 489000 560000 648000 658000 685000 690000 693400 693500 780000 785678 785860 796300 870000 878000"
+   "prose": "17 August 1913 Brzostek Mordechi Brand, born in Dąbrowa 5/3 1890, no profession, son of Michael Brand, a local glassmaker in Dąbrowa, and Malka Hannah, née Offen Beila Zahler, born in Brzostek on 6/12/1890, no profession, daughter of Wilhelm Zahler, director of (something) advance payment in Brzostek Judah Leib Wolkenfeld Mordechi Brand, age 23 years 5 months, no profession, born in Dabrowa Tarnowska, single. Beila Zahler, age 23 years 4 months, no profession, born in Brzostek, single. Michael Brand, glassmaker, of Dabrowa Tarnowska. Malka Hannah Brand née Offen. Wilhelm Zahler, director of (something) advance payment, of Brzostek.",
+   "people": "Mordechi Brand; Beila Zahler; Michael Brand; Malka Hannah Offen; Wilhelm Zahler; Maria Leibel; Judah Leib Wolkenfeld",
+   "phonetic": "076000 130000 430000 489000 560000 648000 658000 685000 690000 693400 693500 780000 785678 785860 796300 870000 878000"
   },
   {
    "id": "m-1914-1",
