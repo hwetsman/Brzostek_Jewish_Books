@@ -95,7 +95,7 @@
    "town": "Baczalka",
    "lat": 49.909137,
    "lon": 21.48057,
-   "events": 33,
+   "events": 35,
    "buildings": 8,
    "year_min": 1894,
    "year_max": 1932,
@@ -106,7 +106,7 @@
     ],
     [
      "Schindel",
-     8
+     9
     ],
     [
      "Hoffman",
@@ -117,11 +117,11 @@
      4
     ],
     [
-     "Wolf",
-     1
+     "Gruber",
+     2
     ],
     [
-     "Westreich",
+     "Wolf",
      1
     ]
    ],
@@ -129,13 +129,13 @@
     "Birth": 10,
     "Naming": 4,
     "Groom": 1,
-    "Death": 5,
+    "Death": 7,
     "Father_Residence": 10,
     "BF_Residence": 3
    },
    "categories": {
     "birth_naming": 14,
-    "death": 5,
+    "death": 7,
     "marriage_spouse": 1,
     "remote_relative": 13
    },
@@ -155,6 +155,30 @@
      ],
      "year_min": 1899,
      "year_max": 1916
+    },
+    {
+     "number": "40",
+     "events": 5,
+     "surnames": [
+      [
+       "Gruber",
+       2
+      ],
+      [
+       "Neubart",
+       1
+      ],
+      [
+       "Haber",
+       1
+      ],
+      [
+       "Schindel",
+       1
+      ]
+     ],
+     "year_min": 1904,
+     "year_max": 1928
     },
     {
      "number": "10",
@@ -179,26 +203,6 @@
      ],
      "year_min": 1894,
      "year_max": 1898
-    },
-    {
-     "number": "40",
-     "events": 3,
-     "surnames": [
-      [
-       "Neubart",
-       1
-      ],
-      [
-       "Haber",
-       1
-      ],
-      [
-       "Gruber",
-       1
-      ]
-     ],
-     "year_min": 1904,
-     "year_max": 1925
     },
     {
      "number": "13",
@@ -863,7 +867,7 @@
    "lat": 49.880454,
    "lon": 21.409835,
    "events": 1837,
-   "buildings": 107,
+   "buildings": 106,
    "year_min": 1876,
    "year_max": 1938,
    "top_surnames": [
@@ -2249,14 +2253,14 @@
    "town": "Globikowa",
    "lat": 49.961885,
    "lon": 21.450846,
-   "events": 37,
-   "buildings": 3,
+   "events": 33,
+   "buildings": 2,
    "year_min": 1894,
    "year_max": 1912,
    "top_surnames": [
     [
      "Meer",
-     23
+     20
     ],
     [
      "Rosenbaum",
@@ -2271,10 +2275,6 @@
      2
     ],
     [
-     "Sperber",
-     1
-    ],
-    [
      "Rozner",
      1
     ]
@@ -2282,7 +2282,6 @@
    "events_by_kind": {
     "Birth": 4,
     "Naming": 2,
-    "Death": 4,
     "Father_Residence": 5,
     "MGF_Residence": 14,
     "MGM_Residence": 2,
@@ -2293,46 +2292,34 @@
    },
    "categories": {
     "birth_naming": 6,
-    "death": 4,
+    "death": 0,
     "marriage_spouse": 3,
     "remote_relative": 24
    },
    "top_buildings": [
     {
      "number": "10",
-     "events": 6,
+     "events": 4,
      "surnames": [
       [
        "Meer",
-       6
+       4
       ]
      ],
      "year_min": 1898,
-     "year_max": 1903
+     "year_max": 1902
     },
     {
      "number": "5",
-     "events": 3,
+     "events": 2,
      "surnames": [
       [
        "Meer",
-       3
+       2
       ]
      ],
      "year_min": 1894,
-     "year_max": 1897
-    },
-    {
-     "number": "100",
-     "events": 1,
-     "surnames": [
-      [
-       "Sperber",
-       1
-      ]
-     ],
-     "year_min": 1902,
-     "year_max": 1902
+     "year_max": 1894
     }
    ],
    "town_only_events": 27,
@@ -2513,18 +2500,18 @@
    "town": "Gorzejowa",
    "lat": 49.923085,
    "lon": 21.386031,
-   "events": 77,
+   "events": 79,
    "buildings": 8,
    "year_min": 1894,
    "year_max": 1925,
    "top_surnames": [
     [
      "Rothman",
-     20
+     21
     ],
     [
      "Sperber",
-     11
+     12
     ],
     [
      "Kornreich",
@@ -2546,7 +2533,7 @@
    "events_by_kind": {
     "Birth": 18,
     "Naming": 8,
-    "Death": 5,
+    "Death": 7,
     "Father_Residence": 28,
     "MGF_Residence": 7,
     "MGM_Residence": 1,
@@ -2555,21 +2542,21 @@
    },
    "categories": {
     "birth_naming": 26,
-    "death": 5,
+    "death": 7,
     "marriage_spouse": 4,
     "remote_relative": 42
    },
    "top_buildings": [
     {
      "number": "100",
-     "events": 10,
+     "events": 11,
      "surnames": [
       [
-       "Rothman",
-       4
+       "Sperber",
+       5
       ],
       [
-       "Sperber",
+       "Rothman",
        4
       ],
       [
@@ -2601,6 +2588,30 @@
      "year_max": 1914
     },
     {
+     "number": "82",
+     "events": 5,
+     "surnames": [
+      [
+       "Kornreich",
+       2
+      ],
+      [
+       "Schindel",
+       1
+      ],
+      [
+       "Sperber",
+       1
+      ],
+      [
+       "Rothman",
+       1
+      ]
+     ],
+     "year_min": 1901,
+     "year_max": 1919
+    },
+    {
      "number": "1",
      "events": 4,
      "surnames": [
@@ -2615,26 +2626,6 @@
      ],
      "year_min": 1900,
      "year_max": 1914
-    },
-    {
-     "number": "82",
-     "events": 4,
-     "surnames": [
-      [
-       "Kornreich",
-       2
-      ],
-      [
-       "Schindel",
-       1
-      ],
-      [
-       "Sperber",
-       1
-      ]
-     ],
-     "year_min": 1901,
-     "year_max": 1915
     },
     {
      "number": "5",
@@ -2830,8 +2821,8 @@
    "town": "Grudna Gorna",
    "lat": 49.933217,
    "lon": 21.487085,
-   "events": 58,
-   "buildings": 9,
+   "events": 57,
+   "buildings": 8,
    "year_min": 1895,
    "year_max": 1929,
    "top_surnames": [
@@ -2856,13 +2847,13 @@
      1
     ],
     [
-     "Meer",
+     "Trachman",
      1
     ]
    ],
    "events_by_kind": {
     "Naming": 8,
-    "Death": 10,
+    "Death": 9,
     "Birth": 14,
     "Father_Residence": 15,
     "Mother_Residence": 2,
@@ -2873,7 +2864,7 @@
    },
    "categories": {
     "birth_naming": 22,
-    "death": 10,
+    "death": 9,
     "marriage_spouse": 3,
     "remote_relative": 23
    },
@@ -2887,7 +2878,7 @@
        9
       ],
       [
-       "Freidman",
+       "Trachman",
        1
       ]
      ],
@@ -5232,9 +5223,9 @@
    "town": "Nawsie Brzosteckie",
    "lat": 49.883633,
    "lon": 21.436984,
-   "events": 53,
+   "events": 52,
    "buildings": 6,
-   "year_min": 1894,
+   "year_min": 1895,
    "year_max": 1935,
    "top_surnames": [
     [
@@ -5265,7 +5256,7 @@
    "events_by_kind": {
     "Birth": 13,
     "Naming": 10,
-    "Death": 6,
+    "Death": 5,
     "Father_Residence": 12,
     "MGF_Residence": 1,
     "MGM_Residence": 1,
@@ -5277,7 +5268,7 @@
    },
    "categories": {
     "birth_naming": 23,
-    "death": 6,
+    "death": 5,
     "marriage_spouse": 3,
     "remote_relative": 21
    },
@@ -5343,22 +5334,6 @@
      "year_max": 1921
     },
     {
-     "number": "44",
-     "events": 2,
-     "surnames": [
-      [
-       "Lehrman",
-       1
-      ],
-      [
-       "Noth",
-       1
-      ]
-     ],
-     "year_min": 1894,
-     "year_max": 1900
-    },
-    {
      "number": "195",
      "events": 2,
      "surnames": [
@@ -5369,6 +5344,18 @@
      ],
      "year_min": 1914,
      "year_max": 1914
+    },
+    {
+     "number": "44",
+     "events": 1,
+     "surnames": [
+      [
+       "Lehrman",
+       1
+      ]
+     ],
+     "year_min": 1900,
+     "year_max": 1900
     }
    ],
    "town_only_events": 24,
@@ -8622,8 +8609,8 @@
    "town": "Wielopole",
    "lat": 49.945895,
    "lon": 21.614397,
-   "events": 23,
-   "buildings": 0,
+   "events": 24,
+   "buildings": 1,
    "year_min": 1895,
    "year_max": 1928,
    "top_surnames": [
@@ -8636,6 +8623,10 @@
      4
     ],
     [
+     "Landau",
+     3
+    ],
+    [
      "Schonwetter",
      2
     ],
@@ -8646,13 +8637,10 @@
     [
      "Barth",
      2
-    ],
-    [
-     "Landau",
-     2
     ]
    ],
    "events_by_kind": {
+    "Death": 1,
     "MGF_Residence": 9,
     "MGM_Residence": 2,
     "Bride birthplace": 3,
@@ -8662,11 +8650,24 @@
    },
    "categories": {
     "birth_naming": 0,
-    "death": 0,
+    "death": 1,
     "marriage_spouse": 6,
     "remote_relative": 17
    },
-   "top_buildings": [],
+   "top_buildings": [
+    {
+     "number": "131",
+     "events": 1,
+     "surnames": [
+      [
+       "Landau",
+       1
+      ]
+     ],
+     "year_min": 1908,
+     "year_max": 1908
+    }
+   ],
    "town_only_events": 23,
    "notes": ""
   },
@@ -9121,7 +9122,7 @@
     ],
     [
      "Karpf",
-     5
+     6
     ],
     [
      "Turk",
@@ -9157,12 +9158,8 @@
        5
       ],
       [
-       "Krau",
-       1
-      ],
-      [
        "Karpf",
-       1
+       2
       ],
       [
        "Sandberg",
@@ -9446,9 +9443,20 @@
   }
  ],
  "towns_without_pins": [
+  "Globikowka",
   "Jodegrodaic"
  ],
  "towns_without_pins_with_refs": [
+  {
+   "town": "Globikowka",
+   "refs": [
+    "d-1897-8",
+    "d-1902-2",
+    "d-1903-3",
+    "d-1903-5"
+   ],
+   "ref_count": 4
+  },
   {
    "town": "Jodegrodaic",
    "refs": [
@@ -9459,6 +9467,6 @@
  ],
  "totals": {
   "towns_on_map": 234,
-  "towns_in_corpus": 235
+  "towns_in_corpus": 236
  }
 }

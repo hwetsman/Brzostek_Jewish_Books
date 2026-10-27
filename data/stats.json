@@ -134,11 +134,11 @@
    49
   ],
   [
-   "Jacob",
-   46
+   "Abraham",
+   45
   ],
   [
-   "Abraham",
+   "Jacob",
    45
   ],
   [
@@ -155,21 +155,21 @@
   ],
   [
    "Samuel",
-   41
+   40
   ]
  ],
  "top_given_names_female": [
   [
-   "Hannah",
-   72
+   "Rivka",
+   71
   ],
   [
-   "Rivka",
-   72
+   "Hannah",
+   68
   ],
   [
    "Sarah",
-   58
+   57
   ],
   [
    "Chaya",
@@ -177,7 +177,7 @@
   ],
   [
    "Shayndel",
-   43
+   41
   ],
   [
    "Feige",
@@ -203,7 +203,7 @@
  "top_causes_of_death": [
   [
    "Pneumonia",
-   78
+   76
   ],
   [
    "Old Age",
@@ -214,23 +214,11 @@
    38
   ],
   [
-   "Urinary Tract Infection",
-   18
-  ],
-  [
-   "Dysentery",
-   17
-  ],
-  [
    "Failure to Thrive",
    16
   ],
   [
-   "Scarlet Fever",
-   14
-  ],
-  [
-   "Chronic Obstructive Pulmonary Disease",
+   "Heart Disease",
    14
   ],
   [
@@ -238,16 +226,28 @@
    13
   ],
   [
-   "Heart Disease",
+   "Scarlet Fever",
    13
+  ],
+  [
+   "Chronic Obstructive Pulmonary Disease",
+   13
+  ],
+  [
+   "Encephalitis",
+   12
+  ],
+  [
+   "Dysentery",
+   12
   ],
   [
    "Stroke-Unspecified",
    11
   ],
   [
-   "Encephalitis",
-   11
+   "Nephritis",
+   10
   ],
   [
    "Whooping Cough",
@@ -265,19 +265,19 @@
  "death_age_buckets": [
   [
    "<1 year",
-   93
+   100
   ],
   [
    "1–4",
-   64
+   57
   ],
   [
    "5–14",
-   28
+   29
   ],
   [
    "15–29",
-   35
+   33
   ],
   [
    "30–49",
@@ -289,7 +289,7 @@
   ],
   [
    "65+",
-   126
+   127
   ]
  ],
  "deaths_by_month": [
@@ -323,7 +323,7 @@
   ],
   [
    "Aug",
-   27
+   28
   ],
   [
    "Sep",
@@ -331,11 +331,11 @@
   ],
   [
    "Oct",
-   40
+   41
   ],
   [
    "Nov",
-   40
+   38
   ],
   [
    "Dec",
@@ -350,7 +350,7 @@
    ],
    [
     "Failure to Thrive",
-    12
+    16
    ],
    [
     "Stillborn",
@@ -358,45 +358,41 @@
    ],
    [
     "Whooping Cough",
-    5
+    6
    ],
    [
-    "Dysentery",
-    5
+    "Seizure",
+    3
    ],
    [
     "Scarlet Fever",
-    4
+    3
    ],
    [
     "Measles",
     3
    ],
    [
-    "Sudden Infant Death Syndrome",
-    3
+    "Gangrene",
+    2
    ]
   ],
   "Child (1–14)": [
    [
     "Pneumonia",
-    15
+    14
    ],
    [
     "Scarlet Fever",
-    9
-   ],
-   [
-    "Dysentery",
-    8
+    10
    ],
    [
     "Encephalitis",
-    6
+    7
    ],
    [
-    "Urinary Tract Infection",
-    5
+    "Dysentery",
+    6
    ],
    [
     "Scarlet Fever and Diphtheria",
@@ -407,7 +403,11 @@
     3
    ],
    [
-    "Failure to Thrive",
+    "Diphtheria",
+    3
+   ],
+   [
+    "Nephritis",
     3
    ]
   ],
@@ -418,22 +418,18 @@
    ],
    [
     "Pneumonia",
-    22
+    21
    ],
    [
-    "Urinary Tract Infection",
+    "Heart Disease",
     7
    ],
    [
     "Chronic Obstructive Pulmonary Disease",
-    7
-   ],
-   [
-    "Heart Disease",
     6
    ],
    [
-    "Typhus",
+    "Nephritis",
     4
    ],
    [
@@ -443,12 +439,16 @@
    [
     "Encephalitis",
     4
+   ],
+   [
+    "Stroke-Unspecified",
+    3
    ]
   ],
   "Senior (65+)": [
    [
     "Old Age",
-    45
+    46
    ],
    [
     "Pneumonia",
@@ -471,22 +471,22 @@
     6
    ],
    [
-    "Urinary Tract Infection",
-    5
+    "Nephritis",
+    3
    ],
    [
-    "Heart Attack",
-    2
+    "Influenza and Pneumonia",
+    1
    ]
   ]
  },
  "death_totals": {
   "with_cause": 445,
   "with_age": 443,
-  "distinct_causes": 97
+  "distinct_causes": 112
  },
  "totals": {
-  "persons": 2458,
+  "persons": 2454,
   "births": 723,
   "deaths": 445,
   "marriages": 279,

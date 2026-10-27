@@ -3795,7 +3795,7 @@
    "P1690"
   ],
   "spouse_names": [
-   "Shayna Wolkenfeld née Wagsikal (ritual)"
+   "Schindla Wolkenfeld née Wagschal (ritual)"
   ],
   "children_ids": [
    "P0615"
@@ -7941,7 +7941,6 @@
    "P0845",
    "P0945",
    "P1096",
-   "P1668",
    "P2116",
    "P2238"
   ],
@@ -7952,7 +7951,6 @@
    "Reisla Lobel",
    "Aron Lobel",
    "Rondla Rachel Lobel",
-   "Samuel Lobel (infant)",
    "Hannah Lobel",
    "Solomon Lobel"
   ],
@@ -11293,8 +11291,8 @@
  },
  {
   "id": "P0107",
-  "legal_given": "Hannah",
-  "common_given": "Hannah",
+  "legal_given": "Chane",
+  "common_given": "Chane",
   "legal_surname": "Galizer",
   "common_surname": "Derschowitz",
   "maiden_surname": null,
@@ -12948,7 +12946,7 @@
   "birth_date": "c. 1869 (age 63 at death 31 Dec 1932)",
   "death_date": "31 Dec 1932",
   "marriage_dates": "10 Dec 1906 in Brzostek (civil)",
-  "occupations": null,
+  "occupations": "owner of real estate in Zawadka (d-1933-1)",
   "residences": "Zawadka Brzostecka",
   "status": "W (widowed 1905, died 1932)",
   "birth_legitimacy": null,
@@ -13153,7 +13151,8 @@
    "P0592",
    "P0717",
    "P0980",
-   "P1067"
+   "P1067",
+   "P1638"
   ],
   "children_names": [
    "Ephraim Handler",
@@ -13163,7 +13162,8 @@
    "Unnamed Weintraub (b-1898-23 stillborn)",
    "Stillborn Weintraub (b-1900-11)",
    "Sarah Mindla Weintraub",
-   "Tauba Weintraub"
+   "Tauba Weintraub",
+   "Stillborn Trachman (d-1899-4)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -13205,6 +13205,10 @@
    },
    {
     "record_id": "d-1898-5",
+    "role": "Mother"
+   },
+   {
+    "record_id": "d-1899-4",
     "role": "Mother"
    },
    {
@@ -15674,14 +15678,14 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": "13 May 1894",
-  "death_date": null,
+  "death_date": "11 Oct 1902",
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Brzostek (house 47 at birth, naming house 149)",
+  "residences": "Brzostek (house 58)",
   "status": "S",
   "birth_legitimacy": "Legitimate (b-1894-15)",
   "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
+  "marital_status_at_death": "Single (d-1902-13)",
   "father_id": "P0061",
   "father_name": "Zalel Lobel",
   "mother_id": "P0174",
@@ -15695,6 +15699,10 @@
    {
     "record_id": "b-1894-15",
     "role": "Child"
+   },
+   {
+    "record_id": "d-1902-13",
+    "role": "Decedent"
    }
   ],
   "external_resources": null
@@ -19370,7 +19378,7 @@
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1902-6)",
-  "marital_status_at_death": "Single (d-1934-2)",
+  "marital_status_at_death": "Widowed (d-1934-2; written wdowiec in the single sub-column)",
   "father_id": "P2055",
   "father_name": "Kelman Steinhorn",
   "mother_id": "P2701",
@@ -28683,7 +28691,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": "20 Jan 1896",
-  "death_date": "11 Apr 1905 (per Notes)",
+  "death_date": "11 Apr 1905",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Brzostek",
@@ -30139,8 +30147,8 @@
    "P0869"
   ],
   "spouse_names": [
-   "Sarah Hene Roth",
-   "Rosa Neuman née Wegier"
+   "Sara Hene Fenechel (called Neuman)",
+   "Rosa Lustig"
   ],
   "children_ids": [
    "P0620",
@@ -30223,11 +30231,11 @@
  },
  {
   "id": "P0409",
-  "legal_given": "Sarah Hannah",
+  "legal_given": "Sara Hene",
   "common_given": "Hene",
-  "legal_surname": "Roth",
+  "legal_surname": "Fenechel",
   "common_surname": "Neuman",
-  "maiden_surname": null,
+  "maiden_surname": "Fenechel",
   "married_surname": null,
   "sex": "F",
   "birth_date": "c. 1860 (age 42 at death 1902)",
@@ -30242,7 +30250,7 @@
   "father_id": "P0136",
   "father_name": "Chiel Roth",
   "mother_id": "P0162",
-  "mother_name": "Feige Roth née Fenechel",
+  "mother_name": "Feige Fenechel",
   "spouse_ids": [
    "P0408"
   ],
@@ -31514,15 +31522,15 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": null,
-  "death_date": "before 21 Aug 1917 (per b-1917-14 \"the late\")",
+  "birth_date": "c. 1844 (age 69 at death 1913)",
+  "death_date": "29 Sep 1913",
   "marriage_dates": "14 May 1902 in Brzostek; 14 May 1902 in Brzostek (civil)",
   "occupations": null,
-  "residences": null,
+  "residences": "Brzostek (house 52)",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1902-4)",
-  "marital_status_at_death": null,
+  "marital_status_at_death": "Married (d-1913-11)",
   "father_id": "P2571",
   "father_name": "Kelman Sperber",
   "mother_id": "P2052",
@@ -31660,6 +31668,10 @@
    {
     "record_id": "d-1896-7",
     "role": "Mother"
+   },
+   {
+    "record_id": "d-1913-11",
+    "role": "Decedent"
    },
    {
     "record_id": "m-1896-1",
@@ -32464,7 +32476,7 @@
    "P0451"
   ],
   "spouse_names": [
-   "Sarah Halper"
+   "Sara Halpern"
   ],
   "children_ids": [
    "P0449",
@@ -32513,8 +32525,8 @@
  },
  {
   "id": "P0451",
-  "legal_given": "Sarah",
-  "common_given": "Sarah",
+  "legal_given": "Sara",
+  "common_given": "Sara",
   "legal_surname": "Halper",
   "common_surname": "Halper",
   "maiden_surname": null,
@@ -40155,7 +40167,7 @@
   "birth_date": "c. 1878 (age 60 at death 1938)",
   "death_date": "9 Aug 1938",
   "marriage_dates": "18 Jul 1895 (civil)",
-  "occupations": "owner of Wola Zawadka Brzostecka",
+  "occupations": "owner of the Zawadka estate (d-1938-6)",
   "residences": "Zawadka Brzostecka",
   "status": "M",
   "birth_legitimacy": null,
@@ -41741,7 +41753,7 @@
   "father_id": "P0016",
   "father_name": "Judah Leib Wolkenfeld",
   "mother_id": "P1690",
-  "mother_name": "Shayna Wolkenfeld née Wagsikal",
+  "mother_name": "Schindla Wolkenfeld née Wagschal",
   "spouse_ids": [
    "P0616"
   ],
@@ -43975,8 +43987,8 @@
  },
  {
   "id": "P0663",
-  "legal_given": "Miriam",
-  "common_given": "Miriam",
+  "legal_given": "Marjem",
+  "common_given": "Marjem",
   "legal_surname": "Mahler",
   "common_surname": "Bier",
   "maiden_surname": null,
@@ -50934,8 +50946,8 @@
  },
  {
   "id": "P0811",
-  "legal_given": "Shayndel",
-  "common_given": "Shayndel",
+  "legal_given": "Scheindel",
+  "common_given": "Scheindel",
   "legal_surname": "Rein",
   "common_surname": "Rein",
   "maiden_surname": null,
@@ -53100,7 +53112,7 @@
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1903-1)",
-  "marital_status_at_death": "Single (d-1925-3)",
+  "marital_status_at_death": "Married (d-1925-3; written żonaty in the single sub-column)",
   "father_id": "P2702",
   "father_name": "Kelman Blum",
   "mother_id": "P2060",
@@ -84752,8 +84764,8 @@
  },
  {
   "id": "P1596",
-  "legal_given": "Rivka",
-  "common_given": "Rivka",
+  "legal_given": "Ryfka",
+  "common_given": "Rywi",
   "legal_surname": "Bloch",
   "common_surname": "Bloch",
   "maiden_surname": null,
@@ -85830,50 +85842,11 @@
   "external_resources": null
  },
  {
-  "id": "P1637",
-  "legal_given": "Shayndel",
-  "common_given": "Shayndel",
-  "legal_surname": "Freidman",
-  "common_surname": "Freidman",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": "unemployed",
-  "residences": "Grudna Gorna (house 56)",
-  "status": "S",
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [
-   "P1638"
-  ],
-  "children_names": [
-   "(Stillborn) Freidman"
-  ],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "d-1899-4",
-    "role": "Mother"
-   }
-  ],
-  "external_resources": null
- },
- {
   "id": "P1638",
-  "legal_given": "(Stillborn) Freidman",
+  "legal_given": "(Stillborn) Trachman",
   "common_given": "Stillborn",
-  "legal_surname": "Freidman",
-  "common_surname": "Freidman",
+  "legal_surname": "Trachman",
+  "common_surname": "Trachman",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -85888,8 +85861,8 @@
   "marital_status_at_death": null,
   "father_id": null,
   "father_name": null,
-  "mother_id": "P1637",
-  "mother_name": "Shayndel Freidman",
+  "mother_id": "P0127",
+  "mother_name": "Hannah Shayndel Trachman",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -86132,7 +86105,7 @@
  {
   "id": "P1651",
   "legal_given": "Chaim Wolf",
-  "common_given": "Chaim Wolf",
+  "common_given": "Wolf",
   "legal_surname": "Mahler",
   "common_surname": "Bier",
   "maiden_surname": null,
@@ -86310,11 +86283,11 @@
  },
  {
   "id": "P1657",
-  "legal_given": "Hannah",
-  "common_given": "Hannah",
-  "legal_surname": "Kostenbaum",
-  "common_surname": "Kostenbaum",
-  "maiden_surname": null,
+  "legal_given": "Lane",
+  "common_given": "Lane",
+  "legal_surname": "Kornfeld",
+  "common_surname": "Kornfeld",
+  "maiden_surname": "Kostenbaum",
   "married_surname": null,
   "sex": "F",
   "birth_date": "c. 1843 (age 58 at death 1901)",
@@ -86380,8 +86353,8 @@
  },
  {
   "id": "P1659",
-  "legal_given": "Jacob",
-  "common_given": "Jacob",
+  "legal_given": "Jankel",
+  "common_given": "Jankel",
   "legal_surname": "Schilloj",
   "common_surname": "Schilloj",
   "maiden_surname": null,
@@ -86621,41 +86594,6 @@
   "external_resources": null
  },
  {
-  "id": "P1668",
-  "legal_given": "Samuel",
-  "common_given": "Samuel",
-  "legal_surname": "Lobel",
-  "common_surname": "Lobel",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": "c. early Oct 1902",
-  "death_date": "11 Oct 1902",
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": "Brzostek (house 58)",
-  "status": "S",
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": "Single (d-1902-13)",
-  "father_id": "P0061",
-  "father_name": "Zalel Lobel",
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "d-1902-13",
-    "role": "Decedent"
-   }
-  ],
-  "external_resources": null
- },
- {
   "id": "P1671",
   "legal_given": "Judah",
   "common_given": "Judah",
@@ -86719,7 +86657,7 @@
  {
   "id": "P1672",
   "legal_given": "Chava",
-  "common_given": "Chava",
+  "common_given": "Chavla",
   "legal_surname": "Baria",
   "common_surname": "Baria",
   "maiden_surname": null,
@@ -87387,11 +87325,11 @@
  },
  {
   "id": "P1690",
-  "legal_given": "Shayna",
-  "common_given": "Shayna",
-  "legal_surname": "Wagsikal",
+  "legal_given": "Schindla",
+  "common_given": "Schindla",
+  "legal_surname": "Wagschal",
   "common_surname": "Wolkenfeld",
-  "maiden_surname": null,
+  "maiden_surname": "Wagschal",
   "married_surname": null,
   "sex": "F",
   "birth_date": "c. 1829 (age 75 at death 1904)",
@@ -88340,9 +88278,9 @@
  },
  {
   "id": "P1718",
-  "legal_given": "Hannah",
-  "common_given": "Hannah",
-  "legal_surname": "Formal",
+  "legal_given": "Chane",
+  "common_given": "Chane",
+  "legal_surname": "Fornal",
   "common_surname": "Formal",
   "maiden_surname": null,
   "married_surname": null,
@@ -88445,8 +88383,8 @@
  },
  {
   "id": "P1721",
-  "legal_given": "Shaya",
-  "common_given": "Shaya",
+  "legal_given": "Szaja",
+  "common_given": "Szaja",
   "legal_surname": "Wolek",
   "common_surname": "Wolek",
   "maiden_surname": null,
@@ -88455,7 +88393,7 @@
   "birth_date": null,
   "death_date": "deceased before 1908",
   "marriage_dates": null,
-  "occupations": "farming",
+  "occupations": null,
   "residences": "Gebiczyna",
   "status": "S",
   "birth_legitimacy": null,
@@ -88488,8 +88426,8 @@
  },
  {
   "id": "P1722",
-  "legal_given": "Deborah",
-  "common_given": "Deborah",
+  "legal_given": "Debora",
+  "common_given": "Debora",
   "legal_surname": "Wolek",
   "common_surname": "Wolek",
   "maiden_surname": null,
@@ -88498,7 +88436,7 @@
   "birth_date": null,
   "death_date": "before 22 Apr 1908",
   "marriage_dates": null,
-  "occupations": "farming",
+  "occupations": null,
   "residences": "Gebiczyna",
   "status": null,
   "birth_legitimacy": null,
@@ -88531,8 +88469,8 @@
  },
  {
   "id": "P1723",
-  "legal_given": "Rywan",
-  "common_given": "Reuben",
+  "legal_given": "Rubin",
+  "common_given": "Ruwen",
   "legal_surname": "Wolek",
   "common_surname": "Wolek",
   "maiden_surname": null,
@@ -88541,7 +88479,7 @@
   "birth_date": "c. 1881 (age 27 at death 1908)",
   "death_date": "22 Apr 1908",
   "marriage_dates": null,
-  "occupations": null,
+  "occupations": "farmer in Gebiczyna",
   "residences": "Gebiczyna (house 72)",
   "status": "S",
   "birth_legitimacy": null,
@@ -89443,8 +89381,8 @@
  },
  {
   "id": "P1757",
-  "legal_given": "Itta",
-  "common_given": "Itta",
+  "legal_given": "Etla",
+  "common_given": "Etla",
   "legal_surname": "Senft",
   "common_surname": "Senft",
   "maiden_surname": "Bergman",
@@ -89568,8 +89506,8 @@
  },
  {
   "id": "P1763",
-  "legal_given": "Itta",
-  "common_given": "Itta",
+  "legal_given": "Etla",
+  "common_given": "Etla",
   "legal_surname": "Bergman",
   "common_surname": "Bergman",
   "maiden_surname": null,
@@ -90825,7 +90763,7 @@
   "common_given": "Malka",
   "legal_surname": "Orner",
   "common_surname": "Orner",
-  "maiden_surname": null,
+  "maiden_surname": "Haim",
   "married_surname": null,
   "sex": "F",
   "birth_date": "c. 1828 (age 90 at death 1918)",
@@ -91136,7 +91074,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1912 (per age 8 at death 1920) — UNSURE",
+  "birth_date": "c. 1840 (age 80 at death 1920)",
   "death_date": "13 Dec 1920",
   "marriage_dates": null,
   "occupations": "laborer",
@@ -99264,6 +99202,10 @@
   ],
   "in_area": "IN_AREA",
   "refs": [
+   {
+    "record_id": "d-1913-11",
+    "role": "Mother"
+   },
    {
     "record_id": "m-1902-4",
     "role": "BM"
@@ -120128,6 +120070,10 @@
     "role": "Father"
    },
    {
+    "record_id": "d-1913-11",
+    "role": "Father"
+   },
+   {
     "record_id": "m-1901-14",
     "role": "BF"
    },
@@ -120493,45 +120439,6 @@
    },
    {
     "record_id": "b-1899-11",
-    "role": "Mother"
-   }
-  ],
-  "external_resources": null
- },
- {
-  "id": "P2576",
-  "legal_given": "Hannah",
-  "common_given": "Hannah",
-  "legal_surname": "Frieberg",
-  "common_surname": "Hirsch",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": "c. 1844 (age 69 at death 1913)",
-  "death_date": "1913 (per d-1913-11)",
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": "Brzostek (unemployed)",
-  "status": "M",
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": "Married (d-1913-11)",
-  "father_id": null,
-  "father_name": "Kelman Frieberg",
-  "mother_id": null,
-  "mother_name": "Hannah Frieberg née Blatt",
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "d-1913-11",
-    "role": "Decedent"
-   },
-   {
-    "record_id": "d-1913-11",
     "role": "Mother"
    }
   ],
@@ -122131,41 +122038,6 @@
   "external_resources": null
  },
  {
-  "id": "P2682",
-  "legal_given": "Kelman",
-  "common_given": "Kelman",
-  "legal_surname": "Frieberg",
-  "common_surname": "Frieberg",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": "Brzostek",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "d-1913-11",
-    "role": "Father"
-   }
-  ],
-  "external_resources": null
- },
- {
   "id": "P2683",
   "legal_given": "Yenta",
   "common_given": "Yenta",
@@ -123435,8 +123307,8 @@
  },
  {
   "id": "P2718",
-  "legal_given": "Malka Gittla",
-  "common_given": "Malka Gittla",
+  "legal_given": "Gitel",
+  "common_given": "Gitel",
   "legal_surname": "Grabkowicz",
   "common_surname": "Grabkowicz",
   "maiden_surname": null,
