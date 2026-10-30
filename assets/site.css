@@ -447,3 +447,13 @@ h1, h2, h3, h4, .site-title, .site-nav, .role-tag, .corr-toggle, button, input, 
   margin: 1rem 0;
 }
 .cohort-charts canvas { max-width: 100%; }
+
+/* Identity presentation (28 Oct 2026) */
+.person-years { margin: 0.2rem 0 0; color: var(--muted, #666); font-size: 1.05rem; }
+.register-names table { width: 100%; border-collapse: collapse; }
+.register-names td, .register-names th { text-align: left; padding: 0.25rem 0.5rem; border-bottom: 1px solid rgba(0,0,0,0.08); vertical-align: top; }
+.register-quotes ul { padding-left: 1.1rem; }
+.register-quotes li { margin: 0.35rem 0; }
+.record-people .written-as { display: block; font-size: 0.85em; color: var(--muted, #666); margin-left: 0.2rem; }
+.muted.small, p.small { font-size: 0.85em; }
+.people-list .sub { color: var(--muted, #666); font-size: 0.9em; }

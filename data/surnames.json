@@ -1,17 +1,20 @@
 [
  {
   "surname": "Abraham",
-  "count": 4,
+  "fname": "Abraham",
+  "count": 5,
   "person_ids": [
    "P0449",
    "P0450",
+   "P0451",
    "P0702",
    "P1018"
   ]
  },
  {
   "surname": "Abrahamowicz",
-  "count": 9,
+  "fname": "Abrahamowicz",
+  "count": 10,
   "person_ids": [
    "P0306",
    "P0307",
@@ -21,18 +24,23 @@
    "P0954",
    "P1592",
    "P1639",
-   "P2035"
+   "P2035",
+   "P2036"
   ]
  },
  {
   "surname": "Ader",
-  "count": 1,
+  "fname": "Ader",
+  "count": 3,
   "person_ids": [
-   "P0900"
+   "P0899",
+   "P0900",
+   "P0901"
   ]
  },
  {
   "surname": "Adler",
+  "fname": "Adler",
   "count": 1,
   "person_ids": [
    "P2477"
@@ -40,24 +48,30 @@
  },
  {
   "surname": "Alter",
-  "count": 2,
+  "fname": "Alter",
+  "count": 3,
   "person_ids": [
    "P1493",
+   "P1494",
    "P1495"
   ]
  },
  {
   "surname": "Altholz",
-  "count": 4,
+  "fname": "Altholz",
+  "count": 6,
   "person_ids": [
    "P1218",
+   "P1219",
    "P1220",
    "P1300",
-   "P2144"
+   "P2144",
+   "P2145"
   ]
  },
  {
   "surname": "Altman",
+  "fname": "Altman",
   "count": 3,
   "person_ids": [
    "P0622",
@@ -67,15 +81,21 @@
  },
  {
   "surname": "Amsterdam",
-  "count": 19,
+  "fname": "Amsterdam",
+  "count": 25,
   "person_ids": [
    "P0124",
    "P0463",
+   "P0464",
+   "P0465",
+   "P0607",
    "P0675",
    "P0676",
    "P0678",
    "P0689",
+   "P0690",
    "P0693",
+   "P0815",
    "P0819",
    "P0875",
    "P0917",
@@ -86,20 +106,24 @@
    "P1333",
    "P1444",
    "P1523",
+   "P1581",
    "P1645",
    "P2358"
   ]
  },
  {
   "surname": "Anker",
-  "count": 2,
+  "fname": "Anker",
+  "count": 3,
   "person_ids": [
    "P2524",
+   "P2525",
    "P2526"
   ]
  },
  {
   "surname": "Arnold",
+  "fname": "Arnold",
   "count": 3,
   "person_ids": [
    "P1127",
@@ -109,7 +133,8 @@
  },
  {
   "surname": "Aron",
-  "count": 15,
+  "fname": "Aron",
+  "count": 16,
   "person_ids": [
    "P0502",
    "P0503",
@@ -125,18 +150,29 @@
    "P1457",
    "P1521",
    "P1966",
+   "P1967",
    "P2149"
   ]
  },
  {
   "surname": "Arwaschel",
+  "fname": "Arwaschel",
   "count": 1,
   "person_ids": [
    "P2534"
   ]
  },
  {
+  "surname": "Atlas",
+  "fname": "Atlas",
+  "count": 1,
+  "person_ids": [
+   "P1965"
+  ]
+ },
+ {
   "surname": "Attasow",
+  "fname": "Attasow",
   "count": 1,
   "person_ids": [
    "P1965"
@@ -144,26 +180,34 @@
  },
  {
   "surname": "Baar",
-  "count": 3,
+  "fname": "Baar",
+  "count": 5,
   "person_ids": [
    "P1895",
    "P2304",
+   "P2305",
+   "P2308",
    "P2309"
   ]
  },
  {
   "surname": "Bakon",
-  "count": 5,
+  "fname": "Bakon",
+  "count": 8,
   "person_ids": [
+   "P0308",
    "P0310",
+   "P0642",
    "P1009",
    "P1010",
+   "P1011",
    "P2039",
    "P2040"
   ]
  },
  {
   "surname": "Balsam",
+  "fname": "Balsam",
   "count": 3,
   "person_ids": [
    "P0202",
@@ -173,14 +217,17 @@
  },
  {
   "surname": "Barber",
-  "count": 2,
+  "fname": "Barber",
+  "count": 3,
   "person_ids": [
    "P0052",
-   "P0053"
+   "P0053",
+   "P0054"
   ]
  },
  {
   "surname": "Baria",
+  "fname": "Baria",
   "count": 1,
   "person_ids": [
    "P1672"
@@ -188,41 +235,57 @@
  },
  {
   "surname": "Baron",
-  "count": 2,
+  "fname": "Baron",
+  "count": 3,
   "person_ids": [
    "P2359",
+   "P2360",
    "P2361"
   ]
  },
  {
   "surname": "Barth",
-  "count": 2,
+  "fname": "Barth",
+  "count": 3,
   "person_ids": [
    "P1970",
+   "P1971",
    "P1972"
   ]
  },
  {
   "surname": "Basler",
-  "count": 2,
+  "fname": "Basler",
+  "count": 9,
   "person_ids": [
-   "P2017",
-   "P2168"
+   "P0478",
+   "P0480",
+   "P0481",
+   "P0659",
+   "P1655",
+   "P1816",
+   "P2168",
+   "P2169",
+   "P2697"
   ]
  },
  {
   "surname": "Bauernfreund",
-  "count": 5,
+  "fname": "Bauernfreund",
+  "count": 7,
   "person_ids": [
    "P1121",
+   "P1122",
    "P1123",
    "P1303",
    "P1399",
-   "P2123"
+   "P2123",
+   "P2124"
   ]
  },
  {
   "surname": "Baum",
+  "fname": "Baum",
   "count": 3,
   "person_ids": [
    "P2436",
@@ -232,10 +295,13 @@
  },
  {
   "surname": "Baumgarten",
-  "count": 13,
+  "fname": "Baumgarten",
+  "count": 16,
   "person_ids": [
    "P0454",
+   "P0491",
    "P0532",
+   "P0533",
    "P0534",
    "P0645",
    "P0748",
@@ -246,11 +312,21 @@
    "P1491",
    "P1527",
    "P1846",
-   "P1917"
+   "P1917",
+   "P1918"
+  ]
+ },
+ {
+  "surname": "Bauner",
+  "fname": "Bauner",
+  "count": 1,
+  "person_ids": [
+   "P1281"
   ]
  },
  {
   "surname": "Beer",
+  "fname": "Beer",
   "count": 5,
   "person_ids": [
    "P0138",
@@ -262,31 +338,28 @@
  },
  {
   "surname": "Beil",
-  "count": 2,
+  "fname": "Beil",
+  "count": 3,
   "person_ids": [
    "P0908",
-   "P0909"
+   "P0909",
+   "P0910"
   ]
  },
  {
   "surname": "Beiles",
-  "count": 2,
+  "fname": "Beiles",
+  "count": 3,
   "person_ids": [
    "P0133",
-   "P0134"
-  ]
- },
- {
-  "surname": "Beils",
-  "count": 2,
-  "person_ids": [
-   "P1941",
-   "P1942"
+   "P0134",
+   "P0135"
   ]
  },
  {
   "surname": "Bein",
-  "count": 11,
+  "fname": "Bein",
+  "count": 12,
   "person_ids": [
    "P0271",
    "P0272",
@@ -298,11 +371,13 @@
    "P1059",
    "P1198",
    "P1898",
-   "P2099"
+   "P2099",
+   "P2561"
   ]
  },
  {
   "surname": "Bek",
+  "fname": "Bek",
   "count": 1,
   "person_ids": [
    "P0028"
@@ -310,6 +385,7 @@
  },
  {
   "surname": "Benenstock",
+  "fname": "Benenstock",
   "count": 1,
   "person_ids": [
    "P0573"
@@ -317,15 +393,24 @@
  },
  {
   "surname": "Berger",
-  "count": 21,
+  "fname": "Berger",
+  "count": 30,
   "person_ids": [
+   "P0271",
+   "P0273",
    "P0274",
    "P0275",
+   "P0470",
+   "P0576",
    "P0578",
+   "P0639",
+   "P0757",
+   "P0956",
    "P0963",
    "P0964",
    "P0967",
    "P1474",
+   "P1475",
    "P1477",
    "P1861",
    "P1881",
@@ -334,6 +419,7 @@
    "P2029",
    "P2245",
    "P2264",
+   "P2265",
    "P2266",
    "P2267",
    "P2268",
@@ -344,12 +430,15 @@
  },
  {
   "surname": "Bergman",
-  "count": 21,
+  "fname": "Bergman",
+  "count": 26,
   "person_ids": [
    "P0025",
    "P0039",
    "P0129",
+   "P0131",
    "P0947",
+   "P0951",
    "P0953",
    "P1002",
    "P1114",
@@ -357,28 +446,34 @@
    "P1257",
    "P1326",
    "P1434",
+   "P1504",
    "P1695",
+   "P1757",
    "P1763",
    "P1878",
    "P1993",
+   "P1994",
    "P2200",
    "P2203",
-   "P2306",
    "P2308",
    "P2376",
+   "P2377",
    "P2378"
   ]
  },
  {
   "surname": "Berkelhamer",
-  "count": 2,
+  "fname": "Berkelhamer",
+  "count": 3,
   "person_ids": [
    "P0741",
-   "P0742"
+   "P0742",
+   "P0743"
   ]
  },
  {
   "surname": "Bernknop",
+  "fname": "Bernknop",
   "count": 1,
   "person_ids": [
    "P2258"
@@ -386,24 +481,40 @@
  },
  {
   "surname": "Bieder",
-  "count": 19,
+  "fname": "Bieder",
+  "count": 34,
   "person_ids": [
+   "P0034",
+   "P0035",
    "P0036",
    "P0037",
    "P0120",
    "P0414",
    "P0415",
    "P0416",
+   "P0672",
+   "P0673",
    "P0899",
    "P1090",
    "P1091",
+   "P1097",
+   "P1098",
+   "P1099",
+   "P1189",
    "P1197",
+   "P1292",
+   "P1386",
+   "P1387",
    "P1450",
+   "P1459",
+   "P1524",
    "P1530",
    "P1554",
    "P1987",
+   "P1988",
    "P1989",
    "P2310",
+   "P2311",
    "P2312",
    "P2722",
    "P2723"
@@ -411,12 +522,14 @@
  },
  {
   "surname": "Bier",
-  "count": 9,
+  "fname": "Bier",
+  "count": 10,
   "person_ids": [
    "P0662",
    "P0663",
    "P0666",
    "P1570",
+   "P1571",
    "P1572",
    "P1628",
    "P1651",
@@ -425,27 +538,42 @@
   ]
  },
  {
+  "surname": "Bierman",
+  "fname": "Bierman",
+  "count": 3,
+  "person_ids": [
+   "P2306",
+   "P2307",
+   "P2308"
+  ]
+ },
+ {
   "surname": "Bigaer",
-  "count": 6,
+  "fname": "Bigaer",
+  "count": 7,
   "person_ids": [
    "P1848",
    "P1849",
    "P1850",
    "P2189",
    "P2293",
+   "P2294",
    "P2295"
   ]
  },
  {
   "surname": "Bika",
-  "count": 2,
+  "fname": "Bika",
+  "count": 3,
   "person_ids": [
    "P2020",
+   "P2021",
    "P2022"
   ]
  },
  {
   "surname": "Bilfeld",
+  "fname": "Bilfeld",
   "count": 1,
   "person_ids": [
    "P0521"
@@ -453,10 +581,12 @@
  },
  {
   "surname": "Birn",
-  "count": 9,
+  "fname": "Birn",
+  "count": 10,
   "person_ids": [
    "P1063",
    "P1320",
+   "P1321",
    "P1413",
    "P1708",
    "P1769",
@@ -468,11 +598,17 @@
  },
  {
   "surname": "Birnbaum",
-  "count": 7,
+  "fname": "Birnbaum",
+  "count": 12,
   "person_ids": [
+   "P1022",
+   "P1023",
+   "P1024",
    "P1042",
+   "P1808",
    "P1809",
    "P1983",
+   "P1984",
    "P2093",
    "P2150",
    "P2360",
@@ -481,47 +617,70 @@
  },
  {
   "surname": "Bitterman",
+  "fname": "Bitterman",
   "count": 1,
   "person_ids": [
    "P0054"
   ]
  },
  {
+  "surname": "Blasbalg",
+  "fname": "Blasbalg",
+  "count": 1,
+  "person_ids": [
+   "P0343"
+  ]
+ },
+ {
   "surname": "Blatt",
-  "count": 5,
+  "fname": "Blatt",
+  "count": 7,
   "person_ids": [
    "P0142",
    "P0336",
    "P0886",
+   "P0887",
    "P0888",
-   "P2052"
+   "P2052",
+   "P2072"
   ]
  },
  {
   "surname": "Blatzbalg",
-  "count": 4,
+  "fname": "Blatzbalg",
+  "count": 5,
   "person_ids": [
    "P0343",
    "P0344",
    "P0345",
-   "P0725"
+   "P0725",
+   "P0726"
   ]
  },
  {
   "surname": "Blima",
-  "count": 2,
+  "fname": "Blima",
+  "count": 4,
   "person_ids": [
+   "P0508",
    "P0509",
-   "P0510"
+   "P0510",
+   "P0511"
   ]
  },
  {
   "surname": "Bloch",
-  "count": 24,
+  "fname": "Bloch",
+  "count": 30,
   "person_ids": [
    "P0032",
    "P0186",
+   "P0212",
+   "P0216",
+   "P0240",
+   "P0241",
    "P0242",
+   "P0243",
    "P0260",
    "P0261",
    "P0413",
@@ -532,11 +691,12 @@
    "P0844",
    "P0859",
    "P0979",
-   "P1532",
+   "P1533",
    "P1536",
    "P1569",
    "P1596",
    "P1891",
+   "P1989",
    "P2156",
    "P2228",
    "P2565",
@@ -547,9 +707,11 @@
  },
  {
   "surname": "Blum",
-  "count": 11,
+  "fname": "Blum",
+  "count": 14,
   "person_ids": [
    "P0860",
+   "P0861",
    "P0862",
    "P0992",
    "P1081",
@@ -557,13 +719,16 @@
    "P1264",
    "P1344",
    "P1478",
+   "P2060",
    "P2286",
+   "P2287",
    "P2288",
    "P2702"
   ]
  },
  {
   "surname": "Blumenberg",
+  "fname": "Blumenberg",
   "count": 3,
   "person_ids": [
    "P0681",
@@ -573,10 +738,13 @@
  },
  {
   "surname": "Blut",
-  "count": 5,
+  "fname": "Blut",
+  "count": 7,
   "person_ids": [
+   "P0198",
    "P0200",
    "P0201",
+   "P0202",
    "P0783",
    "P2726",
    "P2727"
@@ -584,40 +752,65 @@
  },
  {
   "surname": "Blutman",
-  "count": 2,
+  "fname": "Blutman",
+  "count": 3,
   "person_ids": [
    "P0603",
-   "P0604"
+   "P0604",
+   "P0605"
   ]
  },
  {
   "surname": "Bochner",
-  "count": 12,
+  "fname": "Bochner",
+  "count": 19,
   "person_ids": [
+   "P0154",
+   "P0156",
    "P0157",
    "P0158",
    "P0219",
    "P0220",
+   "P0221",
+   "P0382",
+   "P0594",
    "P1053",
+   "P1054",
    "P1055",
    "P1152",
    "P1236",
    "P1330",
    "P1415",
    "P2110",
-   "P2324"
+   "P2324",
+   "P2325"
   ]
  },
  {
   "surname": "Bodner",
-  "count": 28,
+  "fname": "Bodner",
+  "count": 44,
   "person_ids": [
    "P0083",
+   "P0084",
+   "P0085",
+   "P0094",
+   "P0110",
+   "P0112",
+   "P0113",
+   "P0114",
+   "P0140",
    "P0141",
+   "P0142",
    "P0235",
    "P0236",
    "P0237",
+   "P0368",
+   "P0369",
+   "P0399",
    "P0506",
+   "P0526",
+   "P0575",
    "P0661",
    "P0746",
    "P0764",
@@ -628,22 +821,25 @@
    "P1046",
    "P1088",
    "P1155",
-   "P1160",
-   "P1161",
    "P1281",
+   "P1539",
+   "P1622",
    "P1632",
    "P1656",
    "P1691",
    "P1737",
    "P1834",
+   "P1835",
    "P1836",
    "P2056",
    "P2057",
-   "P2152"
+   "P2152",
+   "P2732"
   ]
  },
  {
   "surname": "Bornfeld",
+  "fname": "Bornfeld",
   "count": 1,
   "person_ids": [
    "P0766"
@@ -651,6 +847,7 @@
  },
  {
   "surname": "Boyer",
+  "fname": "Boyer",
   "count": 1,
   "person_ids": [
    "P2688"
@@ -658,19 +855,35 @@
  },
  {
   "surname": "Brand",
-  "count": 4,
+  "fname": "Brand",
+  "count": 7,
   "person_ids": [
    "P0726",
    "P1445",
+   "P1446",
    "P1447",
-   "P2201"
+   "P2201",
+   "P2202",
+   "P2457"
+  ]
+ },
+ {
+  "surname": "Brandsdorfer",
+  "fname": "Brandsdorfer",
+  "count": 3,
+  "person_ids": [
+   "P0630",
+   "P0631",
+   "P1641"
   ]
  },
  {
   "surname": "Braudsdorfer",
-  "count": 4,
+  "fname": "Braudsdorfer",
+  "count": 5,
   "person_ids": [
    "P0630",
+   "P0631",
    "P0732",
    "P1641",
    "P1642"
@@ -678,6 +891,7 @@
  },
  {
   "surname": "Braun",
+  "fname": "Braun",
   "count": 2,
   "person_ids": [
    "P1077",
@@ -686,32 +900,30 @@
  },
  {
   "surname": "Braunheim",
-  "count": 5,
+  "fname": "Braunheim",
+  "count": 7,
   "person_ids": [
    "P0904",
    "P0905",
+   "P0906",
    "P1170",
    "P1174",
-   "P1393"
+   "P1393",
+   "P2623"
   ]
  },
  {
   "surname": "Brill",
-  "count": 1,
-  "person_ids": [
-   "P2154"
-  ]
- },
- {
-  "surname": "Brinbaum",
+  "fname": "Brill",
   "count": 2,
   "person_ids": [
-   "P1022",
-   "P1024"
+   "P2154",
+   "P2155"
   ]
  },
  {
   "surname": "Bruder",
+  "fname": "Bruder",
   "count": 1,
   "person_ids": [
    "P2352"
@@ -719,6 +931,7 @@
  },
  {
   "surname": "Buchholz",
+  "fname": "Buchholz",
   "count": 1,
   "person_ids": [
    "P1999"
@@ -726,17 +939,20 @@
  },
  {
   "surname": "Burstin",
-  "count": 5,
+  "fname": "Burstin",
+  "count": 6,
   "person_ids": [
    "P0998",
    "P1019",
    "P1021",
    "P1175",
-   "P2105"
+   "P2105",
+   "P2106"
   ]
  },
  {
   "surname": "Burstiner",
+  "fname": "Burstiner",
   "count": 1,
   "person_ids": [
    "P1298"
@@ -744,14 +960,17 @@
  },
  {
   "surname": "Cenzak",
-  "count": 2,
+  "fname": "Cenzak",
+  "count": 3,
   "person_ids": [
    "P1602",
+   "P1603",
    "P1604"
   ]
  },
  {
   "surname": "Charad",
+  "fname": "Charad",
   "count": 1,
   "person_ids": [
    "P0544"
@@ -759,6 +978,7 @@
  },
  {
   "surname": "Chomont",
+  "fname": "Chomont",
   "count": 1,
   "person_ids": [
    "P0743"
@@ -766,29 +986,45 @@
  },
  {
   "surname": "Citronenbaum",
-  "count": 2,
+  "fname": "Citronenbaum",
+  "count": 3,
   "person_ids": [
    "P2045",
+   "P2046",
    "P2047"
   ]
  },
  {
+  "surname": "Czernieson",
+  "fname": "Czernieson",
+  "count": 3,
+  "person_ids": [
+   "P1239",
+   "P1242",
+   "P2631"
+  ]
+ },
+ {
   "surname": "Czopp",
-  "count": 9,
+  "fname": "Czopp",
+  "count": 11,
   "person_ids": [
    "P0064",
    "P0065",
+   "P0066",
    "P0072",
    "P0073",
    "P0074",
    "P0075",
    "P0076",
+   "P0077",
    "P0867",
    "P2621"
   ]
  },
  {
   "surname": "Dankowicz",
+  "fname": "Dankowicz",
   "count": 1,
   "person_ids": [
    "P0239"
@@ -796,6 +1032,7 @@
  },
  {
   "surname": "Dawid",
+  "fname": "Dawid",
   "count": 1,
   "person_ids": [
    "P2440"
@@ -803,6 +1040,7 @@
  },
  {
   "surname": "Degen",
+  "fname": "Degen",
   "count": 1,
   "person_ids": [
    "P2317"
@@ -810,6 +1048,7 @@
  },
  {
   "surname": "Dekel",
+  "fname": "Dekel",
   "count": 1,
   "person_ids": [
    "P2181"
@@ -817,19 +1056,24 @@
  },
  {
   "surname": "Dembitzer",
-  "count": 7,
+  "fname": "Dembitzer",
+  "count": 10,
   "person_ids": [
    "P0546",
+   "P0547",
    "P0550",
    "P0876",
+   "P0877",
    "P0880",
    "P1073",
    "P1995",
-   "P1996"
+   "P1996",
+   "P1997"
   ]
  },
  {
   "surname": "Denn",
+  "fname": "Denn",
   "count": 1,
   "person_ids": [
    "P1033"
@@ -837,6 +1081,7 @@
  },
  {
   "surname": "Dere",
+  "fname": "Dere",
   "count": 3,
   "person_ids": [
    "P1125",
@@ -846,8 +1091,10 @@
  },
  {
   "surname": "Derschowitz",
-  "count": 6,
+  "fname": "Derschowitz",
+  "count": 7,
   "person_ids": [
+   "P0104",
    "P0105",
    "P0106",
    "P0107",
@@ -857,15 +1104,27 @@
   ]
  },
  {
+  "surname": "Diamand",
+  "fname": "Diamand",
+  "count": 1,
+  "person_ids": [
+   "P2082"
+  ]
+ },
+ {
   "surname": "Diamant",
-  "count": 17,
+  "fname": "Diamant",
+  "count": 21,
   "person_ids": [
    "P0401",
    "P0402",
+   "P0403",
    "P0466",
    "P0467",
+   "P0468",
    "P1109",
    "P1110",
+   "P1111",
    "P1145",
    "P1146",
    "P1147",
@@ -876,11 +1135,13 @@
    "P2407",
    "P2410",
    "P2508",
+   "P2509",
    "P2510"
   ]
  },
  {
   "surname": "Diller",
+  "fname": "Diller",
   "count": 2,
   "person_ids": [
    "P2442",
@@ -889,12 +1150,15 @@
  },
  {
   "surname": "Dintenfass",
-  "count": 10,
+  "fname": "Dintenfass",
+  "count": 12,
   "person_ids": [
    "P0321",
    "P0322",
+   "P0323",
    "P0519",
    "P0520",
+   "P0521",
    "P0525",
    "P0733",
    "P0983",
@@ -904,7 +1168,18 @@
   ]
  },
  {
+  "surname": "Dresiewicz",
+  "fname": "Dresiewicz",
+  "count": 3,
+  "person_ids": [
+   "P0104",
+   "P0105",
+   "P0107"
+  ]
+ },
+ {
   "surname": "Drobner",
+  "fname": "Drobner",
   "count": 1,
   "person_ids": [
    "P0752"
@@ -912,15 +1187,19 @@
  },
  {
   "surname": "Druck",
-  "count": 3,
+  "fname": "Druck",
+  "count": 5,
   "person_ids": [
    "P0586",
+   "P0587",
    "P0590",
-   "P1944"
+   "P1944",
+   "P1945"
   ]
  },
  {
   "surname": "Eder",
+  "fname": "Eder",
   "count": 1,
   "person_ids": [
    "P2298"
@@ -928,14 +1207,30 @@
  },
  {
   "surname": "Ehrenfreund",
-  "count": 2,
+  "fname": "Ehrenfreund",
+  "count": 3,
   "person_ids": [
    "P2495",
+   "P2496",
    "P2497"
   ]
  },
  {
+  "surname": "Ehrlich",
+  "fname": "Ehrlich",
+  "count": 6,
+  "person_ids": [
+   "P1053",
+   "P1054",
+   "P1055",
+   "P1152",
+   "P1236",
+   "P1330"
+  ]
+ },
+ {
   "surname": "Einzer",
+  "fname": "Einzer",
   "count": 1,
   "person_ids": [
    "P1866"
@@ -943,15 +1238,20 @@
  },
  {
   "surname": "Eisen",
-  "count": 3,
+  "fname": "Eisen",
+  "count": 6,
   "person_ids": [
    "P0736",
    "P0737",
-   "P2108"
+   "P0738",
+   "P1180",
+   "P2108",
+   "P2149"
   ]
  },
  {
   "surname": "Eisenberg",
+  "fname": "Eisenberg",
   "count": 2,
   "person_ids": [
    "P0562",
@@ -960,6 +1260,7 @@
  },
  {
   "surname": "Elfenbein",
+  "fname": "Elfenbein",
   "count": 1,
   "person_ids": [
    "P2294"
@@ -967,31 +1268,41 @@
  },
  {
   "surname": "Engel",
-  "count": 2,
+  "fname": "Engel",
+  "count": 3,
   "person_ids": [
    "P2383",
+   "P2384",
    "P2385"
   ]
  },
  {
   "surname": "Engelhard",
-  "count": 1,
+  "fname": "Engelhard",
+  "count": 3,
   "person_ids": [
-   "P0677"
+   "P0676",
+   "P0677",
+   "P0678"
   ]
  },
  {
   "surname": "Ezra",
-  "count": 4,
+  "fname": "Ezra",
+  "count": 7,
   "person_ids": [
+   "P0264",
+   "P0266",
    "P0760",
-   "P1658",
-   "P2546",
-   "P2547"
+   "P0761",
+   "P0762",
+   "P1583",
+   "P1658"
   ]
  },
  {
   "surname": "Faber",
+  "fname": "Faber",
   "count": 2,
   "person_ids": [
    "P2176",
@@ -999,16 +1310,19 @@
   ]
  },
  {
-  "surname": "Fafs",
-  "count": 2,
+  "surname": "Fass",
+  "fname": "Fass",
+  "count": 3,
   "person_ids": [
    "P2127",
+   "P2128",
    "P2129"
   ]
  },
  {
   "surname": "Faust",
-  "count": 10,
+  "fname": "Faust",
+  "count": 11,
   "person_ids": [
    "P0182",
    "P0183",
@@ -1018,12 +1332,23 @@
    "P0531",
    "P0626",
    "P1910",
+   "P1911",
    "P2236",
    "P2273"
   ]
  },
  {
+  "surname": "Feier",
+  "fname": "Feier",
+  "count": 2,
+  "person_ids": [
+   "P1127",
+   "P1129"
+  ]
+ },
+ {
   "surname": "Feig",
+  "fname": "Feig",
   "count": 2,
   "person_ids": [
    "P1276",
@@ -1032,38 +1357,57 @@
  },
  {
   "surname": "Feigenbaum",
-  "count": 8,
+  "fname": "Feigenbaum",
+  "count": 10,
   "person_ids": [
    "P1258",
+   "P1260",
    "P1261",
    "P1332",
    "P1398",
    "P1465",
    "P1483",
    "P2148",
-   "P2251"
+   "P2251",
+   "P2252"
+  ]
+ },
+ {
+  "surname": "Feik",
+  "fname": "Feik",
+  "count": 3,
+  "person_ids": [
+   "P1275",
+   "P1276",
+   "P1277"
   ]
  },
  {
   "surname": "Feil",
-  "count": 3,
+  "fname": "Feil",
+  "count": 4,
   "person_ids": [
    "P1436",
    "P1437",
+   "P1438",
    "P1439"
   ]
  },
  {
   "surname": "Feilgut",
-  "count": 1,
+  "fname": "Feilgut",
+  "count": 2,
   "person_ids": [
-   "P2070"
+   "P2070",
+   "P2071"
   ]
  },
  {
   "surname": "Feit",
-  "count": 3,
+  "fname": "Feit",
+  "count": 4,
   "person_ids": [
+   "P2079",
    "P2081",
    "P2287",
    "P2490"
@@ -1071,6 +1415,7 @@
  },
  {
   "surname": "Feld",
+  "fname": "Feld",
   "count": 4,
   "person_ids": [
    "P1959",
@@ -1081,37 +1426,67 @@
  },
  {
   "surname": "Feliks",
-  "count": 2,
+  "fname": "Feliks",
+  "count": 3,
   "person_ids": [
    "P0560",
-   "P0561"
+   "P0561",
+   "P0562"
   ]
  },
  {
   "surname": "Felsen",
-  "count": 5,
+  "fname": "Felsen",
+  "count": 8,
   "person_ids": [
    "P1185",
+   "P1186",
    "P1187",
    "P2142",
+   "P2143",
    "P2543",
+   "P2544",
    "P2545"
   ]
  },
  {
   "surname": "Fenechel",
-  "count": 6,
+  "fname": "Fenechel",
+  "count": 20,
   "person_ids": [
    "P0162",
+   "P0409",
+   "P0422",
+   "P0424",
    "P0425",
+   "P0426",
+   "P0477",
+   "P0478",
    "P0507",
    "P0508",
    "P0511",
-   "P2303"
+   "P0763",
+   "P0934",
+   "P1069",
+   "P1164",
+   "P1273",
+   "P1400",
+   "P2013",
+   "P2303",
+   "P2706"
   ]
  },
  {
   "surname": "Fensler",
+  "fname": "Fensler",
+  "count": 1,
+  "person_ids": [
+   "P2320"
+  ]
+ },
+ {
+  "surname": "Fenster",
+  "fname": "Fenster",
   "count": 1,
   "person_ids": [
    "P2320"
@@ -1119,6 +1494,7 @@
  },
  {
   "surname": "Fertig",
+  "fname": "Fertig",
   "count": 1,
   "person_ids": [
    "P2549"
@@ -1126,6 +1502,7 @@
  },
  {
   "surname": "Feser",
+  "fname": "Feser",
   "count": 1,
   "person_ids": [
    "P1089"
@@ -1133,6 +1510,7 @@
  },
  {
   "surname": "Fessel",
+  "fname": "Fessel",
   "count": 1,
   "person_ids": [
    "P1918"
@@ -1140,6 +1518,7 @@
  },
  {
   "surname": "Feuer",
+  "fname": "Feuer",
   "count": 1,
   "person_ids": [
    "P1272"
@@ -1147,18 +1526,26 @@
  },
  {
   "surname": "Fichner",
-  "count": 20,
+  "fname": "Fichner",
+  "count": 28,
   "person_ids": [
+   "P0188",
    "P0190",
    "P0191",
+   "P0192",
    "P0193",
    "P0194",
    "P0372",
    "P0373",
+   "P0374",
+   "P0406",
    "P0462",
+   "P0524",
    "P0568",
+   "P0569",
    "P0585",
    "P0640",
+   "P0696",
    "P0734",
    "P0786",
    "P0885",
@@ -1168,11 +1555,13 @@
    "P1157",
    "P1159",
    "P1697",
-   "P2275"
+   "P2275",
+   "P2563"
   ]
  },
  {
   "surname": "Finberg",
+  "fname": "Finberg",
   "count": 3,
   "person_ids": [
    "P1402",
@@ -1182,44 +1571,64 @@
  },
  {
   "surname": "Finder",
-  "count": 9,
+  "fname": "Finder",
+  "count": 12,
   "person_ids": [
+   "P0493",
    "P0494",
+   "P1576",
    "P1927",
    "P1937",
    "P1938",
    "P2222",
    "P2223",
    "P2224",
+   "P2227",
    "P2507",
    "P2539"
   ]
  },
  {
   "surname": "Fisch",
-  "count": 17,
+  "fname": "Fisch",
+  "count": 23,
   "person_ids": [
    "P0671",
    "P0672",
    "P0674",
    "P0769",
    "P0957",
+   "P0958",
    "P0961",
    "P1016",
+   "P1047",
    "P1048",
+   "P1049",
    "P1070",
    "P1101",
    "P1169",
    "P1378",
+   "P1696",
+   "P1955",
    "P2063",
    "P2343",
+   "P2344",
    "P2557",
    "P2582",
    "P2715"
   ]
  },
  {
+  "surname": "Fisher",
+  "fname": "Fisher",
+  "count": 1,
+  "person_ids": [
+   "P0568"
+  ]
+ },
+ {
   "surname": "Fleischer",
+  "fname": "Fleischer",
   "count": 1,
   "person_ids": [
    "P2365"
@@ -1227,6 +1636,7 @@
  },
  {
   "surname": "Forgacz",
+  "fname": "Forgacz",
   "count": 2,
   "person_ids": [
    "P0804",
@@ -1235,6 +1645,15 @@
  },
  {
   "surname": "Formal",
+  "fname": "Formal",
+  "count": 1,
+  "person_ids": [
+   "P1718"
+  ]
+ },
+ {
+  "surname": "Fornal",
+  "fname": "Fornal",
   "count": 1,
   "person_ids": [
    "P1718"
@@ -1242,6 +1661,7 @@
  },
  {
   "surname": "Fornat",
+  "fname": "Fornat",
   "count": 1,
   "person_ids": [
    "P2038"
@@ -1249,6 +1669,7 @@
  },
  {
   "surname": "Frankel",
+  "fname": "Frankel",
   "count": 1,
   "person_ids": [
    "P1914"
@@ -1256,6 +1677,15 @@
  },
  {
   "surname": "Franzenblau",
+  "fname": "Franzenblau",
+  "count": 1,
+  "person_ids": [
+   "P2314"
+  ]
+ },
+ {
+  "surname": "Frauenblau",
+  "fname": "Frauenblau",
   "count": 1,
   "person_ids": [
    "P2314"
@@ -1263,22 +1693,38 @@
  },
  {
   "surname": "Freiberger",
-  "count": 10,
+  "fname": "Freiberger",
+  "count": 24,
   "person_ids": [
+   "P0224",
+   "P0306",
+   "P0308",
    "P0309",
+   "P0310",
    "P0398",
+   "P0487",
    "P0490",
+   "P0536",
+   "P0537",
    "P0642",
+   "P0647",
+   "P0759",
    "P1008",
+   "P1009",
    "P1012",
+   "P1057",
+   "P1166",
    "P1431",
    "P2037",
+   "P2038",
    "P2281",
+   "P2562",
    "P2704"
   ]
  },
  {
   "surname": "Freidman",
+  "fname": "Freidman",
   "count": 1,
   "person_ids": [
    "P1945"
@@ -1286,25 +1732,31 @@
  },
  {
   "surname": "Freund",
-  "count": 3,
+  "fname": "Freund",
+  "count": 4,
   "person_ids": [
    "P1888",
+   "P1889",
    "P2362",
    "P2363"
   ]
  },
  {
   "surname": "Fried",
-  "count": 1,
+  "fname": "Fried",
+  "count": 2,
   "person_ids": [
-   "P2300"
+   "P2300",
+   "P2301"
   ]
  },
  {
   "surname": "Friedenbach",
-  "count": 10,
+  "fname": "Friedenbach",
+  "count": 11,
   "person_ids": [
    "P0641",
+   "P0642",
    "P0643",
    "P0785",
    "P0936",
@@ -1318,6 +1770,7 @@
  },
  {
   "surname": "Friedman",
+  "fname": "Friedman",
   "count": 6,
   "person_ids": [
    "P1475",
@@ -1330,18 +1783,22 @@
  },
  {
   "surname": "Frommer",
-  "count": 6,
+  "fname": "Frommer",
+  "count": 8,
   "person_ids": [
    "P1131",
+   "P1190",
    "P1191",
    "P1254",
    "P1347",
    "P1458",
-   "P2121"
+   "P2121",
+   "P2122"
   ]
  },
  {
   "surname": "Fruchtman",
+  "fname": "Fruchtman",
   "count": 1,
   "person_ids": [
    "P1379"
@@ -1349,8 +1806,10 @@
  },
  {
   "surname": "Fruhman",
-  "count": 3,
+  "fname": "Fruhman",
+  "count": 4,
   "person_ids": [
+   "P1379",
    "P1380",
    "P1383",
    "P1497"
@@ -1358,9 +1817,11 @@
  },
  {
   "surname": "Furst",
-  "count": 4,
+  "fname": "Furst",
+  "count": 5,
   "person_ids": [
    "P1074",
+   "P1075",
    "P1078",
    "P1677",
    "P2325"
@@ -1368,16 +1829,21 @@
  },
  {
   "surname": "Galizer",
-  "count": 4,
+  "fname": "Galizer",
+  "count": 7,
   "person_ids": [
    "P0071",
+   "P0103",
    "P0104",
+   "P0106",
+   "P0107",
    "P1736",
    "P2025"
   ]
  },
  {
   "surname": "Galus",
+  "fname": "Galus",
   "count": 1,
   "person_ids": [
    "P0833"
@@ -1385,15 +1851,21 @@
  },
  {
   "surname": "Gastwirt",
-  "count": 3,
+  "fname": "Gastwirt",
+  "count": 7,
   "person_ids": [
+   "P0764",
    "P0765",
+   "P0766",
    "P0767",
-   "P0868"
+   "P0868",
+   "P0949",
+   "P1088"
   ]
  },
  {
   "surname": "Gelb",
+  "fname": "Gelb",
   "count": 1,
   "person_ids": [
    "P0922"
@@ -1401,14 +1873,17 @@
  },
  {
   "surname": "Geller",
-  "count": 2,
+  "fname": "Geller",
+  "count": 3,
   "person_ids": [
+   "P0266",
    "P0267",
    "P0268"
   ]
  },
  {
   "surname": "Gerstler",
+  "fname": "Gerstler",
   "count": 1,
   "person_ids": [
    "P1438"
@@ -1416,6 +1891,7 @@
  },
  {
   "surname": "Gewelter",
+  "fname": "Gewelter",
   "count": 3,
   "person_ids": [
    "P0018",
@@ -1425,12 +1901,16 @@
  },
  {
   "surname": "Gewirtz",
-  "count": 10,
+  "fname": "Gewirtz",
+  "count": 13,
   "person_ids": [
    "P0101",
    "P0240",
    "P0241",
+   "P0682",
    "P0683",
+   "P0684",
+   "P0685",
    "P0887",
    "P1586",
    "P1693",
@@ -1441,23 +1921,35 @@
  },
  {
   "surname": "Gidon",
+  "fname": "Gidon",
   "count": 1,
   "person_ids": [
    "P1911"
   ]
  },
  {
+  "surname": "Glasner",
+  "fname": "Glasner",
+  "count": 1,
+  "person_ids": [
+   "P1481"
+  ]
+ },
+ {
   "surname": "Glassner",
-  "count": 12,
+  "fname": "Glassner",
+  "count": 14,
   "person_ids": [
    "P0206",
    "P0628",
+   "P0732",
    "P1481",
+   "P1641",
+   "P1642",
    "P1731",
    "P1795",
    "P1979",
    "P1980",
-   "P1982",
    "P2066",
    "P2068",
    "P2402",
@@ -1466,52 +1958,64 @@
  },
  {
   "surname": "Gleicher",
-  "count": 2,
+  "fname": "Gleicher",
+  "count": 3,
   "person_ids": [
    "P2089",
+   "P2090",
    "P2091"
   ]
  },
  {
   "surname": "Gluckman",
-  "count": 3,
+  "fname": "Gluckman",
+  "count": 4,
   "person_ids": [
    "P1372",
+   "P1373",
    "P1376",
    "P1531"
   ]
  },
  {
   "surname": "Goldberg",
-  "count": 15,
+  "fname": "Goldberg",
+  "count": 19,
   "person_ids": [
    "P0051",
    "P0063",
+   "P0362",
    "P0364",
    "P0422",
    "P0423",
    "P0424",
    "P0472",
+   "P0473",
+   "P0571",
    "P0574",
    "P0593",
    "P0795",
    "P1260",
    "P1612",
    "P1946",
+   "P1947",
    "P1967",
    "P2054"
   ]
  },
  {
   "surname": "Goldfarb",
-  "count": 2,
+  "fname": "Goldfarb",
+  "count": 3,
   "person_ids": [
    "P2372",
+   "P2373",
    "P2374"
   ]
  },
  {
   "surname": "Goldfluss",
+  "fname": "Goldfluss",
   "count": 3,
   "person_ids": [
    "P0377",
@@ -1521,19 +2025,24 @@
  },
  {
   "surname": "Goldman",
-  "count": 7,
+  "fname": "Goldman",
+  "count": 10,
   "person_ids": [
    "P0230",
    "P0231",
    "P0750",
    "P0751",
+   "P0752",
    "P1289",
+   "P1290",
    "P1291",
-   "P1357"
+   "P1357",
+   "P2564"
   ]
  },
  {
   "surname": "Goldstein",
+  "fname": "Goldstein",
   "count": 1,
   "person_ids": [
    "P2195"
@@ -1541,8 +2050,10 @@
  },
  {
   "surname": "Gottlieb",
-  "count": 5,
+  "fname": "Gottlieb",
+  "count": 6,
   "person_ids": [
+   "P0257",
    "P0259",
    "P1885",
    "P1886",
@@ -1552,19 +2063,23 @@
  },
  {
   "surname": "Grabkowicz",
-  "count": 7,
+  "fname": "Grabkowicz",
+  "count": 9,
   "person_ids": [
    "P0433",
    "P0434",
+   "P0435",
    "P1248",
    "P1671",
    "P1889",
+   "P1935",
    "P1936",
    "P2718"
   ]
  },
  {
   "surname": "Grabschrift",
+  "fname": "Grabschrift",
   "count": 3,
   "person_ids": [
    "P0221",
@@ -1574,22 +2089,27 @@
  },
  {
   "surname": "Greisman",
-  "count": 2,
+  "fname": "Greisman",
+  "count": 3,
   "person_ids": [
    "P2492",
+   "P2493",
    "P2494"
   ]
  },
  {
   "surname": "Groskopf",
-  "count": 2,
+  "fname": "Groskopf",
+  "count": 3,
   "person_ids": [
    "P0078",
-   "P0079"
+   "P0079",
+   "P0080"
   ]
  },
  {
   "surname": "Grosman",
+  "fname": "Grosman",
   "count": 1,
   "person_ids": [
    "P2158"
@@ -1597,39 +2117,51 @@
  },
  {
   "surname": "Grossbard",
-  "count": 2,
+  "fname": "Grossbard",
+  "count": 3,
   "person_ids": [
    "P0571",
-   "P0572"
+   "P0572",
+   "P0573"
   ]
  },
  {
   "surname": "Gruber",
-  "count": 5,
+  "fname": "Gruber",
+  "count": 6,
   "person_ids": [
    "P1711",
    "P1712",
    "P1855",
+   "P1867",
    "P1997",
    "P2254"
   ]
  },
  {
   "surname": "Grun",
-  "count": 2,
+  "fname": "Grun",
+  "count": 3,
   "person_ids": [
    "P1222",
+   "P1223",
    "P1226"
   ]
  },
  {
   "surname": "Grunberger",
-  "count": 13,
+  "fname": "Grunberger",
+  "count": 18,
   "person_ids": [
    "P0040",
+   "P0041",
+   "P0042",
+   "P0043",
+   "P0044",
    "P0047",
    "P0048",
    "P0567",
+   "P0568",
    "P0569",
    "P0797",
    "P0884",
@@ -1643,6 +2175,7 @@
  },
  {
   "surname": "Grunspan",
+  "fname": "Grunspan",
   "count": 2,
   "person_ids": [
    "P2229",
@@ -1651,16 +2184,20 @@
  },
  {
   "surname": "Grzyb",
-  "count": 2,
+  "fname": "Grzyb",
+  "count": 3,
   "person_ids": [
    "P2242",
+   "P2243",
    "P2244"
   ]
  },
  {
   "surname": "Guttenberg",
-  "count": 7,
+  "fname": "Guttenberg",
+  "count": 8,
   "person_ids": [
+   "P0110",
    "P0111",
    "P0112",
    "P0113",
@@ -1672,6 +2209,7 @@
  },
  {
   "surname": "Guttman",
+  "fname": "Guttman",
   "count": 1,
   "person_ids": [
    "P2377"
@@ -1679,7 +2217,8 @@
  },
  {
   "surname": "Guttstein",
-  "count": 14,
+  "fname": "Guttstein",
+  "count": 17,
   "person_ids": [
    "P0256",
    "P0257",
@@ -1688,10 +2227,13 @@
    "P0807",
    "P0863",
    "P1113",
+   "P1127",
    "P1130",
    "P1237",
    "P1371",
+   "P1509",
    "P1512",
+   "P1774",
    "P2030",
    "P2583",
    "P2584"
@@ -1699,6 +2241,7 @@
  },
  {
   "surname": "Gutwein",
+  "fname": "Gutwein",
   "count": 1,
   "person_ids": [
    "P2499"
@@ -1706,14 +2249,18 @@
  },
  {
   "surname": "Haber",
-  "count": 2,
+  "fname": "Haber",
+  "count": 4,
   "person_ids": [
+   "P0821",
    "P0823",
+   "P1712",
    "P2207"
   ]
  },
  {
   "surname": "Hacke",
+  "fname": "Hacke",
   "count": 1,
   "person_ids": [
    "P2060"
@@ -1721,6 +2268,16 @@
  },
  {
   "surname": "Haim",
+  "fname": "Haim",
+  "count": 2,
+  "person_ids": [
+   "P0583",
+   "P1810"
+  ]
+ },
+ {
+  "surname": "Hajman",
+  "fname": "Hajman",
   "count": 1,
   "person_ids": [
    "P0583"
@@ -1728,6 +2285,7 @@
  },
  {
   "surname": "Halper",
+  "fname": "Halper",
   "count": 3,
   "person_ids": [
    "P0451",
@@ -1736,7 +2294,16 @@
   ]
  },
  {
+  "surname": "Halpern",
+  "fname": "Halpern",
+  "count": 1,
+  "person_ids": [
+   "P0451"
+  ]
+ },
+ {
   "surname": "Handesberger",
+  "fname": "Handesberger",
   "count": 2,
   "person_ids": [
    "P1635",
@@ -1745,16 +2312,20 @@
  },
  {
   "surname": "Handler",
-  "count": 4,
+  "fname": "Handler",
+  "count": 6,
   "person_ids": [
+   "P0122",
    "P0125",
    "P0126",
+   "P0127",
    "P1133",
    "P1217"
   ]
  },
  {
   "surname": "Hatzner",
+  "fname": "Hatzner",
   "count": 1,
   "person_ids": [
    "P2468"
@@ -1762,17 +2333,29 @@
  },
  {
   "surname": "Hecht",
-  "count": 2,
+  "fname": "Hecht",
+  "count": 3,
   "person_ids": [
    "P2515",
+   "P2516",
    "P2517"
   ]
  },
  {
+  "surname": "Heffen",
+  "fname": "Heffen",
+  "count": 1,
+  "person_ids": [
+   "P1109"
+  ]
+ },
+ {
   "surname": "Heffner",
-  "count": 5,
+  "fname": "Heffner",
+  "count": 6,
   "person_ids": [
    "P1111",
+   "P1409",
    "P1410",
    "P1411",
    "P2247",
@@ -1781,24 +2364,31 @@
  },
  {
   "surname": "Herbstman",
-  "count": 1,
+  "fname": "Herbstman",
+  "count": 2,
   "person_ids": [
+   "P1243",
    "P2160"
   ]
  },
  {
   "surname": "Heringfass",
-  "count": 2,
+  "fname": "Heringfass",
+  "count": 3,
   "person_ids": [
    "P2414",
+   "P2415",
    "P2416"
   ]
  },
  {
   "surname": "Herman",
-  "count": 20,
+  "fname": "Herman",
+  "count": 24,
   "person_ids": [
    "P0280",
+   "P0286",
+   "P0288",
    "P0289",
    "P0290",
    "P0535",
@@ -1806,6 +2396,7 @@
    "P0537",
    "P1057",
    "P1166",
+   "P1475",
    "P1634",
    "P1679",
    "P1680",
@@ -1815,13 +2406,33 @@
    "P1764",
    "P1990",
    "P2209",
+   "P2210",
    "P2211",
    "P2427",
    "P2428"
   ]
  },
  {
+  "surname": "Hersow",
+  "fname": "Hersow",
+  "count": 1,
+  "person_ids": [
+   "P1316"
+  ]
+ },
+ {
+  "surname": "Herstman",
+  "fname": "Herstman",
+  "count": 3,
+  "person_ids": [
+   "P1243",
+   "P1244",
+   "P1245"
+  ]
+ },
+ {
   "surname": "Herz",
+  "fname": "Herz",
   "count": 2,
   "person_ids": [
    "P1316",
@@ -1830,6 +2441,7 @@
  },
  {
   "surname": "Hiller",
+  "fname": "Hiller",
   "count": 1,
   "person_ids": [
    "P1905"
@@ -1837,6 +2449,7 @@
  },
  {
   "surname": "Himmelfarb",
+  "fname": "Himmelfarb",
   "count": 1,
   "person_ids": [
    "P1011"
@@ -1844,25 +2457,35 @@
  },
  {
   "surname": "Hirsch",
-  "count": 13,
+  "fname": "Hirsch",
+  "count": 21,
   "person_ids": [
+   "P0428",
    "P0430",
+   "P0431",
    "P0533",
+   "P0638",
    "P0861",
    "P0881",
    "P1079",
    "P1080",
+   "P1083",
+   "P1153",
+   "P1228",
    "P1244",
+   "P1245",
    "P1615",
    "P1616",
    "P1683",
    "P1742",
    "P1811",
+   "P2051",
    "P2575"
   ]
  },
  {
   "surname": "Hoffing",
+  "fname": "Hoffing",
   "count": 2,
   "person_ids": [
    "P2153",
@@ -1871,17 +2494,20 @@
  },
  {
   "surname": "Hoffman",
-  "count": 5,
+  "fname": "Hoffman",
+  "count": 6,
   "person_ids": [
    "P0168",
    "P0412",
    "P0559",
+   "P0560",
    "P0563",
    "P1404"
   ]
  },
  {
   "surname": "Hoffmeister",
+  "fname": "Hoffmeister",
   "count": 1,
   "person_ids": [
    "P0005"
@@ -1889,14 +2515,17 @@
  },
  {
   "surname": "Hollander",
-  "count": 2,
+  "fname": "Hollander",
+  "count": 3,
   "person_ids": [
    "P2432",
+   "P2433",
    "P2434"
   ]
  },
  {
   "surname": "Holloschutz",
+  "fname": "Holloschutz",
   "count": 2,
   "person_ids": [
    "P2079",
@@ -1905,6 +2534,7 @@
  },
  {
   "surname": "Holzer",
+  "fname": "Holzer",
   "count": 3,
   "person_ids": [
    "P0547",
@@ -1914,6 +2544,7 @@
  },
  {
   "surname": "Honig",
+  "fname": "Honig",
   "count": 1,
   "person_ids": [
    "P1423"
@@ -1921,16 +2552,19 @@
  },
  {
   "surname": "Hornik",
-  "count": 4,
+  "fname": "Hornik",
+  "count": 5,
   "person_ids": [
    "P1859",
    "P1860",
    "P1874",
-   "P2246"
+   "P2246",
+   "P2248"
   ]
  },
  {
   "surname": "Horowitz",
+  "fname": "Horowitz",
   "count": 11,
   "person_ids": [
    "P0473",
@@ -1947,21 +2581,38 @@
   ]
  },
  {
-  "surname": "Indyk",
-  "count": 1,
+  "surname": "Hudes",
+  "fname": "Hudes",
+  "count": 5,
   "person_ids": [
+   "P1267",
+   "P1268",
+   "P1269",
+   "P1783",
+   "P1787"
+  ]
+ },
+ {
+  "surname": "Indyk",
+  "fname": "Indyk",
+  "count": 2,
+  "person_ids": [
+   "P0066",
    "P0068"
   ]
  },
  {
   "surname": "Ingwer",
-  "count": 1,
+  "fname": "Ingwer",
+  "count": 2,
   "person_ids": [
+   "P1185",
    "P2143"
   ]
  },
  {
   "surname": "Jachimowicz",
+  "fname": "Jachimowicz",
   "count": 3,
   "person_ids": [
    "P2444",
@@ -1971,6 +2622,7 @@
  },
  {
   "surname": "Jasmin",
+  "fname": "Jasmin",
   "count": 1,
   "person_ids": [
    "P0459"
@@ -1978,6 +2630,7 @@
  },
  {
   "surname": "Jasner",
+  "fname": "Jasner",
   "count": 1,
   "person_ids": [
    "P0046"
@@ -1985,6 +2638,7 @@
  },
  {
   "surname": "Jochanowich",
+  "fname": "Jochanowich",
   "count": 1,
   "person_ids": [
    "P2243"
@@ -1992,31 +2646,41 @@
  },
  {
   "surname": "Joehner",
-  "count": 1,
+  "fname": "Joehner",
+  "count": 4,
   "person_ids": [
-   "P0965"
+   "P0964",
+   "P0965",
+   "P0966",
+   "P0967"
   ]
  },
  {
   "surname": "Jolles",
-  "count": 2,
+  "fname": "Jolles",
+  "count": 3,
   "person_ids": [
    "P0281",
-   "P0282"
+   "P0282",
+   "P0283"
   ]
  },
  {
   "surname": "Jortner",
-  "count": 4,
+  "fname": "Jortner",
+  "count": 6,
   "person_ids": [
    "P0234",
+   "P0709",
    "P1212",
    "P1213",
+   "P1214",
    "P2730"
   ]
  },
  {
   "surname": "Just",
+  "fname": "Just",
   "count": 3,
   "person_ids": [
    "P0925",
@@ -2026,34 +2690,51 @@
  },
  {
   "surname": "Kahana",
-  "count": 2,
+  "fname": "Kahana",
+  "count": 3,
   "person_ids": [
    "P2439",
+   "P2440",
    "P2441"
   ]
  },
  {
   "surname": "Kainer",
-  "count": 6,
+  "fname": "Kainer",
+  "count": 9,
   "person_ids": [
    "P0179",
    "P0181",
+   "P0270",
    "P0418",
    "P1808",
    "P1822",
-   "P1823"
+   "P1823",
+   "P1979",
+   "P1980"
+  ]
+ },
+ {
+  "surname": "Kajner",
+  "fname": "Kajner",
+  "count": 1,
+  "person_ids": [
+   "P0181"
   ]
  },
  {
   "surname": "Kalb",
-  "count": 2,
+  "fname": "Kalb",
+  "count": 3,
   "person_ids": [
+   "P0690",
    "P0692",
    "P2471"
   ]
  },
  {
   "surname": "Kaller",
+  "fname": "Kaller",
   "count": 3,
   "person_ids": [
    "P0830",
@@ -2063,19 +2744,28 @@
  },
  {
   "surname": "Kampf",
-  "count": 7,
+  "fname": "Kampf",
+  "count": 14,
   "person_ids": [
+   "P0207",
+   "P0209",
    "P0210",
+   "P0211",
+   "P0447",
+   "P0768",
    "P1285",
+   "P1286",
    "P1287",
    "P1384",
    "P1847",
    "P2094",
+   "P2095",
    "P2096"
   ]
  },
  {
   "surname": "Kanarek",
+  "fname": "Kanarek",
   "count": 1,
   "person_ids": [
    "P0445"
@@ -2083,6 +2773,7 @@
  },
  {
   "surname": "Kaner",
+  "fname": "Kaner",
   "count": 1,
   "person_ids": [
    "P0984"
@@ -2090,12 +2781,15 @@
  },
  {
   "surname": "Karpf",
-  "count": 12,
+  "fname": "Karpf",
+  "count": 14,
   "person_ids": [
    "P0055",
    "P0339",
+   "P0466",
    "P0469",
    "P0543",
+   "P0544",
    "P0610",
    "P1268",
    "P1623",
@@ -2108,21 +2802,23 @@
  },
  {
   "surname": "Kasten",
-  "count": 3,
+  "fname": "Kasten",
+  "count": 4,
   "person_ids": [
    "P1894",
    "P2417",
+   "P2418",
    "P2419"
   ]
  },
  {
   "surname": "Katz",
-  "count": 8,
+  "fname": "Katz",
+  "count": 7,
   "person_ids": [
    "P1193",
    "P1194",
    "P1195",
-   "P1508",
    "P2411",
    "P2412",
    "P2462",
@@ -2131,6 +2827,7 @@
  },
  {
   "surname": "Kaufer",
+  "fname": "Kaufer",
   "count": 1,
   "person_ids": [
    "P0605"
@@ -2138,6 +2835,7 @@
  },
  {
   "surname": "Kaufman",
+  "fname": "Kaufman",
   "count": 14,
   "person_ids": [
    "P1230",
@@ -2157,18 +2855,38 @@
   ]
  },
  {
+  "surname": "Keller",
+  "fname": "Keller",
+  "count": 1,
+  "person_ids": [
+   "P0500"
+  ]
+ },
+ {
   "surname": "Kempler",
-  "count": 2,
+  "fname": "Kempler",
+  "count": 3,
   "person_ids": [
    "P1509",
-   "P1510"
+   "P1510",
+   "P1511"
+  ]
+ },
+ {
+  "surname": "Kern",
+  "fname": "Kern",
+  "count": 1,
+  "person_ids": [
+   "P1763"
   ]
  },
  {
   "surname": "Kichel",
-  "count": 10,
+  "fname": "Kichel",
+  "count": 12,
   "person_ids": [
    "P0513",
+   "P0514",
    "P0517",
    "P0719",
    "P0828",
@@ -2176,36 +2894,45 @@
    "P1201",
    "P1346",
    "P1585",
+   "P1919",
    "P2567",
    "P2568"
   ]
  },
  {
   "surname": "Kifel",
-  "count": 2,
+  "fname": "Kifel",
+  "count": 3,
   "person_ids": [
    "P2326",
+   "P2327",
    "P2328"
   ]
  },
  {
   "surname": "Kirsch",
-  "count": 6,
+  "fname": "Kirsch",
+  "count": 9,
   "person_ids": [
    "P1180",
+   "P1181",
    "P1184",
    "P1544",
+   "P1545",
    "P1546",
    "P1573",
+   "P1574",
    "P1575"
   ]
  },
  {
   "surname": "Klausner",
-  "count": 5,
+  "fname": "Klausner",
+  "count": 6,
   "person_ids": [
    "P0777",
    "P0778",
+   "P0984",
    "P2186",
    "P2332",
    "P2333"
@@ -2213,6 +2940,7 @@
  },
  {
   "surname": "Klein",
+  "fname": "Klein",
   "count": 3,
   "person_ids": [
    "P1571",
@@ -2222,27 +2950,34 @@
  },
  {
   "surname": "Kleinhandler",
-  "count": 2,
+  "fname": "Kleinhandler",
+  "count": 3,
   "person_ids": [
    "P2450",
+   "P2451",
    "P2452"
   ]
  },
  {
   "surname": "Kleinman",
-  "count": 24,
+  "fname": "Kleinman",
+  "count": 31,
   "person_ids": [
    "P0008",
+   "P0040",
    "P0041",
    "P0042",
    "P0043",
    "P0044",
    "P0045",
+   "P0046",
    "P0131",
    "P0478",
    "P0479",
    "P0480",
+   "P0838",
    "P0839",
+   "P0840",
    "P0952",
    "P1337",
    "P1699",
@@ -2250,16 +2985,20 @@
    "P1816",
    "P1821",
    "P2021",
+   "P2167",
    "P2205",
    "P2421",
+   "P2422",
    "P2423",
    "P2554",
+   "P2555",
    "P2556",
    "P2650"
   ]
  },
  {
   "surname": "Klinger",
+  "fname": "Klinger",
   "count": 1,
   "person_ids": [
    "P0636"
@@ -2267,9 +3006,11 @@
  },
  {
   "surname": "Klotz",
-  "count": 15,
+  "fname": "Klotz",
+  "count": 27,
   "person_ids": [
    "P0100",
+   "P0129",
    "P0130",
    "P0243",
    "P0461",
@@ -2277,10 +3018,21 @@
    "P0780",
    "P0802",
    "P0803",
+   "P0804",
    "P0866",
+   "P1014",
+   "P1015",
    "P1043",
+   "P1137",
+   "P1231",
+   "P1232",
+   "P1255",
+   "P1313",
+   "P1452",
+   "P1469",
    "P1904",
-   "P1930",
+   "P1905",
+   "P1931",
    "P2204",
    "P2234",
    "P2624"
@@ -2288,6 +3040,7 @@
  },
  {
   "surname": "Knispel",
+  "fname": "Knispel",
   "count": 1,
   "person_ids": [
    "P0371"
@@ -2295,20 +3048,37 @@
  },
  {
   "surname": "Kolber",
-  "count": 8,
+  "fname": "Kolber",
+  "count": 23,
   "person_ids": [
+   "P0124",
    "P0464",
+   "P0689",
+   "P0690",
+   "P0693",
+   "P0819",
+   "P0875",
+   "P1001",
+   "P1104",
+   "P1221",
+   "P1333",
+   "P1444",
+   "P1523",
    "P1562",
    "P1563",
    "P1564",
+   "P2358",
    "P2424",
+   "P2425",
    "P2426",
    "P2470",
+   "P2471",
    "P2472"
   ]
  },
  {
   "surname": "Kollender",
+  "fname": "Kollender",
   "count": 3,
   "person_ids": [
    "P2069",
@@ -2318,14 +3088,17 @@
  },
  {
   "surname": "Komito",
-  "count": 2,
+  "fname": "Komito",
+  "count": 3,
   "person_ids": [
    "P1421",
-   "P1422"
+   "P1422",
+   "P1423"
   ]
  },
  {
   "surname": "Konig",
+  "fname": "Konig",
   "count": 1,
   "person_ids": [
    "P1984"
@@ -2333,10 +3106,12 @@
  },
  {
   "surname": "Konigsdorf",
-  "count": 17,
+  "fname": "Konigsdorf",
+  "count": 19,
   "person_ids": [
    "P0291",
    "P0292",
+   "P0293",
    "P0295",
    "P0475",
    "P0566",
@@ -2347,6 +3122,7 @@
    "P1196",
    "P1560",
    "P1590",
+   "P1960",
    "P2073",
    "P2074",
    "P2075",
@@ -2356,6 +3132,7 @@
  },
  {
   "surname": "Koplik",
+  "fname": "Koplik",
   "count": 1,
   "person_ids": [
    "P2451"
@@ -2363,7 +3140,8 @@
  },
  {
   "surname": "Korn",
-  "count": 8,
+  "fname": "Korn",
+  "count": 9,
   "person_ids": [
    "P0038",
    "P0813",
@@ -2371,61 +3149,78 @@
    "P1588",
    "P1900",
    "P2533",
+   "P2534",
    "P2535",
    "P2617"
   ]
  },
  {
   "surname": "Kornblutt",
-  "count": 3,
+  "fname": "Kornblutt",
+  "count": 4,
   "person_ids": [
    "P0740",
+   "P0741",
    "P0744",
    "P0827"
   ]
  },
  {
   "surname": "Kornfeld",
-  "count": 34,
+  "fname": "Kornfeld",
+  "count": 46,
   "person_ids": [
    "P0021",
    "P0276",
    "P0277",
+   "P0278",
    "P0337",
    "P0338",
+   "P0339",
    "P0545",
    "P0700",
    "P0776",
+   "P0777",
    "P0779",
    "P0826",
    "P0938",
    "P0972",
    "P0985",
    "P1060",
+   "P1208",
+   "P1211",
+   "P1212",
    "P1215",
    "P1216",
    "P1266",
    "P1270",
    "P1325",
+   "P1341",
+   "P1360",
    "P1362",
    "P1370",
+   "P1421",
    "P1424",
    "P1486",
    "P1550",
+   "P1551",
    "P1552",
    "P1621",
    "P1633",
    "P1657",
    "P1682",
    "P1688",
+   "P1689",
    "P1784",
    "P1897",
    "P2018",
+   "P2570",
    "P2692"
   ]
  },
  {
   "surname": "Kornhauser",
+  "fname": "Kornhauser",
   "count": 5,
   "person_ids": [
    "P1576",
@@ -2437,9 +3232,11 @@
  },
  {
   "surname": "Kornreich",
-  "count": 11,
+  "fname": "Kornreich",
+  "count": 13,
   "person_ids": [
    "P1097",
+   "P1098",
    "P1099",
    "P1189",
    "P1292",
@@ -2447,6 +3244,7 @@
    "P1387",
    "P1459",
    "P1524",
+   "P1554",
    "P1555",
    "P2141",
    "P2496"
@@ -2454,34 +3252,66 @@
  },
  {
   "surname": "Kornzarek",
+  "fname": "Kornzarek",
   "count": 1,
   "person_ids": [
    "P2456"
   ]
  },
  {
+  "surname": "Korrenik",
+  "fname": "Korrenik",
+  "count": 3,
+  "person_ids": [
+   "P0352",
+   "P1985",
+   "P1986"
+  ]
+ },
+ {
   "surname": "Korzennik",
-  "count": 13,
+  "fname": "Korzennik",
+  "count": 23,
   "person_ids": [
    "P0196",
+   "P0197",
+   "P0246",
    "P0248",
    "P0325",
    "P0351",
    "P0352",
    "P0353",
+   "P0554",
+   "P0555",
+   "P0556",
+   "P0747",
+   "P0874",
+   "P1103",
    "P1122",
+   "P1679",
    "P1689",
    "P1985",
    "P1986",
    "P2563",
    "P2613",
-   "P2614"
+   "P2614",
+   "P2696"
+  ]
+ },
+ {
+  "surname": "Kostenbaum",
+  "fname": "Kostenbaum",
+  "count": 1,
+  "person_ids": [
+   "P1657"
   ]
  },
  {
   "surname": "Kranz",
-  "count": 5,
+  "fname": "Kranz",
+  "count": 6,
   "person_ids": [
+   "P0145",
    "P0147",
    "P0482",
    "P0483",
@@ -2491,22 +3321,28 @@
  },
  {
   "surname": "Kranzler",
-  "count": 2,
+  "fname": "Kranzler",
+  "count": 3,
   "person_ids": [
    "P2182",
+   "P2183",
    "P2184"
   ]
  },
  {
   "surname": "Krauc",
-  "count": 2,
+  "fname": "Krauc",
+  "count": 4,
   "person_ids": [
+   "P0440",
+   "P0442",
    "P0443",
    "P0444"
   ]
  },
  {
   "surname": "Kraut",
+  "fname": "Kraut",
   "count": 1,
   "person_ids": [
    "P2346"
@@ -2514,29 +3350,38 @@
  },
  {
   "surname": "Krautblatt",
-  "count": 2,
+  "fname": "Krautblatt",
+  "count": 6,
   "person_ids": [
+   "P0403",
    "P0405",
-   "P2005"
+   "P1912",
+   "P2005",
+   "P2006",
+   "P2178"
   ]
  },
  {
   "surname": "Krebs",
-  "count": 9,
+  "fname": "Krebs",
+  "count": 11,
   "person_ids": [
    "P1020",
    "P1869",
    "P1870",
    "P1879",
    "P1963",
+   "P1964",
    "P1988",
    "P2106",
    "P2329",
+   "P2330",
    "P2331"
   ]
  },
  {
   "surname": "Krombark",
+  "fname": "Krombark",
   "count": 1,
   "person_ids": [
    "P0966"
@@ -2544,14 +3389,17 @@
  },
  {
   "surname": "Kunstler",
-  "count": 2,
+  "fname": "Kunstler",
+  "count": 3,
   "person_ids": [
    "P0390",
-   "P0391"
+   "P0391",
+   "P0392"
   ]
  },
  {
   "surname": "Kureik",
+  "fname": "Kureik",
   "count": 1,
   "person_ids": [
    "P2283"
@@ -2559,36 +3407,45 @@
  },
  {
   "surname": "Kurz",
-  "count": 8,
+  "fname": "Kurz",
+  "count": 10,
   "person_ids": [
    "P0912",
+   "P0929",
    "P0932",
    "P1005",
    "P1072",
    "P1154",
    "P1710",
    "P1924",
-   "P1925"
+   "P1925",
+   "P1926"
   ]
  },
  {
   "surname": "Kurzer",
-  "count": 2,
+  "fname": "Kurzer",
+  "count": 4,
   "person_ids": [
    "P1223",
-   "P1224"
+   "P1224",
+   "P1225",
+   "P1226"
   ]
  },
  {
   "surname": "Lambek",
-  "count": 2,
+  "fname": "Lambek",
+  "count": 3,
   "person_ids": [
    "P0690",
-   "P0691"
+   "P0691",
+   "P0692"
   ]
  },
  {
   "surname": "Lampel",
+  "fname": "Lampel",
   "count": 1,
   "person_ids": [
    "P0941"
@@ -2596,7 +3453,8 @@
  },
  {
   "surname": "Landau",
-  "count": 11,
+  "fname": "Landau",
+  "count": 13,
   "person_ids": [
    "P0553",
    "P0554",
@@ -2604,15 +3462,18 @@
    "P0747",
    "P0874",
    "P1103",
+   "P1403",
    "P1405",
    "P1728",
    "P2085",
+   "P2086",
    "P2370",
    "P2696"
   ]
  },
  {
   "surname": "Langer",
+  "fname": "Langer",
   "count": 6,
   "person_ids": [
    "P0286",
@@ -2625,21 +3486,26 @@
  },
  {
   "surname": "Last",
-  "count": 1,
+  "fname": "Last",
+  "count": 2,
   "person_ids": [
+   "P0957",
    "P1696"
   ]
  },
  {
   "surname": "Laub",
-  "count": 2,
+  "fname": "Laub",
+  "count": 3,
   "person_ids": [
    "P0581",
-   "P0582"
+   "P0582",
+   "P0583"
   ]
  },
  {
   "surname": "Laufer",
+  "fname": "Laufer",
   "count": 1,
   "person_ids": [
    "P2415"
@@ -2647,6 +3513,7 @@
  },
  {
   "surname": "Leber",
+  "fname": "Leber",
   "count": 1,
   "person_ids": [
    "P0468"
@@ -2654,30 +3521,42 @@
  },
  {
   "surname": "Lederer",
-  "count": 1,
+  "fname": "Lederer",
+  "count": 6,
   "person_ids": [
-   "P0921"
+   "P0920",
+   "P0921",
+   "P0922",
+   "P0923",
+   "P1017",
+   "P1162"
   ]
  },
  {
   "surname": "Lehrer",
-  "count": 3,
+  "fname": "Lehrer",
+  "count": 5,
   "person_ids": [
+   "P1479",
    "P2369",
+   "P2370",
    "P2371",
    "P2405"
   ]
  },
  {
   "surname": "Lehrhaupt",
-  "count": 2,
+  "fname": "Lehrhaupt",
+  "count": 3,
   "person_ids": [
    "P2387",
+   "P2388",
    "P2389"
   ]
  },
  {
   "surname": "Lehrman",
+  "fname": "Lehrman",
   "count": 4,
   "person_ids": [
    "P0704",
@@ -2687,15 +3566,26 @@
   ]
  },
  {
+  "surname": "Leib",
+  "fname": "Leib",
+  "count": 1,
+  "person_ids": [
+   "P1605"
+  ]
+ },
+ {
   "surname": "Leibel",
-  "count": 2,
+  "fname": "Leibel",
+  "count": 3,
   "person_ids": [
    "P0457",
-   "P0458"
+   "P0458",
+   "P0459"
   ]
  },
  {
   "surname": "Leibowicz",
+  "fname": "Leibowicz",
   "count": 1,
   "person_ids": [
    "P1729"
@@ -2703,19 +3593,24 @@
  },
  {
   "surname": "Leiman",
-  "count": 7,
+  "fname": "Leiman",
+  "count": 10,
   "person_ids": [
    "P1031",
    "P1032",
+   "P1033",
+   "P1171",
    "P1173",
    "P1308",
    "P1309",
+   "P1310",
    "P1311",
    "P1740"
   ]
  },
  {
   "surname": "Leinziger",
+  "fname": "Leinziger",
   "count": 1,
   "person_ids": [
    "P0931"
@@ -2723,30 +3618,38 @@
  },
  {
   "surname": "Leuchtag",
-  "count": 9,
+  "fname": "Leuchtag",
+  "count": 12,
   "person_ids": [
    "P0001",
    "P0002",
    "P0003",
    "P0004",
+   "P0005",
    "P0009",
    "P0010",
+   "P0011",
    "P0012",
    "P0017",
+   "P0018",
    "P0023"
   ]
  },
  {
   "surname": "Licht",
-  "count": 15,
+  "fname": "Licht",
+  "count": 18,
   "person_ids": [
    "P0177",
    "P0178",
+   "P0179",
    "P0300",
    "P0410",
    "P0627",
    "P0754",
    "P1094",
+   "P1251",
+   "P1252",
    "P1538",
    "P1539",
    "P1540",
@@ -2759,14 +3662,17 @@
  },
  {
   "surname": "Lichtman",
-  "count": 2,
+  "fname": "Lichtman",
+  "count": 3,
   "person_ids": [
    "P2113",
+   "P2114",
    "P2115"
   ]
  },
  {
   "surname": "Lieber",
+  "fname": "Lieber",
   "count": 2,
   "person_ids": [
    "P2394",
@@ -2775,15 +3681,18 @@
  },
  {
   "surname": "Liebschutz",
-  "count": 3,
+  "fname": "Liebschutz",
+  "count": 4,
   "person_ids": [
    "P0293",
    "P0294",
+   "P0295",
    "P1909"
   ]
  },
  {
   "surname": "Linch",
+  "fname": "Linch",
   "count": 1,
   "person_ids": [
    "P2330"
@@ -2791,6 +3700,7 @@
  },
  {
   "surname": "Lippel",
+  "fname": "Lippel",
   "count": 1,
   "person_ids": [
    "P2090"
@@ -2798,13 +3708,17 @@
  },
  {
   "surname": "List",
-  "count": 17,
+  "fname": "List",
+  "count": 20,
   "person_ids": [
    "P0244",
    "P0245",
    "P0246",
+   "P0316",
    "P0576",
    "P0577",
+   "P0578",
+   "P0579",
    "P0667",
    "P1006",
    "P1417",
@@ -2820,8 +3734,19 @@
   ]
  },
  {
+  "surname": "Litlutsni",
+  "fname": "Litlutsni",
+  "count": 3,
+  "person_ids": [
+   "P1107",
+   "P1389",
+   "P1451"
+  ]
+ },
+ {
   "surname": "Littman",
-  "count": 8,
+  "fname": "Littman",
+  "count": 9,
   "person_ids": [
    "P0311",
    "P0312",
@@ -2830,26 +3755,32 @@
    "P0755",
    "P0975",
    "P1214",
+   "P1965",
    "P2713"
   ]
  },
  {
   "surname": "Lobel",
-  "count": 24,
+  "fname": "Lobel",
+  "count": 28,
   "person_ids": [
    "P0061",
    "P0173",
+   "P0174",
    "P0204",
    "P0205",
+   "P0206",
    "P0432",
    "P0720",
    "P0770",
+   "P0771",
    "P0773",
    "P0845",
    "P0945",
    "P0981",
    "P1066",
    "P1096",
+   "P1109",
    "P1112",
    "P1205",
    "P1301",
@@ -2865,10 +3796,14 @@
  },
  {
   "surname": "Low",
-  "count": 11,
+  "fname": "Low",
+  "count": 16,
   "person_ids": [
+   "P0372",
    "P0374",
    "P0375",
+   "P0376",
+   "P0585",
    "P0810",
    "P0814",
    "P1202",
@@ -2876,12 +3811,24 @@
    "P1348",
    "P1433",
    "P2146",
+   "P2147",
    "P2345",
+   "P2346",
    "P2347"
   ]
  },
  {
+  "surname": "Luft",
+  "fname": "Luft",
+  "count": 2,
+  "person_ids": [
+   "P0298",
+   "P0300"
+  ]
+ },
+ {
   "surname": "Lupper",
+  "fname": "Lupper",
   "count": 1,
   "person_ids": [
    "P1934"
@@ -2889,6 +3836,7 @@
  },
  {
   "surname": "Luskind",
+  "fname": "Luskind",
   "count": 1,
   "person_ids": [
    "P2128"
@@ -2896,6 +3844,7 @@
  },
  {
   "surname": "Lustgarten",
+  "fname": "Lustgarten",
   "count": 1,
   "person_ids": [
    "P0011"
@@ -2903,6 +3852,7 @@
  },
  {
   "surname": "Lustig",
+  "fname": "Lustig",
   "count": 2,
   "person_ids": [
    "P2100",
@@ -2910,26 +3860,53 @@
   ]
  },
  {
+  "surname": "Löw",
+  "fname": "L_w",
+  "count": 2,
+  "person_ids": [
+   "P0810",
+   "P0811"
+  ]
+ },
+ {
+  "surname": "Maas",
+  "fname": "Maas",
+  "count": 2,
+  "person_ids": [
+   "P2527",
+   "P2528"
+  ]
+ },
+ {
   "surname": "Mahler",
-  "count": 5,
+  "fname": "Mahler",
+  "count": 10,
   "person_ids": [
    "P0153",
+   "P0663",
    "P0664",
    "P0665",
+   "P0666",
+   "P1628",
+   "P1651",
    "P2540",
+   "P2541",
    "P2542"
   ]
  },
  {
   "surname": "Mahrer",
-  "count": 2,
+  "fname": "Mahrer",
+  "count": 3,
   "person_ids": [
    "P2170",
+   "P2171",
    "P2172"
   ]
  },
  {
   "surname": "Majerhoff",
+  "fname": "Majerhoff",
   "count": 1,
   "person_ids": [
    "P0657"
@@ -2937,20 +3914,24 @@
  },
  {
   "surname": "Malz",
-  "count": 8,
+  "fname": "Malz",
+  "count": 10,
   "person_ids": [
    "P0197",
    "P0376",
    "P1460",
+   "P1461",
    "P1464",
    "P1522",
    "P2313",
+   "P2314",
    "P2315",
    "P2669"
   ]
  },
  {
   "surname": "Mandel",
+  "fname": "Mandel",
   "count": 4,
   "person_ids": [
    "P0516",
@@ -2961,15 +3942,18 @@
  },
  {
   "surname": "Mantel",
-  "count": 3,
+  "fname": "Mantel",
+  "count": 4,
   "person_ids": [
    "P1208",
    "P1209",
+   "P1210",
    "P2280"
   ]
  },
  {
   "surname": "Manz",
+  "fname": "Manz",
   "count": 1,
   "person_ids": [
    "P2183"
@@ -2977,6 +3961,7 @@
  },
  {
   "surname": "March",
+  "fname": "March",
   "count": 3,
   "person_ids": [
    "P1283",
@@ -2986,15 +3971,21 @@
  },
  {
   "surname": "Mass",
-  "count": 3,
+  "fname": "Mass",
+  "count": 7,
   "person_ids": [
+   "P1329",
    "P1355",
+   "P1435",
+   "P1482",
+   "P2219",
    "P2527",
    "P2528"
   ]
  },
  {
   "surname": "Mastbaum",
+  "fname": "Mastbaum",
   "count": 3,
   "person_ids": [
    "P2552",
@@ -3004,15 +3995,19 @@
  },
  {
   "surname": "Matzner",
-  "count": 2,
+  "fname": "Matzner",
+  "count": 4,
   "person_ids": [
    "P2455",
-   "P2457"
+   "P2456",
+   "P2457",
+   "P2468"
   ]
  },
  {
   "surname": "Meer",
-  "count": 10,
+  "fname": "Meer",
+  "count": 11,
   "person_ids": [
    "P0143",
    "P0144",
@@ -3022,12 +4017,14 @@
    "P0816",
    "P1624",
    "P1673",
+   "P2044",
    "P2561",
    "P2695"
   ]
  },
  {
   "surname": "Mehr",
+  "fname": "Mehr",
   "count": 4,
   "person_ids": [
    "P2429",
@@ -3038,13 +4035,24 @@
  },
  {
   "surname": "Meister",
-  "count": 1,
+  "fname": "Meister",
+  "count": 2,
   "person_ids": [
+   "P1380",
    "P1382"
   ]
  },
  {
+  "surname": "Meller",
+  "fname": "Meller",
+  "count": 1,
+  "person_ids": [
+   "P2373"
+  ]
+ },
+ {
   "surname": "Melter",
+  "fname": "Melter",
   "count": 1,
   "person_ids": [
    "P2373"
@@ -3052,6 +4060,7 @@
  },
  {
   "surname": "Menendorf",
+  "fname": "Menendorf",
   "count": 1,
   "person_ids": [
    "P2701"
@@ -3059,6 +4068,7 @@
  },
  {
   "surname": "Meth",
+  "fname": "Meth",
   "count": 1,
   "person_ids": [
    "P2004"
@@ -3066,13 +4076,16 @@
  },
  {
   "surname": "Milhau",
-  "count": 1,
+  "fname": "Milhau",
+  "count": 2,
   "person_ids": [
+   "P1832",
    "P2664"
   ]
  },
  {
   "surname": "Miller",
+  "fname": "Miller",
   "count": 1,
   "person_ids": [
    "P1975"
@@ -3080,6 +4093,7 @@
  },
  {
   "surname": "Miltan",
+  "fname": "Miltan",
   "count": 2,
   "person_ids": [
    "P1832",
@@ -3088,6 +4102,7 @@
  },
  {
   "surname": "Miltow",
+  "fname": "Miltow",
   "count": 2,
   "person_ids": [
    "P1394",
@@ -3096,6 +4111,7 @@
  },
  {
   "surname": "Mongel",
+  "fname": "Mongel",
   "count": 1,
   "person_ids": [
    "P2433"
@@ -3103,6 +4119,7 @@
  },
  {
   "surname": "Mozes",
+  "fname": "Mozes",
   "count": 1,
   "person_ids": [
    "P2118"
@@ -3110,31 +4127,52 @@
  },
  {
   "surname": "Muller",
-  "count": 1,
+  "fname": "Muller",
+  "count": 2,
   "person_ids": [
-   "P2177"
+   "P2177",
+   "P2179"
   ]
  },
  {
   "surname": "Nechemje",
-  "count": 12,
+  "fname": "Nechemje",
+  "count": 21,
   "person_ids": [
    "P0013",
+   "P0623",
+   "P0624",
+   "P0625",
    "P0951",
+   "P0952",
    "P1171",
    "P1172",
+   "P1173",
+   "P1174",
    "P1294",
    "P1504",
    "P1505",
+   "P1506",
    "P1507",
    "P1791",
    "P1792",
+   "P1861",
+   "P2268",
    "P2586",
    "P2623"
   ]
  },
  {
   "surname": "Neistafer",
+  "fname": "Neistafer",
+  "count": 1,
+  "person_ids": [
+   "P0389"
+  ]
+ },
+ {
+  "surname": "Neistater",
+  "fname": "Neistater",
   "count": 1,
   "person_ids": [
    "P0389"
@@ -3142,26 +4180,38 @@
  },
  {
   "surname": "Neubart",
-  "count": 8,
+  "fname": "Neubart",
+  "count": 17,
   "person_ids": [
    "P0211",
+   "P0820",
+   "P0821",
+   "P0824",
+   "P0978",
+   "P1044",
+   "P1285",
+   "P1685",
    "P1867",
    "P2188",
+   "P2189",
    "P2190",
    "P2255",
    "P2256",
    "P2396",
+   "P2397",
    "P2398"
   ]
  },
  {
   "surname": "Neuman",
-  "count": 9,
+  "fname": "Neuman",
+  "count": 10,
   "person_ids": [
    "P0407",
    "P0408",
    "P0409",
    "P0620",
+   "P0730",
    "P0869",
    "P0872",
    "P0986",
@@ -3171,9 +4221,14 @@
  },
  {
   "surname": "Noth",
-  "count": 8,
+  "fname": "Noth",
+  "count": 12,
   "person_ids": [
+   "P0704",
+   "P0705",
+   "P0706",
    "P0903",
+   "P0904",
    "P0907",
    "P0995",
    "P1087",
@@ -3185,6 +4240,7 @@
  },
  {
   "surname": "Nuefeld",
+  "fname": "Nuefeld",
   "count": 1,
   "person_ids": [
    "P1263"
@@ -3192,23 +4248,30 @@
  },
  {
   "surname": "Nurnberg",
-  "count": 2,
+  "fname": "Nurnberg",
+  "count": 3,
   "person_ids": [
    "P2348",
+   "P2349",
    "P2350"
   ]
  },
  {
   "surname": "Nusbaum",
-  "count": 3,
+  "fname": "Nusbaum",
+  "count": 6,
   "person_ids": [
+   "P0553",
+   "P1728",
    "P2086",
    "P2379",
+   "P2380",
    "P2381"
   ]
  },
  {
   "surname": "Oblat",
+  "fname": "Oblat",
   "count": 3,
   "person_ids": [
    "P1772",
@@ -3218,6 +4281,7 @@
  },
  {
   "surname": "Offen",
+  "fname": "Offen",
   "count": 1,
   "person_ids": [
    "P2202"
@@ -3225,41 +4289,54 @@
  },
  {
   "surname": "Offner",
-  "count": 5,
+  "fname": "Offner",
+  "count": 7,
   "person_ids": [
    "P0403",
    "P0404",
+   "P0405",
    "P1912",
    "P2003",
+   "P2004",
    "P2178"
   ]
  },
  {
   "surname": "Oling",
-  "count": 2,
+  "fname": "Oling",
+  "count": 3,
   "person_ids": [
    "P2282",
+   "P2283",
    "P2284"
   ]
  },
  {
   "surname": "Orner",
-  "count": 17,
+  "fname": "Orner",
+  "count": 24,
   "person_ids": [
    "P0102",
    "P0298",
    "P0299",
+   "P0300",
    "P0342",
+   "P0343",
+   "P0433",
    "P0435",
    "P0710",
    "P0727",
    "P1035",
+   "P1036",
    "P1039",
+   "P1271",
+   "P1356",
    "P1565",
    "P1566",
    "P1603",
    "P1810",
    "P1820",
+   "P2219",
    "P2681",
    "P2694",
    "P2714"
@@ -3267,6 +4344,7 @@
  },
  {
   "surname": "Padower",
+  "fname": "Padower",
   "count": 1,
   "person_ids": [
    "P2024"
@@ -3274,23 +4352,36 @@
  },
  {
   "surname": "Panzer",
-  "count": 26,
+  "fname": "Panzer",
+  "count": 40,
   "person_ids": [
    "P0296",
    "P0297",
+   "P0298",
    "P0327",
    "P0333",
    "P0334",
    "P0335",
+   "P0336",
+   "P0722",
    "P0723",
+   "P0908",
    "P0911",
    "P1040",
+   "P1047",
    "P1050",
+   "P1158",
    "P1192",
+   "P1256",
    "P1271",
    "P1329",
+   "P1334",
    "P1356",
+   "P1390",
+   "P1453",
+   "P1529",
    "P1541",
+   "P1542",
    "P1543",
    "P1653",
    "P1803",
@@ -3299,13 +4390,16 @@
    "P1825",
    "P2065",
    "P2218",
+   "P2219",
    "P2367",
    "P2573",
-   "P2574"
+   "P2574",
+   "P2693"
   ]
  },
  {
   "surname": "Parnes",
+  "fname": "Parnes",
   "count": 3,
   "person_ids": [
    "P2390",
@@ -3315,6 +4409,7 @@
  },
  {
   "surname": "Pasner",
+  "fname": "Pasner",
   "count": 1,
   "person_ids": [
    "P2513"
@@ -3322,10 +4417,12 @@
  },
  {
   "surname": "Pencier",
-  "count": 13,
+  "fname": "Pencier",
+  "count": 16,
   "person_ids": [
    "P0188",
    "P0189",
+   "P0190",
    "P0406",
    "P0524",
    "P0696",
@@ -3336,56 +4433,81 @@
    "P1206",
    "P1323",
    "P1805",
-   "P1872"
+   "P1806",
+   "P1872",
+   "P1873"
   ]
  },
  {
   "surname": "Piperberg",
-  "count": 2,
+  "fname": "Piperberg",
+  "count": 3,
   "person_ids": [
    "P0198",
-   "P0199"
+   "P0199",
+   "P0200"
   ]
  },
  {
   "surname": "Plattner",
-  "count": 6,
+  "fname": "Plattner",
+  "count": 10,
   "person_ids": [
    "P0014",
    "P0180",
+   "P0181",
+   "P1019",
+   "P1020",
    "P1290",
    "P1613",
+   "P1808",
    "P2087",
    "P2088"
   ]
  },
  {
   "surname": "Plutzer",
-  "count": 2,
+  "fname": "Plutzer",
+  "count": 3,
   "person_ids": [
    "P2233",
-   "P2235"
+   "P2235",
+   "P2236"
   ]
  },
  {
   "surname": "Podhorzer",
-  "count": 3,
+  "fname": "Podhorzer",
+  "count": 4,
   "person_ids": [
    "P1868",
    "P1890",
+   "P2320",
    "P2321"
   ]
  },
  {
-  "surname": "Propker",
+  "surname": "Poper",
+  "fname": "Poper",
   "count": 1,
   "person_ids": [
-   "P2111"
+   "P1962"
+  ]
+ },
+ {
+  "surname": "Propker",
+  "fname": "Propker",
+  "count": 3,
+  "person_ids": [
+   "P1412",
+   "P2111",
+   "P2112"
   ]
  },
  {
   "surname": "Ratz",
-  "count": 9,
+  "fname": "Ratz",
+  "count": 11,
   "person_ids": [
    "P0722",
    "P0915",
@@ -3393,17 +4515,21 @@
    "P0999",
    "P1496",
    "P2083",
+   "P2084",
    "P2239",
+   "P2240",
    "P2241",
    "P2523"
   ]
  },
  {
   "surname": "Rauch",
-  "count": 10,
+  "fname": "Rauch",
+  "count": 11,
   "person_ids": [
    "P0301",
    "P0302",
+   "P0303",
    "P0455",
    "P0608",
    "P0718",
@@ -3416,13 +4542,27 @@
  },
  {
   "surname": "Rauchwerg",
+  "fname": "Rauchwerg",
   "count": 1,
   "person_ids": [
    "P2516"
   ]
  },
  {
+  "surname": "Rebhan",
+  "fname": "Rebhan",
+  "count": 5,
+  "person_ids": [
+   "P0095",
+   "P0096",
+   "P0097",
+   "P0098",
+   "P0099"
+  ]
+ },
+ {
   "surname": "Reck",
+  "fname": "Reck",
   "count": 1,
   "person_ids": [
    "P0910"
@@ -3430,9 +4570,12 @@
  },
  {
   "surname": "Reich",
-  "count": 4,
+  "fname": "Reich",
+  "count": 6,
   "person_ids": [
+   "P0382",
    "P0969",
+   "P0970",
    "P0973",
    "P2276",
    "P2277"
@@ -3440,6 +4583,7 @@
  },
  {
   "surname": "Reicher",
+  "fname": "Reicher",
   "count": 6,
   "person_ids": [
    "P0154",
@@ -3451,14 +4595,27 @@
   ]
  },
  {
-  "surname": "Reiger",
+  "surname": "Reichter",
+  "fname": "Reichter",
   "count": 1,
   "person_ids": [
-   "P0417"
+   "P0155"
+  ]
+ },
+ {
+  "surname": "Reiger",
+  "fname": "Reiger",
+  "count": 4,
+  "person_ids": [
+   "P0414",
+   "P0416",
+   "P0417",
+   "P0418"
   ]
  },
  {
   "surname": "Reimer",
+  "fname": "Reimer",
   "count": 5,
   "person_ids": [
    "P0919",
@@ -3470,18 +4627,22 @@
  },
  {
   "surname": "Rein",
-  "count": 6,
+  "fname": "Rein",
+  "count": 8,
   "person_ids": [
    "P0602",
+   "P0603",
    "P0606",
    "P0811",
    "P0812",
+   "P0813",
    "P1054",
    "P1760"
   ]
  },
  {
   "surname": "Reiner",
+  "fname": "Reiner",
   "count": 3,
   "person_ids": [
    "P2133",
@@ -3491,25 +4652,31 @@
  },
  {
   "surname": "Reiss",
-  "count": 28,
+  "fname": "Reiss",
+  "count": 33,
   "person_ids": [
    "P0187",
    "P0203",
+   "P0204",
    "P0476",
    "P0570",
    "P0688",
    "P0796",
    "P0944",
-   "P0948",
    "P0970",
    "P0971",
+   "P0972",
+   "P0973",
    "P1100",
+   "P1208",
    "P1210",
    "P1211",
    "P1233",
    "P1234",
    "P1239",
    "P1240",
+   "P1241",
+   "P1242",
    "P1295",
    "P1341",
    "P1408",
@@ -3525,6 +4692,7 @@
  },
  {
   "surname": "Reissner",
+  "fname": "Reissner",
   "count": 1,
   "person_ids": [
    "P1929"
@@ -3532,15 +4700,34 @@
  },
  {
   "surname": "Rej",
+  "fname": "Rej",
   "count": 1,
   "person_ids": [
    "P1225"
   ]
  },
  {
-  "surname": "Rieger",
-  "count": 4,
+  "surname": "Richter",
+  "fname": "Richter",
+  "count": 2,
   "person_ids": [
+   "P1375",
+   "P1831"
+  ]
+ },
+ {
+  "surname": "Rieger",
+  "fname": "Rieger",
+  "count": 12,
+  "person_ids": [
+   "P0810",
+   "P0811",
+   "P0814",
+   "P1201",
+   "P1202",
+   "P1259",
+   "P1348",
+   "P1433",
    "P1920",
    "P1921",
    "P1922",
@@ -3549,8 +4736,11 @@
  },
  {
   "surname": "Riff",
-  "count": 3,
+  "fname": "Riff",
+  "count": 5,
   "person_ids": [
+   "P0066",
+   "P0074",
    "P1788",
    "P1789",
    "P1790"
@@ -3558,32 +4748,49 @@
  },
  {
   "surname": "Rinder",
-  "count": 2,
+  "fname": "Rinder",
+  "count": 3,
   "person_ids": [
    "P1957",
-   "P1958"
+   "P1958",
+   "P1959"
   ]
  },
  {
   "surname": "Riner",
-  "count": 2,
+  "fname": "Riner",
+  "count": 3,
   "person_ids": [
    "P0821",
-   "P0822"
+   "P0822",
+   "P0823"
   ]
  },
  {
   "surname": "Ritter",
-  "count": 4,
+  "fname": "Ritter",
+  "count": 5,
   "person_ids": [
    "P0385",
    "P0386",
+   "P0387",
    "P0781",
    "P1584"
   ]
  },
  {
+  "surname": "Riw",
+  "fname": "Riw",
+  "count": 3,
+  "person_ids": [
+   "P0066",
+   "P0067",
+   "P0068"
+  ]
+ },
+ {
   "surname": "Rofshandler",
+  "fname": "Rofshandler",
   "count": 1,
   "person_ids": [
    "P0285"
@@ -3591,6 +4798,7 @@
  },
  {
   "surname": "Rokach",
+  "fname": "Rokach",
   "count": 3,
   "person_ids": [
    "P2399",
@@ -3600,6 +4808,7 @@
  },
  {
   "surname": "Rosen",
+  "fname": "Rosen",
   "count": 3,
   "person_ids": [
    "P2270",
@@ -3609,10 +4818,12 @@
  },
  {
   "surname": "Rosenbaum",
-  "count": 9,
+  "fname": "Rosenbaum",
+  "count": 10,
   "person_ids": [
    "P0227",
    "P0505",
+   "P0557",
    "P0558",
    "P0686",
    "P0799",
@@ -3624,6 +4835,7 @@
  },
  {
   "surname": "Rosenberg",
+  "fname": "Rosenberg",
   "count": 1,
   "person_ids": [
    "P2474"
@@ -3631,6 +4843,7 @@
  },
  {
   "surname": "Rosenhau",
+  "fname": "Rosenhau",
   "count": 1,
   "person_ids": [
    "P2425"
@@ -3638,34 +4851,45 @@
  },
  {
   "surname": "Rossner",
-  "count": 2,
+  "fname": "Rossner",
+  "count": 3,
   "person_ids": [
    "P2364",
+   "P2365",
    "P2366"
   ]
  },
  {
   "surname": "Roth",
-  "count": 24,
+  "fname": "Roth",
+  "count": 32,
   "person_ids": [
    "P0135",
    "P0136",
    "P0161",
+   "P0162",
+   "P0407",
+   "P0409",
    "P0477",
+   "P0478",
    "P0481",
+   "P0620",
    "P0659",
    "P0730",
    "P0763",
    "P0934",
+   "P0958",
    "P0960",
    "P1069",
    "P1164",
+   "P1181",
    "P1183",
    "P1273",
    "P1400",
    "P1608",
    "P1609",
    "P1655",
+   "P1663",
    "P2009",
    "P2013",
    "P2301",
@@ -3676,10 +4900,12 @@
  },
  {
   "surname": "Rothman",
-  "count": 15,
+  "fname": "Rothman",
+  "count": 17,
   "person_ids": [
    "P0159",
    "P0160",
+   "P0161",
    "P0165",
    "P0166",
    "P0167",
@@ -3687,6 +4913,7 @@
    "P0793",
    "P1098",
    "P1144",
+   "P1145",
    "P1148",
    "P1262",
    "P1350",
@@ -3697,9 +4924,11 @@
  },
  {
   "surname": "Rowitz",
-  "count": 9,
+  "fname": "Rowitz",
+  "count": 11,
   "person_ids": [
    "P0070",
+   "P0083",
    "P0084",
    "P0085",
    "P0086",
@@ -3707,11 +4936,13 @@
    "P0088",
    "P0089",
    "P0090",
-   "P0091"
+   "P0091",
+   "P0092"
   ]
  },
  {
   "surname": "Rozmen",
+  "fname": "Rozmen",
   "count": 1,
   "person_ids": [
    "P2685"
@@ -3719,9 +4950,12 @@
  },
  {
   "surname": "Rozner",
-  "count": 10,
+  "fname": "Rozner",
+  "count": 13,
   "person_ids": [
+   "P0189",
    "P0924",
+   "P0925",
    "P0928",
    "P1051",
    "P1167",
@@ -3730,26 +4964,43 @@
    "P1484",
    "P1676",
    "P1678",
+   "P1805",
    "P1806"
   ]
  },
  {
   "surname": "Rubel",
-  "count": 29,
+  "fname": "Rubel",
+  "count": 47,
   "person_ids": [
+   "P0190",
    "P0192",
+   "P0194",
    "P0232",
    "P0233",
+   "P0234",
+   "P0246",
    "P0247",
+   "P0248",
    "P0395",
+   "P0396",
    "P0471",
    "P0489",
+   "P0490",
+   "P0491",
+   "P0568",
+   "P0611",
    "P0624",
    "P0673",
    "P0687",
+   "P0698",
+   "P0699",
+   "P0775",
    "P0837",
+   "P0885",
    "P0997",
    "P1047",
+   "P1050",
    "P1158",
    "P1186",
    "P1256",
@@ -3761,15 +5012,19 @@
    "P1605",
    "P1619",
    "P1709",
+   "P1739",
    "P1856",
+   "P2065",
    "P2375",
    "P2501",
+   "P2563",
    "P2564",
    "P2693"
   ]
  },
  {
   "surname": "Ruber",
+  "fname": "Ruber",
   "count": 1,
   "person_ids": [
    "P1542"
@@ -3777,67 +5032,95 @@
  },
  {
   "surname": "Rubin",
-  "count": 4,
+  "fname": "Rubin",
+  "count": 6,
   "person_ids": [
    "P0939",
    "P0940",
+   "P0941",
    "P2447",
+   "P2448",
    "P2449"
   ]
  },
  {
   "surname": "Ruck",
-  "count": 1,
+  "fname": "Ruck",
+  "count": 4,
   "person_ids": [
+   "P0876",
+   "P0877",
+   "P1073",
    "P2708"
   ]
  },
  {
   "surname": "Rudner",
-  "count": 2,
+  "fname": "Rudner",
+  "count": 6,
   "person_ids": [
    "P0655",
-   "P0656"
+   "P0656",
+   "P0657",
+   "P0658",
+   "P1160",
+   "P1161"
   ]
  },
  {
   "surname": "Rufs",
-  "count": 3,
+  "fname": "Rufs",
+  "count": 4,
   "person_ids": [
+   "P0041",
    "P0049",
    "P0059",
    "P0060"
   ]
  },
  {
-  "surname": "Rupa",
-  "count": 1,
+  "surname": "Russ",
+  "fname": "Russ",
+  "count": 3,
   "person_ids": [
-   "P0050"
+   "P0049",
+   "P0050",
+   "P0051"
   ]
  },
  {
   "surname": "Ryf",
-  "count": 2,
+  "fname": "Ryf",
+  "count": 7,
   "person_ids": [
+   "P0064",
    "P0066",
-   "P0067"
+   "P0067",
+   "P0068",
+   "P0072",
+   "P0073",
+   "P0075"
   ]
  },
  {
   "surname": "Salamon",
-  "count": 3,
+  "fname": "Salamon",
+  "count": 5,
   "person_ids": [
+   "P1310",
    "P2006",
    "P2032",
+   "P2033",
    "P2305"
   ]
  },
  {
   "surname": "Salpeter",
-  "count": 4,
+  "fname": "Salpeter",
+  "count": 5,
   "person_ids": [
    "P1267",
+   "P1268",
    "P1269",
    "P1783",
    "P1787"
@@ -3845,28 +5128,38 @@
  },
  {
   "surname": "Samul",
-  "count": 13,
+  "fname": "Samul",
+  "count": 20,
   "person_ids": [
    "P0207",
    "P0208",
    "P0209",
+   "P0263",
    "P0278",
    "P0279",
+   "P0280",
    "P0447",
    "P0497",
    "P0498",
    "P0501",
    "P0660",
    "P0768",
+   "P0897",
+   "P0993",
+   "P1284",
+   "P1661",
+   "P1968",
    "P1969",
    "P2686"
   ]
  },
  {
   "surname": "Sandberg",
-  "count": 6,
+  "fname": "Sandberg",
+  "count": 7,
   "person_ids": [
    "P0538",
+   "P0539",
    "P0540",
    "P0621",
    "P0731",
@@ -3876,14 +5169,17 @@
  },
  {
   "surname": "Sarno",
-  "count": 2,
+  "fname": "Sarno",
+  "count": 3,
   "person_ids": [
    "P2355",
+   "P2356",
    "P2357"
   ]
  },
  {
   "surname": "Sauerhaft",
+  "fname": "Sauerhaft",
   "count": 1,
   "person_ids": [
    "P2122"
@@ -3891,13 +5187,16 @@
  },
  {
   "surname": "Schachner",
-  "count": 1,
+  "fname": "Schachner",
+  "count": 2,
   "person_ids": [
+   "P1246",
    "P2166"
   ]
  },
  {
   "surname": "Schachter",
+  "fname": "Schachter",
   "count": 4,
   "person_ids": [
    "P0599",
@@ -3908,6 +5207,7 @@
  },
  {
   "surname": "Schall",
+  "fname": "Schall",
   "count": 1,
   "person_ids": [
    "P0894"
@@ -3915,6 +5215,7 @@
  },
  {
   "surname": "Schaller",
+  "fname": "Schaller",
   "count": 3,
   "person_ids": [
    "P0492",
@@ -3924,6 +5225,7 @@
  },
  {
   "surname": "Schancer",
+  "fname": "Schancer",
   "count": 1,
   "person_ids": [
    "P2525"
@@ -3931,26 +5233,33 @@
  },
  {
   "surname": "Scharf",
-  "count": 3,
+  "fname": "Scharf",
+  "count": 5,
   "person_ids": [
    "P1361",
+   "P1362",
    "P1363",
-   "P2191"
+   "P2191",
+   "P2192"
   ]
  },
  {
   "surname": "Schaufel",
-  "count": 2,
+  "fname": "Schaufel",
+  "count": 3,
   "person_ids": [
    "P0589",
-   "P1928"
+   "P1928",
+   "P1929"
   ]
  },
  {
   "surname": "Scheier",
-  "count": 5,
+  "fname": "Scheier",
+  "count": 6,
   "person_ids": [
    "P0714",
+   "P0715",
    "P0716",
    "P0836",
    "P0991",
@@ -3959,15 +5268,18 @@
  },
  {
   "surname": "Scheinbach",
-  "count": 3,
+  "fname": "Scheinbach",
+  "count": 4,
   "person_ids": [
    "P1392",
    "P1489",
+   "P2227",
    "P2240"
   ]
  },
  {
   "surname": "Scherman",
+  "fname": "Scherman",
   "count": 1,
   "person_ids": [
    "P2639"
@@ -3975,18 +5287,22 @@
  },
  {
   "surname": "Schiff",
-  "count": 13,
+  "fname": "Schiff",
+  "count": 16,
   "person_ids": [
    "P1373",
    "P1374",
    "P1375",
    "P1377",
+   "P1394",
    "P1396",
    "P1470",
    "P1663",
    "P1831",
+   "P1832",
    "P1833",
    "P2008",
+   "P2009",
    "P2010",
    "P2011",
    "P2012"
@@ -3994,6 +5310,7 @@
  },
  {
   "surname": "Schiffmann",
+  "fname": "Schiffmann",
   "count": 1,
   "person_ids": [
    "P2677"
@@ -4001,6 +5318,7 @@
  },
  {
   "surname": "Schild",
+  "fname": "Schild",
   "count": 3,
   "person_ids": [
    "P0007",
@@ -4009,11 +5327,26 @@
   ]
  },
  {
-  "surname": "Schilloj",
-  "count": 6,
+  "surname": "Schillaj",
+  "fname": "Schillaj",
+  "count": 3,
   "person_ids": [
-   "P0185",
    "P0735",
+   "P0736",
+   "P1659"
+  ]
+ },
+ {
+  "surname": "Schilloj",
+  "fname": "Schilloj",
+  "count": 10,
+  "person_ids": [
+   "P0182",
+   "P0184",
+   "P0185",
+   "P0186",
+   "P0735",
+   "P0736",
    "P0739",
    "P0851",
    "P0882",
@@ -4022,11 +5355,14 @@
  },
  {
   "surname": "Schindel",
-  "count": 8,
+  "fname": "Schindel",
+  "count": 10,
   "person_ids": [
    "P0387",
    "P0388",
+   "P0389",
    "P0820",
+   "P0821",
    "P0824",
    "P0978",
    "P1044",
@@ -4035,8 +5371,25 @@
   ]
  },
  {
+  "surname": "Schlanger",
+  "fname": "Schlanger",
+  "count": 1,
+  "person_ids": [
+   "P0651"
+  ]
+ },
+ {
+  "surname": "Schlein",
+  "fname": "Schlein",
+  "count": 1,
+  "person_ids": [
+   "P2219"
+  ]
+ },
+ {
   "surname": "Schlenger",
-  "count": 29,
+  "fname": "Schlenger",
+  "count": 37,
   "person_ids": [
    "P0006",
    "P0026",
@@ -4044,17 +5397,24 @@
    "P0030",
    "P0174",
    "P0175",
+   "P0176",
    "P0383",
    "P0420",
    "P0421",
    "P0564",
+   "P0651",
    "P0652",
+   "P0653",
+   "P0654",
    "P0703",
+   "P0745",
    "P0749",
+   "P0750",
    "P0753",
    "P0771",
    "P0772",
    "P0835",
+   "P0852",
    "P0853",
    "P0913",
    "P0914",
@@ -4066,43 +5426,56 @@
    "P1443",
    "P1498",
    "P2199",
-   "P2580"
+   "P2580",
+   "P2581"
   ]
  },
  {
   "surname": "Schloriner",
-  "count": 4,
+  "fname": "Schloriner",
+  "count": 8,
   "person_ids": [
    "P1354",
+   "P1355",
+   "P1356",
    "P1435",
    "P1482",
+   "P1803",
+   "P1804",
    "P2219"
   ]
  },
  {
   "surname": "Schlusselberg",
-  "count": 1,
+  "fname": "Schlusselberg",
+  "count": 2,
   "person_ids": [
+   "P0789",
    "P0790"
   ]
  },
  {
   "surname": "Schmaja",
-  "count": 2,
+  "fname": "Schmaja",
+  "count": 3,
   "person_ids": [
    "P1310",
+   "P1740",
    "P1741"
   ]
  },
  {
   "surname": "Schmalzer",
-  "count": 1,
+  "fname": "Schmalzer",
+  "count": 2,
   "person_ids": [
+   "P1230",
    "P2162"
   ]
  },
  {
   "surname": "Schmidt",
+  "fname": "Schmidt",
   "count": 1,
   "person_ids": [
    "P2724"
@@ -4110,14 +5483,15 @@
  },
  {
   "surname": "Schneerson",
-  "count": 2,
+  "fname": "Schneerson",
+  "count": 1,
   "person_ids": [
-   "P1242",
-   "P2631"
+   "P1242"
   ]
  },
  {
   "surname": "Schnek",
+  "fname": "Schnek",
   "count": 1,
   "person_ids": [
    "P2544"
@@ -4125,11 +5499,13 @@
  },
  {
   "surname": "Schneps",
-  "count": 11,
+  "fname": "Schneps",
+  "count": 14,
   "person_ids": [
    "P0596",
    "P0597",
    "P0598",
+   "P0599",
    "P0600",
    "P0728",
    "P0849",
@@ -4137,21 +5513,27 @@
    "P1068",
    "P1134",
    "P1974",
+   "P1975",
+   "P2258",
    "P2259"
   ]
  },
  {
   "surname": "Schneyer",
-  "count": 4,
+  "fname": "Schneyer",
+  "count": 6,
   "person_ids": [
    "P1440",
+   "P1441",
    "P1442",
    "P1518",
-   "P2194"
+   "P2194",
+   "P2195"
   ]
  },
  {
   "surname": "Schnikler",
+  "fname": "Schnikler",
   "count": 1,
   "person_ids": [
    "P2388"
@@ -4159,68 +5541,88 @@
  },
  {
   "surname": "Schnosh",
-  "count": 2,
+  "fname": "Schnosh",
+  "count": 4,
   "person_ids": [
+   "P0436",
+   "P0437",
    "P0438",
    "P0439"
   ]
  },
  {
   "surname": "Schonbach",
+  "fname": "Schonbach",
   "count": 4,
   "person_ids": [
    "P1305",
+   "P1306",
    "P1307",
-   "P1391",
    "P2227"
   ]
  },
  {
   "surname": "Schonberg",
-  "count": 5,
+  "fname": "Schonberg",
+  "count": 7,
   "person_ids": [
    "P0633",
+   "P0634",
    "P0637",
    "P0798",
    "P0929",
-   "P0930"
+   "P0930",
+   "P0931"
   ]
  },
  {
   "surname": "Schonwald",
-  "count": 2,
+  "fname": "Schonwald",
+  "count": 3,
   "person_ids": [
    "P1075",
-   "P1076"
+   "P1076",
+   "P1077"
   ]
  },
  {
   "surname": "Schonwetter",
-  "count": 35,
+  "fname": "Schonwetter",
+  "count": 46,
   "person_ids": [
    "P0108",
    "P0115",
    "P0116",
+   "P0117",
    "P0121",
    "P0122",
    "P0123",
+   "P0124",
+   "P0311",
+   "P0313",
    "P0314",
    "P0315",
    "P0323",
    "P0324",
+   "P0325",
    "P0346",
+   "P0348",
    "P0465",
    "P0539",
    "P0551",
    "P0580",
+   "P0581",
    "P0584",
    "P0607",
+   "P0613",
    "P0715",
    "P0758",
    "P0815",
    "P0987",
    "P1026",
+   "P1027",
    "P1028",
+   "P1047",
    "P1049",
    "P1135",
    "P1149",
@@ -4230,6 +5632,7 @@
    "P1687",
    "P1703",
    "P2031",
+   "P2032",
    "P2033",
    "P2619",
    "P2652"
@@ -4237,6 +5640,7 @@
  },
  {
   "surname": "Schuman",
+  "fname": "Schuman",
   "count": 1,
   "person_ids": [
    "P2485"
@@ -4244,7 +5648,8 @@
  },
  {
   "surname": "Schuss",
-  "count": 12,
+  "fname": "Schuss",
+  "count": 13,
   "person_ids": [
    "P0697",
    "P0698",
@@ -4257,14 +5662,17 @@
    "P1359",
    "P1420",
    "P1528",
-   "P2053"
+   "P2053",
+   "P2054"
   ]
  },
  {
   "surname": "Schwarz",
-  "count": 14,
+  "fname": "Schwarz",
+  "count": 15,
   "person_ids": [
    "P0488",
+   "P0489",
    "P0491",
    "P0611",
    "P0708",
@@ -4276,27 +5684,39 @@
    "P1419",
    "P1456",
    "P2601",
-   "P2646",
-   "P2676"
+   "P2676",
+   "P2677"
   ]
  },
  {
   "surname": "Schwarzman",
+  "fname": "Schwarzman",
   "count": 1,
   "person_ids": [
    "P2290"
   ]
  },
  {
+  "surname": "Schönwetter",
+  "fname": "Sch_nwetter",
+  "count": 1,
+  "person_ids": [
+   "P1047"
+  ]
+ },
+ {
   "surname": "Seeman",
-  "count": 2,
+  "fname": "Seeman",
+  "count": 3,
   "person_ids": [
    "P2473",
+   "P2474",
    "P2475"
   ]
  },
  {
   "surname": "Seidn",
+  "fname": "Seidn",
   "count": 1,
   "person_ids": [
    "P1873"
@@ -4304,6 +5724,7 @@
  },
  {
   "surname": "Senft",
+  "fname": "Senft",
   "count": 3,
   "person_ids": [
    "P1756",
@@ -4313,6 +5734,7 @@
  },
  {
   "surname": "Shuster",
+  "fname": "Shuster",
   "count": 5,
   "person_ids": [
    "P1278",
@@ -4324,10 +5746,12 @@
  },
  {
   "surname": "Siegfried",
-  "count": 17,
+  "fname": "Siegfried",
+  "count": 21,
   "person_ids": [
    "P0217",
    "P0218",
+   "P0219",
    "P0419",
    "P0591",
    "P0649",
@@ -4335,7 +5759,10 @@
    "P0858",
    "P0943",
    "P1084",
+   "P1279",
    "P1280",
+   "P1281",
+   "P1282",
    "P1589",
    "P1749",
    "P1750",
@@ -4347,17 +5774,20 @@
  },
  {
   "surname": "Silber",
-  "count": 5,
+  "fname": "Silber",
+  "count": 6,
   "person_ids": [
    "P2464",
    "P2465",
    "P2466",
    "P2548",
+   "P2549",
    "P2550"
   ]
  },
  {
   "surname": "Silberbartz",
+  "fname": "Silberbartz",
   "count": 2,
   "person_ids": [
    "P0841",
@@ -4366,20 +5796,25 @@
  },
  {
   "surname": "Silberberg",
-  "count": 7,
+  "fname": "Silberberg",
+  "count": 10,
   "person_ids": [
+   "P0841",
+   "P0842",
    "P0843",
    "P0994",
    "P1058",
    "P1235",
    "P1472",
    "P1775",
+   "P1961",
    "P1962"
   ]
  },
  {
   "surname": "Silberman",
-  "count": 13,
+  "fname": "Silberman",
+  "count": 14,
   "person_ids": [
    "P0031",
    "P0254",
@@ -4393,18 +5828,23 @@
    "P0976",
    "P1029",
    "P1139",
+   "P1619",
    "P1923"
   ]
  },
  {
   "surname": "Silberstein",
-  "count": 1,
+  "fname": "Silberstein",
+  "count": 3,
   "person_ids": [
-   "P1388"
+   "P1106",
+   "P1388",
+   "P2195"
   ]
  },
  {
   "surname": "Silbiger",
+  "fname": "Silbiger",
   "count": 1,
   "person_ids": [
    "P2502"
@@ -4412,9 +5852,11 @@
  },
  {
   "surname": "Singer",
-  "count": 9,
+  "fname": "Singer",
+  "count": 10,
   "person_ids": [
    "P0709",
+   "P0710",
    "P0711",
    "P0825",
    "P0864",
@@ -4426,16 +5868,35 @@
   ]
  },
  {
+  "surname": "Slanger",
+  "fname": "Slanger",
+  "count": 6,
+  "person_ids": [
+   "P0401",
+   "P0402",
+   "P0403",
+   "P1368",
+   "P1485",
+   "P2410"
+  ]
+ },
+ {
   "surname": "Sperber",
-  "count": 40,
+  "fname": "Sperber",
+  "count": 49,
   "person_ids": [
    "P0431",
    "P0646",
+   "P0647",
    "P0648",
+   "P0802",
    "P0805",
+   "P0838",
    "P0840",
    "P0877",
+   "P0879",
    "P0891",
+   "P0892",
    "P0968",
    "P0990",
    "P1025",
@@ -4454,34 +5915,41 @@
    "P1654",
    "P1675",
    "P1686",
+   "P1729",
    "P1739",
    "P1853",
    "P1854",
    "P1960",
    "P2001",
    "P2002",
+   "P2052",
    "P2072",
+   "P2075",
    "P2232",
    "P2297",
+   "P2298",
    "P2299",
    "P2336",
    "P2571",
    "P2572",
-   "P2577",
-   "P2651"
+   "P2575",
+   "P2577"
   ]
  },
  {
   "surname": "Spett",
-  "count": 3,
+  "fname": "Spett",
+  "count": 4,
   "person_ids": [
    "P0518",
+   "P0519",
    "P0522",
    "P1926"
   ]
  },
  {
   "surname": "Spiera",
+  "fname": "Spiera",
   "count": 4,
   "person_ids": [
    "P2482",
@@ -4492,6 +5960,7 @@
  },
  {
   "surname": "Spierer",
+  "fname": "Spierer",
   "count": 1,
   "person_ids": [
    "P2505"
@@ -4499,6 +5968,7 @@
  },
  {
   "surname": "Spinad",
+  "fname": "Spinad",
   "count": 2,
   "person_ids": [
    "P2531",
@@ -4507,16 +5977,19 @@
  },
  {
   "surname": "Spira",
-  "count": 4,
+  "fname": "Spira",
+  "count": 5,
   "person_ids": [
    "P2356",
    "P2479",
+   "P2480",
    "P2481",
    "P2518"
   ]
  },
  {
   "surname": "Spitz",
+  "fname": "Spitz",
   "count": 1,
   "person_ids": [
    "P1947"
@@ -4524,40 +5997,52 @@
  },
  {
   "surname": "Spizer",
-  "count": 2,
+  "fname": "Spizer",
+  "count": 3,
   "person_ids": [
    "P2351",
+   "P2352",
    "P2353"
   ]
  },
  {
   "surname": "Sporn",
-  "count": 2,
+  "fname": "Sporn",
+  "count": 4,
   "person_ids": [
+   "P0498",
    "P0499",
-   "P0500"
+   "P0500",
+   "P0501"
   ]
  },
  {
   "surname": "Springer",
-  "count": 4,
+  "fname": "Springer",
+  "count": 7,
   "person_ids": [
+   "P0528",
    "P0529",
    "P0530",
+   "P0531",
    "P2504",
+   "P2505",
    "P2506"
   ]
  },
  {
   "surname": "Stadtfeld",
-  "count": 2,
+  "fname": "Stadtfeld",
+  "count": 3,
   "person_ids": [
    "P2484",
+   "P2485",
    "P2486"
   ]
  },
  {
   "surname": "Stark",
+  "fname": "Stark",
   "count": 1,
   "person_ids": [
    "P2418"
@@ -4565,22 +6050,27 @@
  },
  {
   "surname": "Staub",
-  "count": 2,
+  "fname": "Staub",
+  "count": 3,
   "person_ids": [
    "P1913",
+   "P1914",
    "P1915"
   ]
  },
  {
   "surname": "Stecher",
-  "count": 2,
+  "fname": "Stecher",
+  "count": 3,
   "person_ids": [
+   "P0348",
    "P0350",
    "P2051"
   ]
  },
  {
   "surname": "Stein",
+  "fname": "Stein",
   "count": 2,
   "person_ids": [
    "P0426",
@@ -4589,21 +6079,29 @@
  },
  {
   "surname": "Steinbach",
-  "count": 1,
+  "fname": "Steinbach",
+  "count": 5,
   "person_ids": [
-   "P0027"
+   "P0026",
+   "P0027",
+   "P0028",
+   "P0029",
+   "P0030"
   ]
  },
  {
   "surname": "Steinberger",
-  "count": 2,
+  "fname": "Steinberger",
+  "count": 3,
   "person_ids": [
    "P2316",
+   "P2317",
    "P2318"
   ]
  },
  {
   "surname": "Steinbok",
+  "fname": "Steinbok",
   "count": 2,
   "person_ids": [
    "P2487",
@@ -4611,7 +6109,16 @@
   ]
  },
  {
+  "surname": "Steinbrech",
+  "fname": "Steinbrech",
+  "count": 1,
+  "person_ids": [
+   "P2499"
+  ]
+ },
+ {
   "surname": "Steinbrecher",
+  "fname": "Steinbrecher",
   "count": 2,
   "person_ids": [
    "P2498",
@@ -4620,19 +6127,23 @@
  },
  {
   "surname": "Steiner",
-  "count": 7,
+  "fname": "Steiner",
+  "count": 9,
   "person_ids": [
+   "P1079",
    "P1082",
    "P1083",
    "P1153",
    "P1228",
    "P1302",
    "P1401",
-   "P2157"
+   "P2157",
+   "P2158"
   ]
  },
  {
   "surname": "Steinheim",
+  "fname": "Steinheim",
   "count": 1,
   "person_ids": [
    "P2581"
@@ -4640,25 +6151,30 @@
  },
  {
   "surname": "Steinhorn",
-  "count": 13,
+  "fname": "Steinhorn",
+  "count": 16,
   "person_ids": [
    "P0222",
    "P0223",
+   "P0224",
    "P0427",
    "P0601",
    "P0695",
    "P0847",
    "P1062",
+   "P1275",
    "P1277",
    "P1704",
    "P1705",
    "P1706",
    "P2055",
-   "P2175"
+   "P2175",
+   "P2701"
   ]
  },
  {
   "surname": "Stempel",
+  "fname": "Stempel",
   "count": 3,
   "person_ids": [
    "P1906",
@@ -4668,22 +6184,29 @@
  },
  {
   "surname": "Stener",
-  "count": 1,
+  "fname": "Stener",
+  "count": 4,
   "person_ids": [
-   "P1381"
+   "P1380",
+   "P1381",
+   "P1383",
+   "P1497"
   ]
  },
  {
   "surname": "Stern",
-  "count": 3,
+  "fname": "Stern",
+  "count": 4,
   "person_ids": [
    "P2422",
    "P2467",
+   "P2468",
    "P2469"
   ]
  },
  {
   "surname": "Stierer",
+  "fname": "Stierer",
   "count": 3,
   "person_ids": [
    "P1243",
@@ -4693,7 +6216,8 @@
  },
  {
   "surname": "Storch",
-  "count": 15,
+  "fname": "Storch",
+  "count": 18,
   "person_ids": [
    "P0033",
    "P0092",
@@ -4702,11 +6226,14 @@
    "P0791",
    "P0850",
    "P0937",
+   "P0939",
    "P0942",
    "P1004",
    "P1141",
+   "P1142",
    "P1199",
    "P1998",
+   "P1999",
    "P2000",
    "P2683",
    "P2712"
@@ -4714,31 +6241,45 @@
  },
  {
   "surname": "Struck",
-  "count": 2,
+  "fname": "Struck",
+  "count": 3,
   "person_ids": [
    "P2337",
+   "P2338",
    "P2339"
   ]
  },
  {
   "surname": "Strumpf",
-  "count": 1,
+  "fname": "Strumpf",
+  "count": 2,
   "person_ids": [
+   "P0736",
    "P0738"
   ]
  },
  {
   "surname": "Sturm",
-  "count": 22,
+  "fname": "Sturm",
+  "count": 32,
   "person_ids": [
+   "P0260",
+   "P0261",
    "P0262",
    "P0263",
    "P0361",
+   "P0413",
    "P0514",
    "P0515",
+   "P0516",
+   "P0542",
+   "P0680",
+   "P0844",
    "P0958",
    "P0959",
+   "P0960",
    "P1030",
+   "P1031",
    "P1034",
    "P1108",
    "P1227",
@@ -4752,19 +6293,23 @@
    "P1968",
    "P1971",
    "P2302",
+   "P2303",
    "P2569"
   ]
  },
  {
   "surname": "Susskind",
-  "count": 2,
+  "fname": "Susskind",
+  "count": 3,
   "person_ids": [
    "P0283",
-   "P0284"
+   "P0284",
+   "P0285"
   ]
  },
  {
   "surname": "Szerlag",
+  "fname": "Szerlag",
   "count": 1,
   "person_ids": [
    "P2114"
@@ -4772,14 +6317,17 @@
  },
  {
   "surname": "Szkolnik",
-  "count": 2,
+  "fname": "Szkolnik",
+  "count": 3,
   "person_ids": [
+   "P1662",
    "P1991",
    "P1992"
   ]
  },
  {
   "surname": "Szkulisk",
+  "fname": "Szkulisk",
   "count": 1,
   "person_ids": [
    "P1662"
@@ -4787,13 +6335,23 @@
  },
  {
   "surname": "Szydel",
+  "fname": "Szydel",
   "count": 1,
   "person_ids": [
    "P1614"
   ]
  },
  {
+  "surname": "Szydlowska",
+  "fname": "Szydlowska",
+  "count": 1,
+  "person_ids": [
+   "P2327"
+  ]
+ },
+ {
   "surname": "Szydlowskich",
+  "fname": "Szydlowskich",
   "count": 1,
   "person_ids": [
    "P2327"
@@ -4801,39 +6359,78 @@
  },
  {
   "surname": "Szyjowicz",
-  "count": 2,
+  "fname": "Szyjowicz",
+  "count": 3,
   "person_ids": [
    "P2536",
+   "P2537",
    "P2538"
   ]
  },
  {
-  "surname": "Tager",
-  "count": 12,
+  "surname": "Tabisel",
+  "fname": "Tabisel",
+  "count": 1,
   "person_ids": [
+   "P1632"
+  ]
+ },
+ {
+  "surname": "Tager",
+  "fname": "Tager",
+  "count": 30,
+  "person_ids": [
+   "P0235",
+   "P0237",
    "P0238",
+   "P0239",
    "P0249",
    "P0250",
+   "P0251",
+   "P0278",
    "P0362",
    "P0363",
+   "P0364",
    "P0474",
+   "P0503",
+   "P0504",
+   "P0506",
    "P0595",
+   "P0609",
+   "P0646",
+   "P0661",
+   "P0713",
+   "P0746",
+   "P0877",
    "P0879",
    "P0897",
    "P0993",
+   "P1194",
+   "P1195",
    "P1284",
+   "P1286",
    "P2253"
   ]
  },
  {
   "surname": "Tal",
+  "fname": "Tal",
   "count": 1,
   "person_ids": [
    "P0902"
   ]
  },
  {
+  "surname": "Tanenbaum",
+  "fname": "Tanenbaum",
+  "count": 1,
+  "person_ids": [
+   "P1461"
+  ]
+ },
+ {
   "surname": "Taud",
+  "fname": "Taud",
   "count": 1,
   "person_ids": [
    "P1931"
@@ -4841,15 +6438,18 @@
  },
  {
   "surname": "Teitelbaum",
-  "count": 12,
+  "fname": "Teitelbaum",
+  "count": 14,
   "person_ids": [
    "P1319",
+   "P1320",
    "P1322",
    "P1461",
    "P1462",
    "P1463",
    "P1738",
    "P2026",
+   "P2027",
    "P2028",
    "P2102",
    "P2103",
@@ -4859,6 +6459,7 @@
  },
  {
   "surname": "Tensserblau",
+  "fname": "Tensserblau",
   "count": 1,
   "person_ids": [
    "P2046"
@@ -4866,26 +6467,28 @@
  },
  {
   "surname": "Tesser",
+  "fname": "Tesser",
   "count": 14,
   "person_ids": [
    "P0264",
    "P0265",
    "P0266",
+   "P0377",
+   "P0379",
    "P0380",
    "P0381",
    "P0762",
    "P1583",
-   "P1844",
    "P2215",
    "P2216",
    "P2217",
    "P2678",
-   "P2709",
    "P2710"
   ]
  },
  {
   "surname": "Thaler",
+  "fname": "Thaler",
   "count": 1,
   "person_ids": [
    "P0684"
@@ -4893,9 +6496,12 @@
  },
  {
   "surname": "Thau",
-  "count": 4,
+  "fname": "Thau",
+  "count": 6,
   "person_ids": [
    "P0898",
+   "P0899",
+   "P0902",
    "P1771",
    "P2340",
    "P2607"
@@ -4903,20 +6509,39 @@
  },
  {
   "surname": "Thum",
-  "count": 8,
+  "fname": "Thum",
+  "count": 15,
   "person_ids": [
    "P0022",
+   "P0167",
+   "P0776",
+   "P1247",
+   "P1248",
+   "P1249",
    "P1506",
+   "P1621",
    "P1776",
    "P1777",
    "P2167",
    "P2458",
+   "P2459",
    "P2460",
    "P2622"
   ]
  },
  {
+  "surname": "Thun",
+  "fname": "Thun",
+  "count": 3,
+  "person_ids": [
+   "P0022",
+   "P1776",
+   "P1777"
+  ]
+ },
+ {
   "surname": "Tornschreiber",
+  "fname": "Tornschreiber",
   "count": 1,
   "person_ids": [
    "P2307"
@@ -4924,13 +6549,16 @@
  },
  {
   "surname": "Towel",
-  "count": 21,
+  "fname": "Towel",
+  "count": 25,
   "person_ids": [
+   "P0083",
    "P0093",
    "P0094",
    "P0095",
    "P0099",
    "P0110",
+   "P0301",
    "P0303",
    "P0304",
    "P0305",
@@ -4939,6 +6567,8 @@
    "P0369",
    "P0512",
    "P0670",
+   "P1046",
+   "P1155",
    "P1416",
    "P1660",
    "P1661",
@@ -4951,17 +6581,24 @@
  },
  {
   "surname": "Trachman",
-  "count": 5,
+  "fname": "Trachman",
+  "count": 10,
   "person_ids": [
    "P0127",
+   "P0328",
    "P0331",
    "P0332",
+   "P0400",
+   "P0592",
+   "P0717",
+   "P1620",
    "P1638",
    "P2588"
   ]
  },
  {
   "surname": "Tratner",
+  "fname": "Tratner",
   "count": 2,
   "person_ids": [
    "P0901",
@@ -4970,6 +6607,7 @@
  },
  {
   "surname": "Traum",
+  "fname": "Traum",
   "count": 1,
   "person_ids": [
    "P1306"
@@ -4977,14 +6615,15 @@
  },
  {
   "surname": "Trautman",
-  "count": 2,
+  "fname": "Trautman",
+  "count": 1,
   "person_ids": [
-   "P0668",
    "P0669"
   ]
  },
  {
   "surname": "Trinczer",
+  "fname": "Trinczer",
   "count": 2,
   "person_ids": [
    "P2453",
@@ -4993,6 +6632,7 @@
  },
  {
   "surname": "Trom",
+  "fname": "Trom",
   "count": 1,
   "person_ids": [
    "P2537"
@@ -5000,6 +6640,15 @@
  },
  {
   "surname": "Tropf",
+  "fname": "Tropf",
+  "count": 1,
+  "person_ids": [
+   "P2338"
+  ]
+ },
+ {
+  "surname": "Tropp",
+  "fname": "Tropp",
   "count": 1,
   "person_ids": [
    "P2338"
@@ -5007,13 +6656,24 @@
  },
  {
   "surname": "Trynciner",
-  "count": 1,
+  "fname": "Trynciner",
+  "count": 2,
   "person_ids": [
+   "P0408",
    "P2015"
   ]
  },
  {
   "surname": "Tuchman",
+  "fname": "Tuchman",
+  "count": 1,
+  "person_ids": [
+   "P0216"
+  ]
+ },
+ {
+  "surname": "Tuchmann",
+  "fname": "Tuchmann",
   "count": 1,
   "person_ids": [
    "P0216"
@@ -5021,25 +6681,33 @@
  },
  {
   "surname": "Tugendhoft",
-  "count": 2,
+  "fname": "Tugendhoft",
+  "count": 3,
   "person_ids": [
    "P2489",
+   "P2490",
    "P2491"
   ]
  },
  {
   "surname": "Turk",
-  "count": 12,
+  "fname": "Turk",
+  "count": 17,
   "person_ids": [
    "P0163",
    "P0164",
+   "P0165",
    "P0176",
    "P0436",
    "P0437",
+   "P0483",
    "P0484",
    "P0485",
+   "P0486",
+   "P0701",
    "P1533",
    "P1578",
+   "P1579",
    "P1580",
    "P2061",
    "P2062"
@@ -5047,24 +6715,38 @@
  },
  {
   "surname": "Turner",
-  "count": 2,
+  "fname": "Turner",
+  "count": 3,
   "person_ids": [
    "P1036",
-   "P1037"
+   "P1037",
+   "P1038"
   ]
  },
  {
   "surname": "Tyder",
-  "count": 1,
+  "fname": "Tyder",
+  "count": 2,
   "person_ids": [
+   "P1013",
    "P2164"
   ]
  },
  {
+  "surname": "Türk",
+  "fname": "T_rk",
+  "count": 1,
+  "person_ids": [
+   "P0176"
+  ]
+ },
+ {
   "surname": "Ungarischer",
-  "count": 4,
+  "fname": "Ungarischer",
+  "count": 5,
   "person_ids": [
    "P0069",
+   "P0095",
    "P0096",
    "P0097",
    "P0098"
@@ -5072,7 +6754,8 @@
  },
  {
   "surname": "Unger",
-  "count": 21,
+  "fname": "Unger",
+  "count": 22,
   "person_ids": [
    "P0650",
    "P0651",
@@ -5083,6 +6766,7 @@
    "P1150",
    "P1181",
    "P1182",
+   "P1183",
    "P1250",
    "P1251",
    "P1252",
@@ -5099,6 +6783,7 @@
  },
  {
   "surname": "Unknown",
+  "fname": "Unknown",
   "count": 1,
   "person_ids": [
    "P1948"
@@ -5106,6 +6791,7 @@
  },
  {
   "surname": "Verster",
+  "fname": "Verster",
   "count": 1,
   "person_ids": [
    "P1606"
@@ -5113,29 +6799,45 @@
  },
  {
   "surname": "Verziger",
-  "count": 1,
+  "fname": "Verziger",
+  "count": 3,
   "person_ids": [
+   "P0771",
+   "P0772",
    "P0906"
   ]
  },
  {
   "surname": "Wachner",
-  "count": 2,
+  "fname": "Wachner",
+  "count": 3,
   "person_ids": [
    "P2289",
+   "P2290",
    "P2291"
   ]
  },
  {
   "surname": "Wagschal",
-  "count": 2,
+  "fname": "Wagschal",
+  "count": 3,
   "person_ids": [
    "P0103",
+   "P1690",
    "P2027"
   ]
  },
  {
+  "surname": "Wagschel",
+  "fname": "Wagschel",
+  "count": 1,
+  "person_ids": [
+   "P1690"
+  ]
+ },
+ {
   "surname": "Waks",
+  "fname": "Waks",
   "count": 1,
   "person_ids": [
    "P1919"
@@ -5143,36 +6845,63 @@
  },
  {
   "surname": "Waldman",
-  "count": 5,
+  "fname": "Waldman",
+  "count": 6,
   "person_ids": [
    "P1314",
    "P1315",
+   "P1316",
    "P1317",
    "P1514",
    "P1515"
   ]
  },
  {
-  "surname": "Walter",
-  "count": 20,
+  "surname": "Wallech",
+  "fname": "Wallech",
+  "count": 3,
   "person_ids": [
+   "P1522",
+   "P2669",
+   "P2670"
+  ]
+ },
+ {
+  "surname": "Walter",
+  "fname": "Walter",
+  "count": 34,
+  "person_ids": [
+   "P0222",
    "P0224",
    "P0225",
    "P0396",
    "P0397",
+   "P0427",
+   "P0601",
    "P0647",
+   "P0648",
+   "P0695",
    "P0838",
+   "P0839",
+   "P0840",
+   "P0968",
+   "P1062",
+   "P1085",
    "P1275",
+   "P1277",
    "P1335",
    "P1336",
+   "P1337",
    "P1338",
    "P1385",
    "P1428",
+   "P1455",
    "P1468",
    "P1826",
    "P1827",
    "P1828",
    "P2174",
+   "P2175",
    "P2250",
    "P2252",
    "P2562"
@@ -5180,21 +6909,37 @@
  },
  {
   "surname": "Weber",
+  "fname": "Weber",
   "count": 1,
   "person_ids": [
    "P0653"
   ]
  },
  {
-  "surname": "Wegier",
-  "count": 2,
+  "surname": "Weg",
+  "fname": "Weg",
+  "count": 1,
   "person_ids": [
+   "P0887"
+  ]
+ },
+ {
+  "surname": "Wegier",
+  "fname": "Wegier",
+  "count": 7,
+  "person_ids": [
+   "P0869",
    "P0870",
-   "P0871"
+   "P0871",
+   "P0872",
+   "P0986",
+   "P1092",
+   "P1200"
   ]
  },
  {
   "surname": "Wein",
+  "fname": "Wein",
   "count": 2,
   "person_ids": [
    "P1597",
@@ -5203,24 +6948,29 @@
  },
  {
   "surname": "Weinberg",
-  "count": 4,
+  "fname": "Weinberg",
+  "count": 5,
   "person_ids": [
    "P0326",
    "P0634",
    "P0635",
+   "P0636",
    "P2349"
   ]
  },
  {
   "surname": "Weinberger",
-  "count": 2,
+  "fname": "Weinberger",
+  "count": 3,
   "person_ids": [
    "P2461",
+   "P2462",
    "P2463"
   ]
  },
  {
   "surname": "Weinman",
+  "fname": "Weinman",
   "count": 1,
   "person_ids": [
    "P2380"
@@ -5228,13 +6978,16 @@
  },
  {
   "surname": "Weintraub",
-  "count": 15,
+  "fname": "Weintraub",
+  "count": 19,
   "person_ids": [
+   "P0127",
    "P0316",
    "P0328",
    "P0329",
    "P0400",
    "P0575",
+   "P0576",
    "P0579",
    "P0592",
    "P0712",
@@ -5243,12 +6996,32 @@
    "P1067",
    "P1620",
    "P1622",
+   "P1950",
    "P2007",
+   "P2029",
    "P2397"
   ]
  },
  {
+  "surname": "Weisbard",
+  "fname": "Weisbard",
+  "count": 1,
+  "person_ids": [
+   "P0631"
+  ]
+ },
+ {
+  "surname": "Weisberger",
+  "fname": "Weisberger",
+  "count": 2,
+  "person_ids": [
+   "P1379",
+   "P1497"
+  ]
+ },
+ {
   "surname": "Weisenberg",
+  "fname": "Weisenberg",
   "count": 1,
   "person_ids": [
    "P1935"
@@ -5256,6 +7029,7 @@
  },
  {
   "surname": "Weisman",
+  "fname": "Weisman",
   "count": 5,
   "person_ids": [
    "P1499",
@@ -5267,6 +7041,7 @@
  },
  {
   "surname": "Weissbard",
+  "fname": "Weissbard",
   "count": 1,
   "person_ids": [
    "P0631"
@@ -5274,62 +7049,69 @@
  },
  {
   "surname": "Weitz",
-  "count": 3,
+  "fname": "Weitz",
+  "count": 4,
   "person_ids": [
    "P0082",
    "P0428",
-   "P0638"
-  ]
- },
- {
-  "surname": "Welch",
-  "count": 1,
-  "person_ids": [
-   "P2196"
+   "P0638",
+   "P2575"
   ]
  },
  {
   "surname": "Welisch",
-  "count": 8,
+  "fname": "Welisch",
+  "count": 11,
   "person_ids": [
    "P0077",
    "P0080",
    "P0212",
    "P0213",
+   "P1536",
    "P1537",
    "P1813",
    "P1814",
-   "P2198"
+   "P2196",
+   "P2198",
+   "P2579"
   ]
  },
  {
   "surname": "Welkes",
-  "count": 4,
+  "fname": "Welkes",
+  "count": 6,
   "person_ids": [
    "P1479",
    "P1480",
+   "P1481",
    "P2519",
+   "P2520",
    "P2521"
   ]
  },
  {
   "surname": "Weller",
-  "count": 2,
+  "fname": "Weller",
+  "count": 3,
   "person_ids": [
    "P2206",
+   "P2207",
    "P2208"
   ]
  },
  {
   "surname": "Wenig",
-  "count": 2,
+  "fname": "Wenig",
+  "count": 3,
   "person_ids": [
    "P2117",
+   "P2118",
    "P2119"
   ]
  },
  {
   "surname": "Westreich",
+  "fname": "Westreich",
   "count": 3,
   "person_ids": [
    "P1743",
@@ -5339,32 +7121,40 @@
  },
  {
   "surname": "Wetzler",
-  "count": 2,
+  "fname": "Wetzler",
+  "count": 3,
   "person_ids": [
    "P1559",
+   "P1560",
    "P1561"
   ]
  },
  {
   "surname": "Wiesenfeld",
-  "count": 2,
+  "fname": "Wiesenfeld",
+  "count": 3,
   "person_ids": [
    "P0782",
+   "P0783",
    "P0784"
   ]
  },
  {
   "surname": "Wild",
-  "count": 2,
+  "fname": "Wild",
+  "count": 3,
   "person_ids": [
    "P2076",
-   "P2077"
+   "P2077",
+   "P2078"
   ]
  },
  {
   "surname": "Wildstein",
-  "count": 3,
+  "fname": "Wildstein",
+  "count": 4,
   "person_ids": [
+   "P0353",
    "P0354",
    "P0355",
    "P2731"
@@ -5372,6 +7162,7 @@
  },
  {
   "surname": "Wind",
+  "fname": "Wind",
   "count": 2,
   "person_ids": [
    "P2529",
@@ -5380,35 +7171,49 @@
  },
  {
   "surname": "Windstroh",
-  "count": 1,
+  "fname": "Windstroh",
+  "count": 5,
   "person_ids": [
-   "P0258"
+   "P0257",
+   "P0258",
+   "P0259",
+   "P0448",
+   "P0644"
   ]
  },
  {
   "surname": "Winter",
-  "count": 2,
+  "fname": "Winter",
+  "count": 3,
   "person_ids": [
    "P1115",
-   "P2067"
+   "P2067",
+   "P2068"
   ]
  },
  {
   "surname": "Winusner",
-  "count": 1,
+  "fname": "Winusner",
+  "count": 4,
   "person_ids": [
-   "P0832"
+   "P0831",
+   "P0832",
+   "P0833",
+   "P0834"
   ]
  },
  {
   "surname": "Wistreich",
-  "count": 1,
+  "fname": "Wistreich",
+  "count": 2,
   "person_ids": [
+   "P1218",
    "P2145"
   ]
  },
  {
   "surname": "Wites",
+  "fname": "Wites",
   "count": 1,
   "person_ids": [
    "P2036"
@@ -5416,6 +7221,7 @@
  },
  {
   "surname": "Wolberg",
+  "fname": "Wolberg",
   "count": 1,
   "person_ids": [
    "P2095"
@@ -5423,6 +7229,7 @@
  },
  {
   "surname": "Wolek",
+  "fname": "Wolek",
   "count": 6,
   "person_ids": [
    "P0440",
@@ -5435,26 +7242,33 @@
  },
  {
   "surname": "Wolf",
-  "count": 8,
+  "fname": "Wolf",
+  "count": 12,
   "person_ids": [
    "P1093",
+   "P1094",
    "P1095",
    "P1188",
    "P1296",
    "P1297",
+   "P1298",
    "P1299",
    "P2139",
+   "P2140",
+   "P2688",
    "P2689"
   ]
  },
  {
   "surname": "Wolkenfeld",
-  "count": 12,
+  "fname": "Wolkenfeld",
+  "count": 13,
   "person_ids": [
    "P0016",
    "P0056",
    "P0058",
    "P0615",
+   "P0616",
    "P0619",
    "P1106",
    "P1107",
@@ -5467,18 +7281,24 @@
  },
  {
   "surname": "Wolmuth",
-  "count": 2,
+  "fname": "Wolmuth",
+  "count": 5,
   "person_ids": [
+   "P0346",
    "P0348",
-   "P0349"
+   "P0349",
+   "P0350",
+   "P0551"
   ]
  },
  {
   "surname": "Wrobel",
-  "count": 9,
+  "fname": "Wrobel",
+  "count": 10,
   "person_ids": [
    "P0587",
    "P0588",
+   "P0589",
    "P1190",
    "P1412",
    "P1414",
@@ -5490,14 +7310,17 @@
  },
  {
   "surname": "Wulkan",
-  "count": 2,
+  "fname": "Wulkan",
+  "count": 3,
   "person_ids": [
    "P2140",
+   "P2502",
    "P2503"
   ]
  },
  {
   "surname": "Wurst",
+  "fname": "Wurst",
   "count": 2,
   "person_ids": [
    "P1932",
@@ -5506,29 +7329,59 @@
  },
  {
   "surname": "Wurzel",
-  "count": 12,
+  "fname": "Wurzel",
+  "count": 30,
   "person_ids": [
    "P0117",
    "P0118",
    "P0119",
+   "P0143",
+   "P0145",
    "P0146",
+   "P0147",
+   "P0367",
+   "P0369",
    "P0370",
+   "P0371",
    "P0392",
+   "P0512",
    "P0557",
+   "P0565",
+   "P0721",
    "P0761",
+   "P0816",
    "P0892",
    "P0893",
+   "P0894",
+   "P1046",
+   "P1155",
+   "P1416",
    "P1574",
-   "P1719"
+   "P1575",
+   "P1673",
+   "P1719",
+   "P1748",
+   "P1754"
+  ]
+ },
+ {
+  "surname": "Würzel",
+  "fname": "W_rzel",
+  "count": 1,
+  "person_ids": [
+   "P0117"
   ]
  },
  {
   "surname": "Zahler",
-  "count": 16,
+  "fname": "Zahler",
+  "count": 20,
   "person_ids": [
    "P0356",
    "P0456",
+   "P0457",
    "P0460",
+   "P0655",
    "P0658",
    "P0806",
    "P1023",
@@ -5537,15 +7390,35 @@
    "P1446",
    "P1545",
    "P1551",
+   "P1557",
    "P1558",
    "P1698",
    "P1717",
    "P2512",
+   "P2513",
    "P2514"
   ]
  },
  {
+  "surname": "Zanger",
+  "fname": "Zanger",
+  "count": 2,
+  "person_ids": [
+   "P0303",
+   "P0305"
+  ]
+ },
+ {
+  "surname": "Zehngus",
+  "fname": "Zehngus",
+  "count": 1,
+  "person_ids": [
+   "P0618"
+  ]
+ },
+ {
   "surname": "Zehngutt",
+  "fname": "Zehngutt",
   "count": 2,
   "person_ids": [
    "P0616",
@@ -5554,30 +7427,48 @@
  },
  {
   "surname": "Zehnwirth",
-  "count": 4,
+  "fname": "Zehnwirth",
+  "count": 8,
   "person_ids": [
+   "P0616",
    "P0617",
+   "P0618",
+   "P0619",
    "P2476",
+   "P2477",
    "P2478",
    "P2551"
   ]
  },
  {
+  "surname": "Zehnwrith",
+  "fname": "Zehnwrith",
+  "count": 2,
+  "person_ids": [
+   "P2476",
+   "P2477"
+  ]
+ },
+ {
   "surname": "Zeisler",
-  "count": 5,
+  "fname": "Zeisler",
+  "count": 6,
   "person_ids": [
    "P1116",
    "P1117",
    "P1118",
    "P1120",
-   "P1720"
+   "P1720",
+   "P2186"
   ]
  },
  {
   "surname": "Zeller",
-  "count": 8,
+  "fname": "Zeller",
+  "count": 9,
   "person_ids": [
    "P1140",
+   "P1141",
    "P1143",
    "P1253",
    "P1349",
@@ -5589,13 +7480,16 @@
  },
  {
   "surname": "Zeughauser",
-  "count": 10,
+  "fname": "Zeughauser",
+  "count": 12,
   "person_ids": [
    "P0148",
    "P0149",
    "P0150",
    "P0151",
    "P0152",
+   "P0153",
+   "P0206",
    "P0393",
    "P0552",
    "P1617",
@@ -5604,22 +7498,70 @@
   ]
  },
  {
-  "surname": "Zimerswitz",
+  "surname": "Zimerspik",
+  "fname": "Zimerspik",
   "count": 1,
   "person_ids": [
    "P1511"
   ]
  },
  {
-  "surname": "Zimmerman",
-  "count": 2,
+  "surname": "Zimerspitz",
+  "fname": "Zimerspitz",
+  "count": 1,
   "person_ids": [
+   "P1511"
+  ]
+ },
+ {
+  "surname": "Zimerswitz",
+  "fname": "Zimerswitz",
+  "count": 1,
+  "person_ids": [
+   "P1511"
+  ]
+ },
+ {
+  "surname": "Zimet",
+  "fname": "Zimet",
+  "count": 1,
+  "person_ids": [
+   "P2330"
+  ]
+ },
+ {
+  "surname": "Zimmerman",
+  "fname": "Zimmerman",
+  "count": 8,
+  "person_ids": [
+   "P0554",
    "P0555",
+   "P0714",
+   "P0715",
+   "P0716",
+   "P0836",
+   "P1122",
    "P1952"
   ]
  },
  {
+  "surname": "Zweibel",
+  "fname": "Zweibel",
+  "count": 8,
+  "person_ids": [
+   "P1140",
+   "P1141",
+   "P1143",
+   "P1253",
+   "P1349",
+   "P1425",
+   "P1473",
+   "P1519"
+  ]
+ },
+ {
   "surname": "Zweig",
+  "fname": "Zweig",
   "count": 3,
   "person_ids": [
    "P0251",

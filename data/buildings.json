@@ -23,8 +23,8 @@
   },
   {
    "town": "Brzostek",
-   "buildings": 106,
-   "events": 991,
+   "buildings": 104,
+   "events": 990,
    "year_min": 1876,
    "year_max": 1923
   },
@@ -58,10 +58,10 @@
   },
   {
    "town": "Globikowa",
-   "buildings": 2,
-   "events": 6,
+   "buildings": 3,
+   "events": 7,
    "year_min": 1894,
-   "year_max": 1902
+   "year_max": 1909
   },
   {
    "town": "Globikowka",
@@ -80,26 +80,26 @@
   {
    "town": "Grudna Dolna",
    "buildings": 1,
-   "events": 5,
+   "events": 6,
    "year_min": 1894,
    "year_max": 1899
   },
   {
    "town": "Grudna Gorna",
-   "buildings": 8,
-   "events": 31,
+   "buildings": 7,
+   "events": 30,
    "year_min": 1895,
    "year_max": 1915
   },
   {
    "town": "Januszkowice",
    "buildings": 15,
-   "events": 70,
+   "events": 72,
    "year_min": 1894,
    "year_max": 1917
   },
   {
-   "town": "Jaworze",
+   "town": "Jaworow",
    "buildings": 1,
    "events": 1,
    "year_min": 1897,
@@ -135,8 +135,8 @@
   },
   {
    "town": "Opacionka",
-   "buildings": 15,
-   "events": 75,
+   "buildings": 13,
+   "events": 71,
    "year_min": 1894,
    "year_max": 1914
   },
@@ -190,7 +190,7 @@
    "year_max": 1911
   },
   {
-   "town": "Zurawica near Jaroslaw",
+   "town": "Zurawiczki near Jaroslaw",
    "buildings": 1,
    "events": 1,
    "year_min": 1907,
@@ -1196,7 +1196,7 @@
      2
     ],
     [
-     "Schneerson",
+     "Czernieson",
      1
     ]
    ],
@@ -1209,14 +1209,14 @@
   {
    "town": "Brzostek",
    "number": "11",
-   "events": 5,
-   "distinct_surnames": 3,
-   "year_min": 1901,
+   "events": 7,
+   "distinct_surnames": 4,
+   "year_min": 1900,
    "year_max": 1916,
    "surnames": [
     [
      "Schlenger",
-     2
+     3
     ],
     [
      "Wolkenfeld",
@@ -1225,10 +1225,14 @@
     [
      "Aron",
      1
+    ],
+    [
+     "Schonbach",
+     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 3,
+    "Birth": 5,
     "Naming": 2
    }
   },
@@ -1315,8 +1319,8 @@
   {
    "town": "Brzostek",
    "number": "16",
-   "events": 13,
-   "distinct_surnames": 6,
+   "events": 12,
+   "distinct_surnames": 5,
    "year_min": 1894,
    "year_max": 1921,
    "surnames": [
@@ -1339,15 +1343,11 @@
     [
      "Pencier",
      1
-    ],
-    [
-     "Neuman",
-     1
     ]
    ],
    "events_by_kind": {
     "Birth": 7,
-    "Naming": 5,
+    "Naming": 4,
     "Death": 1
    }
   },
@@ -1402,7 +1402,7 @@
      1
     ],
     [
-     "Brinbaum",
+     "Birnbaum",
      1
     ]
    ],
@@ -1415,10 +1415,10 @@
   {
    "town": "Brzostek",
    "number": "20",
-   "events": 6,
-   "distinct_surnames": 4,
+   "events": 5,
+   "distinct_surnames": 3,
    "year_min": 1876,
-   "year_max": 1900,
+   "year_max": 1898,
    "surnames": [
     [
      "Silberman",
@@ -1431,31 +1431,40 @@
     [
      "Schonwetter",
      1
-    ],
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 4,
+    "Naming": 1
+   }
+  },
+  {
+   "town": "Brzostek",
+   "number": "21",
+   "events": 1,
+   "distinct_surnames": 1,
+   "year_min": 1900,
+   "year_max": 1900,
+   "surnames": [
     [
      "Fichner",
      1
     ]
    ],
    "events_by_kind": {
-    "Birth": 5,
-    "Naming": 1
+    "Birth": 1
    }
   },
   {
    "town": "Brzostek",
    "number": "23",
-   "events": 3,
-   "distinct_surnames": 3,
+   "events": 2,
+   "distinct_surnames": 2,
    "year_min": 1896,
-   "year_max": 1910,
+   "year_max": 1905,
    "surnames": [
     [
      "Fichner",
-     1
-    ],
-    [
-     "Silberberg",
      1
     ],
     [
@@ -1465,7 +1474,6 @@
    ],
    "events_by_kind": {
     "Birth": 1,
-    "Naming": 1,
     "Death": 1
    }
   },
@@ -1572,22 +1580,18 @@
   {
    "town": "Brzostek",
    "number": "30",
-   "events": 3,
-   "distinct_surnames": 2,
-   "year_min": 1900,
+   "events": 2,
+   "distinct_surnames": 1,
+   "year_min": 1917,
    "year_max": 1917,
    "surnames": [
     [
      "Rubel",
      2
-    ],
-    [
-     "Schlenger",
-     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 2,
+    "Birth": 1,
     "Naming": 1
    }
   },
@@ -1905,18 +1909,18 @@
   {
    "town": "Brzostek",
    "number": "50",
-   "events": 9,
+   "events": 10,
    "distinct_surnames": 4,
    "year_min": 1899,
    "year_max": 1907,
    "surnames": [
     [
-     "Schlenger",
+     "Baumgarten",
      3
     ],
     [
-     "Baumgarten",
-     2
+     "Schlenger",
+     3
     ],
     [
      "Abraham",
@@ -1928,7 +1932,7 @@
     ]
    ],
    "events_by_kind": {
-    "Birth": 6,
+    "Birth": 7,
     "Naming": 2,
     "Death": 1
    }
@@ -1936,7 +1940,7 @@
   {
    "town": "Brzostek",
    "number": "51",
-   "events": 15,
+   "events": 13,
    "distinct_surnames": 8,
    "year_min": 1876,
    "year_max": 1912,
@@ -1944,10 +1948,6 @@
     [
      "Burstin",
      4
-    ],
-    [
-     "Goldman",
-     3
     ],
     [
      "Abraham",
@@ -1972,11 +1972,15 @@
     [
      "Baumgarten",
      1
+    ],
+    [
+     "Goldman",
+     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 5,
-    "Naming": 3,
+    "Birth": 4,
+    "Naming": 2,
     "Death": 7
    }
   },
@@ -2114,18 +2118,23 @@
   {
    "town": "Brzostek",
    "number": "57",
-   "events": 1,
-   "distinct_surnames": 1,
+   "events": 3,
+   "distinct_surnames": 2,
    "year_min": 1912,
    "year_max": 1912,
    "surnames": [
+    [
+     "Goldman",
+     2
+    ],
     [
      "Schuss",
      1
     ]
    ],
    "events_by_kind": {
-    "Birth": 1
+    "Birth": 2,
+    "Naming": 1
    }
   },
   {
@@ -2279,10 +2288,10 @@
   {
    "town": "Brzostek",
    "number": "72",
-   "events": 4,
-   "distinct_surnames": 3,
+   "events": 3,
+   "distinct_surnames": 2,
    "year_min": 1906,
-   "year_max": 1911,
+   "year_max": 1909,
    "surnames": [
     [
      "Panzer",
@@ -2291,15 +2300,11 @@
     [
      "Noth",
      1
-    ],
-    [
-     "Roth",
-     1
     ]
    ],
    "events_by_kind": {
     "Birth": 2,
-    "Naming": 2
+    "Naming": 1
    }
   },
   {
@@ -2489,8 +2494,8 @@
   {
    "town": "Brzostek",
    "number": "84",
-   "events": 9,
-   "distinct_surnames": 2,
+   "events": 10,
+   "distinct_surnames": 3,
    "year_min": 1906,
    "year_max": 1912,
    "surnames": [
@@ -2501,10 +2506,14 @@
     [
      "Blum",
      2
+    ],
+    [
+     "Leiman",
+     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 5,
+    "Birth": 6,
     "Naming": 3,
     "Death": 1
    }
@@ -2513,17 +2522,13 @@
    "town": "Brzostek",
    "number": "86",
    "events": 7,
-   "distinct_surnames": 4,
+   "distinct_surnames": 3,
    "year_min": 1897,
    "year_max": 1905,
    "surnames": [
     [
-     "Baumgarten",
-     2
-    ],
-    [
      "Landau",
-     2
+     4
     ],
     [
      "Reiss",
@@ -2604,14 +2609,14 @@
   {
    "town": "Brzostek",
    "number": "101",
-   "events": 2,
+   "events": 3,
    "distinct_surnames": 2,
    "year_min": 1894,
    "year_max": 1901,
    "surnames": [
     [
      "Siegfried",
-     1
+     2
     ],
     [
      "Towel",
@@ -2619,7 +2624,7 @@
     ]
    ],
    "events_by_kind": {
-    "Birth": 1,
+    "Birth": 2,
     "Death": 1
    }
   },
@@ -2655,23 +2660,6 @@
    "surnames": [
     [
      "Bloch",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 1
-   }
-  },
-  {
-   "town": "Brzostek",
-   "number": "107",
-   "events": 1,
-   "distinct_surnames": 1,
-   "year_min": 1896,
-   "year_max": 1896,
-   "surnames": [
-    [
-     "Siegfried",
      1
     ]
    ],
@@ -2764,23 +2752,6 @@
   },
   {
    "town": "Brzostek",
-   "number": "113",
-   "events": 1,
-   "distinct_surnames": 1,
-   "year_min": 1917,
-   "year_max": 1917,
-   "surnames": [
-    [
-     "Waldman",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Naming": 1
-   }
-  },
-  {
-   "town": "Brzostek",
    "number": "115",
    "events": 2,
    "distinct_surnames": 2,
@@ -2837,7 +2808,7 @@
   {
    "town": "Brzostek",
    "number": "119",
-   "events": 9,
+   "events": 10,
    "distinct_surnames": 2,
    "year_min": 1895,
    "year_max": 1914,
@@ -2848,12 +2819,12 @@
     ],
     [
      "Fisch",
-     3
+     4
     ]
    ],
    "events_by_kind": {
     "Birth": 4,
-    "Naming": 3,
+    "Naming": 4,
     "Death": 2
    }
   },
@@ -2936,7 +2907,7 @@
   {
    "town": "Brzostek",
    "number": "131",
-   "events": 12,
+   "events": 13,
    "distinct_surnames": 6,
    "year_min": 1894,
    "year_max": 1913,
@@ -2946,15 +2917,15 @@
      4
     ],
     [
+     "Bauernfreund",
+     3
+    ],
+    [
      "Landau",
      2
     ],
     [
      "Rubel",
-     2
-    ],
-    [
-     "Bauernfreund",
      2
     ],
     [
@@ -2967,7 +2938,7 @@
     ]
    ],
    "events_by_kind": {
-    "Birth": 6,
+    "Birth": 7,
     "Naming": 4,
     "Death": 2
    }
@@ -3063,7 +3034,7 @@
   {
    "town": "Brzostek",
    "number": "143",
-   "events": 9,
+   "events": 8,
    "distinct_surnames": 4,
    "year_min": 1906,
    "year_max": 1911,
@@ -3082,11 +3053,11 @@
     ],
     [
      "Bochner",
-     2
+     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 6,
+    "Birth": 5,
     "Naming": 3
    }
   },
@@ -3167,7 +3138,7 @@
   {
    "town": "Brzostek",
    "number": "149",
-   "events": 336,
+   "events": 335,
    "distinct_surnames": 127,
    "year_min": 1894,
    "year_max": 1917,
@@ -3217,6 +3188,10 @@
      6
     ],
     [
+     "Baumgarten",
+     6
+    ],
+    [
      "Bloch",
      5
     ],
@@ -3234,14 +3209,6 @@
     ],
     [
      "Aron",
-     5
-    ],
-    [
-     "Baumgarten",
-     5
-    ],
-    [
-     "Fisch",
      5
     ],
     [
@@ -3281,11 +3248,11 @@
      4
     ],
     [
-     "Amsterdam",
+     "Fisch",
      4
     ],
     [
-     "Noth",
+     "Amsterdam",
      4
     ],
     [
@@ -3349,6 +3316,10 @@
      3
     ],
     [
+     "Noth",
+     3
+    ],
+    [
      "Horowitz",
      3
     ],
@@ -3390,10 +3361,6 @@
     ],
     [
      "Goldman",
-     2
-    ],
-    [
-     "Landau",
      2
     ],
     [
@@ -3453,6 +3420,10 @@
      2
     ],
     [
+     "Silberberg",
+     2
+    ],
+    [
      "Schneps",
      2
     ],
@@ -3498,6 +3469,10 @@
     ],
     [
      "Kleinman",
+     1
+    ],
+    [
+     "Landau",
      1
     ],
     [
@@ -3565,10 +3540,6 @@
      1
     ],
     [
-     "Silberberg",
-     1
-    ],
-    [
      "Blatt",
      1
     ],
@@ -3593,7 +3564,7 @@
      1
     ],
     [
-     "Brinbaum",
+     "Birnbaum",
      1
     ],
     [
@@ -3629,7 +3600,7 @@
      1
     ],
     [
-     "Schneerson",
+     "Czernieson",
      1
     ],
     [
@@ -3682,7 +3653,7 @@
     ]
    ],
    "events_by_kind": {
-    "Naming": 335,
+    "Naming": 334,
     "Death": 1
    }
   },
@@ -3862,14 +3833,14 @@
   {
    "town": "Brzostek",
    "number": "172",
-   "events": 5,
+   "events": 6,
    "distinct_surnames": 2,
    "year_min": 1904,
    "year_max": 1912,
    "surnames": [
     [
      "Noth",
-     3
+     4
     ],
     [
      "Amsterdam",
@@ -3877,7 +3848,7 @@
     ]
    ],
    "events_by_kind": {
-    "Birth": 3,
+    "Birth": 4,
     "Naming": 1,
     "Death": 1
    }
@@ -3971,25 +3942,8 @@
   },
   {
    "town": "Brzostek",
-   "number": "192",
-   "events": 1,
-   "distinct_surnames": 1,
-   "year_min": 1907,
-   "year_max": 1907,
-   "surnames": [
-    [
-     "Noth",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 1
-   }
-  },
-  {
-   "town": "Brzostek",
    "number": "193",
-   "events": 7,
+   "events": 8,
    "distinct_surnames": 3,
    "year_min": 1908,
    "year_max": 1921,
@@ -4000,7 +3954,7 @@
     ],
     [
      "Bochner",
-     1
+     2
     ],
     [
      "Schlenger",
@@ -4008,7 +3962,7 @@
     ]
    ],
    "events_by_kind": {
-    "Birth": 4,
+    "Birth": 5,
     "Naming": 2,
     "Death": 1
    }
@@ -4034,19 +3988,18 @@
   {
    "town": "Brzostek",
    "number": "212",
-   "events": 3,
+   "events": 2,
    "distinct_surnames": 1,
    "year_min": 1913,
    "year_max": 1916,
    "surnames": [
     [
      "Scheinbach",
-     3
+     2
     ]
    ],
    "events_by_kind": {
-    "Birth": 2,
-    "Naming": 1
+    "Birth": 2
    }
   },
   {
@@ -4261,6 +4214,23 @@
    "events_by_kind": {
     "Birth": 4,
     "Naming": 3
+   }
+  },
+  {
+   "town": "Globikowa",
+   "number": "1",
+   "events": 1,
+   "distinct_surnames": 1,
+   "year_min": 1909,
+   "year_max": 1909,
+   "surnames": [
+    [
+     "Rozner",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 1
    }
   },
   {
@@ -4512,7 +4482,7 @@
   {
    "town": "Grudna Dolna",
    "number": "3",
-   "events": 5,
+   "events": 6,
    "distinct_surnames": 2,
    "year_min": 1894,
    "year_max": 1899,
@@ -4523,30 +4493,13 @@
     ],
     [
      "Schlenger",
-     1
+     2
     ]
    ],
    "events_by_kind": {
     "Birth": 3,
-    "Naming": 1,
+    "Naming": 2,
     "Death": 1
-   }
-  },
-  {
-   "town": "Grudna Gorna",
-   "number": "3",
-   "events": 1,
-   "distinct_surnames": 1,
-   "year_min": 1899,
-   "year_max": 1899,
-   "surnames": [
-    [
-     "Schlenger",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Naming": 1
    }
   },
   {
@@ -4718,14 +4671,14 @@
   {
    "town": "Januszkowice",
    "number": "16",
-   "events": 15,
+   "events": 16,
    "distinct_surnames": 3,
    "year_min": 1896,
    "year_max": 1913,
    "surnames": [
     [
      "Neuman",
-     12
+     13
     ],
     [
      "Frommer",
@@ -4738,7 +4691,7 @@
    ],
    "events_by_kind": {
     "Birth": 8,
-    "Naming": 3,
+    "Naming": 4,
     "Death": 4
    }
   },
@@ -4947,23 +4900,23 @@
   {
    "town": "Januszkowice",
    "number": "113",
-   "events": 3,
+   "events": 4,
    "distinct_surnames": 1,
    "year_min": 1917,
    "year_max": 1917,
    "surnames": [
     [
      "Waldman",
-     3
+     4
     ]
    ],
    "events_by_kind": {
     "Birth": 2,
-    "Naming": 1
+    "Naming": 2
    }
   },
   {
-   "town": "Jaworze",
+   "town": "Jaworow",
    "number": "376",
    "events": 1,
    "distinct_surnames": 1,
@@ -5335,47 +5288,26 @@
   {
    "town": "Opacionka",
    "number": "1",
-   "events": 4,
-   "distinct_surnames": 2,
+   "events": 3,
+   "distinct_surnames": 1,
    "year_min": 1900,
-   "year_max": 1909,
+   "year_max": 1902,
    "surnames": [
     [
      "Kornblutt",
      3
-    ],
-    [
-     "Rozner",
-     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 3,
+    "Birth": 2,
     "Naming": 1
    }
   },
   {
    "town": "Opacionka",
-   "number": "11",
-   "events": 1,
-   "distinct_surnames": 1,
-   "year_min": 1911,
-   "year_max": 1911,
-   "surnames": [
-    [
-     "Schonbach",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 1
-   }
-  },
-  {
-   "town": "Opacionka",
    "number": "12",
-   "events": 12,
-   "distinct_surnames": 3,
+   "events": 11,
+   "distinct_surnames": 2,
    "year_min": 1894,
    "year_max": 1910,
    "surnames": [
@@ -5384,16 +5316,12 @@
      10
     ],
     [
-     "Landau",
-     1
-    ],
-    [
      "Tager",
      1
     ]
    ],
    "events_by_kind": {
-    "Birth": 7,
+    "Birth": 6,
     "Naming": 1,
     "Death": 4
    }
@@ -5543,19 +5471,19 @@
   {
    "town": "Opacionka",
    "number": "72",
-   "events": 12,
+   "events": 13,
    "distinct_surnames": 1,
    "year_min": 1899,
    "year_max": 1913,
    "surnames": [
     [
      "Roth",
-     12
+     13
     ]
    ],
    "events_by_kind": {
     "Birth": 5,
-    "Naming": 3,
+    "Naming": 4,
     "Death": 4
    }
   },
@@ -5579,10 +5507,10 @@
   {
    "town": "Opacionka",
    "number": "84",
-   "events": 5,
-   "distinct_surnames": 3,
+   "events": 4,
+   "distinct_surnames": 2,
    "year_min": 1905,
-   "year_max": 1911,
+   "year_max": 1908,
    "surnames": [
     [
      "Fisch",
@@ -5591,14 +5519,10 @@
     [
      "Sturm",
      2
-    ],
-    [
-     "Leiman",
-     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 3,
+    "Birth": 2,
     "Naming": 1,
     "Death": 1
    }
@@ -5618,23 +5542,6 @@
    ],
    "events_by_kind": {
     "Death": 1
-   }
-  },
-  {
-   "town": "Opacionka",
-   "number": "131",
-   "events": 1,
-   "distinct_surnames": 1,
-   "year_min": 1911,
-   "year_max": 1911,
-   "surnames": [
-    [
-     "Bauernfreund",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 1
    }
   },
   {
@@ -6089,7 +5996,7 @@
    }
   },
   {
-   "town": "Zurawica near Jaroslaw",
+   "town": "Zurawiczki near Jaroslaw",
    "number": "82",
    "events": 1,
    "distinct_surnames": 1,
@@ -6307,19 +6214,14 @@
   {
    "surname": "Bauernfreund",
    "events": 4,
-   "distinct_buildings": 3,
+   "distinct_buildings": 2,
    "year_min": 1911,
    "year_max": 1913,
    "places": [
     {
      "town": "Brzostek",
      "number": "131",
-     "events": 2
-    },
-    {
-     "town": "Opacionka",
-     "number": "131",
-     "events": 1
+     "events": 3
     },
     {
      "town": "Brzostek",
@@ -6331,14 +6233,14 @@
   {
    "surname": "Baumgarten",
    "events": 19,
-   "distinct_buildings": 8,
+   "distinct_buildings": 7,
    "year_min": 1897,
    "year_max": 1921,
    "places": [
     {
      "town": "Brzostek",
      "number": "149",
-     "events": 5
+     "events": 6
     },
     {
      "town": "Brzostek",
@@ -6348,12 +6250,7 @@
     {
      "town": "Brzostek",
      "number": "50",
-     "events": 2
-    },
-    {
-     "town": "Brzostek",
-     "number": "86",
-     "events": 2
+     "events": 3
     },
     {
      "town": "Brzostek",
@@ -6546,11 +6443,21 @@
   },
   {
    "surname": "Birnbaum",
-   "events": 1,
-   "distinct_buildings": 1,
+   "events": 3,
+   "distinct_buildings": 3,
    "year_min": 1905,
-   "year_max": 1905,
+   "year_max": 1906,
    "places": [
+    {
+     "town": "Brzostek",
+     "number": "19",
+     "events": 1
+    },
+    {
+     "town": "Brzostek",
+     "number": "149",
+     "events": 1
+    },
     {
      "town": "Brzostek",
      "number": "79",
@@ -6688,7 +6595,7 @@
     },
     {
      "town": "Brzostek",
-     "number": "143",
+     "number": "193",
      "events": 2
     },
     {
@@ -6698,7 +6605,7 @@
     },
     {
      "town": "Brzostek",
-     "number": "193",
+     "number": "143",
      "events": 1
     },
     {
@@ -6800,25 +6707,6 @@
    ]
   },
   {
-   "surname": "Brinbaum",
-   "events": 2,
-   "distinct_buildings": 2,
-   "year_min": 1906,
-   "year_max": 1906,
-   "places": [
-    {
-     "town": "Brzostek",
-     "number": "19",
-     "events": 1
-    },
-    {
-     "town": "Brzostek",
-     "number": "149",
-     "events": 1
-    }
-   ]
-  },
-  {
    "surname": "Burstin",
    "events": 5,
    "distinct_buildings": 2,
@@ -6829,6 +6717,25 @@
      "town": "Brzostek",
      "number": "51",
      "events": 4
+    },
+    {
+     "town": "Brzostek",
+     "number": "149",
+     "events": 1
+    }
+   ]
+  },
+  {
+   "surname": "Czernieson",
+   "events": 2,
+   "distinct_buildings": 2,
+   "year_min": 1910,
+   "year_max": 1910,
+   "places": [
+    {
+     "town": "Brzostek",
+     "number": "10",
+     "events": 1
     },
     {
      "town": "Brzostek",
@@ -7023,7 +6930,7 @@
      "events": 1
     },
     {
-     "town": "Jaworze",
+     "town": "Jaworow",
      "number": "376",
      "events": 1
     }
@@ -7206,7 +7113,7 @@
     },
     {
      "town": "Brzostek",
-     "number": "20",
+     "number": "21",
      "events": 1
     },
     {
@@ -7264,12 +7171,12 @@
     {
      "town": "Brzostek",
      "number": "149",
-     "events": 5
+     "events": 4
     },
     {
      "town": "Brzostek",
      "number": "119",
-     "events": 3
+     "events": 4
     },
     {
      "town": "Opacionka",
@@ -7403,7 +7310,7 @@
      "events": 1
     },
     {
-     "town": "Zurawica near Jaroslaw",
+     "town": "Zurawiczki near Jaroslaw",
      "number": "82",
      "events": 1
     }
@@ -7593,18 +7500,18 @@
   {
    "surname": "Goldman",
    "events": 7,
-   "distinct_buildings": 4,
+   "distinct_buildings": 5,
    "year_min": 1894,
    "year_max": 1912,
    "places": [
     {
      "town": "Brzostek",
-     "number": "51",
-     "events": 3
+     "number": "149",
+     "events": 2
     },
     {
      "town": "Brzostek",
-     "number": "149",
+     "number": "57",
      "events": 2
     },
     {
@@ -7615,6 +7522,11 @@
     {
      "town": "Brzostek",
      "number": "54",
+     "events": 1
+    },
+    {
+     "town": "Brzostek",
+     "number": "51",
      "events": 1
     }
    ]
@@ -8335,19 +8247,14 @@
   {
    "surname": "Landau",
    "events": 9,
-   "distinct_buildings": 6,
+   "distinct_buildings": 5,
    "year_min": 1895,
    "year_max": 1908,
    "places": [
     {
      "town": "Brzostek",
-     "number": "149",
-     "events": 2
-    },
-    {
-     "town": "Brzostek",
      "number": "86",
-     "events": 2
+     "events": 4
     },
     {
      "town": "Brzostek",
@@ -8360,8 +8267,8 @@
      "events": 1
     },
     {
-     "town": "Opacionka",
-     "number": "12",
+     "town": "Brzostek",
+     "number": "149",
      "events": 1
     },
     {
@@ -8445,7 +8352,7 @@
    "year_max": 1911,
    "places": [
     {
-     "town": "Opacionka",
+     "town": "Brzostek",
      "number": "84",
      "events": 1
     },
@@ -8752,42 +8659,37 @@
   {
    "surname": "Neuman",
    "events": 15,
-   "distinct_buildings": 3,
+   "distinct_buildings": 2,
    "year_min": 1896,
    "year_max": 1913,
    "places": [
     {
      "town": "Januszkowice",
      "number": "16",
-     "events": 12
+     "events": 13
     },
     {
      "town": "Brzostek",
      "number": "149",
      "events": 2
-    },
-    {
-     "town": "Brzostek",
-     "number": "16",
-     "events": 1
     }
    ]
   },
   {
    "surname": "Noth",
-   "events": 11,
-   "distinct_buildings": 5,
+   "events": 10,
+   "distinct_buildings": 4,
    "year_min": 1904,
    "year_max": 1912,
    "places": [
     {
      "town": "Brzostek",
-     "number": "149",
+     "number": "172",
      "events": 4
     },
     {
      "town": "Brzostek",
-     "number": "172",
+     "number": "149",
      "events": 3
     },
     {
@@ -8798,11 +8700,6 @@
     {
      "town": "Brzostek",
      "number": "72",
-     "events": 1
-    },
-    {
-     "town": "Brzostek",
-     "number": "192",
      "events": 1
     }
    ]
@@ -9248,14 +9145,14 @@
   {
    "surname": "Roth",
    "events": 22,
-   "distinct_buildings": 7,
+   "distinct_buildings": 6,
    "year_min": 1895,
    "year_max": 1913,
    "places": [
     {
      "town": "Opacionka",
      "number": "72",
-     "events": 12
+     "events": 13
     },
     {
      "town": "Brzostek",
@@ -9275,11 +9172,6 @@
     {
      "town": "Klecie",
      "number": "55",
-     "events": 1
-    },
-    {
-     "town": "Brzostek",
-     "number": "72",
      "events": 1
     },
     {
@@ -9365,7 +9257,7 @@
      "events": 2
     },
     {
-     "town": "Opacionka",
+     "town": "Globikowa",
      "number": "1",
      "events": 1
     },
@@ -9580,7 +9472,7 @@
   },
   {
    "surname": "Scheinbach",
-   "events": 4,
+   "events": 3,
    "distinct_buildings": 2,
    "year_min": 1913,
    "year_max": 1916,
@@ -9588,7 +9480,7 @@
     {
      "town": "Brzostek",
      "number": "212",
-     "events": 3
+     "events": 2
     },
     {
      "town": "Brzostek",
@@ -9690,7 +9582,7 @@
   {
    "surname": "Schlenger",
    "events": 32,
-   "distinct_buildings": 14,
+   "distinct_buildings": 12,
    "year_min": 1895,
    "year_max": 1921,
    "places": [
@@ -9711,6 +9603,11 @@
     },
     {
      "town": "Brzostek",
+     "number": "11",
+     "events": 3
+    },
+    {
+     "town": "Brzostek",
      "number": "50",
      "events": 3
     },
@@ -9720,28 +9617,13 @@
      "events": 3
     },
     {
-     "town": "Brzostek",
-     "number": "11",
-     "events": 2
-    },
-    {
      "town": "Grudna Dolna",
      "number": "3",
-     "events": 1
-    },
-    {
-     "town": "Grudna Gorna",
-     "number": "3",
-     "events": 1
+     "events": 2
     },
     {
      "town": "Brzostek",
      "number": "47",
-     "events": 1
-    },
-    {
-     "town": "Brzostek",
-     "number": "30",
      "events": 1
     },
     {
@@ -9776,25 +9658,6 @@
     {
      "town": "Brzostek",
      "number": "82",
-     "events": 1
-    }
-   ]
-  },
-  {
-   "surname": "Schneerson",
-   "events": 2,
-   "distinct_buildings": 2,
-   "year_min": 1910,
-   "year_max": 1910,
-   "places": [
-    {
-     "town": "Brzostek",
-     "number": "10",
-     "events": 1
-    },
-    {
-     "town": "Brzostek",
-     "number": "149",
      "events": 1
     }
    ]
@@ -9850,7 +9713,7 @@
    "year_max": 1911,
    "places": [
     {
-     "town": "Opacionka",
+     "town": "Brzostek",
      "number": "11",
      "events": 1
     },
@@ -10029,7 +9892,7 @@
   {
    "surname": "Siegfried",
    "events": 16,
-   "distinct_buildings": 6,
+   "distinct_buildings": 5,
    "year_min": 1894,
    "year_max": 1913,
    "places": [
@@ -10046,12 +9909,7 @@
     {
      "town": "Brzostek",
      "number": "101",
-     "events": 1
-    },
-    {
-     "town": "Brzostek",
-     "number": "107",
-     "events": 1
+     "events": 2
     },
     {
      "town": "Brzostek",
@@ -10068,7 +9926,7 @@
   {
    "surname": "Silberberg",
    "events": 9,
-   "distinct_buildings": 3,
+   "distinct_buildings": 2,
    "year_min": 1902,
    "year_max": 1915,
    "places": [
@@ -10080,12 +9938,7 @@
     {
      "town": "Brzostek",
      "number": "149",
-     "events": 1
-    },
-    {
-     "town": "Brzostek",
-     "number": "23",
-     "events": 1
+     "events": 2
     }
    ]
   },
@@ -10630,19 +10483,14 @@
   {
    "surname": "Waldman",
    "events": 4,
-   "distinct_buildings": 2,
+   "distinct_buildings": 1,
    "year_min": 1917,
    "year_max": 1917,
    "places": [
     {
      "town": "Januszkowice",
      "number": "113",
-     "events": 3
-    },
-    {
-     "town": "Brzostek",
-     "number": "113",
-     "events": 1
+     "events": 4
     }
    ]
   },
@@ -11222,7 +11070,7 @@
      2
     ],
     [
-     "Schneerson",
+     "Czernieson",
      1
     ]
    ],
@@ -11293,8 +11141,8 @@
   {
    "town": "Brzostek",
    "number": "16",
-   "events": 13,
-   "distinct_surnames": 6,
+   "events": 12,
+   "distinct_surnames": 5,
    "year_min": 1894,
    "year_max": 1921,
    "surnames": [
@@ -11317,15 +11165,11 @@
     [
      "Pencier",
      1
-    ],
-    [
-     "Neuman",
-     1
     ]
    ],
    "events_by_kind": {
     "Birth": 7,
-    "Naming": 5,
+    "Naming": 4,
     "Death": 1
    }
   },
@@ -11354,7 +11198,7 @@
      1
     ],
     [
-     "Brinbaum",
+     "Birnbaum",
      1
     ]
    ],
@@ -11578,18 +11422,18 @@
   {
    "town": "Brzostek",
    "number": "50",
-   "events": 9,
+   "events": 10,
    "distinct_surnames": 4,
    "year_min": 1899,
    "year_max": 1907,
    "surnames": [
     [
-     "Schlenger",
+     "Baumgarten",
      3
     ],
     [
-     "Baumgarten",
-     2
+     "Schlenger",
+     3
     ],
     [
      "Abraham",
@@ -11601,7 +11445,7 @@
     ]
    ],
    "events_by_kind": {
-    "Birth": 6,
+    "Birth": 7,
     "Naming": 2,
     "Death": 1
    }
@@ -11609,7 +11453,7 @@
   {
    "town": "Brzostek",
    "number": "51",
-   "events": 15,
+   "events": 13,
    "distinct_surnames": 8,
    "year_min": 1876,
    "year_max": 1912,
@@ -11617,10 +11461,6 @@
     [
      "Burstin",
      4
-    ],
-    [
-     "Goldman",
-     3
     ],
     [
      "Abraham",
@@ -11645,11 +11485,15 @@
     [
      "Baumgarten",
      1
+    ],
+    [
+     "Goldman",
+     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 5,
-    "Naming": 3,
+    "Birth": 4,
+    "Naming": 2,
     "Death": 7
    }
   },
@@ -11900,8 +11744,8 @@
   {
    "town": "Brzostek",
    "number": "84",
-   "events": 9,
-   "distinct_surnames": 2,
+   "events": 10,
+   "distinct_surnames": 3,
    "year_min": 1906,
    "year_max": 1912,
    "surnames": [
@@ -11912,10 +11756,14 @@
     [
      "Blum",
      2
+    ],
+    [
+     "Leiman",
+     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 5,
+    "Birth": 6,
     "Naming": 3,
     "Death": 1
    }
@@ -11971,7 +11819,7 @@
   {
    "town": "Brzostek",
    "number": "119",
-   "events": 9,
+   "events": 10,
    "distinct_surnames": 2,
    "year_min": 1895,
    "year_max": 1914,
@@ -11982,12 +11830,12 @@
     ],
     [
      "Fisch",
-     3
+     4
     ]
    ],
    "events_by_kind": {
     "Birth": 4,
-    "Naming": 3,
+    "Naming": 4,
     "Death": 2
    }
   },
@@ -12044,7 +11892,7 @@
   {
    "town": "Brzostek",
    "number": "131",
-   "events": 12,
+   "events": 13,
    "distinct_surnames": 6,
    "year_min": 1894,
    "year_max": 1913,
@@ -12054,15 +11902,15 @@
      4
     ],
     [
+     "Bauernfreund",
+     3
+    ],
+    [
      "Landau",
      2
     ],
     [
      "Rubel",
-     2
-    ],
-    [
-     "Bauernfreund",
      2
     ],
     [
@@ -12075,7 +11923,7 @@
     ]
    ],
    "events_by_kind": {
-    "Birth": 6,
+    "Birth": 7,
     "Naming": 4,
     "Death": 2
    }
@@ -12102,7 +11950,7 @@
   {
    "town": "Brzostek",
    "number": "143",
-   "events": 9,
+   "events": 8,
    "distinct_surnames": 4,
    "year_min": 1906,
    "year_max": 1911,
@@ -12121,18 +11969,18 @@
     ],
     [
      "Bochner",
-     2
+     1
     ]
    ],
    "events_by_kind": {
-    "Birth": 6,
+    "Birth": 5,
     "Naming": 3
    }
   },
   {
    "town": "Brzostek",
    "number": "149",
-   "events": 336,
+   "events": 335,
    "distinct_surnames": 127,
    "year_min": 1894,
    "year_max": 1917,
@@ -12182,6 +12030,10 @@
      6
     ],
     [
+     "Baumgarten",
+     6
+    ],
+    [
      "Bloch",
      5
     ],
@@ -12199,14 +12051,6 @@
     ],
     [
      "Aron",
-     5
-    ],
-    [
-     "Baumgarten",
-     5
-    ],
-    [
-     "Fisch",
      5
     ],
     [
@@ -12246,11 +12090,11 @@
      4
     ],
     [
-     "Amsterdam",
+     "Fisch",
      4
     ],
     [
-     "Noth",
+     "Amsterdam",
      4
     ],
     [
@@ -12314,6 +12158,10 @@
      3
     ],
     [
+     "Noth",
+     3
+    ],
+    [
      "Horowitz",
      3
     ],
@@ -12355,10 +12203,6 @@
     ],
     [
      "Goldman",
-     2
-    ],
-    [
-     "Landau",
      2
     ],
     [
@@ -12418,6 +12262,10 @@
      2
     ],
     [
+     "Silberberg",
+     2
+    ],
+    [
      "Schneps",
      2
     ],
@@ -12463,6 +12311,10 @@
     ],
     [
      "Kleinman",
+     1
+    ],
+    [
+     "Landau",
      1
     ],
     [
@@ -12530,10 +12382,6 @@
      1
     ],
     [
-     "Silberberg",
-     1
-    ],
-    [
      "Blatt",
      1
     ],
@@ -12558,7 +12406,7 @@
      1
     ],
     [
-     "Brinbaum",
+     "Birnbaum",
      1
     ],
     [
@@ -12594,7 +12442,7 @@
      1
     ],
     [
-     "Schneerson",
+     "Czernieson",
      1
     ],
     [
@@ -12647,7 +12495,7 @@
     ]
    ],
    "events_by_kind": {
-    "Naming": 335,
+    "Naming": 334,
     "Death": 1
    }
   },
@@ -12819,14 +12667,14 @@
   {
    "town": "Januszkowice",
    "number": "16",
-   "events": 15,
+   "events": 16,
    "distinct_surnames": 3,
    "year_min": 1896,
    "year_max": 1913,
    "surnames": [
     [
      "Neuman",
-     12
+     13
     ],
     [
      "Frommer",
@@ -12839,7 +12687,7 @@
    ],
    "events_by_kind": {
     "Birth": 8,
-    "Naming": 3,
+    "Naming": 4,
     "Death": 4
    }
   },
@@ -12934,8 +12782,8 @@
   {
    "town": "Opacionka",
    "number": "12",
-   "events": 12,
-   "distinct_surnames": 3,
+   "events": 11,
+   "distinct_surnames": 2,
    "year_min": 1894,
    "year_max": 1910,
    "surnames": [
@@ -12944,16 +12792,12 @@
      10
     ],
     [
-     "Landau",
-     1
-    ],
-    [
      "Tager",
      1
     ]
    ],
    "events_by_kind": {
-    "Birth": 7,
+    "Birth": 6,
     "Naming": 1,
     "Death": 4
    }
@@ -13011,19 +12855,19 @@
   {
    "town": "Opacionka",
    "number": "72",
-   "events": 12,
+   "events": 13,
    "distinct_surnames": 1,
    "year_min": 1899,
    "year_max": 1913,
    "surnames": [
     [
      "Roth",
-     12
+     13
     ]
    ],
    "events_by_kind": {
     "Birth": 5,
-    "Naming": 3,
+    "Naming": 4,
     "Death": 4
    }
   },
@@ -13078,7 +12922,7 @@
   {
    "town": "Brzostek",
    "number": "149",
-   "events": 336,
+   "events": 335,
    "distinct_surnames": 127,
    "year_min": 1894,
    "year_max": 1917,
@@ -13128,6 +12972,10 @@
      6
     ],
     [
+     "Baumgarten",
+     6
+    ],
+    [
      "Bloch",
      5
     ],
@@ -13145,14 +12993,6 @@
     ],
     [
      "Aron",
-     5
-    ],
-    [
-     "Baumgarten",
-     5
-    ],
-    [
-     "Fisch",
      5
     ],
     [
@@ -13192,11 +13032,11 @@
      4
     ],
     [
-     "Amsterdam",
+     "Fisch",
      4
     ],
     [
-     "Noth",
+     "Amsterdam",
      4
     ],
     [
@@ -13260,6 +13100,10 @@
      3
     ],
     [
+     "Noth",
+     3
+    ],
+    [
      "Horowitz",
      3
     ],
@@ -13301,10 +13145,6 @@
     ],
     [
      "Goldman",
-     2
-    ],
-    [
-     "Landau",
      2
     ],
     [
@@ -13364,6 +13204,10 @@
      2
     ],
     [
+     "Silberberg",
+     2
+    ],
+    [
      "Schneps",
      2
     ],
@@ -13409,6 +13253,10 @@
     ],
     [
      "Kleinman",
+     1
+    ],
+    [
+     "Landau",
      1
     ],
     [
@@ -13476,10 +13324,6 @@
      1
     ],
     [
-     "Silberberg",
-     1
-    ],
-    [
      "Blatt",
      1
     ],
@@ -13504,7 +13348,7 @@
      1
     ],
     [
-     "Brinbaum",
+     "Birnbaum",
      1
     ],
     [
@@ -13540,7 +13384,7 @@
      1
     ],
     [
-     "Schneerson",
+     "Czernieson",
      1
     ],
     [
@@ -13593,7 +13437,7 @@
     ]
    ],
    "events_by_kind": {
-    "Naming": 335,
+    "Naming": 334,
     "Death": 1
    }
   },
@@ -13884,53 +13728,6 @@
   },
   {
    "town": "Brzostek",
-   "number": "51",
-   "events": 15,
-   "distinct_surnames": 8,
-   "year_min": 1876,
-   "year_max": 1912,
-   "surnames": [
-    [
-     "Burstin",
-     4
-    ],
-    [
-     "Goldman",
-     3
-    ],
-    [
-     "Abraham",
-     2
-    ],
-    [
-     "Plattner",
-     2
-    ],
-    [
-     "Kornfeld",
-     1
-    ],
-    [
-     "Towel",
-     1
-    ],
-    [
-     "Siegfried",
-     1
-    ],
-    [
-     "Baumgarten",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 5,
-    "Naming": 3,
-    "Death": 7
-   }
-  },
-  {
-   "town": "Brzostek",
    "number": "31",
    "events": 14,
    "distinct_surnames": 8,
@@ -13978,6 +13775,53 @@
   },
   {
    "town": "Brzostek",
+   "number": "51",
+   "events": 13,
+   "distinct_surnames": 8,
+   "year_min": 1876,
+   "year_max": 1912,
+   "surnames": [
+    [
+     "Burstin",
+     4
+    ],
+    [
+     "Abraham",
+     2
+    ],
+    [
+     "Plattner",
+     2
+    ],
+    [
+     "Kornfeld",
+     1
+    ],
+    [
+     "Towel",
+     1
+    ],
+    [
+     "Siegfried",
+     1
+    ],
+    [
+     "Baumgarten",
+     1
+    ],
+    [
+     "Goldman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 4,
+    "Naming": 2,
+    "Death": 7
+   }
+  },
+  {
+   "town": "Brzostek",
    "number": "45",
    "events": 12,
    "distinct_surnames": 7,
@@ -14021,47 +13865,8 @@
   },
   {
    "town": "Brzostek",
-   "number": "16",
-   "events": 13,
-   "distinct_surnames": 6,
-   "year_min": 1894,
-   "year_max": 1921,
-   "surnames": [
-    [
-     "Aron",
-     6
-    ],
-    [
-     "Rein",
-     2
-    ],
-    [
-     "Feigenbaum",
-     2
-    ],
-    [
-     "Faust",
-     1
-    ],
-    [
-     "Pencier",
-     1
-    ],
-    [
-     "Neuman",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 7,
-    "Naming": 5,
-    "Death": 1
-   }
-  },
-  {
-   "town": "Brzostek",
    "number": "131",
-   "events": 12,
+   "events": 13,
    "distinct_surnames": 6,
    "year_min": 1894,
    "year_max": 1913,
@@ -14071,15 +13876,15 @@
      4
     ],
     [
+     "Bauernfreund",
+     3
+    ],
+    [
      "Landau",
      2
     ],
     [
      "Rubel",
-     2
-    ],
-    [
-     "Bauernfreund",
      2
     ],
     [
@@ -14092,7 +13897,7 @@
     ]
    ],
    "events_by_kind": {
-    "Birth": 6,
+    "Birth": 7,
     "Naming": 4,
     "Death": 2
    }
@@ -14169,6 +13974,41 @@
   },
   {
    "town": "Brzostek",
+   "number": "16",
+   "events": 12,
+   "distinct_surnames": 5,
+   "year_min": 1894,
+   "year_max": 1921,
+   "surnames": [
+    [
+     "Aron",
+     6
+    ],
+    [
+     "Rein",
+     2
+    ],
+    [
+     "Feigenbaum",
+     2
+    ],
+    [
+     "Faust",
+     1
+    ],
+    [
+     "Pencier",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 7,
+    "Naming": 4,
+    "Death": 1
+   }
+  },
+  {
+   "town": "Brzostek",
    "number": "8",
    "events": 10,
    "distinct_surnames": 5,
@@ -14227,7 +14067,7 @@
      1
     ],
     [
-     "Brinbaum",
+     "Birnbaum",
      1
     ]
    ],
@@ -14386,7 +14226,7 @@
      2
     ],
     [
-     "Schneerson",
+     "Czernieson",
      1
     ]
    ],
@@ -14394,6 +14234,37 @@
     "Birth": 6,
     "Naming": 2,
     "Death": 2
+   }
+  },
+  {
+   "town": "Brzostek",
+   "number": "50",
+   "events": 10,
+   "distinct_surnames": 4,
+   "year_min": 1899,
+   "year_max": 1907,
+   "surnames": [
+    [
+     "Baumgarten",
+     3
+    ],
+    [
+     "Schlenger",
+     3
+    ],
+    [
+     "Abraham",
+     2
+    ],
+    [
+     "Hirsch",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 7,
+    "Naming": 2,
+    "Death": 1
    }
   },
   {
@@ -14425,67 +14296,6 @@
     "Birth": 6,
     "Naming": 2,
     "Death": 1
-   }
-  },
-  {
-   "town": "Brzostek",
-   "number": "50",
-   "events": 9,
-   "distinct_surnames": 4,
-   "year_min": 1899,
-   "year_max": 1907,
-   "surnames": [
-    [
-     "Schlenger",
-     3
-    ],
-    [
-     "Baumgarten",
-     2
-    ],
-    [
-     "Abraham",
-     2
-    ],
-    [
-     "Hirsch",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 6,
-    "Naming": 2,
-    "Death": 1
-   }
-  },
-  {
-   "town": "Brzostek",
-   "number": "143",
-   "events": 9,
-   "distinct_surnames": 4,
-   "year_min": 1906,
-   "year_max": 1911,
-   "surnames": [
-    [
-     "Kaufman",
-     3
-    ],
-    [
-     "Horowitz",
-     2
-    ],
-    [
-     "Klotz",
-     2
-    ],
-    [
-     "Bochner",
-     2
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 6,
-    "Naming": 3
    }
   },
   {
@@ -14583,6 +14393,36 @@
    }
   },
   {
+   "town": "Brzostek",
+   "number": "143",
+   "events": 8,
+   "distinct_surnames": 4,
+   "year_min": 1906,
+   "year_max": 1911,
+   "surnames": [
+    [
+     "Kaufman",
+     3
+    ],
+    [
+     "Horowitz",
+     2
+    ],
+    [
+     "Klotz",
+     2
+    ],
+    [
+     "Bochner",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 5,
+    "Naming": 3
+   }
+  },
+  {
    "town": "Kamienica Dolna",
    "number": "1",
    "events": 8,
@@ -14614,63 +14454,32 @@
   },
   {
    "town": "Brzostek",
-   "number": "86",
+   "number": "11",
    "events": 7,
    "distinct_surnames": 4,
-   "year_min": 1897,
-   "year_max": 1905,
+   "year_min": 1900,
+   "year_max": 1916,
    "surnames": [
     [
-     "Baumgarten",
-     2
-    ],
-    [
-     "Landau",
-     2
-    ],
-    [
-     "Reiss",
-     2
-    ],
-    [
-     "Leuchtag",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 3,
-    "Naming": 2,
-    "Death": 2
-   }
-  },
-  {
-   "town": "Brzostek",
-   "number": "20",
-   "events": 6,
-   "distinct_surnames": 4,
-   "year_min": 1876,
-   "year_max": 1900,
-   "surnames": [
-    [
-     "Silberman",
+     "Schlenger",
      3
     ],
     [
-     "Bloch",
+     "Wolkenfeld",
+     2
+    ],
+    [
+     "Aron",
      1
     ],
     [
-     "Schonwetter",
-     1
-    ],
-    [
-     "Fichner",
+     "Schonbach",
      1
     ]
    ],
    "events_by_kind": {
     "Birth": 5,
-    "Naming": 1
+    "Naming": 2
    }
   },
   {
@@ -14700,6 +14509,37 @@
    ],
    "events_by_kind": {
     "Death": 5
+   }
+  },
+  {
+   "town": "Brzostek",
+   "number": "69",
+   "events": 5,
+   "distinct_surnames": 4,
+   "year_min": 1900,
+   "year_max": 1914,
+   "surnames": [
+    [
+     "Rauch",
+     2
+    ],
+    [
+     "Galizer",
+     1
+    ],
+    [
+     "Kornfeld",
+     1
+    ],
+    [
+     "Kern",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 1,
+    "Naming": 1,
+    "Death": 3
    }
   }
  ],
@@ -14736,32 +14576,22 @@
   },
   {
    "town": "Baczal Dolny",
-   "events": 4,
+   "events": 1,
    "surnames": [
     [
-     "Neubart",
-     2
-    ],
-    [
      "Friedenbach",
-     1
-    ],
-    [
-     "Schneps",
      1
     ]
    ],
    "events_by_kind": {
-    "BF_Residence": 2,
-    "Bride birthplace": 1,
-    "Groom birthplace": 1
+    "BF_Residence": 1
    },
    "year_min": 1916,
-   "year_max": 1921
+   "year_max": 1916
   },
   {
    "town": "Baczalka",
-   "events": 13,
+   "events": 15,
    "surnames": [
     [
      "Friedenbach",
@@ -14778,29 +14608,34 @@
     [
      "Berger",
      2
+    ],
+    [
+     "Neubart",
+     2
     ]
    ],
    "events_by_kind": {
     "Father_Residence": 10,
-    "BF_Residence": 3
+    "BF_Residence": 4,
+    "Bride birthplace": 1
    },
    "year_min": 1894,
    "year_max": 1932
   },
   {
-   "town": "Baranivtsi",
+   "town": "Bagienica",
    "events": 1,
    "surnames": [
     [
-     "Bierman",
+     "Schneps",
      1
     ]
    ],
    "events_by_kind": {
-    "Bride birthplace": 1
+    "Groom birthplace": 1
    },
-   "year_min": 1924,
-   "year_max": 1924
+   "year_min": 1921,
+   "year_max": 1921
   },
   {
    "town": "Baranow",
@@ -14818,6 +14653,21 @@
    "year_max": 1929
   },
   {
+   "town": "Barańczyce near Sambor",
+   "events": 1,
+   "surnames": [
+    [
+     "Bierman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "year_min": 1924,
+   "year_max": 1924
+  },
+  {
    "town": "Bardejov (Hungary)",
    "events": 5,
    "surnames": [
@@ -14826,7 +14676,7 @@
      4
     ],
     [
-     "Schlenger",
+     "Schlanger",
      1
     ]
    ],
@@ -14838,7 +14688,7 @@
    "year_max": 1906
   },
   {
-   "town": "Belzec",
+   "town": "Belz",
    "events": 2,
    "surnames": [
     [
@@ -14922,12 +14772,12 @@
      14
     ],
     [
-     "Pencier",
-     11
+     "Freiberger",
+     12
     ],
     [
-     "Freiberger",
-     10
+     "Pencier",
+     11
     ],
     [
      "Steinhorn",
@@ -15084,23 +14934,23 @@
   },
   {
    "town": "Brzesko",
-   "events": 2,
+   "events": 3,
    "surnames": [
     [
      "Glassner",
-     2
+     3
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 1,
+    "MGF_Residence": 2,
     "MGM_Residence": 1
    },
-   "year_min": 1900,
+   "year_min": 1899,
    "year_max": 1900
   },
   {
    "town": "Brzeziny",
-   "events": 26,
+   "events": 28,
    "surnames": [
     [
      "Bein",
@@ -15108,7 +14958,7 @@
     ],
     [
      "Berger",
-     5
+     7
     ],
     [
      "Tesser",
@@ -15133,8 +14983,8 @@
    ],
    "events_by_kind": {
     "MGF_Residence": 14,
-    "Groom birthplace": 3,
-    "GF_Residence": 3,
+    "Groom birthplace": 4,
+    "GF_Residence": 4,
     "Bride birthplace": 4,
     "BF_Residence": 2
    },
@@ -15143,28 +14993,22 @@
   },
   {
    "town": "Brzeznica",
-   "events": 3,
+   "events": 1,
    "surnames": [
-    [
-     "Berger",
-     2
-    ],
     [
      "Goldfluss",
      1
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 1,
-    "Groom birthplace": 1,
-    "GF_Residence": 1
+    "MGF_Residence": 1
    },
    "year_min": 1896,
-   "year_max": 1921
+   "year_max": 1896
   },
   {
    "town": "Brzostek",
-   "events": 846,
+   "events": 847,
    "surnames": [
     [
      "Rubel",
@@ -15311,6 +15155,10 @@
      9
     ],
     [
+     "Kornreich",
+     9
+    ],
+    [
      "Rowitz",
      9
     ],
@@ -15324,10 +15172,6 @@
     ],
     [
      "Faust",
-     8
-    ],
-    [
-     "Kornreich",
      8
     ],
     [
@@ -15347,6 +15191,10 @@
      8
     ],
     [
+     "Plattner",
+     8
+    ],
+    [
      "Wrobel",
      7
     ],
@@ -15359,7 +15207,7 @@
      7
     ],
     [
-     "Plattner",
+     "Birnbaum",
      7
     ],
     [
@@ -15399,11 +15247,11 @@
      6
     ],
     [
-     "Birnbaum",
-     6
+     "Kleinman",
+     5
     ],
     [
-     "Kleinman",
+     "Korzennik",
      5
     ],
     [
@@ -15451,10 +15299,6 @@
      3
     ],
     [
-     "Korzennik",
-     3
-    ],
-    [
      "Tager",
      3
     ],
@@ -15487,10 +15331,6 @@
      2
     ],
     [
-     "Weitz",
-     2
-    ],
-    [
      "Abraham",
      2
     ],
@@ -15499,11 +15339,15 @@
      2
     ],
     [
+     "Bodner",
+     2
+    ],
+    [
      "Braunheim",
      2
     ],
     [
-     "Schneerson",
+     "Czernieson",
      2
     ],
     [
@@ -15528,10 +15372,6 @@
     ],
     [
      "Liebschutz",
-     2
-    ],
-    [
-     "Zimmerman",
      2
     ],
     [
@@ -15563,11 +15403,11 @@
      1
     ],
     [
-     "Druck",
+     "Weitz",
      1
     ],
     [
-     "Glassner",
+     "Druck",
      1
     ],
     [
@@ -15588,14 +15428,6 @@
     ],
     [
      "Reich",
-     1
-    ],
-    [
-     "Brinbaum",
-     1
-    ],
-    [
-     "Bodner",
      1
     ],
     [
@@ -15680,11 +15512,11 @@
     ]
    ],
    "events_by_kind": {
-    "Father_Residence": 388,
-    "MGF_Residence": 191,
+    "Father_Residence": 389,
+    "MGF_Residence": 190,
     "MGM_Residence": 8,
     "Mother_Residence": 5,
-    "Bride birthplace": 68,
+    "Bride birthplace": 69,
     "BF_Residence": 111,
     "Groom birthplace": 31,
     "GF_Residence": 44
@@ -15969,7 +15801,7 @@
   },
   {
    "town": "Debica",
-   "events": 41,
+   "events": 38,
    "surnames": [
     [
      "Towel",
@@ -15984,12 +15816,12 @@
      5
     ],
     [
-     "Schonwetter",
-     4
-    ],
-    [
      "Schlenger",
      3
+    ],
+    [
+     "Schonwetter",
+     2
     ],
     [
      "Wurzel",
@@ -16028,10 +15860,6 @@
      1
     ],
     [
-     "Kornfeld",
-     1
-    ],
-    [
      "Oling",
      1
     ],
@@ -16045,8 +15873,8 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 20,
-    "MGM_Residence": 2,
+    "MGF_Residence": 18,
+    "MGM_Residence": 1,
     "Groom birthplace": 9,
     "GF_Residence": 8,
     "Bride birthplace": 1,
@@ -16072,37 +15900,34 @@
   },
   {
    "town": "Debowa",
-   "events": 3,
+   "events": 4,
    "surnames": [
     [
      "Schonwetter",
-     2
-    ],
+     4
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 3,
+    "MGM_Residence": 1
+   },
+   "year_min": 1898,
+   "year_max": 1905
+  },
+  {
+   "town": "Debowiec",
+   "events": 3,
+   "surnames": [
     [
      "Kornfeld",
-     1
+     3
     ]
    ],
    "events_by_kind": {
     "MGF_Residence": 3
    },
-   "year_min": 1898,
-   "year_max": 1909
-  },
-  {
-   "town": "Debowiec",
-   "events": 1,
-   "surnames": [
-    [
-     "Kornfeld",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "MGF_Residence": 1
-   },
-   "year_min": 1911,
-   "year_max": 1911
+   "year_min": 1909,
+   "year_max": 1912
   },
   {
    "town": "Dukla",
@@ -16214,7 +16039,7 @@
      1
     ],
     [
-     "Schlenger",
+     "Schlanger",
      1
     ]
    ],
@@ -16395,7 +16220,7 @@
   },
   {
    "town": "Gogolow",
-   "events": 6,
+   "events": 7,
    "surnames": [
     [
      "Storch",
@@ -16408,9 +16233,14 @@
     [
      "Weller",
      2
+    ],
+    [
+     "Heffner",
+     1
     ]
    ],
    "events_by_kind": {
+    "MGM_Residence": 1,
     "Bride birthplace": 1,
     "BF_Residence": 1,
     "Groom birthplace": 3,
@@ -16507,7 +16337,7 @@
   },
   {
    "town": "Gorzejowa",
-   "events": 46,
+   "events": 45,
    "surnames": [
     [
      "Rothman",
@@ -16515,7 +16345,7 @@
     ],
     [
      "Kornreich",
-     8
+     7
     ],
     [
      "Schlenger",
@@ -16542,14 +16372,13 @@
      2
     ],
     [
-     "Heffner",
+     "Lobel",
      1
     ]
    ],
    "events_by_kind": {
-    "Father_Residence": 28,
-    "MGF_Residence": 7,
-    "MGM_Residence": 1,
+    "Father_Residence": 27,
+    "MGF_Residence": 8,
     "Bride birthplace": 4,
     "BF_Residence": 6
    },
@@ -16604,7 +16433,7 @@
   },
   {
    "town": "Grudna Dolna",
-   "events": 4,
+   "events": 5,
    "surnames": [
     [
      "Rosenbaum",
@@ -16617,18 +16446,23 @@
     [
      "Friedenbach",
      1
+    ],
+    [
+     "Berger",
+     1
     ]
    ],
    "events_by_kind": {
     "Father_Residence": 3,
-    "Groom birthplace": 1
+    "Groom birthplace": 1,
+    "BF_Residence": 1
    },
    "year_min": 1894,
-   "year_max": 1899
+   "year_max": 1921
   },
   {
    "town": "Grudna Gorna",
-   "events": 26,
+   "events": 25,
    "surnames": [
     [
      "Weintraub",
@@ -16643,11 +16477,11 @@
      2
     ],
     [
-     "Berger",
-     2
+     "Dembitzer",
+     1
     ],
     [
-     "Dembitzer",
+     "Berger",
      1
     ]
    ],
@@ -16656,7 +16490,7 @@
     "Mother_Residence": 2,
     "Groom birthplace": 2,
     "GF_Residence": 2,
-    "BF_Residence": 4,
+    "BF_Residence": 3,
     "Bride birthplace": 1
    },
    "year_min": 1895,
@@ -16789,21 +16623,6 @@
    "year_max": 1938
   },
   {
-   "town": "Husow",
-   "events": 1,
-   "surnames": [
-    [
-     "Seeman",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "GF_Residence": 1
-   },
-   "year_min": 1934,
-   "year_max": 1934
-  },
-  {
    "town": "Huta Gogolowska",
    "events": 2,
    "surnames": [
@@ -16837,7 +16656,7 @@
   },
   {
    "town": "Januszkowice",
-   "events": 74,
+   "events": 73,
    "surnames": [
     [
      "Reiss",
@@ -16860,11 +16679,11 @@
      6
     ],
     [
-     "Roth",
-     5
+     "Sturm",
+     6
     ],
     [
-     "Sturm",
+     "Roth",
      5
     ],
     [
@@ -16888,10 +16707,6 @@
      2
     ],
     [
-     "Sperber",
-     1
-    ],
-    [
      "Amsterdam",
      1
     ],
@@ -16910,7 +16725,7 @@
    ],
    "events_by_kind": {
     "Father_Residence": 34,
-    "MGF_Residence": 19,
+    "MGF_Residence": 18,
     "MGM_Residence": 3,
     "GF_Residence": 6,
     "Groom birthplace": 4,
@@ -16922,11 +16737,11 @@
   },
   {
    "town": "Jasienica",
-   "events": 4,
+   "events": 5,
    "surnames": [
     [
      "Panzer",
-     3
+     4
     ],
     [
      "Szkolnik",
@@ -16934,11 +16749,11 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 3,
+    "MGF_Residence": 4,
     "Groom birthplace": 1
    },
    "year_min": 1900,
-   "year_max": 1909
+   "year_max": 1911
   },
   {
    "town": "Jasienica Rosielna",
@@ -16957,7 +16772,7 @@
   },
   {
    "town": "Jaslo",
-   "events": 13,
+   "events": 12,
    "surnames": [
     [
      "Mahler",
@@ -16969,10 +16784,6 @@
     ],
     [
      "Rufs",
-     1
-    ],
-    [
-     "Panzer",
      1
     ],
     [
@@ -17010,7 +16821,6 @@
    ],
    "events_by_kind": {
     "Father_Residence": 2,
-    "MGF_Residence": 1,
     "GF_Residence": 7,
     "Groom birthplace": 2,
     "BF_Residence": 1
@@ -17040,13 +16850,25 @@
    "year_max": 1919
   },
   {
-   "town": "Jaworze",
-   "events": 9,
+   "town": "Jaworow",
+   "events": 2,
    "surnames": [
     [
      "Druck",
-     3
-    ],
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "year_min": 1897,
+   "year_max": 1897
+  },
+  {
+   "town": "Jaworze",
+   "events": 7,
+   "surnames": [
     [
      "Kampf",
      3
@@ -17056,6 +16878,10 @@
      2
     ],
     [
+     "Druck",
+     1
+    ],
+    [
      "Turk",
      1
     ]
@@ -17063,10 +16889,10 @@
    "events_by_kind": {
     "MGF_Residence": 2,
     "Father_Residence": 1,
-    "Groom birthplace": 2,
-    "GF_Residence": 2,
     "BF_Residence": 1,
-    "Bride birthplace": 1
+    "Bride birthplace": 1,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
    },
    "year_min": 1896,
    "year_max": 1906
@@ -17185,30 +17011,15 @@
    "year_max": 1916
   },
   {
-   "town": "Jodegrodaic",
-   "events": 1,
-   "surnames": [
-    [
-     "Kempler",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "BF_Residence": 1
-   },
-   "year_min": 1916,
-   "year_max": 1916
-  },
-  {
    "town": "Jodlowa",
-   "events": 18,
+   "events": 17,
    "surnames": [
-    [
-     "Steinhorn",
-     4
-    ],
     [
      "Reicher",
+     3
+    ],
+    [
+     "Steinhorn",
      3
     ],
     [
@@ -17233,7 +17044,7 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 11,
+    "MGF_Residence": 10,
     "Groom birthplace": 3,
     "GF_Residence": 3,
     "Bride birthplace": 1
@@ -17243,14 +17054,14 @@
   },
   {
    "town": "Joniny",
-   "events": 4,
+   "events": 3,
    "surnames": [
     [
-     "Sperber",
-     2
+     "Rubel",
+     1
     ],
     [
-     "Rubel",
+     "Sperber",
      1
     ],
     [
@@ -17259,14 +17070,14 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 4
+    "MGF_Residence": 3
    },
    "year_min": 1902,
-   "year_max": 1905
+   "year_max": 1902
   },
   {
    "town": "Kamienica Dolna",
-   "events": 32,
+   "events": 31,
    "surnames": [
     [
      "Roth",
@@ -17274,7 +17085,7 @@
     ],
     [
      "Kleinman",
-     6
+     5
     ],
     [
      "Walter",
@@ -17310,9 +17121,9 @@
     "Father_Residence": 9,
     "Mother_Residence": 1,
     "Bride birthplace": 2,
-    "BF_Residence": 4,
     "Groom birthplace": 1,
-    "GF_Residence": 1
+    "GF_Residence": 1,
+    "BF_Residence": 3
    },
    "year_min": 1895,
    "year_max": 1934
@@ -17370,7 +17181,7 @@
   },
   {
    "town": "Klecie",
-   "events": 32,
+   "events": 33,
    "surnames": [
     [
      "Aron",
@@ -17382,7 +17193,7 @@
     ],
     [
      "Weitz",
-     2
+     3
     ],
     [
      "Baumgarten",
@@ -17407,7 +17218,7 @@
    ],
    "events_by_kind": {
     "Father_Residence": 10,
-    "MGF_Residence": 16,
+    "MGF_Residence": 17,
     "Groom birthplace": 2,
     "GF_Residence": 1,
     "Bride birthplace": 2,
@@ -17441,7 +17252,7 @@
    "events": 2,
    "surnames": [
     [
-     "Brinbaum",
+     "Birnbaum",
      1
     ],
     [
@@ -17496,6 +17307,36 @@
    "year_max": 1912
   },
   {
+   "town": "Kozlowka",
+   "events": 2,
+   "surnames": [
+    [
+     "Rothman",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "year_min": 1908,
+   "year_max": 1910
+  },
+  {
+   "town": "Krajowice",
+   "events": 1,
+   "surnames": [
+    [
+     "Schonwetter",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "year_min": 1898,
+   "year_max": 1898
+  },
+  {
    "town": "Krakow",
    "events": 10,
    "surnames": [
@@ -17518,11 +17359,11 @@
   },
   {
    "town": "Krolowka",
-   "events": 4,
+   "events": 2,
    "surnames": [
     [
      "Rothman",
-     3
+     1
     ],
     [
      "Kollender",
@@ -17530,7 +17371,7 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 3,
+    "MGF_Residence": 1,
     "Bride birthplace": 1
    },
    "year_min": 1903,
@@ -17558,18 +17399,23 @@
   },
   {
    "town": "Labowa",
-   "events": 1,
+   "events": 3,
    "surnames": [
+    [
+     "Neuman",
+     2
+    ],
     [
      "Lustig",
      1
     ]
    ],
    "events_by_kind": {
+    "MGF_Residence": 2,
     "Bride birthplace": 1
    },
    "year_min": 1906,
-   "year_max": 1906
+   "year_max": 1909
   },
   {
    "town": "Lajsce",
@@ -17710,7 +17556,7 @@
   },
   {
    "town": "Lopuchowa",
-   "events": 4,
+   "events": 3,
    "surnames": [
     [
      "Braunheim",
@@ -17719,18 +17565,14 @@
     [
      "Nechemje",
      1
-    ],
-    [
-     "Fruhman",
-     1
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 3,
+    "MGF_Residence": 2,
     "MGM_Residence": 1
    },
    "year_min": 1909,
-   "year_max": 1916
+   "year_max": 1913
   },
   {
    "town": "Lubatowa",
@@ -17975,18 +17817,33 @@
   },
   {
    "town": "Nagawczyna near Debica",
-   "events": 3,
+   "events": 2,
    "surnames": [
     [
      "Goldman",
-     3
+     2
     ]
    ],
    "events_by_kind": {
-    "Groom birthplace": 2,
+    "Groom birthplace": 1,
     "GF_Residence": 1
    },
    "year_min": 1910,
+   "year_max": 1910
+  },
+  {
+   "town": "Nagoszyn near Debica",
+   "events": 1,
+   "surnames": [
+    [
+     "Goldman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "year_min": 1935,
    "year_max": 1935
   },
   {
@@ -18079,18 +17936,18 @@
   },
   {
    "town": "Nockowa",
-   "events": 1,
+   "events": 2,
    "surnames": [
     [
      "Fruhman",
-     1
+     2
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 1
+    "MGF_Residence": 2
    },
    "year_min": 1912,
-   "year_max": 1912
+   "year_max": 1916
   },
   {
    "town": "Nowy Sacz",
@@ -18282,7 +18139,7 @@
   },
   {
    "town": "Oswiecim",
-   "events": 3,
+   "events": 4,
    "surnames": [
     [
      "Wolf",
@@ -18290,30 +18147,15 @@
     ],
     [
      "Wulkan",
-     1
+     2
     ]
    ],
    "events_by_kind": {
     "Groom birthplace": 2,
-    "GF_Residence": 1
+    "GF_Residence": 2
    },
    "year_min": 1907,
    "year_max": 1936
-  },
-  {
-   "town": "Padew Narodowa",
-   "events": 1,
-   "surnames": [
-    [
-     "Silber",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "GF_Residence": 1
-   },
-   "year_min": 1938,
-   "year_max": 1938
   },
   {
    "town": "Pawezow",
@@ -18345,6 +18187,21 @@
    },
    "year_min": 1925,
    "year_max": 1925
+  },
+  {
+   "town": "Pawlow near Dabrowa Tarnowska",
+   "events": 1,
+   "surnames": [
+    [
+     "Silber",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "year_min": 1938,
+   "year_max": 1938
   },
   {
    "town": "Piatkowa",
@@ -18379,6 +18236,21 @@
    "year_max": 1900
   },
   {
+   "town": "Pietrzejowa",
+   "events": 1,
+   "surnames": [
+    [
+     "Leiman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "year_min": 1913,
+   "year_max": 1913
+  },
+  {
    "town": "Pilzno",
    "events": 13,
    "surnames": [
@@ -18408,6 +18280,21 @@
    },
    "year_min": 1894,
    "year_max": 1938
+  },
+  {
+   "town": "Podegrodzie",
+   "events": 1,
+   "surnames": [
+    [
+     "Kempler",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "year_min": 1916,
+   "year_max": 1916
   },
   {
    "town": "Podgrodzie",
@@ -18518,11 +18405,11 @@
   },
   {
    "town": "Przemysl",
-   "events": 11,
+   "events": 12,
    "surnames": [
     [
      "Konigsdorf",
-     5
+     6
     ],
     [
      "Scharf",
@@ -18538,7 +18425,7 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 6,
+    "MGF_Residence": 7,
     "MGM_Residence": 1,
     "Father_Residence": 1,
     "Groom birthplace": 1,
@@ -18629,7 +18516,7 @@
    "events": 3,
    "surnames": [
     [
-     "Fafs",
+     "Fass",
      2
     ],
     [
@@ -18722,7 +18609,7 @@
   },
   {
    "town": "Ropczyce",
-   "events": 16,
+   "events": 15,
    "surnames": [
     [
      "Reiss",
@@ -18757,10 +18644,6 @@
      1
     ],
     [
-     "Leiman",
-     1
-    ],
-    [
      "Mantel",
      1
     ]
@@ -18770,7 +18653,7 @@
     "Groom birthplace": 5,
     "GF_Residence": 4,
     "Bride birthplace": 2,
-    "BF_Residence": 2
+    "BF_Residence": 1
    },
    "year_min": 1894,
    "year_max": 1922
@@ -18853,7 +18736,7 @@
    "year_max": 1907
   },
   {
-   "town": "Rudka",
+   "town": "Rudawa",
    "events": 1,
    "surnames": [
     [
@@ -18868,7 +18751,7 @@
    "year_max": 1897
   },
   {
-   "town": "Rudka near Wieckowice",
+   "town": "Rudawa near Wieckowice",
    "events": 1,
    "surnames": [
     [
@@ -19073,11 +18956,11 @@
   },
   {
    "town": "Rzochow",
-   "events": 5,
+   "events": 4,
    "surnames": [
     [
      "Schonwetter",
-     3
+     2
     ],
     [
      "Amsterdam",
@@ -19085,7 +18968,7 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 3,
+    "MGF_Residence": 2,
     "Groom birthplace": 1,
     "Bride birthplace": 1
    },
@@ -19129,10 +19012,18 @@
   },
   {
    "town": "Sedziszow Malopolski",
-   "events": 7,
+   "events": 9,
    "surnames": [
     [
+     "Malz",
+     2
+    ],
+    [
      "Lobel",
+     2
+    ],
+    [
+     "Birnbaum",
      2
     ],
     [
@@ -19140,22 +19031,14 @@
      2
     ],
     [
-     "Malz",
-     1
-    ],
-    [
-     "Birnbaum",
-     1
-    ],
-    [
      "Lichtman",
      1
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 1,
+    "MGF_Residence": 2,
     "Groom birthplace": 2,
-    "GF_Residence": 2,
+    "GF_Residence": 3,
     "Bride birthplace": 1,
     "BF_Residence": 1
    },
@@ -19163,8 +19046,38 @@
    "year_max": 1917
   },
   {
+   "town": "Siedlce near Nowy Sacz",
+   "events": 1,
+   "surnames": [
+    [
+     "Gottlieb",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "year_min": 1926,
+   "year_max": 1926
+  },
+  {
+   "town": "Siedleszczany",
+   "events": 1,
+   "surnames": [
+    [
+     "Freiberger",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "year_min": 1906,
+   "year_max": 1906
+  },
+  {
    "town": "Siedliska",
-   "events": 37,
+   "events": 36,
    "surnames": [
     [
      "Sperber",
@@ -19187,10 +19100,6 @@
      4
     ],
     [
-     "Freiberger",
-     1
-    ],
-    [
      "Teitelbaum",
      1
     ],
@@ -19209,7 +19118,7 @@
    ],
    "events_by_kind": {
     "Father_Residence": 14,
-    "MGF_Residence": 7,
+    "MGF_Residence": 6,
     "Groom birthplace": 3,
     "Bride birthplace": 6,
     "BF_Residence": 6,
@@ -19219,39 +19128,19 @@
    "year_max": 1925
   },
   {
-   "town": "Siedliska-Bogusz",
-   "events": 1,
-   "surnames": [
-    [
-     "Gottlieb",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "GF_Residence": 1
-   },
-   "year_min": 1926,
-   "year_max": 1926
-  },
-  {
    "town": "Siedliszowice",
-   "events": 3,
+   "events": 2,
    "surnames": [
     [
      "Faber",
      2
-    ],
-    [
-     "Birnbaum",
-     1
     ]
    ],
    "events_by_kind": {
-    "GF_Residence": 1,
     "Bride birthplace": 1,
     "BF_Residence": 1
    },
-   "year_min": 1900,
+   "year_min": 1911,
    "year_max": 1911
   },
   {
@@ -19283,21 +19172,6 @@
    },
    "year_min": 1937,
    "year_max": 1937
-  },
-  {
-   "town": "Skrzyszow",
-   "events": 1,
-   "surnames": [
-    [
-     "Malz",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "MGF_Residence": 1
-   },
-   "year_min": 1915,
-   "year_max": 1915
   },
   {
    "town": "Skurowa",
@@ -19382,6 +19256,21 @@
    "year_max": 1894
   },
   {
+   "town": "Sokolow",
+   "events": 1,
+   "surnames": [
+    [
+     "Mass",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "year_min": 1917,
+   "year_max": 1917
+  },
+  {
    "town": "Sokolow Malopolski",
    "events": 6,
    "surnames": [
@@ -19409,21 +19298,6 @@
     "Groom birthplace": 1
    },
    "year_min": 1901,
-   "year_max": 1917
-  },
-  {
-   "town": "Sokolowka",
-   "events": 1,
-   "surnames": [
-    [
-     "Matt",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "BF_Residence": 1
-   },
-   "year_min": 1917,
    "year_max": 1917
   },
   {
@@ -19474,10 +19348,14 @@
   },
   {
    "town": "Strzyzow",
-   "events": 10,
+   "events": 11,
    "surnames": [
     [
-     "Rufs",
+     "Russ",
+     2
+    ],
+    [
+     "Welisch",
      2
     ],
     [
@@ -19486,10 +19364,6 @@
     ],
     [
      "Nechemje",
-     1
-    ],
-    [
-     "Welch",
      1
     ],
     [
@@ -19512,7 +19386,7 @@
    "events_by_kind": {
     "MGF_Residence": 1,
     "Groom birthplace": 3,
-    "GF_Residence": 6
+    "GF_Residence": 7
    },
    "year_min": 1903,
    "year_max": 1936
@@ -19538,18 +19412,18 @@
   },
   {
    "town": "Swilcza",
-   "events": 2,
+   "events": 1,
    "surnames": [
     [
      "Kornfeld",
-     2
+     1
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 2
+    "MGF_Residence": 1
    },
    "year_min": 1898,
-   "year_max": 1899
+   "year_max": 1898
   },
   {
    "town": "Szczawnica",
@@ -19614,11 +19488,11 @@
   },
   {
    "town": "Tarnow",
-   "events": 37,
+   "events": 36,
    "surnames": [
     [
      "Konigsdorf",
-     6
+     5
     ],
     [
      "Ritter",
@@ -19694,7 +19568,7 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 15,
+    "MGF_Residence": 14,
     "Father_Residence": 1,
     "Bride birthplace": 6,
     "BF_Residence": 8,
@@ -19703,22 +19577,6 @@
    },
    "year_min": 1895,
    "year_max": 1933
-  },
-  {
-   "town": "Thum Germany",
-   "events": 2,
-   "surnames": [
-    [
-     "Turk",
-     2
-    ]
-   ],
-   "events_by_kind": {
-    "MGF_Residence": 1,
-    "MGM_Residence": 1
-   },
-   "year_min": 1894,
-   "year_max": 1894
   },
   {
    "town": "Toki",
@@ -19806,11 +19664,11 @@
   },
   {
    "town": "Tyczyn",
-   "events": 5,
+   "events": 6,
    "surnames": [
     [
      "Kornfeld",
-     2
+     3
     ],
     [
      "Ratz",
@@ -19822,7 +19680,7 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 2,
+    "MGF_Residence": 3,
     "Father_Residence": 1,
     "Groom birthplace": 1,
     "Bride birthplace": 1
@@ -19868,10 +19726,14 @@
   },
   {
    "town": "Uniszowa",
-   "events": 6,
+   "events": 9,
    "surnames": [
     [
      "Sperber",
+     4
+    ],
+    [
+     "Steinhorn",
      2
     ],
     [
@@ -19881,18 +19743,29 @@
     [
      "Rubel",
      1
-    ],
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 8,
+    "BF_Residence": 1
+   },
+   "year_min": 1899,
+   "year_max": 1914
+  },
+  {
+   "town": "Vienna (staying there at present)",
+   "events": 1,
+   "surnames": [
     [
-     "Steinhorn",
+     "Ratz",
      1
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 5,
-    "BF_Residence": 1
+    "GF_Residence": 1
    },
-   "year_min": 1906,
-   "year_max": 1914
+   "year_min": 1904,
+   "year_max": 1904
   },
   {
    "town": "Vysny Komarnik",
@@ -20045,16 +19918,15 @@
   },
   {
    "town": "Wierzbica",
-   "events": 2,
+   "events": 1,
    "surnames": [
     [
      "Ratz",
-     2
+     1
     ]
    ],
    "events_by_kind": {
-    "Groom birthplace": 1,
-    "GF_Residence": 1
+    "Groom birthplace": 1
    },
    "year_min": 1904,
    "year_max": 1904
@@ -20142,33 +20014,18 @@
   },
   {
    "town": "Zabawa",
-   "events": 3,
+   "events": 2,
    "surnames": [
     [
      "Neuman",
-     3
+     2
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 3
+    "MGF_Residence": 2
    },
    "year_min": 1904,
-   "year_max": 1907
-  },
-  {
-   "town": "Zabawa near Nowy Sacz",
-   "events": 1,
-   "surnames": [
-    [
-     "Neuman",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "MGF_Residence": 1
-   },
-   "year_min": 1909,
-   "year_max": 1909
+   "year_max": 1905
   },
   {
    "town": "Zabno",
@@ -20377,21 +20234,6 @@
    "year_max": 1894
   },
   {
-   "town": "Zurawica near Jaroslaw",
-   "events": 1,
-   "surnames": [
-    [
-     "Frommer",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Groom birthplace": 1
-   },
-   "year_min": 1907,
-   "year_max": 1907
-  },
-  {
    "town": "Zurawiczki",
    "events": 1,
    "surnames": [
@@ -20402,6 +20244,21 @@
    ],
    "events_by_kind": {
     "GF_Residence": 1
+   },
+   "year_min": 1907,
+   "year_max": 1907
+  },
+  {
+   "town": "Zurawiczki near Jaroslaw",
+   "events": 1,
+   "surnames": [
+    [
+     "Frommer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
    },
    "year_min": 1907,
    "year_max": 1907
@@ -20756,7 +20613,6 @@
    "b-1907-26",
    "b-1907-27",
    "b-1907-29",
-   "b-1907-30",
    "b-1907-31",
    "b-1907-32",
    "b-1907-33",
@@ -20848,7 +20704,6 @@
    "b-1911-1",
    "b-1911-2",
    "b-1911-3",
-   "b-1911-4",
    "b-1911-5",
    "b-1911-6",
    "b-1911-9",
@@ -20930,7 +20785,6 @@
    "b-1916-19",
    "b-1916-20",
    "b-1917-1",
-   "b-1917-2",
    "b-1917-6",
    "b-1917-7",
    "b-1917-8",
@@ -21084,7 +20938,6 @@
    "b-1898-9",
    "b-1898-22",
    "b-1899-1",
-   "b-1899-11",
    "b-1901-31",
    "b-1902-6",
    "b-1904-18",
@@ -21104,6 +20957,7 @@
    "b-1914-6",
    "b-1914-18",
    "b-1915-1",
+   "b-1915-2",
    "b-1915-3",
    "b-1916-12",
    "b-1917-10",
@@ -21267,7 +21121,6 @@
    "b-1900-25",
    "b-1900-26",
    "b-1900-27",
-   "b-1900-28",
    "b-1901-9",
    "b-1901-26",
    "b-1902-10",
@@ -21284,16 +21137,12 @@
    "b-1907-34",
    "b-1908-1",
    "b-1908-20",
-   "b-1909-5",
    "b-1910-5",
    "b-1910-9",
    "b-1910-10",
    "b-1911-2",
    "b-1911-4",
    "b-1911-13",
-   "b-1911-18",
-   "b-1911-19",
-   "b-1911-20",
    "b-1912-12",
    "b-1913-12",
    "d-1896-13",
@@ -21327,6 +21176,7 @@
    "b-1898-13",
    "b-1900-15",
    "b-1902-5",
+   "b-1909-5",
    "b-1894-28",
    "b-1895-28",
    "b-1898-8",
@@ -21335,7 +21185,6 @@
    "b-1905-23",
    "b-1906-21",
    "b-1908-1",
-   "b-1909-5",
    "b-1910-5",
    "b-1912-12",
    "m-1902-2",
@@ -21393,7 +21242,6 @@
    "b-1896-35",
    "b-1897-9",
    "b-1898-16",
-   "b-1899-17",
    "b-1899-35",
    "b-1901-23",
    "b-1901-26",
@@ -21447,6 +21295,7 @@
    "b-1897-26",
    "b-1899-8",
    "b-1904-4",
+   "b-1905-3",
    "b-1907-33",
    "b-1908-18",
    "b-1909-10",
@@ -21456,7 +21305,6 @@
    "b-1912-19",
    "b-1913-2",
    "b-1913-3",
-   "b-1913-17",
    "b-1915-7",
    "b-1915-10",
    "b-1916-16",
@@ -21528,6 +21376,7 @@
    "m-1898-5",
    "b-1896-19",
    "m-1919-6",
+   "m-1920-2",
    "m-1924-5",
    "m-1932-8"
   ],
@@ -21648,7 +21497,8 @@
    "b-1895-28",
    "b-1899-3",
    "d-1894-12",
-   "m-1898-5"
+   "m-1898-5",
+   "m-1921-3"
   ],
   "Klecie": [
    "b-1894-33",
@@ -21782,7 +21632,6 @@
    "d-1910-7",
    "d-1915-6",
    "b-1904-12",
-   "b-1906-12",
    "b-1911-24",
    "m-1900-20",
    "m-1901-5",
@@ -21848,7 +21697,6 @@
    "b-1896-13",
    "b-1898-8",
    "b-1898-18",
-   "b-1899-3",
    "b-1899-26",
    "b-1899-33",
    "b-1900-9",
@@ -21873,7 +21721,6 @@
    "m-1900-22",
    "m-1901-12",
    "m-1910-11",
-   "m-1921-3",
    "m-1927-4",
    "m-1929-5"
   ],
@@ -21941,14 +21788,8 @@
    "m-1921-3",
    "m-1927-4"
   ],
-  "Jaworze": [
-   "m-1897-4",
-   "b-1896-36",
-   "b-1898-21",
-   "b-1901-6",
-   "m-1903-3",
-   "m-1906-4",
-   "m-1906-7"
+  "Jaworow": [
+   "m-1897-4"
   ],
   "Dabrowa Tarnowska": [
    "m-1897-5",
@@ -21960,7 +21801,7 @@
    "m-1913-7",
    "m-1937-6"
   ],
-  "Zurawica near Jaroslaw": [
+  "Zurawiczki near Jaroslaw": [
    "m-1907-3"
   ],
   "Oswiecim": [
@@ -21984,7 +21825,6 @@
    "b-1899-27",
    "b-1901-11",
    "b-1904-23",
-   "b-1905-27",
    "b-1906-1",
    "b-1906-28",
    "b-1907-12",
@@ -21994,7 +21834,6 @@
    "b-1910-4",
    "b-1911-16",
    "b-1912-26",
-   "b-1912-29",
    "b-1913-20",
    "b-1914-1",
    "m-1897-3",
@@ -22025,14 +21864,10 @@
    "b-1898-25",
    "b-1898-28",
    "b-1899-34",
-   "b-1899-38",
    "m-1906-11",
    "m-1910-11",
    "m-1912-2",
    "m-1919-8"
-  ],
-  "Thum Germany": [
-   "b-1894-13"
   ],
   "Zywiec": [
    "b-1894-14",
@@ -22096,7 +21931,6 @@
   "Rzochow": [
    "b-1894-34",
    "b-1897-1",
-   "b-1898-32",
    "m-1904-5",
    "m-1906-10"
   ],
@@ -22127,7 +21961,6 @@
    "b-1896-6",
    "b-1896-27",
    "b-1897-8",
-   "b-1898-14",
    "b-1898-40",
    "b-1900-17",
    "b-1901-16",
@@ -22160,6 +21993,7 @@
   ],
   "Tyczyn": [
    "b-1895-23",
+   "b-1899-41",
    "b-1902-9",
    "b-1904-27",
    "m-1919-7",
@@ -22228,8 +22062,7 @@
    "m-1926-1"
   ],
   "Brzeznica": [
-   "b-1896-4",
-   "m-1921-3"
+   "b-1896-4"
   ],
   "Samokleski": [
    "b-1896-8"
@@ -22241,6 +22074,14 @@
   ],
   "Zabuze": [
    "b-1896-32"
+  ],
+  "Jaworze": [
+   "b-1896-36",
+   "b-1898-21",
+   "b-1901-6",
+   "m-1903-3",
+   "m-1906-4",
+   "m-1906-7"
   ],
   "Rymanow": [
    "b-1896-40",
@@ -22268,6 +22109,7 @@
   ],
   "Przemysl": [
    "b-1897-20",
+   "b-1898-14",
    "b-1900-4",
    "b-1902-12",
    "b-1904-14",
@@ -22285,8 +22127,7 @@
    "m-1934-3"
   ],
   "Swilcza": [
-   "b-1898-4",
-   "b-1899-41"
+   "b-1898-4"
   ],
   "Zaczarnie": [
    "b-1898-5"
@@ -22300,7 +22141,7 @@
   "Debowa": [
    "b-1898-19",
    "b-1901-4",
-   "b-1909-32"
+   "b-1905-27"
   ],
   "Podgrodzie": [
    "b-1898-27",
@@ -22312,6 +22153,9 @@
    "m-1900-9",
    "m-1901-18"
   ],
+  "Krajowice": [
+   "b-1898-32"
+  ],
   "Rozanka": [
    "b-1898-35"
   ],
@@ -22321,10 +22165,13 @@
    "m-1907-4",
    "m-1926-5"
   ],
+  "Brzesko": [
+   "b-1899-6",
+   "b-1900-21"
+  ],
   "Jaslo": [
    "b-1899-9",
    "b-1904-11",
-   "b-1911-3",
    "m-1896-4",
    "m-1907-1",
    "m-1920-1",
@@ -22338,6 +22185,17 @@
   "Zator": [
    "b-1899-10",
    "b-1901-28"
+  ],
+  "Uniszowa": [
+   "b-1899-17",
+   "b-1899-38",
+   "b-1905-13",
+   "b-1906-3",
+   "b-1907-10",
+   "b-1907-25",
+   "b-1912-6",
+   "b-1914-22",
+   "m-1912-2"
   ],
   "Bardejov (Hungary)": [
    "b-1899-19",
@@ -22365,9 +22223,6 @@
    "b-1914-13",
    "b-1917-10",
    "m-1904-5"
-  ],
-  "Brzesko": [
-   "b-1900-21"
   ],
   "Brzyscie near Mielec": [
    "b-1900-24",
@@ -22401,13 +22256,11 @@
   "Joniny": [
    "b-1902-16",
    "b-1902-17",
-   "b-1902-22",
-   "b-1905-13"
+   "b-1902-22"
   ],
   "Zabawa": [
    "b-1904-7",
-   "b-1905-26",
-   "b-1907-30"
+   "b-1905-26"
   ],
   "Leki Dolne": [
    "b-1904-20",
@@ -22422,6 +22275,7 @@
    "b-1904-24",
    "b-1906-23",
    "b-1909-19",
+   "b-1911-3",
    "m-1900-17"
   ],
   "Lubienko": [
@@ -22457,17 +22311,12 @@
    "m-1901-15",
    "m-1909-1"
   ],
-  "Uniszowa": [
-   "b-1906-3",
-   "b-1907-10",
-   "b-1907-25",
-   "b-1912-6",
-   "b-1914-22",
-   "m-1912-2"
-  ],
   "Kolbuszowa": [
    "b-1906-8",
    "m-1898-1"
+  ],
+  "Siedleszczany": [
+   "b-1906-12"
   ],
   "Koln Germany": [
    "b-1906-17",
@@ -22485,6 +22334,11 @@
   ],
   "Czarna": [
    "b-1907-28"
+  ],
+  "Labowa": [
+   "b-1907-30",
+   "b-1909-25",
+   "m-1906-2"
   ],
   "Sucha Beskidzka": [
    "b-1907-37",
@@ -22506,17 +22360,14 @@
   "Halberstadt Germany": [
    "b-1908-11"
   ],
-  "Krolowka": [
+  "Kozlowka": [
    "b-1908-18",
-   "b-1910-25",
-   "b-1915-10",
-   "m-1903-6"
+   "b-1910-25"
   ],
   "Lopuchowa": [
    "b-1909-8",
    "b-1911-12",
-   "b-1913-7",
-   "b-1916-16"
+   "b-1913-7"
   ],
   "Rozwadow": [
    "b-1909-15",
@@ -22524,9 +22375,6 @@
    "m-1929-1",
    "m-1934-2",
    "m-1935-5"
-  ],
-  "Zabawa near Nowy Sacz": [
-   "b-1909-25"
   ],
   "Ropczyce": [
    "b-1909-31",
@@ -22538,8 +22386,12 @@
    "m-1909-2",
    "m-1910-3",
    "m-1910-10",
-   "m-1913-5",
    "m-1922-5"
+  ],
+  "Debowiec": [
+   "b-1909-32",
+   "b-1911-1",
+   "b-1912-29"
   ],
   "Chlebna": [
    "b-1910-2",
@@ -22552,9 +22404,6 @@
   "Sanok": [
    "b-1910-18",
    "b-1911-19"
-  ],
-  "Debowiec": [
-   "b-1911-1"
   ],
   "Tuchow": [
    "b-1911-14"
@@ -22582,7 +22431,8 @@
    "b-1912-30"
   ],
   "Nockowa": [
-   "b-1912-32"
+   "b-1912-32",
+   "b-1916-16"
   ],
   "Radziechow": [
    "b-1913-4",
@@ -22597,6 +22447,13 @@
    "b-1913-8",
    "b-1915-9"
   ],
+  "Gogolow": [
+   "b-1913-17",
+   "m-1900-19",
+   "m-1901-3",
+   "m-1906-2",
+   "m-1916-1"
+  ],
   "America": [
    "b-1913-18"
   ],
@@ -22606,8 +22463,17 @@
   "Hagen": [
    "b-1914-14"
   ],
-  "Skrzyszow": [
-   "b-1915-3"
+  "Sedziszow Malopolski": [
+   "b-1915-3",
+   "b-1917-9",
+   "m-1900-11",
+   "m-1900-13",
+   "m-1902-3",
+   "m-1907-1"
+  ],
+  "Krolowka": [
+   "b-1915-10",
+   "m-1903-6"
   ],
   "Dwernik": [
    "b-1916-3",
@@ -22622,13 +22488,6 @@
    "m-1927-3",
    "m-1933-4",
    "m-1936-4"
-  ],
-  "Sedziszow Malopolski": [
-   "b-1917-9",
-   "m-1900-11",
-   "m-1900-13",
-   "m-1902-3",
-   "m-1907-1"
   ],
   "Zolynia": [
    "m-1894-2"
@@ -22645,13 +22504,13 @@
   "Rzedzin near Tarnow": [
    "m-1896-4"
   ],
-  "Rudka near Wieckowice": [
+  "Rudawa near Wieckowice": [
    "m-1897-1"
   ],
   "Wielka Wies": [
    "m-1897-1"
   ],
-  "Rudka": [
+  "Rudawa": [
    "m-1897-1"
   ],
   "Trzebinia": [
@@ -22686,18 +22545,8 @@
    "m-1933-3",
    "m-1937-8"
   ],
-  "Siedliszowice": [
-   "m-1900-13",
-   "m-1911-2"
-  ],
   "Brzyscie": [
    "m-1900-14"
-  ],
-  "Gogolow": [
-   "m-1900-19",
-   "m-1901-3",
-   "m-1906-2",
-   "m-1916-1"
   ],
   "Cieklin": [
    "m-1900-21"
@@ -22749,6 +22598,9 @@
   "Wierzbica": [
    "m-1904-3"
   ],
+  "Vienna (staying there at present)": [
+   "m-1904-3"
+  ],
   "Gora Ropczycka near Ropczyce": [
    "m-1905-2"
   ],
@@ -22758,9 +22610,6 @@
   ],
   "Gorajowice": [
    "m-1905-5"
-  ],
-  "Labowa": [
-   "m-1906-2"
   ],
   "Lubatowka": [
    "m-1906-12"
@@ -22785,8 +22634,7 @@
    "m-1910-2"
   ],
   "Nagawczyna near Debica": [
-   "m-1910-4",
-   "m-1935-1"
+   "m-1910-4"
   ],
   "Lezajsk": [
    "m-1910-6",
@@ -22801,6 +22649,9 @@
   ],
   "Gumniska": [
    "m-1910-11"
+  ],
+  "Siedliszowice": [
+   "m-1911-2"
   ],
   "Laskowka Choraska": [
    "m-1911-3"
@@ -22817,18 +22668,19 @@
   "Ludwin": [
    "m-1913-1"
   ],
-  "Jodegrodaic": [
+  "Pietrzejowa": [
+   "m-1913-5"
+  ],
+  "Podegrodzie": [
    "m-1916-3"
   ],
-  "Belzec": [
+  "Belz": [
    "m-1916-5"
   ],
   "Baczal Dolny": [
-   "m-1916-6",
-   "m-1920-2",
-   "m-1921-1"
+   "m-1916-6"
   ],
-  "Sokolowka": [
+  "Sokolow": [
    "m-1917-1"
   ],
   "Kije": [
@@ -22850,6 +22702,9 @@
   ],
   "Lazy Debowieckie": [
    "m-1920-2"
+  ],
+  "Bagienica": [
+   "m-1921-1"
   ],
   "Zawadka Strzyzski": [
    "m-1921-2"
@@ -22875,7 +22730,7 @@
   "Rudki": [
    "m-1924-4"
   ],
-  "Baranivtsi": [
+  "Barańczyce near Sambor": [
    "m-1924-4"
   ],
   "Grybow": [
@@ -22893,7 +22748,7 @@
   "Stepina": [
    "m-1926-2"
   ],
-  "Siedliska-Bogusz": [
+  "Siedlce near Nowy Sacz": [
    "m-1926-5"
   ],
   "Wandsbek": [
@@ -22949,15 +22804,15 @@
   "Przeworsk": [
    "m-1932-7"
   ],
-  "Husow": [
-   "m-1934-6"
-  ],
   "Maly near Ropczyce": [
    "m-1934-7",
    "m-1937-1"
   ],
   "Osiek Jasielski": [
    "m-1934-8"
+  ],
+  "Nagoszyn near Debica": [
+   "m-1935-1"
   ],
   "Ulaszowice near Jaslo": [
    "m-1935-5"
@@ -22977,7 +22832,7 @@
   "Pysznica": [
    "m-1938-3"
   ],
-  "Padew Narodowa": [
+  "Pawlow near Dabrowa Tarnowska": [
    "m-1938-5"
   ],
   "Slopnice": [
@@ -22988,10 +22843,10 @@
   ]
  },
  "totals": {
-  "events": 1504,
-  "town_only_events": 2269,
-  "buildings": 246,
-  "surnames_with_buildings": 203,
+  "events": 1502,
+  "town_only_events": 2270,
+  "buildings": 242,
+  "surnames_with_buildings": 202,
   "towns": 28
  }
 }

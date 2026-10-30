@@ -75,14 +75,14 @@
           recordsData = data.records || [];
 
           peopleIdx = new MiniSearch({
-            fields: ["display", "legal_given", "common_given",
+            fields: ["display", "other_names", "legal_given", "common_given",
                      "legal_surname", "common_surname", "maiden_surname",
                      "father_name", "mother_name", "spouse_names",
                      "residences", "phonetic"],
-            storeFields: ["id", "display", "birth_date", "death_date",
+            storeFields: ["id", "display", "subtitle", "other_names",
                           "residences"],
             searchOptions: {
-              boost: { legal_surname: 3, common_surname: 3,
+              boost: { other_names: 3, legal_surname: 3, common_surname: 3,
                        maiden_surname: 3,
                        legal_given: 2, common_given: 2,
                        phonetic: 1 },
@@ -162,12 +162,23 @@
       var pl = document.getElementById("people-list");
       pl.innerHTML = ppl.map(function (r) {
         var meta = [];
-        if (r.birth_date) meta.push("b. " + escapeHtml(r.birth_date));
-        if (r.death_date) meta.push("d. " + escapeHtml(r.death_date));
-        if (r.residences) meta.push(escapeHtml(r.residences));
+        if (r.subtitle) meta.push(escapeHtml(r.subtitle));
+        // Say which register name matched, when it is not the heading name.
+        var shown = (r.display || "").toLowerCase();
+        var terms = Object.keys(r.match || {});
+        var forms = (r.other_names || "").split("; ");
+        for (var i = 0; i < forms.length; i++) {
+          var f = forms[i], fl = f.toLowerCase();
+          if (!f || shown.indexOf(fl) >= 0) continue;
+          if (terms.some(function (t) { return fl.indexOf(t.toLowerCase()) >= 0 &&
+                                               shown.indexOf(t.toLowerCase()) < 0; })) {
+            meta.push("recorded as " + escapeHtml(f));
+            break;
+          }
+        }
         return "<li><a href='" + basePrefix() + "person/" + r.id +
           ".html'><strong>" + escapeHtml(r.display) +
-          "</strong> <code>" + r.id + "</code>" +
+          "</strong>" +
           "<div class='meta'>" + meta.join(" · ") + "</div></a></li>";
       }).join("") || "<li class='meta'>No people matched.</li>";
 

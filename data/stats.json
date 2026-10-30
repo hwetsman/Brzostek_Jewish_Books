@@ -119,7 +119,7 @@
  "top_given_names_male": [
   [
    "Moses",
-   65
+   63
   ],
   [
    "Hersch",
@@ -131,7 +131,7 @@
   ],
   [
    "Leib",
-   49
+   48
   ],
   [
    "Abraham",
@@ -139,11 +139,11 @@
   ],
   [
    "Jacob",
-   45
+   44
   ],
   [
    "David",
-   44
+   43
   ],
   [
    "Isaac",
@@ -151,7 +151,7 @@
   ],
   [
    "Mendel",
-   42
+   41
   ],
   [
    "Samuel",
@@ -161,11 +161,11 @@
  "top_given_names_female": [
   [
    "Rivka",
-   71
+   72
   ],
   [
    "Hannah",
-   68
+   63
   ],
   [
    "Sarah",
@@ -176,28 +176,28 @@
    47
   ],
   [
-   "Shayndel",
-   41
-  ],
-  [
-   "Feige",
-   41
-  ],
-  [
    "Leah",
    41
+  ],
+  [
+   "Shayndel",
+   40
   ],
   [
    "Gittla",
    39
   ],
   [
-   "Esther",
+   "Feige",
    39
   ],
   [
    "Rachel",
    39
+  ],
+  [
+   "Esther",
+   38
   ]
  ],
  "top_causes_of_death": [
@@ -486,7 +486,7 @@
   "distinct_causes": 112
  },
  "totals": {
-  "persons": 2454,
+  "persons": 2440,
   "births": 723,
   "deaths": 445,
   "marriages": 279,

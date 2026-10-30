@@ -7,10 +7,10 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>About — Brzostek Records</title>
-<link rel="stylesheet" href="assets/site.css?v=50a5424ce5">
-<script defer src="assets/config.js?v=50a5424ce5"></script>
+<link rel="stylesheet" href="assets/site.css?v=e83155bee6">
+<script defer src="assets/config.js?v=e83155bee6"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
-<script defer src="assets/site.js?v=50a5424ce5"></script>
+<script defer src="assets/site.js?v=e83155bee6"></script>
 </head>
 <body data-depth="0" data-base="">
 <header class="site-header">
@@ -48,8 +48,8 @@
 <h1>About this project</h1>
 
 <p>This site publishes the Jewish metrical books of Brzostek (Brzostek
-Jewish community, Galicia), covering births, deaths, and marriages from
-1894 through 1938. Page-scans of the original books were transcribed and
+Jewish community, Galicia), covering births (1876 and 1894&ndash;1917), marriages (1894&ndash;1938)
+and deaths (1894&ndash;1938). Page-scans of the original books were transcribed and
 matched against a single reconciled person index. The site is a static
 build &mdash; every page is just HTML, JSON, and JPGs that anyone can
 host on a free service such as GitHub Pages, Netlify, or Cloudflare
@@ -108,33 +108,68 @@ Pages.</p>
 
 <h2>Sources</h2>
 <ul>
-  <li>Brzostek birth book, 1894&ndash;1938. 723 records, 216 page-scans.</li>
+  <li>Brzostek birth book, 1876 and 1894&ndash;1917. 723 records, 216 page-scans.</li>
   <li>Brzostek death book, 1894&ndash;1938. 445 records, 161 page-scans.</li>
   <li>Brzostek marriage book, 1894&ndash;1938. 279 records, 150 page-scans.</li>
 </ul>
 
-<h2>Methodology</h2>
-<p>Every record was transcribed from the original page-scan into a
-spreadsheet (one workbook per book). Names were normalized for an
-English-speaking audience. Names fall into a two-tier system &mdash;
-"legal" (the form that would have been seen as legal in Vienna) and
-"common" (the form the family used on an everyday basis at home). A
-single Person Index reconciles duplicates across books: each unique
-person is assigned a Person_ID (<code>P0001</code>, <code>P0002</code>,
-&hellip;), and every record's role columns reference those IDs. Where
-two record entries clearly refer to the same person, the duplicate row
-is RETIRED (kept as a tombstone only) and merged into the canonical
-row. Only CONFIRMED rows are published here.</p>
+<h2>How this site is organised</h2>
+<p><strong>Record pages show what the clerk wrote.</strong> Each record page
+gives the English translation of one register entry, with the names spelled
+as the clerk wrote them, beside the photograph of the page. Nothing from other
+records is added to the translation.</p>
+<p><strong>Person pages show who we think each person is.</strong> Most people
+appear in several entries, often under different spellings or surnames. A
+person page gathers every entry we believe belongs to the same person, lists
+each name the registers use for them with the record it comes from
+("Names in the registers"), and quotes the translation of their own entry in
+each record. Beside every record, the panel "Who we think these people are"
+links to those pages, and notes when a record writes the name differently.
+These identifications are our judgement from all the records together; if you
+think we have joined two different people, or split one person in two,
+please send a correction.</p>
+
+<h2 id="names">How names work in these books</h2>
+<p><strong>Marriage by Jewish rite.</strong> Under Austrian law a Jewish
+marriage counted only if it was also registered civilly. Many couples were
+married by Jewish rite alone, sometimes for decades. The state treated their
+children as illegitimate and registered them under the <em>mother's</em>
+surname, while the family used the father's. So a register may enter a child
+of a long, stable marriage as "illegitimate" (<em>nieślubne</em>); it says
+nothing about the family's standing. When the father acknowledged the child,
+the remarks say "the undersigned acknowledges paternity" and he signs. A later
+civil marriage of the parents made such children legitimate; some entries
+carry a note saying so.</p>
+<p><strong>Two surnames.</strong> The clerks marked the difference between a
+person's legal surname and the one they used: <em>recte</em> X means
+"legally X"; <em>false</em> X, <em>zwany/zwana</em> X or "called X" means
+"known as X". "Called Mayer" after two given names (Moses Mayer, called Mayer)
+means he went by his second name. We show these exactly as the clerk wrote
+them, on the record page and in the person's "Names in the registers".</p>
+<p><strong>Married women.</strong> The clerks usually named a wife or mother
+as "daughter of …" or "née …" with her birth surname, not her husband's.
+On a person page, a woman whose civil marriage, or long-standing marriage by
+Jewish rite, appears in these books is shown under the surname she used as a
+married woman, followed by "née" and her birth surname. A woman with a child
+out of wedlock and no sign of a lasting union is shown under her own surname;
+her page states only what the registers say (for example, who acknowledged
+paternity).</p>
+<p><strong>Spelling.</strong> The clerks wrote names by ear, in Polish or
+German spelling, and the conventions changed over time: after the First World
+War Polish clerks wrote with a Z the sound German spelling writes with an S
+(Silberbart in 1900, Zilberbart in 1928). Different spellings of one name are not different
+names. Given names also vary between the Hebrew or Yiddish form and its Polish
+or German equivalent.</p>
+<p><strong>Ages and status.</strong> Ages of older people are often
+overstated by ten years or more. "Single" in a civil marriage entry is the
+person's legal status, not their life: many brides and grooms had been
+married by Jewish rite for years and already had children.</p>
 
 <h2>Inline name links</h2>
-<p>Inside each record's transcription, names are rendered as clickable
-links to the corresponding person page. The link engine is conservative:
-it only considers people the structured columns of <em>that</em> record
-already identify, never strangers from elsewhere in the corpus. When a
-name in the prose cannot be confidently linked, the small "People in
-this record" panel beside the transcription still names the person and
-links to their page; entries that the inline pass missed are tagged
-"linked here only".</p>
+<p>Inside each record's translation, names are links to the person pages.
+The link engine only considers the people that record itself identifies,
+never strangers from elsewhere. Where a name in the translation could not be
+linked, the panel beside it still names and links the person.</p>
 
 <h2 id="glossary">Glossary</h2>
 <p>Some English words in the translations carry the meaning they had when
