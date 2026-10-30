@@ -41,7 +41,7 @@
   "1905": 19,
   "1906": 10,
   "1907": 12,
-  "1908": 14,
+  "1908": 15,
   "1909": 8,
   "1910": 10,
   "1911": 11,
@@ -119,27 +119,27 @@
  "top_given_names_male": [
   [
    "Moses",
-   63
+   61
   ],
   [
    "Hersch",
-   58
+   56
   ],
   [
    "Joseph",
-   56
+   53
   ],
   [
    "Leib",
    48
   ],
   [
-   "Abraham",
-   45
-  ],
-  [
    "Jacob",
    44
+  ],
+  [
+   "Abraham",
+   43
   ],
   [
    "David",
@@ -150,38 +150,34 @@
    42
   ],
   [
-   "Mendel",
-   41
+   "Samuel",
+   40
   ],
   [
-   "Samuel",
+   "Mendel",
    40
   ]
  ],
  "top_given_names_female": [
   [
    "Rivka",
-   72
+   71
   ],
   [
    "Hannah",
-   63
+   60
   ],
   [
    "Sarah",
-   57
+   55
   ],
   [
    "Chaya",
-   47
+   46
   ],
   [
    "Leah",
    41
-  ],
-  [
-   "Shayndel",
-   40
   ],
   [
    "Gittla",
@@ -198,6 +194,10 @@
   [
    "Esther",
    38
+  ],
+  [
+   "Shayndel",
+   37
   ]
  ],
  "top_causes_of_death": [
@@ -307,7 +307,7 @@
   ],
   [
    "Apr",
-   40
+   41
   ],
   [
    "May",
@@ -486,10 +486,10 @@
   "distinct_causes": 112
  },
  "totals": {
-  "persons": 2440,
+  "persons": 2382,
   "births": 723,
-  "deaths": 445,
+  "deaths": 446,
   "marriages": 279,
-  "records": 1447
+  "records": 1448
  }
 }

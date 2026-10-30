@@ -279,6 +279,33 @@
    "notes": "Was misread 'Bazanowka' on m-1929-1"
   },
   {
+   "town": "Barańczyce near Sambor",
+   "lat": 49.621059,
+   "lon": 23.170494,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1924,
+   "year_max": 1924,
+   "top_surnames": [
+    [
+     "Bierman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Bride birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Polish Barańczyce near Sambor, taken as Baranivtsi (the curator's May point for this entry); probable"
+  },
+  {
    "town": "Bardejov (Hungary)",
    "lat": 49.291988,
    "lon": 21.275561,
@@ -309,6 +336,34 @@
    "top_buildings": [],
    "town_only_events": 5,
    "notes": "Slovak town (Bardejov), historically Hungarian"
+  },
+  {
+   "town": "Belz",
+   "lat": 50.3833,
+   "lon": 24.0167,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1916,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Shuster",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Bełz = Belz, Lviv oblast, Ukraine (approx. town centre); not Bełżec"
   },
   {
    "town": "Biecz",
@@ -2265,6 +2320,58 @@
    "notes": "Coords refined 2026-05-02 by the curator."
   },
   {
+   "town": "Globikowka",
+   "lat": 49.95,
+   "lon": 21.45,
+   "events": 4,
+   "buildings": 2,
+   "year_min": 1897,
+   "year_max": 1903,
+   "top_surnames": [
+    [
+     "Meer",
+     4
+    ]
+   ],
+   "events_by_kind": {
+    "Death": 4
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 4,
+    "marriage_spouse": 0,
+    "remote_relative": 0
+   },
+   "top_buildings": [
+    {
+     "number": "10",
+     "events": 3,
+     "surnames": [
+      [
+       "Meer",
+       3
+      ]
+     ],
+     "year_min": 1902,
+     "year_max": 1903
+    },
+    {
+     "number": "5",
+     "events": 1,
+     "surnames": [
+      [
+       "Meer",
+       1
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1897
+    }
+   ],
+   "town_only_events": 0,
+   "notes": "Głobikówka, gmina Brzostek (Wikipedia 49°57′N 21°27′E); adjacent to Głobikowa (gmina Dębica). Added 2026-10-27."
+  },
+  {
    "town": "Glogow Malopolski",
    "lat": 50.1512,
    "lon": 21.9629,
@@ -3429,7 +3536,7 @@
      1
     ],
     [
-     "Rufs",
+     "Russ",
      1
     ],
     [
@@ -3493,6 +3600,48 @@
    "top_buildings": [],
    "town_only_events": 3,
    "notes": ""
+  },
+  {
+   "town": "Jaworow",
+   "lat": 49.9386,
+   "lon": 23.3842,
+   "events": 3,
+   "buildings": 1,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Druck",
+     3
+    ]
+   ],
+   "events_by_kind": {
+    "Groom": 1,
+    "Groom birthplace": 1,
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 1
+   },
+   "top_buildings": [
+    {
+     "number": "376",
+     "events": 1,
+     "surnames": [
+      [
+       "Druck",
+       1
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1897
+    }
+   ],
+   "town_only_events": 2,
+   "notes": "Jaworów = Yavoriv, Lviv oblast, Ukraine (approx. town centre)"
   },
   {
    "town": "Jaworze",
@@ -4302,6 +4451,60 @@
    "top_buildings": [],
    "town_only_events": 1,
    "notes": ""
+  },
+  {
+   "town": "Kozlowka",
+   "lat": 49.854205,
+   "lon": 21.680206,
+   "events": 2,
+   "buildings": 0,
+   "year_min": 1908,
+   "year_max": 1910,
+   "top_surnames": [
+    [
+     "Rothman",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 2
+   },
+   "top_buildings": [],
+   "town_only_events": 2,
+   "notes": "Kozłówka ad Frysztak = Kozlowek per the curator's May ruling"
+  },
+  {
+   "town": "Krajowice",
+   "lat": 49.77889,
+   "lon": 21.44028,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1898,
+   "year_max": 1898,
+   "top_surnames": [
+    [
+     "Schonwetter",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Krajowice, gmina Kołaczyce, Jasło county (Wikipedia)"
   },
   {
    "town": "Krakow",
@@ -5115,6 +5318,33 @@
    "notes": "Covers both m-1910-4 and m-1935-1"
   },
   {
+   "town": "Nagoszyn near Debica",
+   "lat": 50.14,
+   "lon": 21.40361,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1935,
+   "year_max": 1935,
+   "top_surnames": [
+    [
+     "Goldman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Nagoszyn, gmina Żyraków, Dębica county (Wikipedia)"
+  },
+  {
    "town": "Nawsie Brzosteckie",
    "lat": 49.883633,
    "lon": 21.436984,
@@ -5815,6 +6045,33 @@
    "notes": "Polish Pawłosiów; was 'Pawlosiow near Jaroslaw' on m-1925-2"
   },
   {
+   "town": "Pawlow near Dabrowa Tarnowska",
+   "lat": 50.2925,
+   "lon": 20.88694,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1938,
+   "year_max": 1938,
+   "top_surnames": [
+    [
+     "Silber",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Pawłów, gmina Bolesław, Dąbrowa county (Wikipedia); reading Pawłowie[?]"
+  },
+  {
    "town": "Piatkowa",
    "lat": 49.627644,
    "lon": 20.760959,
@@ -5871,6 +6128,33 @@
    "notes": "Village in Sanok County"
   },
   {
+   "town": "Pietrzejowa",
+   "lat": 50.070689,
+   "lon": 21.625158,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1913,
+   "year_max": 1913,
+   "top_surnames": [
+    [
+     "Leiman",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Pietrzejowa, since 1986 part of Ropczyce, north of the centre (iropczyce.pl)"
+  },
+  {
    "town": "Pilzno",
    "lat": 49.97974,
    "lon": 21.294866,
@@ -5912,6 +6196,33 @@
    "top_buildings": [],
    "town_only_events": 13,
    "notes": ""
+  },
+  {
+   "town": "Podegrodzie",
+   "lat": 49.567,
+   "lon": 20.583,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1916,
+   "year_max": 1916,
+   "top_surnames": [
+    [
+     "Kempler",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Podegrodzie, Nowy Sącz county (Wikipedia); page reads \"w Podegrodzie\""
   },
   {
    "town": "Podgrodzie",
@@ -6114,7 +6425,7 @@
      2
     ],
     [
-     "Miltan",
+     "Miltau [or Miltan]",
      1
     ]
    ],
@@ -6369,7 +6680,7 @@
    "year_max": 1914,
    "top_surnames": [
     [
-     "Feil",
+     "Feit",
      1
     ]
    ],
@@ -6615,6 +6926,60 @@
    "top_buildings": [],
    "town_only_events": 2,
    "notes": "Was 'Rudy near Mielec' on m-1907-6"
+  },
+  {
+   "town": "Rudawa",
+   "lat": 50.11694,
+   "lon": 19.7,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Finder",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Rudawa, gmina Zabierzów, beside Więckowice (Wikipedia); m-1897-1 says starostwo Brzesko, which does not fit"
+  },
+  {
+   "town": "Rudawa near Wieckowice",
+   "lat": 50.11694,
+   "lon": 19.7,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1897,
+   "year_max": 1897,
+   "top_surnames": [
+    [
+     "Finder",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "same as Rudawa"
   },
   {
    "town": "Rudki",
@@ -7039,6 +7404,33 @@
    "top_buildings": [],
    "town_only_events": 9,
    "notes": "Covers m-1900-11 (was 'Sedziszow'), m-1902-3 (was 'Sedziszow near Ropczyce'), m-1900-13 (was 'Sedziszowice')"
+  },
+  {
+   "town": "Siedlce near Nowy Sacz",
+   "lat": 49.68806,
+   "lon": 20.76639,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1926,
+   "year_max": 1926,
+   "top_surnames": [
+    [
+     "Gottlieb",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Siedlce, gmina Korzenna, Nowy Sącz county (Wikipedia)"
   },
   {
    "town": "Siedleszczany",
@@ -7488,6 +7880,33 @@
    "top_buildings": [],
    "town_only_events": 1,
    "notes": "Near Jaslo. Added 2026-05-02. Renamed Sobinow→Sobniow 2026-05-03 (the curator correction)."
+  },
+  {
+   "town": "Sokolow",
+   "lat": 50.230013,
+   "lon": 22.119177,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1917,
+   "year_max": 1917,
+   "top_surnames": [
+    [
+     "Mass",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "BF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "taken as Sokołów Małopolski (the Galician Sokołów); probable"
   },
   {
    "town": "Sokolow Malopolski",
@@ -8150,6 +8569,33 @@
    "top_buildings": [],
    "town_only_events": 9,
    "notes": ""
+  },
+  {
+   "town": "Vienna (staying there at present)",
+   "lat": 48.2082,
+   "lon": 16.3738,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1904,
+   "year_max": 1904,
+   "top_surnames": [
+    [
+     "Ratz",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "GF_Residence": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 0,
+    "remote_relative": 1
+   },
+   "top_buildings": [],
+   "town_only_events": 1,
+   "notes": "Vienna, city centre"
   },
   {
    "town": "Vysny Komarnik",
@@ -9060,6 +9506,47 @@
    "notes": "Source records used 'Lurawiezki' — Editorial note: Z↔L misread + locative case. Zurawiczki near Jarosław. | Editorial note: coords refined to (50.010689, 22.491610)."
   },
   {
+   "town": "Zurawiczki near Jaroslaw",
+   "lat": 50.010689,
+   "lon": 22.49161,
+   "events": 2,
+   "buildings": 1,
+   "year_min": 1907,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Frommer",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "Groom": 1,
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 2,
+    "remote_relative": 0
+   },
+   "top_buildings": [
+    {
+     "number": "82",
+     "events": 1,
+     "surnames": [
+      [
+       "Frommer",
+       1
+      ]
+     ],
+     "year_min": 1907,
+     "year_max": 1907
+    }
+   ],
+   "town_only_events": 1,
+   "notes": "same as Zurawiczki"
+  },
+  {
    "town": "Zywiec",
    "lat": 49.6853,
    "lon": 19.1924,
@@ -9089,23 +9576,7 @@
   }
  ],
  "towns_without_pins": [
-  "Bagienica",
-  "Barańczyce near Sambor",
-  "Belz",
-  "Globikowka",
-  "Jaworow",
-  "Kozlowka",
-  "Krajowice",
-  "Nagoszyn near Debica",
-  "Pawlow near Dabrowa Tarnowska",
-  "Pietrzejowa",
-  "Podegrodzie",
-  "Rudawa",
-  "Rudawa near Wieckowice",
-  "Siedlce near Nowy Sacz",
-  "Sokolow",
-  "Vienna (staying there at present)",
-  "Zurawiczki near Jaroslaw"
+  "Bagienica"
  ],
  "towns_without_pins_with_refs": [
   {
@@ -9114,126 +9585,10 @@
     "m-1921-1"
    ],
    "ref_count": 1
-  },
-  {
-   "town": "Barańczyce near Sambor",
-   "refs": [
-    "m-1924-4"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Belz",
-   "refs": [
-    "m-1916-5"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Globikowka",
-   "refs": [
-    "d-1897-8",
-    "d-1902-2",
-    "d-1903-3",
-    "d-1903-5"
-   ],
-   "ref_count": 4
-  },
-  {
-   "town": "Jaworow",
-   "refs": [
-    "m-1897-4"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Kozlowka",
-   "refs": [
-    "b-1908-18",
-    "b-1910-25"
-   ],
-   "ref_count": 2
-  },
-  {
-   "town": "Krajowice",
-   "refs": [
-    "b-1898-32"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Nagoszyn near Debica",
-   "refs": [
-    "m-1935-1"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Pawlow near Dabrowa Tarnowska",
-   "refs": [
-    "m-1938-5"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Pietrzejowa",
-   "refs": [
-    "m-1913-5"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Podegrodzie",
-   "refs": [
-    "m-1916-3"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Rudawa",
-   "refs": [
-    "m-1897-1"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Rudawa near Wieckowice",
-   "refs": [
-    "m-1897-1"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Siedlce near Nowy Sacz",
-   "refs": [
-    "m-1926-5"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Sokolow",
-   "refs": [
-    "m-1917-1"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Vienna (staying there at present)",
-   "refs": [
-    "m-1904-3"
-   ],
-   "ref_count": 1
-  },
-  {
-   "town": "Zurawiczki near Jaroslaw",
-   "refs": [
-    "m-1907-3"
-   ],
-   "ref_count": 1
   }
  ],
  "totals": {
-  "towns_on_map": 223,
+  "towns_on_map": 239,
   "towns_in_corpus": 240
  }
 }
