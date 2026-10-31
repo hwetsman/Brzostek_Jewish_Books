@@ -6078,7 +6078,6 @@
    "Mother (prose)": "Shayndel, daughter of the late Wolf Wurzel, former holder of the alcohol monopoly in Głobikówka, and Pessel nee Kranz",
    "Witnesses (prose)": "Jochene Nechemje, cloth merchant in Brzostek, witness. Nechemje Storch, innkeeper in Brzostek, witness.",
    "Mohel/Name Giver": "Chaim Galizer",
-   "Stillborns": "Marriage performed and recorded in Globikowa 9 Jul 1891",
    "Notes": "Marriage performed in Głobikówka 9 Jul 1891; marriage register vol. II, pp. 35-36, no. 1."
   },
   "people": [
@@ -9962,7 +9961,7 @@
    "Sex": "Female",
    "Status": "Legitimate",
    "Birth Date": "18 Aug 1896",
-   "Birth Place": "Brzostek, house 1266",
+   "Birth Place": "Brzostek, house 126b",
    "Naming Date": "22 Aug 1896",
    "Naming Place": "Brzostek, house 149",
    "Father (prose)": "Fishel Schonwetter, owner of real estate and engaged in farming in Brzostek",
@@ -12433,7 +12432,7 @@
    "Mother (prose)": "Hinde, daughter of Isaac and Basia Turk, innkeepers in Zawadka Brzostecka",
    "Witnesses (prose)": "Solomon Karpf, tenant of the estates in Zawadka Brzostecka, witness. Jochene Nechemje, cloth merchant in Brzostek, witness.",
    "Mohel/Name Giver": "Marcus Kleinman",
-   "Notes": "The undersigned acknowledges paternity: Mojżesz Krantz, I have signed [signature]. Jochene Nechemje [signature], witness."
+   "Notes": "The undersigned acknowledges paternity: ⊖ [his mark] Mojżesz Krantz, I have signed [name and words written by the witness]. Jochene Nechemje [signature], witness."
   },
   "people": [
    {
@@ -12510,7 +12509,7 @@
    "Mother (prose)": "<a href=\"../person/P0483.html\" data-pid=\"P0483\">Hinde</a>, daughter of <a href=\"../person/P0484.html\" data-pid=\"P0484\">Isaac</a> and Basia Turk, innkeepers in Zawadka Brzostecka",
    "Witnesses (prose)": "<a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, tenant of the estates in Zawadka Brzostecka, witness. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
-   "Notes": "The undersigned acknowledges paternity: Mojżesz Krantz, I have signed [signature]. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a> [signature], witness."
+   "Notes": "The undersigned acknowledges paternity: ⊖ [his mark] Mojżesz Krantz, I have signed [name and words written by the witness]. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
    "Basia",
@@ -13243,7 +13242,7 @@
    "Witnesses (prose)": "Solomon Karpf, tenant of the estates in Zawadka Brzostecka, witness. Jochene Nechemje, cloth merchant in Brzostek, witness.",
    "Mohel/Name Giver": "Marcus Kleinman",
    "Midwife": "Katarzyna Kuczeńska, midwife in Brzostek",
-   "Notes": "Acknowledges paternity: Markus Fenechel, I have signed [signature]. Jochene Nechemje [signature], witness."
+   "Notes": "Acknowledges paternity: ⊖ [his mark] Markus Fenechel, I have signed [name and words written by the witness]. Jochene Nechemje [signature], witness."
   },
   "people": [
    {
@@ -13321,7 +13320,7 @@
    "Witnesses (prose)": "<a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, tenant of the estates in Zawadka Brzostecka, witness. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Katarzyna Kuczeńska, midwife in Brzostek",
-   "Notes": "Acknowledges paternity: Markus Fenechel, I have signed [signature]. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a> [signature], witness."
+   "Notes": "Acknowledges paternity: ⊖ [his mark] Markus Fenechel, I have signed [name and words written by the witness]. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
    "Markus"
@@ -13643,7 +13642,7 @@
    "Witnesses (prose)": "Solomon Karpf, tenant of the estates in Zawadka Brzostecka, witness. Jochene Nechemje, cloth merchant in Brzostek, witness.",
    "Mohel/Name Giver": "Chaim Galizer",
    "Midwife": "Katarzyna Kuczeńska, midwife in Brzostek",
-   "Notes": "The undersigned acknowledges paternity: Izaak Beer, I have signed. Jochene Nechemje [signature], witness."
+   "Notes": "The undersigned acknowledges paternity: ⊖ [his mark] Izaak Beer, I have signed [name and words written by the witness]. Jochene Nechemje [signature], witness."
   },
   "people": [
    {
@@ -13721,7 +13720,7 @@
    "Witnesses (prose)": "<a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, tenant of the estates in Zawadka Brzostecka, witness. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>",
    "Midwife": "Katarzyna Kuczeńska, midwife in Brzostek",
-   "Notes": "The undersigned acknowledges paternity: Izaak Beer, I have signed. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a> [signature], witness."
+   "Notes": "The undersigned acknowledges paternity: ⊖ [his mark] Izaak Beer, I have signed [name and words written by the witness]. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
    "Izaak"
@@ -24868,10 +24867,10 @@
    },
    {
     "role": "Witness2",
-    "person_id": "P0454",
-    "display": "Osiah Baumgarten",
+    "person_id": "P0071",
+    "display": "Chaim Galizer",
     "role_label": "Witness",
-    "written_as": "Chaim Galizer",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -24888,7 +24887,7 @@
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0532.html\" data-pid=\"P0532\">Shaya Baumgarten</a>, owner of a cloth store in Brzostek",
    "Mother (prose)": "<a href=\"../person/P0533.html\" data-pid=\"P0533\">Yehudit</a>, daughter of <a href=\"../person/P0430.html\" data-pid=\"P0430\">Marcus David Hirsch</a>, called <a href=\"../person/P0430.html\" data-pid=\"P0430\">David</a>, industrialist in Brzostek, and <a href=\"../person/P0431.html\" data-pid=\"P0431\">Hendela nee Sperber</a>",
-   "Witnesses (prose)": "<a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a>, industrialist in Brzostek, witness. <a href=\"../person/P0454.html\" data-pid=\"P0454\">Chaim Galizer</a>",
+   "Witnesses (prose)": "<a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a>, industrialist in Brzostek, witness. <a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Josefa Lizowa midwife in Brzostek",
    "Notes": "Marriage performed in Brzostek 1 Jan 1896"
@@ -31235,7 +31234,7 @@
    "Father (prose)": "Lazar Silberman, owner of a tannery in Brzostek",
    "Mother (prose)": "Rivka, daughter of Reuben Plattner, cloth merchant in Brzostek, and Gela nee Kainer",
    "Witnesses (prose)": "Jochene Nechemje, cloth merchant in Brzostek, witness. Pinkus Korn, cloth merchant in Brzostek witness.",
-   "Mohel/Name Giver": "Marcus Kleinman",
+   "Mohel/Name Giver": "Chaim Galizer",
    "Midwife": "Josefa Lizowa midwife in Brzostek",
    "Notes": "Marriage performed in Brzostek 27 Dec 1892"
   },
@@ -31298,8 +31297,8 @@
    },
    {
     "role": "Mohel/Name Giver",
-    "person_id": "P0008",
-    "display": "Marcus Kleinman",
+    "person_id": "P0071",
+    "display": "Chaim Galizer",
     "role_label": "Mohel / name-giver",
     "written_as": null,
     "linked_inline": true
@@ -31311,7 +31310,7 @@
    "Father (prose)": "<a href=\"../person/P0031.html\" data-pid=\"P0031\">Lazar Silberman</a>, owner of a tannery in Brzostek",
    "Mother (prose)": "<a href=\"../person/P0270.html\" data-pid=\"P0270\">Rivka</a>, daughter of <a href=\"../person/P0180.html\" data-pid=\"P0180\">Reuben Plattner</a>, cloth merchant in Brzostek, and <a href=\"../person/P0181.html\" data-pid=\"P0181\">Gela nee Kainer</a>",
    "Witnesses (prose)": "<a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness. <a href=\"../person/P0038.html\" data-pid=\"P0038\">Pinkus Korn</a>, cloth merchant in Brzostek witness.",
-   "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
+   "Mohel/Name Giver": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>",
    "Midwife": "Josefa Lizowa midwife in Brzostek",
    "Notes": "Marriage performed in Brzostek 27 Dec 1892"
   }
@@ -31396,28 +31395,23 @@
    },
    {
     "role": "Mohel/Name Giver",
-    "person_id": "P0008",
-    "display": "Marcus Kleinman",
+    "person_id": "P0071",
+    "display": "Chaim Galizer",
     "role_label": "Mohel / name-giver",
-    "written_as": "Chaim Galizer",
-    "linked_inline": false
+    "written_as": null,
+    "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0697.html\" data-pid=\"P0697\">Mendel Schuss</a>, industrialist in Brzostek",
    "Mother (prose)": "<a href=\"../person/P0698.html\" data-pid=\"P0698\">Hinde</a>, daughter of <a href=\"../person/P0395.html\" data-pid=\"P0395\">Isaac Rubel</a>, grain dealer in Brzostek, and the late <a href=\"../person/P0490.html\" data-pid=\"P0490\">Sarah nee Freiberger</a>",
    "Witnesses (prose)": "<a href=\"../person/P0038.html\" data-pid=\"P0038\">Pinkus Korn</a>, cloth merchant in Brzostek witness. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz spice stallholder in Brzostek</a>, witness.",
-   "Mohel/Name Giver": "Chaim Galizer",
+   "Mohel/Name Giver": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>",
    "Midwife": "Josefa Lizowa midwife in Brzostek",
    "Notes": "Marriage performed in Brzostek 18 Jun 1902"
-  },
-  "unlinked_prose_tokens": [
-   "Galizer"
-  ]
+  }
  },
  {
   "id": "b-1902-33",
@@ -90410,8 +90404,8 @@
    "Notes": "Remarks: Decree of the Imperial-Royal District Court in Frysztak of 20 Apr 1883, ref. no. 1118, declaring [him] of full age; also the certificate of the Imperial-Royal District Office (Starostwo) in Jasło of 6 May 1884, ref. no. 6880, that the groom has fulfilled his military obligations; for the groom, kept in the register files. For the bride, [it] rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions."
   },
   "unlinked_prose_tokens": [
-   "Jozef",
-   "Jakob"
+   "Jakob",
+   "Jozef"
   ]
  },
  {
@@ -90515,12 +90509,12 @@
    "Notes": "Remarks: Documents for the groom, namely: birth certificate dated Żołynia, 26 Apr 1894, vol. I, fol. 41, no. 561; decree of emancipation of the Imperial-Royal District Court in Łańcut of 8 Jun 1894, ref. no. 4419; certificate of the Imperial-Royal District Office (Starostwo) in Łańcut of 28 May 1894 that there is no impediment to his contracting a legal marriage, as a supplementary reservist[?]; certificate of the banns of 2 Jul 1894. For the bride, this registry&#x27;s own birth book and the decree of the Imperial-Royal Court in Brzostek, ref. no. 1630/891, declaring her of full age; kept in the register files."
   },
   "unlinked_prose_tokens": [
+   "Ozjasz",
+   "Mincia",
    "Liebsch",
    "Markus",
    "Feiga",
-   "Documents",
-   "Ozjasz",
-   "Mincia"
+   "Documents"
   ]
  },
  {
@@ -90624,13 +90618,13 @@
    "Notes": "Remarks: Documents for the groom, namely: birth certificate dated Ropczyce, 30 Apr 1888, ref. no. 18, vol. II, p. 31, no. 792; certificate of the Imperial-Royal District Office (Starostwo) in Ropczyce of 4 Jun 1888, ref. no. 5202, that he complied with the duty to report and was found unfit for military service, so that on these grounds there is no impediment to his marrying. For the bride, [it] rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions, and the banns duly announced. At the foot of the page: Entered and closed by the undersigned on 31 Dec 1894. A. Wróbl [signature]."
   },
   "unlinked_prose_tokens": [
+   "Feiwel",
+   "Dawid",
+   "Pesla",
    "Jozef",
    "Schillaj",
    "Freidla",
-   "Documents",
-   "Feiwel",
-   "Dawid",
-   "Pesla"
+   "Documents"
   ]
  },
  {
@@ -90734,13 +90728,13 @@
    "Notes": "Remarks: Documents of the groom, namely: birth record in this registry&#x27;s own book, vol. I, p. 3, no. 32; decree of emancipation of the Imperial-Royal District Court in Brzostek of 27 Jun 1894, ref. no. 3305; certificate of the Imperial-Royal District Office (Starostwo) in Pilzno of 18 Jun 1894, draft lot no. 184/870, that he complied with the duty to report for military service; and the banns announced. Also for the bride: decree of the Imperial-Royal Urban Delegated District Court in Tarnów of 17 Jul 1892, ref. no. 17703, declaring her of full age; certificate dated Tarnów, 25 Nov 1894, ref. no. 821; kept in the register files."
   },
   "unlinked_prose_tokens": [
+   "Josef",
+   "Chaja",
    "Menasze",
    "Lebeindel",
    "Documents",
    "Urban",
-   "Delegated",
-   "Josef",
-   "Chaja"
+   "Delegated"
   ]
  },
  {
@@ -90829,10 +90823,10 @@
    "Notes": "Remarks: Documents, namely: the groom&#x27;s birth certificate dated Tarnów, 6 Nov 1892, ref. no. 693, vol. II, p. 58, no. 340 of the birth register there; also for the bride, the permission of the Imperial-Royal District Court in Brzostek, as the superior guardianship authority, of 8 Nov 1895, ref. no. 5256, to contract a legal marriage; kept in the register files; and the banns announced three times."
   },
   "unlinked_prose_tokens": [
+   "Eliasz",
    "Chaja",
    "Zanker",
-   "Documents",
-   "Eliasz"
+   "Documents"
   ]
  },
  {
@@ -91035,9 +91029,9 @@
    "Notes": "Remarks: Birth certificate for the groom dated Rzepiennik Strzyżewski, 21 Aug 1888, ref. no. 15; also birth certificate dated Gorlice, 12 Sep 1894, ref. no. 222; kept in the register files."
   },
   "unlinked_prose_tokens": [
-   "Etta",
    "Mojzesz",
-   "Serli"
+   "Serli",
+   "Etta"
   ]
  },
  {
@@ -91141,8 +91135,8 @@
    "Notes": "Remarks: Documents of the groom, namely: birth certificate dated Gorlice, 25 Jan 1892, no. 7; certificate of the Imperial-Royal District Office (Starostwo) in Gorlice of 11 Aug 18[9?]6 that the military obligations have been fulfilled; also certificate of the banns of 11 Aug 1896, no. 187; kept in the register files. For the bride, this registry&#x27;s own book, vol. I, p. 5, no. 48, attests the capacity to contract marriage."
   },
   "unlinked_prose_tokens": [
-   "Documents",
-   "Feigi"
+   "Feigi",
+   "Documents"
   ]
  },
  {
@@ -91246,10 +91240,10 @@
    "Notes": "Remarks: Birth certificate for the groom dated Tarnów, 23 Aug 1882, no. 493, vol. 6, p. 167, no. 42; certificate of the banns dated Jasło, 5 Aug 1896, no. 30; also for the bride, birth certificate dated Jodłowa, 22 Jul 1896, vol. I, p. 27; kept in the register files."
   },
   "unlinked_prose_tokens": [
+   "Mojer",
    "Michal",
    "Hinda",
-   "Kornh",
-   "Mojer"
+   "Kornh"
   ]
  },
  {
@@ -91392,7 +91386,7 @@
    },
    {
     "role": "BF",
-    "person_id": "P1904",
+    "person_id": "P2737",
     "display": "Jacob Klotz",
     "role_label": "Bride's father",
     "written_as": null,
@@ -91443,9 +91437,9 @@
    "Notes": "Remarks: The capacity for the marriage contracted rests on the banns announced three times in the synagogue, and under § 32 of the register instructions."
   },
   "unlinked_prose_tokens": [
-   "Jakob",
    "Brzostekie",
-   "Ruchla"
+   "Ruchla",
+   "Jakob"
   ]
  },
  {
@@ -91646,13 +91640,13 @@
    "Notes": "Remarks: By order of the Honourable Imperial-Royal District Office (Starostwo) in Pilzno of 29 Dec 1896, ref. no. 18393, this marriage record is entered late. Documents of the groom, namely: birth certificate of the registry district of Brzeżany[?], vol. IV, p. 92, no. 10; certificate of the Imperial-Royal District Office (Starostwo) in Drohobycz, 14 Apr 1896, ref. no. 1827[?], that the military draft obligation has been fulfilled; also certificate of the banns; further, for the bride, the record of this registry district, vol. I, p. 10, no. 10[?]. Stamp: [S]TAROSTW[O], with a crowned eagle (partly cut off)."
   },
   "unlinked_prose_tokens": [
+   "Brzezinach",
+   "Jakob",
    "Chaja",
    "Sara",
    "Honourable",
    "Brzeżany",
-   "Drohobycz",
-   "Brzezinach",
-   "Jakob"
+   "Drohobycz"
   ]
  },
  {
@@ -91756,11 +91750,11 @@
    "Notes": "Remarks: The capacity for, and the entry of, this marriage rest on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions, and also on the ruling of the High Imperial-Royal Ministry of 22 Aug 1887, ref. no. 12262."
   },
   "unlinked_prose_tokens": [
+   "Rudawy",
    "Hinda",
    "Majer",
    "Ryfka",
-   "Ministry",
-   "Rudawy"
+   "Ministry"
   ]
  },
  {
@@ -91970,9 +91964,9 @@
   },
   "unlinked_prose_tokens": [
    "Schlanger",
+   "Breindla",
    "Dawid",
-   "Documents",
-   "Breindla"
+   "Documents"
   ]
  },
  {
@@ -92076,9 +92070,9 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate in Jaworów, vol. II, p. 185, without entry number; certificate of the Imperial-Royal District Office (Starostwo) in Jaworów of 23 Aug 1897, draft lot no. 502, that the military draft obligation has been fulfilled; certificate of the banns of the rabbinate there; in the files. For the bride, this registry&#x27;s own book attests, vol. I, p. 6, no. 58, dr.[?] 1872."
   },
   "unlinked_prose_tokens": [
+   "Ryfka",
    "Abe",
-   "Chana",
-   "Ryfka"
+   "Chana"
   ]
  },
  {
@@ -92182,10 +92176,10 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate from the register book in Rzepiennik Strzyżewski, of the year 1866, p. 9, no. 131; the bride&#x27;s birth certificate of the year 1869 in Dąbrowa, vol. II, p. 205, without entry number; kept in the register files; also the banns announced three times in the synagogue here. At the foot of the page: Entered and closed by the undersigned on 31 Dec 1897. Aba Wróbl [signature], Jewish registrar."
   },
   "unlinked_prose_tokens": [
+   "Freidli",
    "Ester",
    "Ruchla",
-   "Wróbl",
-   "Freidli"
+   "Wróbl"
   ]
  },
  {
@@ -92474,11 +92468,11 @@
    "Notes": "Remarks: Docu[ments] … [mostly covered by a pasted paper repair; visible fragments: &#x27;…nego&#x27;, &#x27;z dat…&#x27;, &#x27;No 10…&#x27;, &#x27;poz …&#x27;, &#x27;co d[o] …&#x27;, &#x27;własna metryka&#x27; (this registry&#x27;s own birth book), &#x27;… 1 poz 8[?]&#x27;, &#x27;…ach&#x27;]."
   },
   "unlinked_prose_tokens": [
-   "Nie",
-   "Docu",
    "Groom",
    "Izaak",
-   "Rewitz"
+   "Rewitz",
+   "Nie",
+   "Docu"
   ]
  },
  {
@@ -92582,12 +92576,12 @@
    "Notes": "Remarks: The capacity to contract this marriage rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions, and also on documents of the Imperial-Royal District Office (Starostwo) in Pilzno of 4 Dec 1880, ref. no. 7780, and of 16 May 1888, ref. no. 4517; and likewise the banns announced three times."
   },
   "unlinked_prose_tokens": [
-   "Schlindla",
-   "Schindla",
-   "Ettla",
    "Schulim",
    "Dawid",
-   "Scheindli"
+   "Scheindli",
+   "Schlindla",
+   "Schindla",
+   "Ettla"
   ]
  },
  {
@@ -92683,10 +92677,10 @@
    "Notes": "Remarks: The banns required by law were duly announced in the synagogue in[?] … in Brzo[stek] … [mostly covered by a pasted paper repair; visible fragments: &#x27;zostały[?]&#x27; (were), &#x27;narzecz…&#x27; (bride or groom), &#x27;str. 2 p…&#x27;, &#x27;urodzonych&#x27; (of births)]."
   },
   "unlinked_prose_tokens": [
-   "Freiber",
-   "Brzo",
    "Freidenba",
-   "Ryfki"
+   "Ryfki",
+   "Freiber",
+   "Brzo"
   ]
  },
  {
@@ -92897,10 +92891,10 @@
    "Notes": "Remarks: Certificate of the Imperial-Royal District Office (Starostwo) in Grybów that the military duty has been fulfilled; certificate of the banns; for the groom, kept in the register files. For the bride, this registry&#x27;s own book attests, vol. I, p. 9, no. 87, of the year 18[9?]3."
   },
   "unlinked_prose_tokens": [
+   "Estera",
    "Leiba",
    "Chana",
-   "Korzenik",
-   "Estera"
+   "Korzenik"
   ]
  },
  {
@@ -93004,10 +92998,10 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate dated Dębica, 21 Jun 1899, ref. no. 86, vol. III, p. 106, no. 42; assessment of the military tax dated Ropczyce, 22 May 1898, ref. no. 6642; certificate of the banns, in the files. For the bride, this registry&#x27;s own book attests, vol. I, p. 4, no. 36, year 1871."
   },
   "unlinked_prose_tokens": [
-   "Abe",
-   "Hena",
    "Chaja",
-   "Sara"
+   "Sara",
+   "Abe",
+   "Hena"
   ]
  },
  {
@@ -93111,12 +93105,12 @@
    "Notes": "Remarks: Documents of the groom: birth certificate dated Tarnobrzeg, 1 Apr 1896, no. 6[?] [a second digit, 2 or 7, runs into the column line], vol. II, p. 1, no. 2; certificate of the Imperial-Royal District Office (Starostwo) in Tarnobrzeg of 6 Jun 1899, ref. no. 12611, that the military obligations have been fulfilled. For the bride, this registry&#x27;s own birth book, vol. I, p. 12, no. 132; and the banns announced three times; also on the basis of the declaration of her full age by the Imperial-Royal District Court in Brzostek."
   },
   "unlinked_prose_tokens": [
-   "Izaak",
-   "Sara",
-   "Documents",
    "Sch",
    "Majer",
-   "Dawid"
+   "Dawid",
+   "Izaak",
+   "Sara",
+   "Documents"
   ]
  },
  {
@@ -93220,11 +93214,11 @@
    "Notes": "Remarks: The capacity to contract this marriage rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions, and also on the ruling of the High Imperial-Royal Ministry of 22 Aug 1887, ref. no. 12262; further, on the certificate of the commune authority in Gębiczyna of 20 Nov 1899; and the banns announced three times. At the foot of the page: Closed on 31 Dec 1899 [signature, partly cut off: A. Wróbel?]."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Gębiczyn",
    "Jakob",
    "Ministry",
-   "Closed",
-   "Sch",
-   "Gębiczyn"
+   "Closed"
   ]
  },
  {
@@ -93328,10 +93322,10 @@
    "Notes": "Remarks: Birth certificate for the groom, vol. A, p. 25[?], no. 18, dated Frysztak, 3 Nov 1898, ref. no. 158[?], showing that he has fulfilled his military obligations; also the banns announced three times, and [the registrar&#x27;s] own satisfaction that this marriage may be contracted, under § 32 of the register instructions."
   },
   "unlinked_prose_tokens": [
-   "Feiga",
    "Majer",
    "Elle",
-   "Temy"
+   "Temy",
+   "Feiga"
   ]
  },
  {
@@ -93443,12 +93437,12 @@
    "Notes": "Remarks: Documents for the groom: certificate of the Imperial-Royal District Office (Starostwo) in Pilzno of 3 Oct 1899, draft lot no. 282, that he has fulfilled his military obligations; certificate of the registry office in Radomyśl of 13 Feb 1898; certificate of the banns dated Tarnów, 10 Dec 1899, ref. no. 19; notice of the rabbinate here of 25 Feb 1900; these are kept in the register files. For the bride, this registry&#x27;s own birth book attests, vol. I, p. 7, no. 64."
   },
   "unlinked_prose_tokens": [
-   "Feigi",
-   "Documents",
-   "Radomyśl",
    "Izaak",
    "Radomysl",
-   "Estera"
+   "Estera",
+   "Feigi",
+   "Documents",
+   "Radomyśl"
   ]
  },
  {
@@ -93552,9 +93546,9 @@
    "Notes": "Later note under the second copy (22 Mar 1928), on the basis of the Kraków Voivodeship rescript of 14 Feb 1928: the groom&#x27;s surname is &#x27;Silberbart&#x27;, not Silberbartz recte Silberberg; he is the son of <a href=\"../person/P1961.html\" data-pid=\"P1961\">Wolf</a> Silberbart and Sara née Proper. The same rescript authorised the late registration of his son Mendel&#x27;s 1905 birth (b-1905-33), which names the father Józef Silberbart. The family otherwise used Silberberg. Remarks: Birth certificate dated Bukowsko, 8 Mar 1900, no. 55; certificate of the Imperial-Royal District Office (Starostwo) in Sanok of 19 Jan 1899, ref. no. 1964/99, that he has fulfilled his military obligation; certificate of the banns dated Nowotaniec, 7 Mar 1900; notice of the rabbinate of 8 Apr 1900; for the groom, kept in the register files. For the bride, this registry&#x27;s own birth book attests, vol. II, p. 29, no. 18, of [18]78."
   },
   "unlinked_prose_tokens": [
-   "Hena",
    "Silberbart",
    "Sara",
+   "Hena",
    "Proper",
    "Mendel",
    "Józef",
@@ -93663,10 +93657,10 @@
    "Notes": "Remarks: The capacity for the marriage entered alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate here."
   },
   "unlinked_prose_tokens": [
-   "Laje",
-   "Sara",
    "Sch",
-   "Rubin"
+   "Rubin",
+   "Laje",
+   "Sara"
   ]
  },
  {
@@ -93875,9 +93869,9 @@
    "Notes": "Remarks: Birth certificate for the groom dated Mielec, 2 Jul 1899, ref. no. 156, vol. II, p. 16, no. 36. For the bride, this registry&#x27;s own birth book, vol. II, p. 41, no. 30, of [18]78; the banns announced three times, and the notice of the rabbinate; finally the consent of the legitimate father, with his own signature added: <a href=\"../person/P0250.html\" data-pid=\"P0250\">Leib Tager</a> [signature]."
   },
   "unlinked_prose_tokens": [
-   "Leiba",
    "Sch",
-   "Dawid"
+   "Dawid",
+   "Leiba"
   ]
  },
  {
@@ -94020,7 +94014,7 @@
    },
    {
     "role": "GF",
-    "person_id": "P0797",
+    "person_id": "P2736",
     "display": "Wolf Grunberger",
     "role_label": "Groom's father",
     "written_as": null,
@@ -94080,7 +94074,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Jerichem Grunberger, born in Janowice ad Tarnow, residing in Blaszkowa, tailor, son of <a href=\"../person/P0797.html\" data-pid=\"P0797\">Wolf</a> and Blima Grunberger, butchers in Janowice",
+   "Groom (prose)": "Jerichem Grunberger, born in Janowice ad Tarnow, residing in Blaszkowa, tailor, son of <a href=\"../person/P2736.html\" data-pid=\"P2736\">Wolf</a> and Blima Grunberger, butchers in Janowice",
    "Bride (prose)": "<a href=\"../person/P0568.html\" data-pid=\"P0568\">Maria Fichner</a>, born in Blaszkowa and living here, daughter of <a href=\"../person/P0191.html\" data-pid=\"P0191\">Nachman Fichner</a>, an innkeeper in Blaszkowa, and <a href=\"../person/P0192.html\" data-pid=\"P0192\">Mirla née Rubel</a>.",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman</a>, ritual slaughterer (Schächter) in Brzostek, witness. <a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>, ritual slaughterer (Schächter) in Brzostek, witness.",
@@ -94192,13 +94186,13 @@
    "Notes": "Remarks: Birth certificate for the groom dated Dębica, 26 Jun 1900, ref. no. 106, vol. I, p. 5, no. 14, and the banns announced three times; for the bride, [the registrar&#x27;s] own knowledge, under § 32 of the register instructions."
   },
   "unlinked_prose_tokens": [
+   "Mojżesz",
+   "Chaja",
+   "Ruchla",
    "Uscher",
    "Sara",
    "Laja",
-   "Laji",
-   "Mojżesz",
-   "Chaja",
-   "Ruchla"
+   "Laji"
   ]
  },
  {
@@ -94294,11 +94288,11 @@
    "Notes": "Remarks: Certificate of the Imperial-Royal District Office (Starostwo) in Pilzno of 17 Apr 1899, ref. no. 22, that he has fulfilled his military obligation. Birth certificate for the bride dated Rudnik, 16 Jan 1897, no. 6, vol. II, p. 51, no. 75; decree of the Imperial-Royal District Court in Bochnia of 2 Mar 1900, ref. no. P. 67/00, declaring her of full age; and the banns duly announced."
   },
   "unlinked_prose_tokens": [
-   "Scheindla",
-   "Ryfka",
    "Sch",
    "Nechemia",
-   "Marya"
+   "Marya",
+   "Scheindla",
+   "Ryfka"
   ]
  },
  {
@@ -94402,11 +94396,11 @@
    "Notes": "Remarks: Birth record, that is birth certificate, issued in Sędziszów on 17 Jul 1852 for the groom. For the bride, [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; and the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Judesa",
    "Salamon",
    "Chaja",
-   "Maryem",
-   "Sch",
-   "Judesa"
+   "Maryem"
   ]
  },
  {
@@ -94510,15 +94504,15 @@
    "Notes": "Remarks: The groom holds a discharge certificate dated Tarnów, 4 Dec 1880, by which he was released from further military service, having been enlisted; and the bride holds a trade licence of 1 Jun 1890, ref. no. 4005, for a mixed-goods stall at no. 23 in Januszkowice. The banns were announced three times, [according to] the regulations [the rest is cut off at the bottom of the photo]."
   },
   "unlinked_prose_tokens": [
-   "Okowice",
-   "Feisl",
-   "Chana",
-   "Laja",
    "Sch",
    "Zeigh",
    "Starost",
    "Mojzesz",
-   "Selda"
+   "Selda",
+   "Okowice",
+   "Feisl",
+   "Chana",
+   "Laja"
   ]
  },
  {
@@ -94622,10 +94616,10 @@
    "Notes": "Remarks: Birth certificate for the groom dated Sędziszów, 21 Jun 1896, ref. no. 43, vol. II, fol. 82; assessment of the military tax by the Imperial-Royal District Office (Starostwo) in Ropczyce, of 6 Jul 1894, ref. no. 9692. For the bride, [the registrar&#x27;s] own knowledge, under § 82 [sic] of the register instructions; and the banns announced three times."
   },
   "unlinked_prose_tokens": [
-   "Rubin",
    "Sch",
    "Mojżesz",
-   "Sara"
+   "Sara",
+   "Rubin"
   ]
  },
  {
@@ -94729,12 +94723,12 @@
    "Notes": "Remarks: Certificate of the Imperial-Royal District Office (Starostwo) in Pilzno of 5 Sep 1898, ref. no. 58, that the groom, born in 1873, has fulfilled his military duty; decree declaring the bride, born 5 Apr 1878, of full age, issued by the Imperial-Royal District Court in Mielec on 22 Jun 1899, ref. no. I 174/99; the banns announced."
   },
   "unlinked_prose_tokens": [
-   "Majer",
-   "Hena",
    "Sch",
    "Josef",
    "Schilloy",
-   "Freidla"
+   "Freidla",
+   "Majer",
+   "Hena"
   ]
  },
  {
@@ -94838,13 +94832,13 @@
    "Notes": "Remarks: Passport from the Imperial-Royal District Office (Starostwo) in Pilzno of 7 Sep 1885, no. 147, proving the groom&#x27;s age, and [the registrar&#x27;s] own knowledge of the capacity to contract a legal marriage; certificate of the first marriage dated Frysztak, vol. I, p. 17, no. 3; death record of the first husband, Schulim Wildstein, dated Kraków, of 1884, no. 114; kept in the register files."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Fischel",
+   "Korzenik",
    "Dawid",
    "Chaja",
    "Passport",
-   "Schulim",
-   "Sch",
-   "Fischel",
-   "Korzenik"
+   "Schulim"
   ]
  },
  {
@@ -94948,10 +94942,10 @@
    "Notes": "Remarks: Passport from the Imperial-Royal District Office (Starostwo) in Pilzno of 27 May 1867, no. 60 pp., proving the groom&#x27;s age; and [the registrar&#x27;s] own knowledge of the capacity to contract the legal marriage entered alongside; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Izak",
-   "Passport",
    "Sch",
-   "Ruchla"
+   "Ruchla",
+   "Izak",
+   "Passport"
   ]
  },
  {
@@ -95163,11 +95157,11 @@
    "Notes": "Remarks: The capacity to contract this marriage rests on [the registrar&#x27;s] own knowledge; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Izaak",
-   "Ryfka",
    "Sch",
    "Berl",
-   "Spriza"
+   "Spriza",
+   "Izaak",
+   "Ryfka"
   ]
  },
  {
@@ -95271,11 +95265,11 @@
    "Notes": "Remarks: The capacity to contract this marriage rests on [the registrar&#x27;s] own knowledge, and the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Laja",
    "Sch",
    "Szymon",
    "Dembicer",
-   "Chana"
+   "Chana",
+   "Laja"
   ]
  },
  {
@@ -95379,9 +95373,9 @@
    "Notes": "Remarks: The capacity to contract this marriage rests on [the registrar&#x27;s] own knowledge; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Cylda",
    "Sch",
-   "Jenty"
+   "Jenty",
+   "Cylda"
   ]
  },
  {
@@ -95485,8 +95479,8 @@
    "Notes": "Capacity to contract the present marriage rests on [the registrar&#x27;s] own conviction, together with the threefold announcement of the banns and the notification of the rabbinate"
   },
   "unlinked_prose_tokens": [
-   "Sara",
-   "Nichy"
+   "Nichy",
+   "Sara"
   ]
  },
  {
@@ -95590,11 +95584,11 @@
    "Notes": "Remarks: Militia (Landsturm) passport dated Rzeszów, 19 Feb 1895, no. 55, and the banns announced three times, and the notice of the rabbinate. Later note at the foot of the page: I certify that the extract agrees with the original register. P[ilzno?], 14 Nov 1928[?]. Head of the District Office (Starostwo Powiatowe) [signature] J. Kurcz[?]; stamp: Starostwo in Pilzno."
   },
   "unlinked_prose_tokens": [
+   "Fischl",
    "Sara",
    "Militia",
    "Landsturm",
-   "Powiatowe",
-   "Fischl"
+   "Powiatowe"
   ]
  },
  {
@@ -95787,8 +95781,8 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 2[?] 32 of the register instructions; and he shows that he pays the military tax and that he holds a trade licence to keep a mixed-goods stall in Januszkowice; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Chaja",
-   "Feigi"
+   "Feigi",
+   "Chaja"
   ]
  },
  {
@@ -95876,8 +95870,8 @@
    "Notes": "Remarks: The capacity for the marriage contracted rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Feiga",
-   "Feigi"
+   "Feigi",
+   "Feiga"
   ]
  },
  {
@@ -95965,8 +95959,8 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate officiating at the wedding."
   },
   "unlinked_prose_tokens": [
-   "Dyla",
-   "Feigi"
+   "Feigi",
+   "Dyla"
   ]
  },
  {
@@ -96062,8 +96056,8 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; and the banns announced three times, and the notice of the rabbinate; finally, by proof that the military obligations have been fulfilled."
   },
   "unlinked_prose_tokens": [
-   "Hindy",
-   "Estera"
+   "Estera",
+   "Hindy"
   ]
  },
  {
@@ -96271,12 +96265,12 @@
    "Notes": "Remarks: Documents of the groom: this registry&#x27;s own birth book, vol. I, p. 2, no. 10. For the bride, birth certificate from Mielec, vol. II, p. 3, no. 74, dated 24 May 1900, no. 192/900, kept in the register files; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Josl",
-   "Feiga",
-   "Documents",
    "Izaak",
    "Hena",
-   "Tum"
+   "Tum",
+   "Josl",
+   "Feiga",
+   "Documents"
   ]
  },
  {
@@ -96380,10 +96374,10 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Chaja",
-   "Ryfka",
    "Leiba",
-   "Rechla"
+   "Rechla",
+   "Chaja",
+   "Ryfka"
   ]
  },
  {
@@ -96487,16 +96481,16 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; further, the groom&#x27;s discharge (Abschied) from the Imperial-Royal Military Command in Nowy Sącz of 22 Aug 1876; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Koshernik",
+   "Sch",
+   "Ryfka",
    "Comitat",
    "Fiwel",
-   "Sch",
    "Sara",
    "Gross",
    "Abschied",
    "Military",
-   "Command",
-   "Koshernik",
-   "Ryfka"
+   "Command"
   ]
  },
  {
@@ -96600,12 +96594,12 @@
    "Notes": "Remarks: Birth certificate for the groom dated Sokołów, 11 Dec 1882, vol. I, p. 36; certificate of the registrar in Bobowa dated 7 May 1900, ref. no. 34, for the bride; kept in the register files; also the banns announced three times; and [he] shows release from military obligation."
   },
   "unlinked_prose_tokens": [
+   "Juda",
+   "Scheindli",
    "Spice",
    "Shop",
    "Etla",
-   "Zehngut",
-   "Juda",
-   "Scheindli"
+   "Zehngut"
   ]
  },
  {
@@ -96709,11 +96703,11 @@
    "Notes": "Remarks: Birth certificate dated Mielec, 24 May 1900, ref. no. 191, vol. I, p. 44, for the groom; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Nisko",
-   "Scheindel",
    "Sch",
    "Lewi",
-   "Tadower"
+   "Tadower",
+   "Nisko",
+   "Scheindel"
   ]
  },
  {
@@ -96817,11 +96811,11 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; also the banns announced three times, and the notice of the rabbinate of 24 Oct 1901."
   },
   "unlinked_prose_tokens": [
-   "Feiga",
    "Jozef",
    "Efroim",
    "Fischl",
-   "Fishl"
+   "Fishl",
+   "Feiga"
   ]
  },
  {
@@ -96925,12 +96919,12 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate dated Jezupol, 5 Nov 1890, no. 27, vol. I, p. 20, of [18]66; also [the registrar&#x27;s] own knowledge; and the banns three times and the notice of the rabbinate attest the capacity to contract this marriage."
   },
   "unlinked_prose_tokens": [
-   "Gotlieb",
-   "Chaja",
    "Kopel",
    "Gutstein",
    "Elje",
-   "Ryfka"
+   "Ryfka",
+   "Gotlieb",
+   "Chaja"
   ]
  },
  {
@@ -97026,10 +97020,10 @@
    "Notes": "Remarks: According to the passport of the Military Command dated Tarnów, 1 Jun 1900, the groom was enlisted on 2 Mar 1894, draft lot no. 901, main-register sheet no. 163. For the bride, this registry&#x27;s own birth book attests, vol. II, p. 12, no. 3, of [18]77; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Gitli",
    "Estera",
    "Military",
-   "Command",
-   "Gitli"
+   "Command"
   ]
  },
  {
@@ -97133,13 +97127,13 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate dated Gorlice, 3 Jan 1901, no. 3, vol. I, p. 20, no. 114; certificate of the Imperial-Royal District Office (Starostwo) in Gorlice of 13 Jan 1901, ref. no. 27, that his military obligation has been met; decree of the Imperial-Royal District Court in Gorlice of 16 Jan 1901, ref. no. 38/1 [with 21[?] beneath], declaring him of full age; certificate of the banns. For the bride, this registry&#x27;s own birth book attests, vol. I[I?], p. 13, no. 148, of [18]76; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Moshe",
    "Sch",
    "Hirsch",
    "Magdelana",
    "Dawid",
    "Magdelany",
-   "Ewa"
+   "Ewa",
+   "Moshe"
   ]
  },
  {
@@ -97243,11 +97237,11 @@
    "Notes": "Remarks: [The registrar&#x27;s] conviction of the capacity for the marriage contracted alongside rests on his own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Rojza",
    "Szyja",
    "Heśla",
-   "Syma",
-   "Sch",
-   "Rojza"
+   "Syma"
   ]
  },
  {
@@ -97351,10 +97345,10 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Izaak",
    "Sch",
    "Leiba",
-   "Chana"
+   "Chana",
+   "Izaak"
   ]
  },
  {
@@ -97458,12 +97452,12 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Hilel",
-   "Sary",
-   "Mindli",
    "Sch",
    "Izaak",
-   "Fornal"
+   "Fornal",
+   "Hilel",
+   "Sary",
+   "Mindli"
   ]
  },
  {
@@ -97674,11 +97668,11 @@
    "Notes": "Remarks: Birth certificate for the groom dated Dukla, 15 Jun 1894, ref. no. 85, vol. I, p. 17, no. 39; certificate for the bride dated Dukla, 30 Apr 1900, ref. no. 67, vol. I, p. 8[?]6, no. 70; also the banns announced three times, and the notice of the rabbinate. At the foot of the page: Closed as of 31 Dec 1901 [signature, illegible]."
   },
   "unlinked_prose_tokens": [
-   "Lisko",
-   "Closed",
    "Sch",
    "Effraim",
-   "Scheindlie"
+   "Scheindlie",
+   "Lisko",
+   "Closed"
   ]
  },
  {
@@ -97782,10 +97776,10 @@
    "Notes": "Remarks: The capacity for the marriage entered alongside is attested by this registry&#x27;s own books, namely for the groom the birth book, vol. I, p. 12, no. 134, of [18]75, and for the bride the birth book, vol. II, p. 123, no. 27, of [18]82; also the banns announced three times, and the notice of the rabbinate; finally[?] the consent of the legitimate father, with his own [signature; word not written], to the contracting of this [one word struck through] legal marriage of [his] minor[?] daughter[?]. [Signed:] <a href=\"../person/P0322.html\" data-pid=\"P0322\">Mendel Dintenfass</a>."
   },
   "unlinked_prose_tokens": [
-   "Estera",
    "Sch",
    "Leiba",
-   "Chana"
+   "Chana",
+   "Estera"
   ]
  },
  {
@@ -97889,9 +97883,9 @@
    "Notes": "Remarks: The capacity to contract the marriage entered alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Pesla",
    "Sch",
-   "Jojna"
+   "Jojna",
+   "Pesla"
   ]
  },
  {
@@ -97995,10 +97989,10 @@
    "Notes": "Remarks: Documents, namely: birth certificate dated Żmigród, 20 Feb 1902, ref. no. 11, vol. II, pp. 21–22, no. 47; certificate of the Imperial-Royal District Office (Starostwo) in Jasło of 15 Feb 1902, ref. no. 3774, that the military obligation has been fulfilled; certificate of the banns of 12 May 1902, ref. no. 62; kept in the register files. For the bride, [the registrar&#x27;s] own knowledge."
   },
   "unlinked_prose_tokens": [
+   "Sch",
    "Blime",
    "Eliasz",
-   "Documents",
-   "Sch"
+   "Documents"
   ]
  },
  {
@@ -98102,9 +98096,9 @@
    "Notes": "Remarks: The capacity to contract the marriage entered alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Chana",
    "Dawid",
-   "Ryfka"
+   "Ryfka",
+   "Chana"
   ]
  },
  {
@@ -98207,11 +98201,11 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate, year 1879, p. 225, no. 107; decree of the Imperial-Royal District Court in Dębica of 24 Jun 1901, ref. no. N.c. I 221/1, declaring him of full age; birth certificate for the bride, Brzostek, vol. II, pp. 5[5?]–56, no. 12; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Sara",
-   "Freiberg",
    "Dembica",
    "Dawid",
-   "Geli"
+   "Geli",
+   "Sara",
+   "Freiberg"
   ]
  },
  {
@@ -98315,8 +98309,8 @@
    "Notes": "Remarks: The capacity for the marriage [entered] alongside rests on [the registrar&#x27;s] own knowledge; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Hindy",
-   "Ryfka"
+   "Ryfka",
+   "Hindy"
   ]
  },
  {
@@ -98420,10 +98414,10 @@
    "Notes": "Remarks: Birth certificate dated Frysztak, 11 Jul 1898, ref. no. 108, vol. a, p. 20, no. 6, and [the registrar&#x27;s] own knowledge of the capacity to contract a legal marriage; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Natan",
-   "Freidy",
    "Średni",
-   "Mojzesz"
+   "Mojzesz",
+   "Natan",
+   "Freidy"
   ]
  },
  {
@@ -98527,8 +98521,8 @@
    "Notes": "Remarks: Birth certificate for the groom dated 31 Dec 1878, vol. II, pp. 41–42, no. 32; for the bride, dated 14 Feb 1884, vol. II, pp. 147–148, no. 7; also the banns announced three times, and the notice of the rabbinate; with the parents&#x27; consent to this marriage, given by signing. [Signed:] Jochene Nechemje Josef Bergman. At the foot of the page: Brzostek, 31 Dec 1902 [signature, illegible]."
   },
   "unlinked_prose_tokens": [
-   "Hudesa",
-   "Jozef"
+   "Jozef",
+   "Hudesa"
   ]
  },
  {
@@ -98632,9 +98626,9 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate from the registry district of Ryglice, vol. I, pp. 3–4, no. 3, issued by the Jewish registrar in Tuchów, dated 29 Jul 1902, no. 65; also the certificate of the Imperial-Royal District Office (Starostwo) in Tarnów of 21 Aug 1902, that the military obligation has been fulfilled, draft lot no. 759, no. 158. For the bride, this registry&#x27;s own birth book attests, vol. I, p. 9, no. 98, of [18]74."
   },
   "unlinked_prose_tokens": [
+   "Sch",
    "Dawid",
-   "Hendla",
-   "Sch"
+   "Hendla"
   ]
  },
  {
@@ -98738,11 +98732,11 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate, Strzyżów, vol. III, pp. 44–45, no. 5, of [18]79, dated 20 Apr 1902, no. 27; certificate of the Imperial-Royal District Office (Starostwo) in Strzyżów of 20 Apr 1902, no. 281, permitting the marriage; and certificate of the banns of 29 Dec 1902, no. 15; in the register files. For the bride, this registry&#x27;s own birth book attests, vol. II, pp. 95–96, no. 14, of [18]81."
   },
   "unlinked_prose_tokens": [
-   "Markus",
-   "Chaja",
    "Sch",
    "Eisig",
-   "Nechuma"
+   "Nechuma",
+   "Markus",
+   "Chaja"
   ]
  },
  {
@@ -98952,11 +98946,11 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate dated Frysztak, 25 Nov 1902, no. 218, vol. I, p. 77, no. 25; decree of the Imperial-Royal District Court in Frysztak of 20 Nov 1900, ref. no. IV 233/92, declaring him of full age; certificate of the banns dated 15 Dec 1902; also for the bride, birth certificate dated 14 Nov 1901, no. 302, vol. I, p. 29, no. 23; written[?] notice of the rabbinate. Below the entry: Checked 6 Jul 1903 [signature: Albrecht?], Imperial-Royal district commissioner."
   },
   "unlinked_prose_tokens": [
+   "Sch",
    "Mojzesz",
    "Estera",
    "Checked",
-   "Albrecht",
-   "Sch"
+   "Albrecht"
   ]
  },
  {
@@ -99060,10 +99054,10 @@
    "Notes": "Remarks: This registry&#x27;s own book, vol. II, pp. 39–40, no. 29, of [18]78; military obligations fulfilled, as to the groom; also birth certificate for the bride dated Żmigród, 24 Aug 1902, ref. no. 130, vol. II, pp. 213–14, no. 63; the father&#x27;s written consent to this marriage, dated Toki, 6 Aug 1903; further, the banns duly announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Berl",
-   "Eidla",
    "Sch",
-   "Dawid"
+   "Dawid",
+   "Berl",
+   "Eidla"
   ]
  },
  {
@@ -99167,13 +99161,13 @@
    "Notes": "Remarks: The capacity [to contract, inserted above] the marriage entered alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; also the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Glasner",
+   "Leiba",
    "Jakob",
    "Chana",
    "Estera",
-   "Ester",
-   "Sch",
-   "Glasner",
-   "Leiba"
+   "Ester"
   ]
  },
  {
@@ -99277,9 +99271,9 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; birth certificate for the bride dated Tarnów, 26 Nov 1902, ref. no. 980, vol. IV, p. 12, no. 109; certificate of the banns, and the notice of the rabbinate. At the foot of the page: Closed as of 31 Dec 1903 A. Wróbl [signature], Jewish registrar."
   },
   "unlinked_prose_tokens": [
+   "Sch",
    "Chana",
-   "Closed",
-   "Sch"
+   "Closed"
   ]
  },
  {
@@ -99383,9 +99377,9 @@
    "Notes": "Remarks: Birth certificate for the groom dated Gorlice, 18 Nov 1903, no. 280, vol. I, p. 49, no. 118; certificate of the Imperial-Royal District Office (Starostwo) in Gorlice of 26 Nov 1903, ref. no. 7[?]/03, that the military draft obligations have been fulfilled; certificate of the banns dated Gorlice, 28 Dec 1903, no. 309/03; the bride&#x27;s birth record, this registry&#x27;s own book, vol. II, pp. 141–142, no. 30. &quot;I permit the contracting of the marriage&quot; [no signature beneath]."
   },
   "unlinked_prose_tokens": [
-   "Salamon",
    "Majer",
-   "Ester"
+   "Ester",
+   "Salamon"
   ]
  },
  {
@@ -99489,8 +99483,8 @@
    "Notes": "Remarks: Birth certificate for the groom dated Rzeszów, 3 Feb 1904, no. 53, vol. IV, pp. 126–7, no. 15; certificate of the Imperial-Royal District Office (Starostwo) in Rzeszów of 4 Feb 1904, ref. no. 76, that the military obligations have been fulfilled; certificate of the banns dated Rzeszów, 19 Feb 1904; birth certificate for the bride dated Frysztak, 25 Dec 1904, ref. no. 282, birth book p. 247, no. 48/83. The undersigned Salamon Karpf permits his illegitimate daughter <a href=\"../person/P2082.html\" data-pid=\"P2082\">Witla</a> to [struck through: &quot;zamęście&quot;; one short struck word] contract marriage. Salamon Karpf [signature]."
   },
   "unlinked_prose_tokens": [
-   "Salamon",
-   "Nison"
+   "Nison",
+   "Salamon"
   ]
  },
  {
@@ -99594,11 +99588,11 @@
    "Notes": "Remarks: Documents for the groom, namely: notice of the Imperial-Royal District Office (Starostwo) in Rawa of 14 Jan 1904, ref. no. 25996, that the military obligations have been fulfilled; militia (Landsturm) passport of 1 Feb 1897, no. 64. For the bride, this registry&#x27;s own birth book attests, vol. II, p. 21, no. 8, of 1878; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Feiga",
    "Estera",
    "Documents",
-   "Landsturm",
-   "Sch",
-   "Feiga"
+   "Landsturm"
   ]
  },
  {
@@ -99702,13 +99696,13 @@
    "Notes": "Remarks: The capacity for the marriage entered alongside rests on [the registrar&#x27;s] own knowledge, and also on the bride&#x27;s birth certificate in Gorlice, vol. III, p. 85, no. 79, of 28 Jun 1900, no. 178; the banns announced three times, and the notice of the rabbinate. Below: Checked 17 Jun 1904 [signature, Pola?/Pole?], Imperial-Royal district commissioner[?]."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Maryem",
    "Rieger",
    "Leiba",
    "Checked",
    "Pola",
-   "Pole",
-   "Sch",
-   "Maryem"
+   "Pole"
   ]
  },
  {
@@ -99812,9 +99806,9 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, and also on the assessment of the military tax by the Imperial-Royal District Office (Starostwo) in Jasło of 30 Jul 1900, no. 48, which was shown and attached; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Chany",
    "Sch",
-   "Laja"
+   "Laja",
+   "Chany"
   ]
  },
  {
@@ -99918,14 +99912,14 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge; assessment of the military tax by the Imperial-Royal District Office (Starostwo) in Ropczyce; the banns announced; the notice of the rabbinate. Below: Checked 8[?] Jan 1905 [signature]. At the foot of the page: Entered by the undersigned and closed[?] on 31 Dec 1904 A. Wróbl [signature], Jewish registrar."
   },
   "unlinked_prose_tokens": [
-   "Korzenik",
-   "Estera",
-   "Checked",
    "Sch",
    "Kopel",
    "Nusyn",
    "Chaskl",
-   "Judesa"
+   "Judesa",
+   "Korzenik",
+   "Estera",
+   "Checked"
   ]
  },
  {
@@ -100029,9 +100023,9 @@
    "Notes": "Remarks: The capacity to contract this marriage rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Jozef",
    "Salamon",
-   "Laja",
-   "Jozef"
+   "Laja"
   ]
  },
  {
@@ -100128,13 +100122,13 @@
    "Notes": "Ryva born 11 Jan 1886. Remarks: Birth certificate dated Sędziszów, 11 Oct 1904, ref. no. 142, vol. I, p. 73, no. 1; the father&#x27;s consent to the marriage, as to the bride; the banns announced, and the notice of the rabbinate; in the register files. Below: Vidi [seen] 11 Feb 1906[?] [signature, Pole/Pola]."
   },
   "unlinked_prose_tokens": [
+   "Jonasz",
    "Rechla",
    "Gleichter",
    "Leiba",
    "Vidi",
    "Pole",
-   "Pola",
-   "Jonasz"
+   "Pola"
   ]
  },
  {
@@ -100559,10 +100553,10 @@
    "Notes": "Remarks: Birth certificate for the groom dated Frysztak, 13 Jun 1900, ref. no. 111, p. 4, no. 20, vol. I, of 1877; birth certificate for the bride dated Bardejov (Bardyjów), 28 Apr 1903, ref. no. [illegible under a stain], of 1903, vol. C.N., p. 10; kept in the register files; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Sara",
-   "Bardyjów",
    "Sch",
-   "Chaja"
+   "Chaja",
+   "Sara",
+   "Bardyjów"
   ]
  },
  {
@@ -100650,9 +100644,9 @@
    "Notes": "Remarks: The capacity of the groom, a widower, to contract marriage was already stated at the entry of the previous marriage he contracted, o[?]…[one word, unclear] marriage record, vol. II, pp. 99–100, no. 3, of [1]901; birth certificate for the bride, Nowy Sącz, vol. IV, p. 73, [stained] 789[?], of 1879[?]; kept in the register files; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Hanna",
    "Sch",
-   "Feigi"
+   "Feigi",
+   "Hanna"
   ]
  },
  {
@@ -100861,8 +100855,8 @@
    "Notes": "Remarks: The marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Nusyn",
-   "Sch"
+   "Sch",
+   "Nusyn"
   ]
  },
  {
@@ -100966,11 +100960,11 @@
    "Notes": "Remarks: Birth certificate for the groom dated Ropczyce, 14 Mar 1906, no. 28, vol. II, p. 73, no. 563; in the register files. For the bride, [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Sch",
    "Ezre",
    "Josef",
    "Hena",
-   "Wurzl",
-   "Sch"
+   "Wurzl"
   ]
  },
  {
@@ -101074,13 +101068,13 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate, Tarnobrzeg, vol. II, p. 36, no. 8, of [18]80; military passport no. 1713 of 1903, as [stained] supplementary[?] reservist[?] [stained] …ed 5 Sep 1903. For the bride, this registry&#x27;s own birth book attests, vol. II, p. 121/2[?], no. 22; the banns announced, and the notice of the rabbinate, and the signature of the father permitting this marriage. Ab<a href=\"../person/P0014.html\" data-pid=\"P0014\">raham Plattner [</a>signature]. Below: Vidi [seen] 16 Feb 1906 [signature, Pole/Pola]."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Symcha",
+   "Chaja",
    "Laja",
    "Vidi",
    "Pole",
-   "Pola",
-   "Sch",
-   "Symcha",
-   "Chaja"
+   "Pola"
   ]
  },
  {
@@ -101184,8 +101178,8 @@
    "Notes": "Remarks: Birth certificate for the groom in Dębica, vol. I[?], p. 26, no. 3, of 1875; for the bride, this registry&#x27;s own birth book attests, vol. II, pp. 89–90, no. 6, of 1881; the banns announced, and the notice of the rabbinate; and likewise proof that the military obligations have been fulfilled."
   },
   "unlinked_prose_tokens": [
-   "Estera",
-   "Nusen"
+   "Nusen",
+   "Estera"
   ]
  },
  {
@@ -101273,11 +101267,11 @@
    "Notes": "Remarks: Documents for the groom, namely: birth certificate dated Ropczyce, 2 May 1906, vol. IV, p. 125; decree of the Imperial-Royal District Court in Ropczyce of 20 Feb[?] 1906, ref. no. C. 257/6[?], declaring him of full age; notice of the Imperial-Royal District Office (Starostwo) in Ropczyce of 12 Sep 1906, ref. no. 15448, of his release from military obligation. For the bride, birth record in Frysztak, vol. I, p. 75, no. 21, of [18]79; kept in the register files; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Schyja",
+   "Cypora",
    "Chaja",
    "Sara",
-   "Documents",
-   "Schyja",
-   "Cypora"
+   "Documents"
   ]
  },
  {
@@ -101381,10 +101375,10 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Abe",
    "Juda",
    "Chaja",
-   "Sara"
+   "Sara",
+   "Abe"
   ]
  },
  {
@@ -101488,11 +101482,11 @@
    "Notes": "Remarks: Fulfilment of the military obligation: certificate of the Imperial-Royal District Office (Starostwo) in Pilzno of 1 Dec 1890, no. 391/II, of [18]86; the banns announced, and the notice of the rabbinate; and also [the registrar&#x27;s] own knowledge, under § 32 of the register instructions."
   },
   "unlinked_prose_tokens": [
-   "Laja",
-   "Fulfilment",
    "Leiba",
    "Chana",
-   "Korzenik"
+   "Korzenik",
+   "Laja",
+   "Fulfilment"
   ]
  },
  {
@@ -101596,14 +101590,14 @@
    "Notes": "Remarks: Birth certificate of the registry office in Jodłowa, vol. II, p. 13, no. IX; the groom&#x27;s military passport. For the bride, this registry&#x27;s own birth book, vol. II, p. 125, no. 29; the banns announced, and the notice of the rabbinate. At the foot of the page: Closed as of 31 Dec 1906 Aba Wróbl [signature], Jewish registrar; and, above entry 12: 7 Jan 1907 [signature] (inspection)."
   },
   "unlinked_prose_tokens": [
+   "Majer",
+   "Ryfka",
    "Mojzesz",
    "Tailor",
    "Reich",
    "Closed",
    "Aba",
-   "Wróbl",
-   "Majer",
-   "Ryfka"
+   "Wróbl"
   ]
  },
  {
@@ -101913,8 +101907,8 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate dated Rymanów, 1[3 or 5] Jan 1907, ref. no. 17, vol. III, p. 46, no. 59; certificate of the banns dated Rymanów, 27 Feb 1907, no. 57; proof that the military obligation has been fulfilled; the bride&#x27;s birth certificate dated Frysztak, 17 Jan 1907, ref. no. 29, vol. II, p. 8[6 or 8], no. 7; the banns announced, and the notice of the rabbinate, with the added[?] signature of the father permitting this marriage. Salamon Karpf [signature]."
   },
   "unlinked_prose_tokens": [
-   "Salamon",
-   "Ryfka"
+   "Ryfka",
+   "Salamon"
   ]
  },
  {
@@ -102018,9 +102012,9 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate dated Przeworsk, 17 May 1904, no. 94, vol. III, p. 32[?], no. 623; certificate of the banns dated Jarosław, 26 Mar 1907, no. 56; the military obligations fulfilled. For the bride, this registry&#x27;s own birth book attests, vol. II, pp. 9–10, no. 19, of 1877; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Hendli",
    "Abe",
-   "Chana",
-   "Hendli"
+   "Chana"
   ]
  },
  {
@@ -102124,8 +102118,8 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate dated Bobowa, 3 Mar 1907, ref. no. 20, vol. II, p. 172, no. 29, of [18]83; certificate of the Imperial-Royal District Office (Starostwo) in Grybów of 20 Mar 1907 that the military obligations have been fulfilled. For the bride, this registry&#x27;s own birth book attests, vol. II, p. 1, no. 4, of [18]77; certificate of the banns of 14 Mar 1907, ref. no. 3; the notice of the rabbinate; kept in the register files."
   },
   "unlinked_prose_tokens": [
-   "Estera",
-   "Mojzesz"
+   "Mojzesz",
+   "Estera"
   ]
  },
  {
@@ -102333,10 +102327,10 @@
    "Notes": "Remarks: Documents of the couple: certificate of good conduct from the commune of Wolica; certificate of domicile from the same commune of 5 Jun 1907; release from military obligation is proved by a cash receipt for the military tax paid; certificate of the banns; authorisation of the rabbinate in Dębica, and also the notice of the rabbinate here; kept in the register files."
   },
   "unlinked_prose_tokens": [
+   "Pesla",
    "Rudy",
    "Szaja",
-   "Documents",
-   "Pesla"
+   "Documents"
   ]
  },
  {
@@ -102440,12 +102434,12 @@
    "Notes": "Remarks: Documents of the couple: birth certificate for Dębica, 30 Jun 1907, vol. III, p. 1, no. 6; certificate of domicile of 5 Jun 1907, ref. no. 183; certificate of the banns; authorisation of the rabbinate in Dębica, and the notice of the rabbinate here; kept in the register files."
   },
   "unlinked_prose_tokens": [
+   "Chaja",
+   "Sara",
    "Sch",
    "Dębicki",
    "Estera",
-   "Documents",
-   "Chaja",
-   "Sara"
+   "Documents"
   ]
  },
  {
@@ -102542,15 +102536,15 @@
    "Notes": "Remarks: Late entry made on the order of the Imperial-Royal District Office (Starostwo) in Pilzno of 18 Jul[?] 1907, ref. no. 11473. Documents for the groom: birth record, Żmigród, vol. III, pp. 175–6, no. 55, of [18]81; certificate of the Imperial-Royal District Office in Eger (Cheb, Bohemia) of 20 Jun 1904 that the military obligations have been fulfilled. For the bride, this registry&#x27;s own birth book attests, vol. II, pp. 183–4, no. 10, of [18]86; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Juda",
+   "Scheindli",
    "Itte",
    "Efroim",
    "Fischl",
    "Wurzl",
    "Eger",
    "Cheb",
-   "Bohemia",
-   "Juda",
-   "Scheindli"
+   "Bohemia"
   ]
  },
  {
@@ -102653,9 +102647,9 @@
    "Notes": "Remarks: Documents for the groom: this registry&#x27;s own book, vol. II, pp. 73–4, no. 7, of [18]80; military passport of 9 Sep 1905, no. 843. For the bride: birth record of the registry district of Olpiny, vol. I, p. 47, no. 14, of [18]73; certificate of the first marriage, registry district of Jodłowa[?], vol. II, p. 67, no. 11, of [1]900; this registry&#x27;s own death record of the first husband, vol. II, p. 225, no. 18, of [1]905; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Documents",
    "Izaak",
-   "Feiga"
+   "Feiga",
+   "Documents"
   ]
  },
  {
@@ -102752,11 +102746,11 @@
    "Notes": "Remarks: The groom&#x27;s birth certificate from the registry office in Oświęcim, vol. III, p. 136, no. 136; certificate of the Imperial-Royal District Office (Starostwo) in Bochnia of 25 Sep 1907, draft lot no. 1077, of release from the obligation of military service; the parents&#x27; declaration permitting this marriage; the banns duly announced, and the notice of the rabbinate; kept in the register files. For the bride, this registry&#x27;s own book attests, vol. II, pp. 141–2, no. 31, of [18]83."
   },
   "unlinked_prose_tokens": [
-   "Debora",
    "Herschel",
    "Mojzesz",
    "Rachela",
-   "Laja"
+   "Laja",
+   "Debora"
   ]
  },
  {
@@ -102860,13 +102854,13 @@
    "Notes": "Remarks: As to the birth of the newly-weds, this registry&#x27;s own book attests, vol. II, pp. 95–6, no. 16, of [18]81, and vol. II, pp. 193–4, no. 31, of [18]86; the groom belongs to the reserve; the banns announced as prescribed, and the notice of the rabbinate; and likewise, for the bride, the permission of the superior guardianship authority of 27 Oct. At the foot of the right-hand page: Vidi [seen] 20 Jan 1908 [signature, illegible]. At the foot of the left-hand page: Concluded and signed on 31 Dec 1907 [signature and title, cut off at the edge of the photo]."
   },
   "unlinked_prose_tokens": [
-   "Dawid",
-   "Freidla",
-   "Vidi",
-   "Concluded",
    "Błażkowa",
    "Leizer",
-   "Debora"
+   "Dawid",
+   "Debora",
+   "Freidla",
+   "Vidi",
+   "Concluded"
   ]
  },
  {
@@ -102970,10 +102964,10 @@
    "Notes": "Remarks: Birth certificate dated Jezupol, 5 Nov 1890, ref. no. 37, vol. I, p. 3[4?], for the groom; birth certificate for the bride dated Halicz, 29 May 1907, ref. no. 59, vol. III, p. 37, no. 59; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Chana",
    "Gutstein",
    "Eliasz",
-   "Rifka"
+   "Rifka",
+   "Chana"
   ]
  },
  {
@@ -103077,11 +103071,11 @@
    "Notes": "Remarks: Documents of the groom: birth certificate of the registry office in Rozwadów, vol. II[I?], p. 141, no. 94; certificate of release from military obligation by the Imperial-Royal District Office (Starostwo) in Bochnia of 11 Jun 1907, no. 357; certificate of the banns of 23 Aug 1908. For the bride, this registry&#x27;s own book attests, vol. III, p. 215, no. 33, year 1887; the father&#x27;s consent to the marriage of his daughter Feiga; the notice of the rabbinate. Izaak Rubel [signature]."
   },
   "unlinked_prose_tokens": [
+   "Salamon",
    "Izaak",
    "Reisli",
    "Documents",
-   "Feiga",
-   "Salamon"
+   "Feiga"
   ]
  },
  {
@@ -103178,12 +103172,12 @@
    "Notes": "Remarks: Documents of the groom: birth certificate dated Dukla, 12 Nov 1902, ref. no. 233; certificate of the Imperial-Royal District Office (Starostwo) in Krosno of 16 Nov 1908, ref. no. 31096, of release from military service; certificate of the banns from the Jewish registrar in Krosno of 22 Dec 1908, no. 90. For the bride, this registry&#x27;s own book attests, vol. II, pp. 243–4, no. 16; with the father&#x27;s consent to his daughter&#x27;s marriage. <a href=\"../person/P0322.html\" data-pid=\"P0322\">Mendel</a> Dintenfas [signature]. At the foot of the right-hand page: Vidi [seen] 18 Jan 1909 [signature]. At the foot of the left-hand page: Closed as of 31 Dec 1908 A. Wróbl [signature], Jewish registrar."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Freidla",
    "Estera",
    "Documents",
    "Vidi",
-   "Closed",
-   "Sch",
-   "Freidla"
+   "Closed"
   ]
  },
  {
@@ -103287,12 +103281,12 @@
    "Notes": "Israel born 28 apr 1877 <a href=\"../person/P1201.html\" data-pid=\"P1201\">serla</a> born 12 Dec 1891. Remarks: Documents of the groom: a) birth certificate for Gorlice, vol. I, p. 20, no. 114; b) certificate of the Imperial-Royal District Office (Starostwo) in Gorlice of 13 Jan 1901, ref. no. 27, that he has fulfilled his military duty. For the bride, this registry&#x27;s own book attests, vol. II, pp. 173–4, no. 6; the banns announced, and the notice of the rabbinate; with this, that the bride&#x27;s father permits this marriage by giving his signature. Lezer Kichel [signature]."
   },
   "unlinked_prose_tokens": [
-   "Estera",
-   "Etty",
-   "Documents",
    "Magdalamy",
    "Dawid",
-   "Ewa"
+   "Ewa",
+   "Estera",
+   "Etty",
+   "Documents"
   ]
  },
  {
@@ -103396,13 +103390,13 @@
    "Notes": "<a href=\"../person/P1258.html\" data-pid=\"P1258\">Jonas</a> born 1886 <a href=\"../person/P1260.html\" data-pid=\"P1260\">Malka</a> born 8 May 1887. Remarks: Documents of the groom, namely: birth certificate, release from military obligation, certificate of the banns, the father&#x27;s declaration permitting this marriage; finally the birth certificate for the bride, the notice of the rabbinate, and with the signature of the bride&#x27;s father permitting this marriage; kept in the register files. <a href=\"../person/P0063.html\" data-pid=\"P0063\">Chaskel Goldberg</a> [signature]. At the foot of the left-hand page: Closed as of 31 Dec 1909 A. Wróbl [signature], Jewish registrar."
   },
   "unlinked_prose_tokens": [
+   "Moshe",
+   "Chaja",
    "Chaskl",
    "Hinda",
    "Grosbart",
    "Documents",
-   "Closed",
-   "Moshe",
-   "Chaja"
+   "Closed"
   ]
  },
  {
@@ -103611,9 +103605,9 @@
    "Notes": "groom born on 9 Oct 1884 and bride on 14 Oct 1889. Remarks: Birth record [one short word struck through] for the groom, Frysztak, vol. II, p. 12, no. 34; certificate of the Imperial-Royal District Office (Starostwo) in Strzyżów of 31 Mar 1910, ref. no. 4339, that the military obligation has been fulfilled; certificate of the banns. For the bride, this registry&#x27;s own birth book attests, vol. II, p. 247, no. 25, and her full age, recognised by decree of the Imperial-Royal Court in Brzostek of 25 Feb 1910, ref. no. [one letter unclear] 19/8; and the notice of the rabbinate; in the register files."
   },
   "unlinked_prose_tokens": [
-   "Chana",
    "Jazowy",
-   "Ryfka"
+   "Ryfka",
+   "Chana"
   ]
  },
  {
@@ -103717,11 +103711,11 @@
    "Notes": "grrom born on 15 Apr 1879 and bride on 9 April 1879. Remarks: Documents for the groom: birth certificate for Ropczyce, vol. III, p. 109, no. 34; certificate of the Imperial-Royal District Office (Starostwo) in Ropczyce of 4 May 1910, draft lot no. 93, that the military obligation has been fulfilled. For the bride, this registry&#x27;s own birth book attests; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Rojza",
+   "Jakob",
    "Hilel",
    "Ryfka",
-   "Documents",
-   "Rojza",
-   "Jakob"
+   "Documents"
   ]
  },
  {
@@ -103825,9 +103819,9 @@
    "Notes": "groom born on 17 June 1884 and bride on 21 April 1887. Remarks: Documents of the groom: birth certificate, Dębica, year 1884, p. 134, no. 65; military passport as a reservist, and certificate of the banns dated Kraków, 5 Jun 1910, ref. no. 87. Also for the bride, this registry&#x27;s own book, vol. II, pp. 205–6, no. 13; the father&#x27;s consent to this marriage; the banns announced, and the notice of the rabbinate. <a href=\"../person/P0014.html\" data-pid=\"P0014\">Abraham Plattner</a> [signature]."
   },
   "unlinked_prose_tokens": [
+   "Nagawczyn",
    "Laja",
-   "Documents",
-   "Nagawczyn"
+   "Documents"
   ]
  },
  {
@@ -103931,12 +103925,12 @@
    "Notes": "groom born on 24 Aug 1886 and bride on 16 July 1877. Remarks: Documents of the groom: birth certificate in Dukla, vol. III, p. 194, no. 65; decree of release from paternal authority by the Imperial-Royal District Court in Dukla, 25 Oct 1906, ref. no. Nc I 4/6; certificate of the Imperial-Royal District Office (Starostwo) in Pilzno, 28 Oct 1909, ref. no. 100[?]/66[?], that the military obligation has been fulfilled. For the bride, this registry&#x27;s own book attests, vol. II, p. 5, no. 12, of [18]77; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Dawid",
-   "Hendla",
-   "Documents",
    "Berl",
    "Chana",
-   "Ester"
+   "Ester",
+   "Dawid",
+   "Hendla",
+   "Documents"
   ]
  },
  {
@@ -104040,14 +104034,14 @@
    "Notes": "groom born on 14 Jul 1884 and bride on 14 Jan 1880. Remarks: Documents of the groom: birth certificate in Leżajsk, vol. II, p. 154, no. 90; certificate of the Imperial-Royal Austro-Hungarian Consulate General in Brussels[?], 5 Apr 1907, no. 12262, on the basis of the ruling of the Imperial-Royal Governorship in Lwów, 28 Mar 1907, no. 2582, that he has fulfilled the military obligation. For the bride, this registry&#x27;s own book attests, vol. II, p. 71, no. 2, of [18]80; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Feiga",
    "Dawid",
    "Hendla",
    "Documents",
    "Austro-Hungarian",
    "Consulate",
    "General",
-   "Brussels",
-   "Feiga"
+   "Brussels"
   ]
  },
  {
@@ -104256,9 +104250,9 @@
    "Notes": "groom born 17 March 1886 and bride 8 April 1887. Remarks: Documents for the groom: birth certificate in Bochnia, vol. II, p. 104, no. 36; decree of the Imperial-Royal Court in Bochnia of 17 Aug 1908, ref. no. G. 198/8, declaring him of full age; certificate of the Imperial-Royal District Office (Starostwo) in Bochnia, 22 Feb 1910, ref. no. 516, that the military obligation has been fulfilled. For the bride, this registry&#x27;s own book attests, vol. II, p. 203, no. 10; the banns announced, the notice of the rabbinate, and the father&#x27;s consent to this marriage. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz</a> [signature]."
   },
   "unlinked_prose_tokens": [
+   "Judesa",
    "Mojzesz",
-   "Documents",
-   "Judesa"
+   "Documents"
   ]
  },
  {
@@ -104362,10 +104356,10 @@
    "Notes": "groom born 15 Dec 1883 and bride 9 May 1880. Remarks: Documents of the groom: birth certificate of the registry district in Biecz, vol. III, p. 38, no. 198; certificate of the Imperial-Royal District Office (Starostwo) in Gorlice of 27 Sep 1910, draft lot no. 770, of [1]883, that the military obligation has been fulfilled. For the bride, this registry&#x27;s own book attests, vol. II, p. 75, no. 10; also the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Uscher",
-   "Documents",
    "Tema",
-   "Feiga"
+   "Feiga",
+   "Uscher",
+   "Documents"
   ]
  },
  {
@@ -104469,9 +104463,9 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, in accordance with the regulations in force, and also on the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Sara",
    "Szymon",
-   "Chaja",
-   "Sara"
+   "Chaja"
   ]
  },
  {
@@ -104575,11 +104569,11 @@
    "Notes": "groom born 6 Oct 1886 and bride 12 Sep 1889. Remarks: Late entry made on the basis of the permission of the Imperial-Royal District Office (Starostwo) in Pilzno of 30 Nov 1910, ref. no. 21900. The documents of the groom and the bride for this marriage are in order and kept in the register files. The parents of the couple permit the marriage. Z[?]el[?] Ro[?]enbaum[?] [signature, lower half cut off at the edge of the photo]. At the foot of the left-hand page: Closed [as of …] [mostly cut off]."
   },
   "unlinked_prose_tokens": [
+   "Szymon",
+   "Ryfka",
    "Izaak",
    "Scheindl",
-   "Closed",
-   "Szymon",
-   "Ryfka"
+   "Closed"
   ]
  },
  {
@@ -104683,11 +104677,11 @@
    "Notes": "groom born 27 Feb 1883 bride 20 Sep 1891. Remarks: Documents of the groom: birth certificate, Tuchów, 4 Jan [18]90, vol. I, pp. 93–4, no. 22; certificate of the Imperial-Royal District Office (Starostwo) in Tarnów of 18 Jul 1911 that the military obligation has been fulfilled. For the bride, this registry&#x27;s own book attests, vol. II, pp. 281–2, no. 22; with the father&#x27;s signature, as permitting this marriage. <a href=\"../person/P0479.html\" data-pid=\"P0479\">Kelman Kleinman</a> [signature]."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Szyja",
    "Jerla",
    "Baster",
-   "Documents",
-   "Sch",
-   "Szyja"
+   "Documents"
   ]
  },
  {
@@ -104791,11 +104785,11 @@
    "Notes": "groom born 13 April 1882 and bride 14 oct 1885. Remarks: Documents of the groom: birth record in Brzostek, vol. II, pp. 113–14, no. 7; certificate of the Imperial-Royal District Office (Starostwo) in Pilzno of 16 Nov 1908, no. 75, of release from the military draft. For the bride, birth record in Żabno, vol. I, p. 116, no. 46; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Siedlec",
-   "Documents",
    "Mordko",
    "Jozef",
-   "Chaja"
+   "Chaja",
+   "Siedlec",
+   "Documents"
   ]
  },
  {
@@ -104899,12 +104893,12 @@
    "Notes": "groom born 5 oct 1878 and bride 7 dec 1887. Remarks: Birth certificate for the groom of the registry district in Dąbrowa, vol. IV, p. 117, no. 133; certificate of the Imperial-Royal District Office (Starostwo) in Tarnów of 16 Feb 1905, ref. no. 58, of release from military obligation. For the bride, this registry&#x27;s own book attests, vol. II, p. 105, no. 30; the banns announced; the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Jozef",
-   "Chaja",
    "Błażkowa",
    "Dzbany",
    "Odporyszewska",
-   "Mordko"
+   "Mordko",
+   "Jozef",
+   "Chaja"
   ]
  },
  {
@@ -105008,12 +105002,12 @@
    "Notes": "Remarks: Documents of the couple: birth certificate of the registry office in Rzeszów, vol. II, p. 139, no. 9, of [18]66; assessment of the military tax by the Imperial-Royal District Office (Starostwo) in Mielec of 22 Aug 1890, ref. no. 25; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Fischl",
-   "Mang",
-   "Documents",
    "Sch",
    "Rzemień",
-   "Laja"
+   "Laja",
+   "Fischl",
+   "Mang",
+   "Documents"
   ]
  },
  {
@@ -105117,12 +105111,12 @@
    "Notes": "groom born 27 Oct 1873 bride 29 Sep 1878. Remarks: Documents of the groom: this registry&#x27;s own birth book attests, vol. I, p. 9, no. 82, of [18]73; the military obligations fulfilled. For the bride, birth certificate of the registry office in Tarnów, of [18]78, p. 122, no. 128; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Dawid",
-   "Ceisler",
-   "Documents",
    "Sch",
    "Abe",
-   "Chana"
+   "Chana",
+   "Dawid",
+   "Ceisler",
+   "Documents"
   ]
  },
  {
@@ -105226,16 +105220,16 @@
    "Notes": "groom born 2 March 1888 and bride 2 May 1889. Remarks: Documents of the groom: birth certificate of the registry office in Frysztak, vol. II, p. 93, no. 25, of 1888; certificate of the Imperial-Royal District Office (Starostwo) in Strzyżów of 23 Oct 1911 of release from military obligation; the father&#x27;s consent to this marriage. For the bride: Brzostek[?] birth record, vol. II, p. 243, no. 17; permission of the Imperial-Royal District Court in Pilzno, as the superior guardianship authority, ref. no.[?] 220/10; the banns announced, and the notice of the rabbinate. Below entries 5–6: Vidi [seen] Strumieński[?], authorised Imperial-Royal secretary of the Governorship[?]. I certify that the extract agrees with the original register. Pilzno, 14 Nov 1928[?]. Head of the District Office (Starostwo Powiatowe) [signature], Secretary[?]; stamp: Starostwo, Pilzno."
   },
   "unlinked_prose_tokens": [
+   "Sch",
+   "Szymon",
+   "Frymety",
    "Dawid",
    "Freidla",
    "Documents",
    "Vidi",
    "Strumieński",
    "Powiatowe",
-   "Secretary",
-   "Sch",
-   "Szymon",
-   "Frymety"
+   "Secretary"
   ]
  },
  {
@@ -105339,11 +105333,11 @@
    "Notes": "groom born 12 Jul 1885 and bride in 23 Jun 1889. Remarks: Documents of the groom: birth record of the registry district in Przemyśl, of the year 1885, vol. XIV, p. 287, no. 264; dispensation from announcing the second and third banns, from the Imperial-Royal District Office (Starostwo) in Przemyśl of 3 Feb 1912, ref. no. 7531[?]; further, certificate of the rabbinate in Przemyśl of the announcement of one bann, of 3 Feb 1912; further, shown by his book (Landwehr passport) to have been enlisted in the supplementary reserve on 17 May 1908. For the bride, this registry&#x27;s own book attests, vol. II, p. 243, no. 19, of the year 1889; announcement in place of the banns, and the notice of the rabbinate, with the father&#x27;s signature. Fischel Kornfeld [signature]."
   },
   "unlinked_prose_tokens": [
+   "Hirsch",
    "Fischl",
    "Sara",
    "Documents",
-   "Landwehr",
-   "Hirsch"
+   "Landwehr"
   ]
  },
  {
@@ -105447,9 +105441,9 @@
    "Notes": "groom born in 1871 and bride 28 dec 1878. Remarks: Birth record, Dębowa, vol. II, p. 17, no. 18; assessment of the military tax by the Imperial-Royal District Office (Starostwo) in Pilzno of 10 Sep 18[95 or 97], ref. no. 1451; the banns duly announced, and the notice of the rabbinate. Below: Vidi [seen] Pilzno, 15 Jul 1912 [signature, illegible]; faint stamp: Head of the Imperial-Royal District Office (Starostwo)."
   },
   "unlinked_prose_tokens": [
-   "Vidi",
    "Sch",
-   "Estera"
+   "Estera",
+   "Vidi"
   ]
  },
  {
@@ -105546,6 +105540,8 @@
    "Notes": "groom born 13 Dec 1881 and bride 27 jun 1884. Remarks: Documents of the bride: birth certificate of the registry office in Ropczyce of 26 Aug 1909, showing that she was born on 27 Jun 1884. For the groom: birth certificate of the registry office in Dębica, showing that he was born on 6 Dec 1881; military passport (Landwehrpass) as a reservist, dated Rzeszów, 22 Jan 1905; certificate of the banns; certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1912. Wilhelm Zahler, registrar [signature]. Slanting across the remarks column: [one word illegible] 14 Jan 1913[?] [signature]."
   },
   "unlinked_prose_tokens": [
+   "Juda",
+   "Scheindla",
    "Nechemie",
    "Sara",
    "Lejman",
@@ -105553,9 +105549,7 @@
    "Documents",
    "Landwehrpass",
    "Closed",
-   "Zahler",
-   "Juda",
-   "Scheindla"
+   "Zahler"
   ]
  },
  {
@@ -105863,10 +105857,10 @@
    "Notes": "groom born 12 Oct 1885 and bride 3 Jan 1893. Remarks: Documents of the groom: birth certificate dated Dębica, 17 Mar 1913; military passport (Landwehrpass) as a reservist, showing that he was released in 1908. For the bride, this registry&#x27;s own birth book; certificates of the banns and of the rabbinate; and the father&#x27;s consent to the marriage. <a href=\"../person/P0322.html\" data-pid=\"P0322\">Mendel Dintenfass</a> [signature]."
   },
   "unlinked_prose_tokens": [
-   "Documents",
-   "Landwehrpass",
    "Mariem",
-   "Jochwed"
+   "Jochwed",
+   "Documents",
+   "Landwehrpass"
   ]
  },
  {
@@ -106074,11 +106068,11 @@
    "Notes": "groom borth 10 April 1884 bride 12 April 1880. Remarks: Documents of the groom: this registry&#x27;s own birth book (vol. II, p. 149); certificate of the Imperial-Royal District Office (Starostwo) in Pilzno of 26 May 1913 that the military duty has been served. For the bride: birth certificate dated Ropczyce, 6 Mar[?] 1912; certificate of the banns, and certificate of the rabbinate. Slanting in the witnesses column: I certify that the duplicate agrees with the original. Pilzno, 7 Jul 1913 [signature], Imperial-Royal secretary[?]."
   },
   "unlinked_prose_tokens": [
-   "Hudesa",
-   "Documents",
    "Chaskl",
    "Scheindl",
-   "Gitla"
+   "Gitla",
+   "Hudesa",
+   "Documents"
   ]
  },
  {
@@ -106183,8 +106177,8 @@
   },
   "unlinked_prose_tokens": [
    "Dawid",
-   "Mendl",
-   "Josef"
+   "Josef",
+   "Mendl"
   ]
  },
  {
@@ -106288,9 +106282,9 @@
    "Notes": "Remarks: Documents of the groom: birth certificate dated Dąbrowa, 10 Aug 1910; decree of the Imperial-Royal District Court in Dąbrowa of 13 May 1913, ref. no. Nc I 312[?]/13, declaring him of full age; and resolution of the Imperial-Royal District Office (Starostwo) in Dąbrowa of 13 May 1913 that he has fulfilled the military obligations. For the bride: this registry&#x27;s own birth book; decree of the Imperial-Royal District Court in Brzostek of 25 Jun 1913, Nc I 210/13, declaring her of full age; certificate of the banns, and certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1913 [1914 written first, corrected]. <a href=\"../person/P0456.html\" data-pid=\"P0456\">Wilhelm Zahler</a> [signature]; stamp: Jewish Registrar in Brzostek. Slanting: I certify that the duplicate agrees with the original. Pilzno, 17 Jan 1914[?] [signature], Imperial-Royal district commissioner[?]."
   },
   "unlinked_prose_tokens": [
+   "Michal",
    "Documents",
-   "Closed",
-   "Michal"
+   "Closed"
   ]
  },
  {
@@ -106394,11 +106388,11 @@
    "Notes": "groom born 13 apr 1888, bride 29 aug 1891. Remarks: Documents of the groom: this registry&#x27;s own birth book; Landwehr passport dated Nowy Sącz, 17 Jan 1913. Documents of the bride: this registry&#x27;s own birth book; the father&#x27;s consent; certificate of the banns, and certificate of the rabbinate. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz</a> [signature]."
   },
   "unlinked_prose_tokens": [
+   "Jozef",
    "Mojzesz",
    "Sprinze",
    "Documents",
-   "Landwehr",
-   "Jozef"
+   "Landwehr"
   ]
  },
  {
@@ -106477,11 +106471,11 @@
    "Notes": "groom born 15 jan 1888, bride 7 jan 1885. Remarks: Documents of the groom: this registry&#x27;s own birth book; permission of the Imperial-Royal District Office (Starostwo) in Pilzno of 5 Aug 1912, ref. no. 27. Documents of the bride: birth certificate dated Frysztak, 7 Aug 1912; certificate of the banns, and certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1914. Wilhelm Zahler [signature]; stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Mojzesz",
    "Syma",
    "Documents",
    "Closed",
-   "Zahler",
-   "Mojzesz"
+   "Zahler"
   ]
  },
  {
@@ -106577,12 +106571,12 @@
    "Notes": "Remarks: Documents of the bride: this registry&#x27;s own birth book, vol. III[?], p. 4; decree of the Imperial-Royal District Court in Brzostek of 9 Mar 1914, ref. no. P 13/14, declaring her of full age. Of the groom: birth certificate dated Frysztak, 27 Jan 1916; militia (Landsturm) identity card dated Strzyżów, 13 Jun 1915, that he has fulfilled the military obligations; certificate of the banns, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Chaja",
-   "Documents",
-   "Landsturm",
    "Symche",
    "Dawid",
-   "Rojza"
+   "Rojza",
+   "Chaja",
+   "Documents",
+   "Landsturm"
   ]
  },
  {
@@ -106686,12 +106680,12 @@
    "Notes": "Remarks: Documents of the groom: militia (Landsturm) passport dated Pilzno, 19 Feb 1896, no. 55; death record of his late wife Scheindla. Documents of the bride: this registry&#x27;s own birth book, vol. II, p. 6, no. 11; certificate of the banns; certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Fischl",
    "Moshe",
    "Chaja",
    "Documents",
    "Landsturm",
-   "Scheindla",
-   "Fischl"
+   "Scheindla"
   ]
  },
  {
@@ -106795,14 +106789,14 @@
    "Notes": "Remarks: Documents of the groom: birth certificate dated Jezupol, 24 Feb 1916, ref. no. 40; Imperial-Royal Landwehr identity card dated Pilzno, 8 Sep 1915, ref. no. 3/1866, that he has fulfilled the military obligations. For the bride, birth certificate dated J[?]o[?]ź[?]rnica[?] [place unclear], 17 Jan 1916; the banns announced three times, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Documents",
-   "Landwehr",
    "Salamon",
    "Guttenberg",
    "Kopel",
    "Gutstein",
    "Eli",
-   "Ryfka"
+   "Ryfka",
+   "Documents",
+   "Landwehr"
   ]
  },
  {
@@ -106906,10 +106900,10 @@
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, in accordance with the regulations in force, and also on the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Izaak",
-   "Serlie",
    "Mojzesz",
-   "Chaja"
+   "Chaja",
+   "Izaak",
+   "Serlie"
   ]
  },
  {
@@ -107013,10 +107007,10 @@
    "Notes": "Remarks: Documents of the groom: birth certificate dated Bełz, 26 May 191[?]; and on [the registrar&#x27;s] own knowledge, in accordance with the regulations in force; also the banns announced three times, and confirmation by the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Moshe",
    "Laja",
-   "Documents",
-   "Schuster"
+   "Schuster",
+   "Moshe",
+   "Documents"
   ]
  },
  {
@@ -107120,15 +107114,15 @@
    "Notes": "Remarks: Documents of the groom: discharge from the army (Abschied) issued by the Military Command in Rzeszów, dated 31 Dec 1907. For the bride, [the registrar&#x27;s] own knowledge applies, in accordance with the regulations in force; also the banns announced three times, and the notice of the rabbinate. Below the entry: Closed as of 31 Dec 1916. Wilhelm Zahler [signature]; stamp: Jewish Registrar [in Brzostek]."
   },
   "unlinked_prose_tokens": [
+   "Psachja",
+   "Jochweda",
    "Markus",
    "Documents",
    "Abschied",
    "Military",
    "Command",
    "Closed",
-   "Zahler",
-   "Psachja",
-   "Jochweda"
+   "Zahler"
   ]
  },
  {
@@ -107232,9 +107226,9 @@
    "Notes": "groom born 1887 bride 16 May 1890. Remarks: Documents of the bride: birth certificate (born 17 May 1900) dated Sokołów, 30 Jan 1917. For the groom: militia (Landsturm) identity card &quot;C&quot; that he has fulfilled the military obligations; certificate of the banns, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Estera",
    "Documents",
-   "Landsturm",
-   "Estera"
+   "Landsturm"
   ]
  },
  {
@@ -107338,13 +107332,13 @@
    "Notes": "groom born 4/Sep 1864, bride 30 Jan 1883. Remarks: Documents of the bride: birth certificate dated Sanok, 28 Dec 1912. Documents of the groom: birth certificate dated Żabno, 20 Feb 1917; judgment, that is divorce, dated Brzostek, 7 Feb 1906, Nc I 318/5, between Kiwa <a href=\"../person/P2224.html\" data-pid=\"P2224\">Leib Finder</a> and Sprinca Reifen. Certificate of the banns, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Ester",
    "Sch",
    "Sara",
    "Documents",
    "Kiwa",
    "Sprinca",
-   "Reifen",
-   "Ester"
+   "Reifen"
   ]
  },
  {
@@ -107440,12 +107434,12 @@
    "Notes": "groom 31 dec 1878, bride 30 May 1896. Remarks: Documents of the groom: this registry&#x27;s own birth book; as to his widowhood, this registry&#x27;s own death record of his first wife, Chaja née Nechemie. For the bride: birth certificate dated Frysztak, 4 Nov[?] 1915, vol. III, p. 147; permission of the Imperial-Royal District Court in Frysztak of 26 Mar 1917, ref. no. P 495/16, to contract the marriage; certificate of the banns, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Józef",
    "Nechemie",
    "Moishesh",
    "Ruchla",
    "Documents",
-   "Chaja",
-   "Józef"
+   "Chaja"
   ]
  },
  {
@@ -107541,14 +107535,14 @@
    "Notes": "groom born 7 March 1881, bride 2 June 1882. Remarks: Documents of the groom: this registry&#x27;s own birth book, vol. II, p. 89; militia (Landsturm) identity card, certified as to the military obligations. For the bride: birth certificate dated Kraków, 19 Dec 1910; certificate of the commune office in Brzostek as to place of residence. Certificate of the banns, and certificate of the rabbinate. Below entry 4: Closed as of 31 Dec 1917. Wilhelm Zahler [signature]; stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Izaak",
+   "Szymon",
+   "Besla",
    "Sprinca",
    "Documents",
    "Landsturm",
    "Closed",
-   "Zahler",
-   "Izaak",
-   "Szymon",
-   "Besla"
+   "Zahler"
   ]
  },
  {
@@ -107652,12 +107646,12 @@
    "Notes": "Remarks: For the bride: this registry&#x27;s own birth book, vol. III, p. 24. For the groom: this registry&#x27;s own birth book, vol. II, p. 239; permission of the District Office (Starostwo) in Pilzno of 11 Mar 1919, ref. no. 2079; the banns register, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Mojzesz",
+   "Itty",
    "Sara",
    "Dawid",
    "Freidla",
-   "For",
-   "Mojzesz",
-   "Itty"
+   "For"
   ]
  },
  {
@@ -107761,12 +107755,12 @@
    "Notes": "Remarks: Documents: for the bride, this registry&#x27;s own birth book, vol. II, p. 261. For the groom: birth certificate dated Rzeszów, 19 Jun 1919, ref. no. 587; certificate of the commune office in Brzostek of 26 Jun 1919; the banns register, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Chana",
+   "Kloc",
    "Leiba",
    "Feivla",
-   "Chana",
    "Schiloy",
-   "Documents",
-   "Kloc"
+   "Documents"
   ]
  },
  {
@@ -107976,11 +107970,11 @@
    "Notes": "Remarks: For the groom: this registry&#x27;s own birth book, vol. III, p. 34. For the bride: this registry&#x27;s own birth book, vol. III, p. 47; certificate of the banns; ruling[?] of the guardianship court dated Pilzno, 4 Aug 1919, P. 140/17; certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Chana",
    "Rotman",
    "Dawid",
    "Freidla",
-   "For",
-   "Chana"
+   "For"
   ]
  },
  {
@@ -108190,11 +108184,11 @@
    "Notes": "groom born 25 dec 1884, bride 23 jun 1895. Remarks: Documents of the groom: birth certificate dated Frysztak, 17 Jul 1919, ref. no. 339; militia (Landsturm[?]) identity card [2–3 letters illegible] that he has fulfilled the military obligation. Documents of the bride: birth certificate dated Wielopole, 3 Sep 1919, ref. no. [blank]; certificate of the banns, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Feivl",
+   "Jochanowicz",
    "Gitla",
    "Documents",
-   "Landsturm",
-   "Feivl",
-   "Jochanowicz"
+   "Landsturm"
   ]
  },
  {
@@ -108298,10 +108292,10 @@
    "Notes": "groom 7 feb 1890, bride 25 jun 1892. Remarks: Documents of the groom: birth certificate dated Tyczyn, 18 Apr 1919, ref. no. 129. Of the bride: this registry&#x27;s own birth book, [vol.] III[?], p. 6, no. 24; certificate of the banns, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Syma",
    "Juda",
    "Ruchla",
-   "Documents",
-   "Syma"
+   "Documents"
   ]
  },
  {
@@ -108405,11 +108399,11 @@
    "Notes": "groom 8 jun 1890, bride 21 apr 1889. Remarks: Documents of the bride: this registry&#x27;s own birth book, vol. II, p. 241. Of the groom: birth certificate dated Jodłowa, 2[0?] Feb 1919, ref. no. 65; certificate of the banns, and certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1919 [signature, illegible]; stamp of the Jewish Registrar in Brzostek (partly visible)."
   },
   "unlinked_prose_tokens": [
+   "Chana",
    "Izak",
    "Reizla",
    "Documents",
-   "Closed",
-   "Chana"
+   "Closed"
   ]
  },
  {
@@ -108513,11 +108507,11 @@
    "Notes": "groom born 21 Apr 1893, bride 14 Jul 1897. Remarks: For both the bride and the groom: this registry&#x27;s own birth book, vol. III, pp. 13 and 54; and certificate of the banns, and certificate of the rabbinate; identity document as to the fulfilment of military service."
   },
   "unlinked_prose_tokens": [
+   "Leiba",
+   "Deichy",
    "Salamon",
    "Dawid",
-   "For",
-   "Leiba",
-   "Deichy"
+   "For"
   ]
  },
  {
@@ -108533,7 +108527,7 @@
    "Bride (prose)": "Freida Neubart was born in Bączałka and lived here, daughter of the deceased Nusym and Gittli Neubart, innkeepers in Bączałka",
    "Rabbi": "Chaim Wolkenfeld",
    "Witnesses": "Kelman Storcz, merchant in Brzostek, witness. Peretz Sperber, owner of the mill in Kamienica Dolna.",
-   "Notes": "groom born 1854 bride 1860. Remarks: The capacity to contract the marriage rests on [the registrar's] own knowledge, under § 32 of the instructions. Certificate of the banns, and certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1920 [signature, Kalb?], registrar[?]; stamp: Jewish Registrar in Brzostek."
+   "Notes": "groom born 1854 bride 1860. Remarks: The capacity to contract the marriage rests on [the registrar's] own knowledge, under § 32 of the instructions. Certificate of the banns, and certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1920 Wilhelm Zahler, registrar [signature]; stamp: Jewish Registrar in Brzostek."
   },
   "people": [
    {
@@ -108618,14 +108612,15 @@
    "Bride (prose)": "<a href=\"../person/P1867.html\" data-pid=\"P1867\">Freida Neubart</a> was born in Bączałka and lived here, daughter of the deceased Nusym and Gittli Neubart, innkeepers in Bączałka",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0937.html\" data-pid=\"P0937\">Kelman Storcz</a>, merchant in Brzostek, witness. <a href=\"../person/P0646.html\" data-pid=\"P0646\">Peretz Sperber</a>, owner of the mill in Kamienica Dolna.",
-   "Notes": "groom born 1854 bride 1860. Remarks: The capacity to contract the marriage rests on [the registrar&#x27;s] own knowledge, under § 32 of the instructions. Certificate of the banns, and certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1920 [signature, Kalb?], registrar[?]; stamp: Jewish Registrar in Brzostek."
+   "Notes": "groom born 1854 bride 1860. Remarks: The capacity to contract the marriage rests on [the registrar&#x27;s] own knowledge, under § 32 of the instructions. Certificate of the banns, and certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1920 Wilhelm Zahler, registrar [signature]; stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Sprinca",
    "Nusym",
    "Gittli",
    "Closed",
-   "Kalb",
-   "Sprinca"
+   "Wilhelm",
+   "Zahler"
   ]
  },
  {
@@ -108729,16 +108724,16 @@
    "Notes": "Remarks: For the groom: [birth, inserted above the line] certificate dated Dąbrowa, 1 Jun 1908, vol. VII; card of release from the army dated Pilzno, 20 Sep 1920, ref. no. 67, confirmed by the Supplementary [Recruiting] Command in Tarnów. For the bride: [the registrar&#x27;s] own knowledge, under § 32 of the instructions. The banns register, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Leiba",
+   "Sara",
+   "Bernknopf",
    "Mechla",
    "Gitla",
    "Hers",
    "For",
    "Supplementary",
    "Recruiting",
-   "Command",
-   "Leiba",
-   "Sara",
-   "Bernknopf"
+   "Command"
   ]
  },
  {
@@ -108941,13 +108936,13 @@
    "Notes": "Remarks: For the groom: birth certificate dated Wielopole, 22 Aug 1921; certificate of the Supplementary [Recruiting] Command dated Rzeszów, 16 Apr 1919, ref. no. 111; permission of the District Office (Starostwo) in Ropczyce of 18 Nov 1921, ref. no. 875. For the bride: birth certificate dated Wielopole, 27 Aug 1921; the banns announced, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Dawid",
+   "Mariem",
    "Selda",
    "For",
    "Supplementary",
    "Recruiting",
-   "Command",
-   "Dawid",
-   "Mariem"
+   "Command"
   ]
  },
  {
@@ -109051,13 +109046,13 @@
    "Notes": "Remarks: For the bride: this registry&#x27;s own birth book, vol. III, p. 7. For the groom: birth certificate dated Strzyżów, 29 Mar 1921; certificate of the Supplementary [Recruiting] Command, Rzeszów, of 3 Feb 1921, ref. no. 873, as to the military obligations; the banns announced, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Josef",
    "Leiba",
    "Chana",
    "For",
    "Supplementary",
    "Recruiting",
-   "Command",
-   "Josef"
+   "Command"
   ]
  },
  {
@@ -109161,9 +109156,9 @@
    "Notes": "groom born 23 Feb 1896, bride 7/Apr 1897. Remarks: Documents: for the bride, this registry&#x27;s own birth book, vol. III, p. 52, no. 11. For the groom: birth certificate dated Frysztak, 2 Mar 1922, ref. no. 57; permission of the District Office (Starostwo) in Strzyżów of 28 Nov 1921, ref. no. 10970/3, to contract the marriage; certificate of the banns, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Sara",
    "Chaja",
-   "Documents",
-   "Sara"
+   "Documents"
   ]
  },
  {
@@ -109260,11 +109255,11 @@
    "Notes": "groom 22 April 1899, bride 13 May 1892. Remarks: Documents: for the groom, a birth certificate dated Strzyżów, 17 Dec 1920. For the bride: this registry&#x27;s own birth book, vol. III, p. 4, no. 14; certificate of the banns, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Serli",
    "Moshe",
    "Majer",
    "Reizla",
-   "Documents",
-   "Serli"
+   "Documents"
   ]
  },
  {
@@ -109368,12 +109363,12 @@
    "Notes": "groom 10 Nov 1897, bride 3 Jun 1897. Remarks: Documents: for the groom, this registry&#x27;s own birth book, vol. II, p. 56, no. 27; demobilisation certificate of the District Recruiting Command (P.K.U.), ref. no. 65. For the bride: this registry&#x27;s own birth book, vol. II, p. 53, no. 13; certificate of the banns; certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Schaje",
+   "Hudesa",
    "Moshe",
    "Documents",
    "Recruiting",
-   "Command",
-   "Schaje",
-   "Hudesa"
+   "Command"
   ]
  },
  {
@@ -109469,10 +109464,10 @@
    "Notes": "groom 7 Oct 1894, bride 17 Jun 1894. Remarks: Documents: for the groom, birth certificate dated Rozwadów, 25 Apr 1920; certificate of the banns dated Rozwadów, 19 Mar 1922. For the bride: this registry&#x27;s own birth book, vol. III, p. 126; certificate of the banns, and certificates of the rabbin[ate] [cut off at the edge of the photo]."
   },
   "unlinked_prose_tokens": [
+   "Scheindel",
    "Isak",
    "Feigi",
-   "Documents",
-   "Scheindel"
+   "Documents"
   ]
  },
  {
@@ -109576,13 +109571,13 @@
    "Notes": "groom born 11 jan 1898, bride 1886. Remarks: For the groom: birth certificate dated Ropczyce, 16 Jun 1922; certificate of residence from the commune office in Błażkowa of 1 Aug 1922; demobilisation card of the District Recruiting Command (P.K.U.) in Rzeszów of 9 Jun 1921, ref. no. 889/43/21[?], that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. II, p. 189, no. 23; certificate of the banns; certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Jakob",
+   "Ruchla",
    "Isak",
    "For",
    "Błażkowa",
    "Recruiting",
-   "Command",
-   "Jakob",
-   "Ruchla"
+   "Command"
   ]
  },
  {
@@ -109686,10 +109681,10 @@
    "Notes": "groom born 1896, bride 6 Sep 1891. Remarks: For the groom: birth certificate dated Dębica, 6 Aug 1922; certificate of the banns dated Dębica, 6 Aug 1922. For the bride: this registry&#x27;s own birth book, vol. II, p. 249, no. 20; certificate of the banns, and certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Ryfka",
-   "For",
    "Chaja",
-   "Ita"
+   "Ita",
+   "Ryfka",
+   "For"
   ]
  },
  {
@@ -109793,15 +109788,15 @@
    "Notes": "groom born 20 Aug 1895, bride 24 jun 1896. Remarks: For the groom: birth certificate dated Niebylec, 12 Aug 1922; certificate of the banns dated Niebylec, 10 Sep 1922; demobilisation card of the District Recruiting Command (P.K.U.) in Rzeszów, 7 Aug 1920, ref. no. 20/240. For the bride: this registry&#x27;s own birth book, vol. III[?], p. 44, no. 23; and certificates of the rabbinate. Below the entry: Closed as of 31 Dec 1922 [signature, illegible], registrar; stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Markus",
+   "Idesa",
+   "Feitt",
    "Menasche",
    "Schlanger",
    "For",
    "Recruiting",
    "Command",
-   "Closed",
-   "Markus",
-   "Idesa",
-   "Feitt"
+   "Closed"
   ]
  },
  {
@@ -109905,10 +109900,10 @@
    "Notes": "groom born 7 feb 1895, bride 1 sept 1896. Remarks: For the groom: birth certificate dated Ranizów, 26 Jul 1923; certificate of the banns dated Ranizów, 26 Aug 1923. For the bride: this registry&#x27;s own birth book, vol. III, p. 46, no. 30; certificate of the rabbinate of 29 Aug 1923."
   },
   "unlinked_prose_tokens": [
-   "Schlanger",
-   "For",
    "Kiwa",
-   "Dwojra"
+   "Dwojra",
+   "Schlanger",
+   "For"
   ]
  },
  {
@@ -110012,13 +110007,13 @@
    "Notes": "groom born 10 July 1895, bride 13 jan 1895. Remarks: For the groom: military service book of the District Recruiting Command (P.K.U.) in Rzeszów of 11 Apr 1923; certificates of the banns. For the bride: birth certificate dated Frysztak, 8 Feb 1902, ref. no. 256; and certificates of the rabbinate of 29 Aug 1923."
   },
   "unlinked_prose_tokens": [
+   "Salomon",
+   "Tyle",
    "Jakob",
    "Maryam",
    "For",
    "Recruiting",
-   "Command",
-   "Salomon",
-   "Tyle"
+   "Command"
   ]
  },
  {
@@ -110122,13 +110117,13 @@
    "Notes": "groom born 21 Jan 1890, bride 13 Dec 1891. Remarks: For the groom: this registry&#x27;s own birth book, vol. II, p. 255, no. 3; military service book, District Recruiting Command (P.K.U.) Rzeszów, of 4 Apr 1923. For the bride: birth certificate dated Biecz, 18 Dec 192[?], ref. no. 95, according to the birth register there, vol. [written twice] III[?], p. 81, no. 26; and certificate of the banns, and certificates of the rabbinate of 26 Dec 1923. Below the entry: Closed as of 31 Dec 1923 [signature, illegible], registrar[?]; stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Markus",
    "Marya",
    "Hena",
    "For",
    "Recruiting",
    "Command",
-   "Closed",
-   "Markus"
+   "Closed"
   ]
  },
  {
@@ -110224,12 +110219,12 @@
    "Notes": "groom borhn 8 July 1900, bride 14 April 1896. Remarks: For the groom: birth certificate dated Radomyśl Wielki, 12 Feb 1924, birth register there vol. VIII, p. 71, no. 97; and permission to marry from the District Recruiting Command (P.K.U.) in Rzeszów, through the records officer in Pilzno, of 12 Feb 1924, ref. no. 121; certificates of the banns. For the bride: this registry&#x27;s own birth book, vol. III, p. 42, no. 15; certificate of the banns; certificates of the rabbinate of 20 Mar 1924."
   },
   "unlinked_prose_tokens": [
+   "Radomyśl",
+   "Ryfka",
    "Reisli",
    "For",
-   "Radomyśl",
    "Recruiting",
-   "Command",
-   "Ryfka"
+   "Command"
   ]
  },
  {
@@ -110333,11 +110328,11 @@
    "Notes": "groom 21 nov 1891, bride 18 Aug 1896. Remarks: For the groom: birth certificate dated Mielec, 4 Jan 1924, ref. no. 63/24, according to the birth register there, vol. IX, p. 118, no. 163; also military service book, District Recruiting Command (P.K.U.) Rzeszów, 19 Dec 1923. For the bride: this registry&#x27;s own birth book, vol. III, p. 45, no. 28; and certificates of the banns, and certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Salamon",
    "Fischl",
    "For",
    "Recruiting",
-   "Command",
-   "Salamon"
+   "Command"
   ]
  },
  {
@@ -110441,14 +110436,14 @@
    "Notes": "groom 2 Dec 1893, bride 26 March 1897. Remarks: For the groom: birth certificate dated Jodłowa, 18 Aug 1919, ref. no. 44, [showing] that he is entered in the birth register there, vol. II, p. 175; and military service book of the District Recruiting Command (P.K.U.) in Rzeszów, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 52, no. 9; and certificate of the banns, and certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Simche",
+   "Sara",
+   "Fenichel",
    "Reis",
    "Scheindli",
    "For",
    "Recruiting",
-   "Command",
-   "Simche",
-   "Sara",
-   "Fenichel"
+   "Command"
   ]
  },
  {
@@ -110552,9 +110547,9 @@
    "Notes": "groom 24 Jun 1874, bride 1874. Remarks: The capacity to contract the marriage rests on [the registrar&#x27;s] own knowledge, under § 32 of the instructions; certificates of the banns; certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Jakub",
    "Josef",
-   "Golde"
+   "Golde",
+   "Jakub"
   ]
  },
  {
@@ -110658,12 +110653,12 @@
    "Notes": "groom 10 Feb 1901, bride 30 May 1901. Remarks: For the groom: birth certificate dated Sambor, 1[1?] Mar 1924, ref. no. 75/24, [showing] that he is entered in the birth register there of the year 1901, p. 15, no. 43; military service book, District Recruiting Command (P.K.U.) Rzeszów, of 17 Oct 1922, ref. no. 597/58, that he is wholly unfit for military service. For the bride: this registry&#x27;s own birth book, vol. II, p. 92, no. 18; certificate of the banns; certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Jakob",
+   "Neche",
    "Izrael",
    "For",
    "Recruiting",
-   "Command",
-   "Jakob",
-   "Neche"
+   "Command"
   ]
  },
  {
@@ -110767,12 +110762,12 @@
    "Notes": "groom 18 Apr 1898, bride 27 jan 1898. Remarks: For the groom: birth certificate dated Grybów, 3 Aug 1924; mobilisation card of the District Recruiting Command (P.K.U.) Nowy Sącz, ref. no. 54/68; certificate of the banns. For the bride: this registry&#x27;s own birth book, vol. III[?], p. 59, no. 7; certificate of the banns, and certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Nuchym",
+   "Freidla",
    "Ruchla",
    "For",
    "Recruiting",
-   "Command",
-   "Nuchym",
-   "Freidla"
+   "Command"
   ]
  },
  {
@@ -110869,13 +110864,13 @@
    "Notes": "groom 2 nov 1888, bride 2/may 1889. Remarks: For the groom: this registry&#x27;s own birth book, vol. II, p. 232, no. 25; certificate of the commune board in Błażkowa of 18 Nov 1924 that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. II, p. 243, no. [1?]7; death record of [her] first husband dated Frysztak, 6 Nov 1924, ref. no. 219, vol. III, p. 219; certificates of the banns; certificates of the rabbinate. Below the entry: Closed as of 31 Dec 1924 [signature, illegible]; stamp of the Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Hirsch",
+   "Izak",
    "Dawid",
    "Freidla",
    "For",
    "Błażkowa",
-   "Closed",
-   "Hirsch",
-   "Izak"
+   "Closed"
   ]
  },
  {
@@ -110979,10 +110974,10 @@
    "Notes": "groom 7 Sep 1896, bride 18 Mar a897. Remarks: For the groom: birth certificate dated Jasło, 4 Dec 1924, ref. no. 191/24, according to the birth register there, vol. VII, p. 160/1[?], no. 21; certificate of the banns dated Jasło, 28 Dec 1924, ref. no. 33. For the bride: this registry&#x27;s own birth book, vol. II, p. 5[7?], no. 4; banns register, vol. I[?], p. 55, no. 10; certificates of the rabbinate dated Brzostek, 2 Jan 1925."
   },
   "unlinked_prose_tokens": [
-   "For",
    "Mordecheusz",
    "Natan",
-   "Sara"
+   "Sara",
+   "For"
   ]
  },
  {
@@ -111086,13 +111081,13 @@
    "Notes": "groom 10 Sep 1896, bride 6 Sep 1904. Remarks: For the groom: birth certificate dated Frysztak, 21 Dec 1925, ref. no. 249, according to the birth register there, vol. III, p. 26, no. 76; military service book, District Recruiting Command (P.K.U.) Sanok, of 10 Mar 1923; mobilisation card, ref. no. 359. For the bride: birth certificate dated Jarosław, 26 Sep 1921, ref. no. 593, according to the birth register there, vol. XVII, p. 280, no. 135; certificates of the banns; certificates of the rabbinate. &quot;I permit the contracting of the marri[age]&quot; [cut off at the column line; one small word illegible]. Berisch Podhor[z?]er [signature]."
   },
   "unlinked_prose_tokens": [
+   "Josef",
+   "Fradla",
    "Podhorcer",
    "For",
    "Recruiting",
    "Command",
-   "Podhor",
-   "Josef",
-   "Fradla"
+   "Podhor"
   ]
  },
  {
@@ -111196,12 +111191,12 @@
    "Notes": "Remarks: The capacity to contract the marriage rests on [the registrar&#x27;s] own knowledge, under § 32 of the instructions. Certificate of domicile dated Skołoszyn, 10 Feb 1922, ref. no. 22[?]. Certificates of the banns; certificates of the rabbinate of 23 Feb 1925. [Written vertically; red pencil mark beside it.]"
   },
   "unlinked_prose_tokens": [
+   "Salamon",
+   "Chaja",
    "Markus",
    "Cyny",
    "Skołoszyn",
-   "Written",
-   "Salamon",
-   "Chaja"
+   "Written"
   ]
  },
  {
@@ -111305,12 +111300,12 @@
    "Notes": "groom 6 Dec 1893, bride 29 Dec 1900. Remarks: For the groom: birth certificate dated Pilzno, 20 Sep 1919, ref. no. 265, according to the birth register there, vol. II, p. 176, no. 48. For the bride: this registry&#x27;s own birth book, vol. III, p. 87, no. 30; certificates of the banns, and certificates of the rabbinate in Brzostek of 13 Mar 1925."
   },
   "unlinked_prose_tokens": [
-   "Schlanger",
-   "Leji",
-   "For",
    "Jakob",
    "Izaak",
-   "Ester"
+   "Ester",
+   "Schlanger",
+   "Leji",
+   "For"
   ]
  },
  {
@@ -111414,13 +111409,13 @@
    "Notes": "groom 23 Dec 1894, bride 30 Oct 1899. Remarks: For the groom: this registry&#x27;s own birth book, vol. III, p. 30, no. 34; also military service book, District Recruiting Command (P.K.U.) Rzeszów, of 20 Oct[?] 1924, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 77, no. 36; certificates of the banns, and certificates of the rabbinate in Brzostek of 17 Mar 1925."
   },
   "unlinked_prose_tokens": [
+   "Salamon",
+   "Malki",
    "Gitla",
    "Scheindli",
    "For",
    "Recruiting",
-   "Command",
-   "Salamon",
-   "Malki"
+   "Command"
   ]
  },
  {
@@ -111524,12 +111519,12 @@
    "Notes": "groom 23 Dec 1900, bride 21 Apr 1898. Remarks: For the groom: certificate of domicile of the commune of Stopnica of 4 May 1919, ref. no. 710; certificate of residence of the Municipal Council in Tarnów, ref. no. 1038; certificate of the rabbinate in Tarnów of 26 Jul, ref. no. 71. For the bride: this registry&#x27;s own birth book, vol. III, p. 62, no. 17; certificates of the banns, and certificates of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Salamon",
+   "Sara",
    "Hindy",
    "Grosbard",
    "For",
-   "Stopnica",
-   "Salamon",
-   "Sara"
+   "Stopnica"
   ]
  },
  {
@@ -111633,6 +111628,7 @@
    "Notes": "groom 1893, bride 26 Feb 1899. Remarks: For the groom: resolution of the District Office (Starostwo) in Jasło of 4 Sep 1924 that the Voivodeship in Kraków, by rescript of 21 Aug 1924, ref. no. V 5208, granted a dispensation from producing a birth certificate; certificate of residence of the commune of Brzostek of 24[?] Oct 1925; military service book, District Recruiting Command (P.K.U.) Sanok, of 1[?] Sep 1923, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 69, no. 4; certificates of the banns, and also certificates of the rabbinate in Brzostek of 22 [month blotted] 1925. Below entry 7: Closed as of 31 Dec 1925 [signature]; stamp: Jewish Registrar in Brzostek. Lower left, in another hand: Checked! [Pilzno or Dębno?], 17 Jan 1926, Jan [surname illegible] [stamp, partly visible]."
   },
   "unlinked_prose_tokens": [
+   "Izak",
    "Leiby",
    "Chana",
    "Schiloj",
@@ -111641,8 +111637,7 @@
    "Command",
    "Closed",
    "Checked",
-   "Dębno",
-   "Izak"
+   "Dębno"
   ]
  },
  {
@@ -111658,7 +111653,7 @@
    "Bride (prose)": "Pese Aron, daughter of Salamon Dawid, called Dawid, Aron, owner of a dry good store in Brzostek I Malki Perli, called Perl, nee Tager",
    "Rabbi": "Chaim Wolkenfeld",
    "Witnesses": "Walter Mojzesz, merchant in Brzostek, witness. Jakob Schwarz, merchant in Brzostek, witness.",
-   "Notes": "groom 6 March 1899, bride 13 dec 1898 | Later annotation (rescript of the Kraków voivode, 30 Jan 1930): the groom was legitimated by the subsequent marriage of his parents Samuel Turn and Scheindla Klausner and, as Samuel Turn's legitimate son, is entitled to the surname Turn. Remarks: For the groom: birth certificate dated Mielec, 28[?] Sep 1920, ref. no. 37[1?]/20, according to the birth register there, vol. XIII, p. 10, no. 36; also military service book, District Recruiting Command (P.K.U.) Rzeszów, that he has fulfilled [his] military [duty]. For the bride: this registry's own birth book, vol. III, p. 66, no. 32; certificate of the banns, and also certificates of the rabbinate in Brzostek of 3 Jan 1926."
+   "Notes": "groom 6 March 1899, bride 13 dec 1898 | Later annotation (rescript of the Kraków voivode, 30 Jan 1930): the groom was legitimated by the subsequent marriage of his parents Samuel Tum and Scheindla Klausner and, as Samuel Tum's legitimate son, is entitled to the surname Tum. Remarks: For the groom: birth certificate dated Mielec, 28[?] Sep 1920, ref. no. 37[1?]/20, according to the birth register there, vol. XIII, p. 10, no. 36; also military service book, District Recruiting Command (P.K.U.) Rzeszów, that he has fulfilled [his] military [duty]. For the bride: this registry's own birth book, vol. III, p. 66, no. 32; certificate of the banns, and also certificates of the rabbinate in Brzostek of 3 Jan 1926."
   },
   "people": [
    {
@@ -111736,9 +111731,11 @@
    "Bride (prose)": "Pese Aron, daughter of Salamon Dawid, called Dawid, Aron, owner of a dry good store in Brzostek I Malki Perli, called Perl, nee Tager",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P2252.html\" data-pid=\"P2252\">Walter Mojzesz</a>, merchant in Brzostek, witness. <a href=\"../person/P0708.html\" data-pid=\"P0708\">Jakob Schwarz</a>, merchant in Brzostek, witness.",
-   "Notes": "groom 6 March 1899, bride 13 dec 1898 | Later annotation (rescript of the Kraków voivode, 30 Jan 1930): the groom was legitimated by the subsequent marriage of his parents Samuel Turn and Scheindla Klausner and, as Samuel Turn&#x27;s legitimate son, is entitled to the surname Turn. Remarks: For the groom: birth certificate dated Mielec, 28[?] Sep 1920, ref. no. 37[1?]/20, according to the birth register there, vol. XIII, p. 10, no. 36; also military service book, District Recruiting Command (P.K.U.) Rzeszów, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 66, no. 32; certificate of the banns, and also certificates of the rabbinate in Brzostek of 3 Jan 1926."
+   "Notes": "groom 6 March 1899, bride 13 dec 1898 | Later annotation (rescript of the Kraków voivode, 30 Jan 1930): the groom was legitimated by the subsequent marriage of his parents Samuel Tum and Scheindla Klausner and, as Samuel Tum&#x27;s legitimate son, is entitled to the surname Tum. Remarks: For the groom: birth certificate dated Mielec, 28[?] Sep 1920, ref. no. 37[1?]/20, according to the birth register there, vol. XIII, p. 10, no. 36; also military service book, District Recruiting Command (P.K.U.) Rzeszów, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 66, no. 32; certificate of the banns, and also certificates of the rabbinate in Brzostek of 3 Jan 1926."
   },
   "unlinked_prose_tokens": [
+   "Scheindli",
+   "Mielcu",
    "Salamon",
    "Dawid",
    "Malki",
@@ -111747,9 +111744,7 @@
    "Scheindla",
    "For",
    "Recruiting",
-   "Command",
-   "Scheindli",
-   "Mielcu"
+   "Command"
   ]
  },
  {
@@ -111853,13 +111848,13 @@
    "Notes": "groom8 dec 1899, bride 3 sept 1897. Remarks: For the groom: birth certificate dated Frysztak, 10 Jan 1920, ref. no. 11, according to the birth register there, vol. III, p. 142, no. 98; military service book, District Recruiting Command (P.K.U.) Rzeszów, 4 Sep 1923, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 55, no. 23; certificates of the banns; certificates of the rabbinate in Brzostek of 21 Jan 1926."
   },
   "unlinked_prose_tokens": [
+   "Herschel",
+   "Silruic",
+   "Feigi",
    "Estera",
    "For",
    "Recruiting",
-   "Command",
-   "Herschel",
-   "Silruic",
-   "Feigi"
+   "Command"
   ]
  },
  {
@@ -111963,12 +111958,12 @@
    "Notes": "groom 2 April 1898, brid 25 Jul 1902. Remarks: For the groom: birth certificate from Wielopole, according to the register there, vol. III, p. 108, no. 10; military service book, District Recruiting Command (P.K.U.) Rzeszów, ref. no. 745; certificates of the banns dated Wielopole, 3[?] Aug, ref. no. 52. For the bride: birth certificate dated Jodłowa, 25 Jan 1918, ref. no. 3/18; certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Estera",
    "Chaja",
    "Sara",
    "For",
    "Recruiting",
-   "Command",
-   "Estera"
+   "Command"
   ]
  },
  {
@@ -112072,13 +112067,13 @@
    "Notes": "groom 21/ aug 1903, bride 21 Aug 1897. Remarks: For the groom: this registry&#x27;s own birth book, vol. III, p. 111, no. 20; military service book, 10th Mounted Rifles Regiment, ref. no. 180, Kraków, 23 Dec 1925, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 55, no. 21[?]; certificates of the banns, and certificates of the rabbinate [the last line is cut off at the bottom of the photo]."
   },
   "unlinked_prose_tokens": [
+   "Salamon",
+   "Tyle",
    "Dawid",
    "For",
    "Mounted",
    "Rifles",
-   "Regiment",
-   "Salamon",
-   "Tyle"
+   "Regiment"
   ]
  },
  {
@@ -112182,14 +112177,14 @@
    "Notes": "groom 3 July 1900, brider 1 Apr 1901. Remarks: For the groom: birth certificate dated Bobowa, 20 Dec 1921, ref. no. 24, according to the register there, vol. II[?], p. 132, no. 26; military service book, District Recruiting Command (P.K.U.) Nowy Sącz, ref. no. 278, that he has fulfilled [his] military [duty]; certificates of the banns dated Nowy Sącz, 14 Dec 1926, ref. no. 60. For the bride: this registry&#x27;s own birth book, vol. III, p. 90, no. 9; also certificates of the rabbinate in Brzostek of 23 Dec 1926. Below entry 5: Closed as of 31 Dec 1926 [signature]; stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Gotlieb",
+   "Chany",
    "Fenichel",
    "Chaja",
    "For",
    "Recruiting",
    "Command",
-   "Closed",
-   "Gotlieb",
-   "Chany"
+   "Closed"
   ]
  },
  {
@@ -112293,13 +112288,13 @@
    "Notes": "groom 16 Oct 1896, bride 18 dec 1900. Remarks: For the groom: birth certificate dated Wandsbek, 7 Oct 1924, ref. no. 629; and, as to his single status, confirmation by the Police Authority (Polizeibehörde) in Hamburg of 6 Jan 1927, ref. no. 113, and [an H struck out] of the Municipal Council in Kleinsteinach; kept in the register files. For the bride: this registry&#x27;s own birth book, vol. III, p. 87, no. 29; certificate of the banns, and certificates of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Schmerl",
+   "Ezy",
    "Schaja",
    "Hudey",
    "For",
    "Police",
-   "Polizeibeh",
-   "Schmerl",
-   "Ezy"
+   "Polizeibeh"
   ]
  },
  {
@@ -112403,12 +112398,12 @@
    "Notes": "Remarks: For the groom: this registry&#x27;s own birth book, vol. III, p. 85, no. 22; mobilisation card, District Recruiting Command (P.K.U.) Rzeszów, that he has fulfilled [his] military [duty]; certificate of the banns. For the bride: this registry&#x27;s own birth book, vol. III, p. 97, no. 4; certificates of the banns; certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Ester",
    "Dawid",
    "Rozali",
    "For",
    "Recruiting",
-   "Command",
-   "Ester"
+   "Command"
   ]
  },
  {
@@ -112512,13 +112507,13 @@
    "Notes": "Remarks: For the groom: birth certificate dated Strzyżów, 3 Jan 1927, ref. no. 1, according to the register there, vol. IV, p. 176, no. 30; certificates of the banns dated Strzyżów, 3 Jan 1927; military service book, District Recruiting Command (P.K.U.) Sanok, of 6 Aug 1924, ref. no. 468, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 67, no. 30; certificates of the banns, and certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Jakob",
+   "Wislokiem",
    "Mojzesz",
    "Malki",
    "For",
    "Recruiting",
-   "Command",
-   "Jakob",
-   "Wislokiem"
+   "Command"
   ]
  },
  {
@@ -112622,12 +112617,12 @@
    "Notes": "groom 11 dec 1899, 12 dec 1899. Remarks: For the groom: birth certificate dated Jasło, 23 Jun 1913, according to the register there, vol. VI[I?], p. 318, no. 92; certificates of the banns dated Jasło, 4 Jan 1927, ref. no. 30; release card, District Recruiting Command (P.K.U.) Sanok, of 1 Sep 1922, ref. no. 597. For the bride: birth certificate dated Wielopole, 5 Dec 1926, ref. no. 78, according to the register there, vol. III, p. 121, no. 2[9?]; and certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Ruben",
+   "Gitli",
    "Seldi",
    "For",
    "Recruiting",
-   "Command",
-   "Ruben",
-   "Gitli"
+   "Command"
   ]
  },
  {
@@ -112731,15 +112726,15 @@
    "Notes": "groom born 20 <a href=\"../person/P1487.html\" data-pid=\"P1487\">march</a> 1905, bride 10 Jan 1907. Remarks: For the groom: birth certificate dated Warsaw, 26 May 1922, no. 13929; permission of the District Recruiting Command (P.K.U.) Warsaw of 19 Aug 1926, ref. no. 23795/26/II; certificate of residence of the commune of Brzostek of 13 Aug 1926, ref. no. 1347. For the bride: this registry&#x27;s own birth book, vol. III, p. 143, no. 3; permission of the Court in Brzostek of 1 Apr 1927, ref. no. Nc 253; certificates of the banns, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Sarna",
+   "Lejzor",
+   "Cypry",
+   "Spiro",
    "Feiwel",
    "Devora",
    "For",
    "Recruiting",
-   "Command",
-   "Sarna",
-   "Lejzor",
-   "Cypry",
-   "Spiro"
+   "Command"
   ]
  },
  {
@@ -112843,14 +112838,14 @@
    "Notes": "groom born 20 dec 1897, bride 12 <a href=\"../person/P1487.html\" data-pid=\"P1487\">march</a> 1903. Remarks: For the groom: birth certificate dated Mielec, 19 [month corrected, unreadable] 1927, ref. no. 182/27; certificate of the District Recruiting Command (P.K.U.) Rzeszów of 20 Jul 1922, ref. no. 418, that he has fulfilled [his] military [duty]; certificate of the Police in Magdeburg of 20 May 1927, ref. no. 588/E, that he is single; certificate of the father&#x27;s marriage dated Brzostek, 30 May 1927, ref. no. 36; also a record (protocol) of the registry office in Brzostek of 10 Jun 1927. For the bride: birth certificate dated Ulanów, 14 Dec 1922, ref. no. 222; certificate of the banns dated Ulanów, 7 Jun 1927; and certificate of the rabbinate in Brzostek of 21 Jun 1927."
   },
   "unlinked_prose_tokens": [
+   "Scheindla",
    "Rywe",
    "Markus",
    "Chaja",
    "For",
    "Recruiting",
    "Command",
-   "Police",
-   "Scheindla"
+   "Police"
   ]
  },
  {
@@ -113054,6 +113049,7 @@
    "Notes": "groom 23 nov 1892 bride 14 jun 1894. Remarks: For the groom: this registry&#x27;s own birth book, vol. III, p. 9, no. 35; military service book, District Recruiting Command (P.K.U.) Rzeszów, of 9 Jan 1926, ref. no. 175, that he has fulfilled [his] military [duty]; confirmations of single status from the Polish Consulate in Wrocław (Breslau) of 6 Aug 1927, no. 825/o[?]III[?], and from the Police Presidium in Wrocław of 28 Jul 1927, ref. no. [?]/08, and from the Rabbinate in Wrocław; also certificates of the banns. For the bride: birth certificate dated Tarnów, 3 Feb 1926, year 1894, p. 237, no. 247; certificates of the banns, Tarnów, of 24 Jul 1927; and notices of the Rabbi in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Ryfka",
    "Taube",
    "Rachela",
    "For",
@@ -113062,8 +113058,7 @@
    "Consulate",
    "Breslau",
    "Police",
-   "Rabbinate",
-   "Ryfka"
+   "Rabbinate"
   ]
  },
  {
@@ -113160,15 +113155,15 @@
    "Notes": "Remarks: For the groom: birth certificate dated Krościenko, 26 Jan 1918, ref. no. 8, according to the book there, vol. I, p. 22[7?], no. 10; release card, District Recruiting Command (P.K.U.) Nowy Sącz, 30 Sep 1921, ref. no. 762/900; certificate of the banns dated Krościenko, 12 Sep 1927, ref. no. 8. For the bride: this registry&#x27;s own birth book, vol. II, p. 32, no. 7; and certificates of the rabbinate in Brzostek. Below entry 9: Closed as of 31 Dec 1927 [signature]; stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Zine",
+   "Ryfka",
    "Markus",
    "Chaja",
    "For",
    "Krościenko",
    "Recruiting",
    "Command",
-   "Closed",
-   "Zine",
-   "Ryfka"
+   "Closed"
   ]
  },
  {
@@ -113272,15 +113267,15 @@
    "Notes": "groom April 1902, bride Feb 1901. Remarks: For the groom: birth certificate dated Jasienica, 1 May 1922, ref. no. 39, according to the birth register there, vol. III, p. 121, no. 12; also military service book, District Recruiting Command (P.K.U.) Rzeszów, of 1 Jun 1926, ref. no. 709, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 96; certificates of the banns, and certificate of the rabbinate in Brzostek of 1 Apr 1928."
   },
   "unlinked_prose_tokens": [
+   "Pancer",
+   "Gitla",
    "Salomon",
    "Selmon",
    "Tyle",
    "Korzenik",
    "For",
    "Recruiting",
-   "Command",
-   "Pancer",
-   "Gitla"
+   "Command"
   ]
  },
  {
@@ -113384,11 +113379,11 @@
    "Notes": "groom 14 Oct 1904, bride 17feb 1902. Remarks: For the groom: this registry&#x27;s own birth book, vol. III, p. 122, no. 27; military service book, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 99, no. 11; and certificates of the banns, and certificates of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Feigi",
+   "Pancer",
    "Ester",
    "Itty",
-   "For",
-   "Feigi",
-   "Pancer"
+   "For"
   ]
  },
  {
@@ -113599,12 +113594,12 @@
    "Notes": "groom 18feb 1899, bride 21 dec 1893. Remarks: For the groom: birth certificate dated Wielopole, 21 Mar 1927, according to the register there, vol. III, p. 115; military service book, District Recruiting Command (P.K.U.) Rzeszów, of 17 Mar 1923, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 21, no. 36; certificates of the banns, and certificates of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Markus",
+   "Leji",
    "Izak",
    "For",
    "Recruiting",
-   "Command",
-   "Markus",
-   "Leji"
+   "Command"
   ]
  },
  {
@@ -113708,13 +113703,13 @@
    "Notes": "14 Feb 1899 and bride 15 aug 1895. Remarks: For the groom: birth certificate dated Gorlice, 2[3 or 8] Jul 1928, ref. no. 248, according to the register there, vol. IV[?], p. 115, no. 35; certificates of the banns dated Jasło, 19 Aug 1928; military service book, District Recruiting Command (P.K.U.) Jasło, ref. no. 4171/3, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. 3, p. 36, no. 24; certificates of the banns; certificates of the rabbinate in Brzostek of 19 Aug 1928. Below entry 5: Closed as of 31 Dec 1928 [signature]; stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Feiwel",
    "Ruchla",
    "Ryfka",
    "For",
    "Recruiting",
    "Command",
-   "Closed",
-   "Feiwel"
+   "Closed"
   ]
  },
  {
@@ -113818,11 +113813,11 @@
    "Notes": "groom 11/dec 1895, brid 22 apr 1892. Remarks: For the groom: birth certificate dated Baranów, 21 Aug 1927, ref. no. 7[?], according to the register there, vol. I, p. 133, no. 62; certificate of domicile dated Rozwadów, 6 Sep 1927. For the bride: this registry&#x27;s own birth book, vol. III, p. 3, no. 12; and notices of the rabbinate, and certificates of the banns."
   },
   "unlinked_prose_tokens": [
-   "Debora",
-   "For",
    "Isaak",
    "Jakob",
-   "Chana"
+   "Chana",
+   "Debora",
+   "For"
   ]
  },
  {
@@ -113926,11 +113921,11 @@
    "Notes": "groom 1893, bride 28 apr 1890. Remarks: For the groom: dispensation of the Voivodeship in Kraków of 27 Oct 1926, ref. no. Aw. 10768/26; resolution of the District Office (Starostwo) in Jasło of 6 Nov 1926, ref. no. 32908/26. For the bride: this registry&#x27;s own book, vol. II, p. 58, no. 4; certificates of the banns, and notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
-   "Debora",
-   "For",
    "Chiela",
    "Chaja",
-   "Gittli"
+   "Gittli",
+   "Debora",
+   "For"
   ]
  },
  {
@@ -114034,14 +114029,14 @@
    "Notes": "groom 20 march 1902, bride 24 jan 1898. Remarks: For the groom: birth certificate dated Dąbrowa, 1[8?] Nov 1923, according to the book there, vol. VII[?], p. 11; military service book, District Recruiting Command (P.K.U.) in Tarnów, of 5 Nov 1925, ref. no. [one character struck] 179, that he has fulfilled [his] military [duty]; certificate of domicile dated Gorzyce, 28 Aug 1928; also certificate of the banns dated Dąbrowa, 5 Jul 1929. For the bride: this registry&#x27;s own birth book, vol. III, p. 58, no. 4; and notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Hersch",
+   "Keili",
    "Breindla",
    "Fischel",
    "Witla",
-   "Hersch",
    "For",
    "Recruiting",
-   "Command",
-   "Keili"
+   "Command"
   ]
  },
  {
@@ -114145,16 +114140,16 @@
    "Notes": "groom 10 nov 1902, bride 1904. Remarks: For the groom: birth certificate dated Korczyna, 27 Mar 1921, ref. no. 71, and military service book, District Recruiting Command (P.K.U.) Przemyśl, of 11 Nov 1925, ref. no. 85. For the bride: birth certificate dated [the rest runs off the bottom of the photo]. Above the remark, in another hand: I certify that up to today three[?] marriage records of the first half of 1929 have been entered in this duplicate. Pilzno, 26 Aug 1929. District Officer (Starosta Powiatowy) [signature]; stamp [Starostwo, Pilzno]."
   },
   "unlinked_prose_tokens": [
+   "Herz",
+   "Dawid",
+   "Gitla",
    "Malki",
    "For",
    "Recruiting",
    "Command",
    "Officer",
    "Starosta",
-   "Powiatowy",
-   "Herz",
-   "Dawid",
-   "Gitla"
+   "Powiatowy"
   ]
  },
  {
@@ -114258,6 +114253,9 @@
    "Notes": "groom 3 nov 1901, bride 13 May 1907. Remarks: For the groom: birth certificate dated Frysztak, 16 Oct 1929, ref. no. 225, according to the birth book there, vol. III, p. 193, no. 85; certificate of the banns from Frysztak, no. 280; military service book, District Recruiting Command (P.K.U.) Sanok, ref. no. 228. For the bride: this registry&#x27;s own birth book, vol. III, p. 146, no. 15; and certificates of the rabbinate in Brzostek. Below the entry: Closed as of 31 Dec 1929 [signature]. I certify that in the second half of 1929, up to 31 Dec 1929, 2 (two) marriage records[?] were entered in this duplicate. Pilzno, 14 Jan 1930. District Officer (Starosta Powiatowy) [signature]; seals of the Jewish Registrar in Brzostek and of the Starostwo in Pilzno."
   },
   "unlinked_prose_tokens": [
+   "Rubin",
+   "Sary",
+   "Dwora",
    "Nusym",
    "Chana",
    "Scheindla",
@@ -114267,10 +114265,7 @@
    "Closed",
    "Officer",
    "Starosta",
-   "Powiatowy",
-   "Rubin",
-   "Sary",
-   "Dwora"
+   "Powiatowy"
   ]
  },
  {
@@ -114374,11 +114369,11 @@
    "Notes": "As to the groom birth record obtained from Magierow 8/3/1927 l. 38 . Military booklet PKU Rava-Ruska, file of 20 July 1927, entry 1618. As to the bride, birth record Vol 3 page 152 entry 40 and certificate of banns and rabinical certification."
   },
   "unlinked_prose_tokens": [
-   "Bieny",
    "Markus",
    "Wesoła",
    "Schulim",
-   "Ruska"
+   "Ruska",
+   "Bieny"
   ]
  },
  {
@@ -114482,13 +114477,13 @@
    "Notes": "Bride born 21 Jan 1887. A later official note (rescript of the Kraków voivode) corrects the entry: her family surname is Welkes, not Lehrer, and she was born 21 Jan 1887, not 2 Jan 1887. Remarks: For the groom: birth certificate, Nowy Sącz, 22 Feb 1895, no. 41, vol. II, p. 147, no. 187; also death record of [his] first wife Laja dated Frysztak, 30 Jan 1930, ref. no. 32, vol. II, p. 73, no. 13. For the bride: birth certificate dated Lutowiska, 8 Jul 1910, vol. 5, p. 2, no. 1[?]; and certificates of the banns, and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Susl",
+   "Malki",
+   "Kolender",
    "Lutowiska",
    "Mojer",
    "For",
-   "Laja",
-   "Susl",
-   "Malki",
-   "Kolender"
+   "Laja"
   ]
  },
  {
@@ -114584,10 +114579,10 @@
    "Notes": "As for the groom, birth record dated Leżajsk, 1 Sep 1913, ref. no. 20[4?], vol. VI, p. ii, no. 84; also military service book, District Recruiting Command (P.K.U.) Sanok, Łańcut, gr. ew. 361, of 9 Feb 1928. As for the bride, birth record dated Frysztak, 17 Feb 1929, ref. no. 239, vol. IV, p. 214, no. 10; certificate of the banns, and notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Sara",
    "Isak",
    "Recruiting",
-   "Command",
-   "Sara"
+   "Command"
   ]
  },
  {
@@ -114683,10 +114678,10 @@
    "Notes": "Remarks: For the groom: birth certificate dated Dębica, 4 Jun 1930, ref. no. 121/30; certificate of the banns dated Dębica, 4 Jun 1930, ref. no. 122. For the bride: this registry&#x27;s own birth book, vol. III, p. 93, no. 24; certificate of the banns, and notices of the rabbinate. Below: I certify that in the first half of 1930 up to today [?] [number cut off] marriage records were entered in this duplicate [the rest runs off the bottom of the photo]; round seal."
   },
   "unlinked_prose_tokens": [
+   "Itty",
    "Chany",
    "Feigi",
-   "For",
-   "Itty"
+   "For"
   ]
  },
  {
@@ -114790,11 +114785,11 @@
    "Notes": "grom 21 dec 1899 bride 18 nov 1907. Remarks: For the groom: birth record of Dębica, the original of which is with the District Office (Starostwo) in Pilzno under ref. no. 12754[?], of 22 Jan 1925. For the bride: this registry&#x27;s own birth book, vol. III, p. 151, no. 34; certificate of the banns, and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Scheindla",
-   "For",
    "Markus",
    "Malki",
-   "Schlanger"
+   "Schlanger",
+   "Scheindla",
+   "For"
   ]
  },
  {
@@ -114898,6 +114893,9 @@
    "Notes": "groom 21 may 1908, brider 6 aug 1901. Remarks: For the groom: birth certificate dated Tarnobrzeg, 28 Aug 1928, ref. no. 175, according to the birth book there, vol. VII, p. 139, no. 50; certificate of the banns dated Tarnobrzeg, 1 Sep 1930, ref. no. 901; and military service book, District Recruiting Command (P.K.U.) Tarnów, 21 May 1929, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 94, no. 25; and certificates of the rabbinate. Below the entry: Closed as of 31 Dec 1930 [signature]. Seen! Brzesko[?], 26 Jan 1931. For the District Officer (Starosta): [signature] (stamp: BURSZTYN); stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Dawid",
+   "Majer",
+   "Szyfra",
    "Hindy",
    "Itty",
    "Grossbart",
@@ -114906,10 +114904,7 @@
    "Command",
    "Closed",
    "Officer",
-   "Starosta",
-   "Dawid",
-   "Majer",
-   "Szyfra"
+   "Starosta"
   ]
  },
  {
@@ -115013,13 +115008,13 @@
    "Notes": "groom 4 oct 1902, bride 13 sept 1903. Remarks: For the groom: military service book, District Recruiting Command (P.K.U.) Stanisławów, book no. 317; certificates of the American Consulate of 15 Dec 1931, ref. no. 23751, and of the Polish Consulate of 29 Dec 1931, ref. no. 4954, that he is single. For the bride: this registry&#x27;s own birth book, vol. III, p. 111, no. 23; the banns three times, and certificate of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Osiasz",
+   "Chany",
    "Salaman",
    "For",
    "Recruiting",
    "Command",
-   "Consulate",
-   "Osiasz",
-   "Chany"
+   "Consulate"
   ]
  },
  {
@@ -115123,13 +115118,13 @@
    "Notes": "groom 22 march 1908, bride 20 apr 1905. Remarks: For the groom: birth certificate dated Krosno, 28 Feb 1932, ref. no. 27, according to the book there, vol. I, p. 184, no. 22; certificate of the banns dated Krosno, 13 Mar 1932, ref. no. 4; military service book, District Recruiting Command (P.K.U.) Sanok, ref. no. 470. For the bride: this registry&#x27;s own birth book, vol. III, p. 129, no. 13; certificate of the banns, and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Lipy",
+   "Rechli",
    "Mojzesz",
    "Hindy",
    "For",
    "Recruiting",
-   "Command",
-   "Lipy",
-   "Rechli"
+   "Command"
   ]
  },
  {
@@ -115332,12 +115327,12 @@
    "Notes": "groom 1 jun 1903, bride 4 nov 1904. Remarks: For the groom: birth certificate dated Dębica, 28 May 1920, ref. no. 185; certificates of the banns dated Dębica, 12 Apr 1932. For the bride: this registry&#x27;s own birth book, vol. III, p. 123, no. 28; and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Hindy",
-   "For",
    "Isak",
    "Berla",
    "Mindli",
-   "Nichy"
+   "Nichy",
+   "Hindy",
+   "For"
   ]
  },
  {
@@ -115441,12 +115436,12 @@
    "Notes": "groom 15 may 1898, bride 8 Feb 1903. Remarks: For the groom: birth certificate dated Nowy Sącz, 19 Oct 1931, ref. no. 952; military service book, District Recruiting Command (P.K.U.) Nowy Sącz, of 3 Sep 1923, ref. no. 80. For the bride: this registry&#x27;s own birth book, vol. III, p. 107, no. 5; and notices of the rabbinate, and the banns three times."
   },
   "unlinked_prose_tokens": [
+   "Juda",
+   "Reisli",
    "Chaja",
    "For",
    "Recruiting",
-   "Command",
-   "Juda",
-   "Reisli"
+   "Command"
   ]
  },
  {
@@ -115550,12 +115545,12 @@
    "Notes": "groom 15 jun 1899, bride 22Feb1904. Remarks: Documents of the groom: birth certificate dated Wielopole, 6 Jun 1925, according to the birth book there, vol. III, p. 117, no. 15. Documents of the bride: birth certificate dated Dąbrowa, 23 Feb 1930, according to the birth book there, vol. XXI, p. 7, no. 28."
   },
   "unlinked_prose_tokens": [
+   "Rojza",
    "Reisel",
    "Siendla",
    "Feigi",
    "Ryfki",
-   "Documents",
-   "Rojza"
+   "Documents"
   ]
  },
  {
@@ -115651,11 +115646,11 @@
    "Notes": "groom 22 jan 1906, bride 5 jun 1901. Remarks: Documents of the groom: birth certificate dated Przeworsk, 21 Jan 1932, according to the birth book there, vol. VI, p. 133, no. 12. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 91, no. 15; certificate of the banns, and certificates of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Chaja",
+   "Sara",
    "Mojzesz",
    "Sprinzy",
-   "Documents",
-   "Chaja",
-   "Sara"
+   "Documents"
   ]
  },
  {
@@ -115759,14 +115754,14 @@
    "Notes": "groom 11 dec 1902, brid 5 jun 1905. Remarks: Documents of the groom: birth certificate dated Pilzno, 16 Aug 1932, according to the book there, vol. IV, p. 166, no. 84; certificate of residence of the commune office in Bączałka of 15 Aug 1932. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 131, no. 19; certificate of the banns, and certificates of the rabbinate. Below the entry: Closed as of 31 Dec 1932 [signature]. I certify that the duplicate agrees with the original marriage book. Jasło, 20 Mar 1933. District Officer (Starosta): [signature] (MAROSSANYI); red stamps."
   },
   "unlinked_prose_tokens": [
+   "Samuela",
+   "Gitli",
    "Akiwa",
    "Ryfki",
    "Documents",
    "Closed",
    "Officer",
-   "Starosta",
-   "Samuela",
-   "Gitli"
+   "Starosta"
   ]
  },
  {
@@ -115863,10 +115858,10 @@
    "Notes": "groom 25 Mar 1907, bride 10oct 1898. Remarks: Documents of the groom: birth certificate dated Tarnów, 1[7?] Oct 1925, according to the birth book there, 1907, vol. II[?], no. 19; certificate of domicile in Tarnów, ref. no. 20035. Documents of the bride: certificate of the commune of Tarnów of 17 Feb 1933, ref. no. 63; certificate of domicile dated Tarnów, 6 Jul 1917, no. 155/17; authorisation by the rabbinate in Tarnów empowering the rabbinate in Brzostek to perform the marriage, dated Tarnów, 17 Feb 1933; and the official notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Chaji",
    "Naftalego",
    "Jani",
-   "Documents",
-   "Chaji"
+   "Documents"
   ]
  },
  {
@@ -115962,10 +115957,10 @@
    "Notes": "groom 13 marc 1903, bride 23 may 1902. Remarks: Documents of the groom: birth certificate dated Krosno, 24 Mar 1932, ref. no. 41; certificates of residence of the commune office in Brzostek of 13 Feb 1933, ref. no. 73/Pr./33. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 101, no. 20; certificates of the banns, and notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Ruchli",
    "Rudy",
    "Schlanger",
-   "Documents",
-   "Ruchli"
+   "Documents"
   ]
  },
  {
@@ -116069,11 +116064,11 @@
    "Notes": "groom 1 jun1894, bride 22 march 1903. Remarks: Documents of the groom: this registry&#x27;s own birth book, vol. III, p. 25, no. 16. Documents of the bride: birth certificate dated Ulanów, 2 Jun 1933, according to the birth register there, vol. VIII, p. 195, no. 23; certificate of residence dated Brzostek, 17 Jun[?] 1933; divorce by the District Court in Nisko of 28 Apr 1931, ref. no. Nc 40/31."
   },
   "unlinked_prose_tokens": [
+   "Debor",
    "Dawid",
    "Rizy",
    "Documents",
-   "Nisko",
-   "Debor"
+   "Nisko"
   ]
  },
  {
@@ -116177,11 +116172,11 @@
    "Notes": "groom 28 july 1906, bride 6 jan 1906. Remarks: Documents of the groom: birth certificate dated Strzyżów, 13 Jun 1927, ref. no. 35; certificates of residence of the commune office in Brzostek of 11 Jul 1933. Documents of the bride: this registry&#x27;s own book, vol. III, p. 135, no. 4; certificates of the banns, and notices of the rabbin[ate] [the rest is cut off at the bottom of the photo]."
   },
   "unlinked_prose_tokens": [
+   "Tilly",
    "Mechla",
    "Pini",
    "Bronheim",
-   "Documents",
-   "Tilly"
+   "Documents"
   ]
  },
  {
@@ -116285,15 +116280,15 @@
    "Notes": "groom 19 Feb 1904, bride 5 Apr 1905. Remarks: Documents of the groom: this registry&#x27;s own birth book, vol. III, p. 22, no. 4; divorce decision of the District Court in Brzostek of 14 Apr 1931, ref. no. Nc 232/31 [one digit possibly corrected to 3]. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 148, no. 7; and the banns three times, and notices of the rabbinate. Below the entry: Closed as of 31 Dec 1933 [signature]. I certify that [this] agrees with the original. Jasło[?], 20 Jan 1934 [signature]; stamps: District Office (Starostwo Powiatowe) of Jasło; For the District Officer: Mgr. Nygrzynolski[?]."
   },
   "unlinked_prose_tokens": [
+   "Fischel",
+   "Złaty",
    "Ruchli",
    "Documents",
    "Closed",
    "Powiatowe",
    "For",
    "Officer",
-   "Mgr",
-   "Fischel",
-   "Złaty"
+   "Mgr"
   ]
  },
  {
@@ -116397,12 +116392,12 @@
    "Notes": "groom 26 jan 1908, bride 11 july 1907. Remarks: Documents of the groom: birth certificate dated Korczyna, [4 or 11] Nov 1928, according to the birth book there, vol. VII, p. 282, no. 2. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 149, no. 25; the banns three times, and notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
-   "Mojzesz",
-   "Hindy",
-   "Documents",
    "Izak",
    "Arie",
-   "Cypre"
+   "Cypre",
+   "Mojzesz",
+   "Hindy",
+   "Documents"
   ]
  },
  {
@@ -116506,12 +116501,12 @@
    "Notes": "22 April 1896, bride 10 Sep 05. Remarks: Documents of the groom: this registry&#x27;s own birth book, vol. III, p. 73, no. 17. Documents of the bride: birth certificate dated Rozwadów, 20 Mar 1917, according to the birth book there, p. 76; also certificate of registration [of residence] of the commune office in Brzostek of 16 Sep 1932; and the banns three times, and notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Debora",
    "Sara",
    "Chana",
    "Herscha",
    "Dyny",
-   "Documents",
-   "Debora"
+   "Documents"
   ]
  },
  {
@@ -116615,10 +116610,10 @@
    "Notes": "groom 27 oct 1903, brie 10 Jan 1899. Remarks: Documents of the groom: birth certificate dated Bochnia, 11 Jul 1920, ref. no. 415, according to the register there, vol. IV, p. 68, no. 11[5?]; certificate of the banns dated Bochnia, 18 Feb 1934, ref. no. 7. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 70, no. 5; certificate of the banns; notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
-   "Debora",
-   "Documents",
    "Markus",
-   "Itty"
+   "Itty",
+   "Debora",
+   "Documents"
   ]
  },
  {
@@ -116722,10 +116717,10 @@
    "Notes": "groom 29 Aug 1907, bride 12 Oct 1907. Remarks: Documents of the groom: this registry&#x27;s own birth book, vol. III, p. 132, no. 24. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 150, no. 32; also the banns three times, and notices of the rabbinate [in Brzostek; partly cut off at the bottom of the photo]."
   },
   "unlinked_prose_tokens": [
+   "Ester",
    "Ruchla",
    "Rudy",
-   "Documents",
-   "Ester"
+   "Documents"
   ]
  },
  {
@@ -116829,11 +116824,11 @@
    "Notes": "groom 25 Feb 1896, bride 23 Sep 1909. Remarks: Documents of the groom: birth certificate dated Biecz, 3 Sep 1934 [sic], ref. no. 65/34; military service book dated Rzeszów, 13 Mar 1924, ref. no. II; also certificates of the Police Presidium in Magdeburg of 27 Jun 1934, ref. no. II 2101, that he is single. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 167, no. 24; and the banns three times, and notices of the Rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Schendli",
    "Debora",
    "Documents",
    "Police",
-   "Rabbinate",
-   "Schendli"
+   "Rabbinate"
   ]
  },
  {
@@ -116937,11 +116932,11 @@
    "Notes": "groom 12 Sep 1912, bride 2 Aug 1907. Remarks: Documents of the groom: certificate of the registry office in Turka of 16 May 1934, ref. no. 165/34; certificate of domicile of the commune of Husne Wyżne of 18 Oct 1932. Documents of the bride: birth certificate of the registry office in Pilzno of 3 Mar 1934, ref. no. 59/34; and certificate of the banns, and notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Fiszel",
+   "Blima",
    "Marjem",
    "Documents",
-   "Turka",
-   "Fiszel",
-   "Blima"
+   "Turka"
   ]
  },
  {
@@ -117037,11 +117032,11 @@
    "Notes": "groom 10 June 1906, bride 8 May 1908. Remarks: Documents of the groom: birth certificate dated Ropczyce, 20 Feb 1934, ref. no. 105/34; certificate of the banns dated Ropczyce, 23 Dec 1934. Documents of the bride: birth certificate dated Ropczyce, 20 [Feb or Dec] 1934, ref. no. 106/34; the banns three times, and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Mała",
-   "Documents",
    "Hirsch",
    "Jakob",
-   "Chana"
+   "Chana",
+   "Mała",
+   "Documents"
   ]
  },
  {
@@ -117145,12 +117140,12 @@
    "Notes": "groom 1/1/ 1894, bride 25 Jan 1909. Remarks: Documents of the groom: dispensation of the District Office (Starostwo) in Jasło of 2 Feb[?] 1934, ref. no. a I 4/[6?]/4; certificate of the commune office in Osiek of 1 Feb[?] 1934; military service book, District Recruiting Command (P.K.U.) Jasło, of 12 Feb 1920; certificate of the banns dated Żmigród, 1[2?] Feb[?] 1934. Documents of the bride: [the rest runs off the bottom of the photo]."
   },
   "unlinked_prose_tokens": [
+   "Markus",
+   "Perli",
    "Freidy",
    "Documents",
    "Recruiting",
-   "Command",
-   "Markus",
-   "Perli"
+   "Command"
   ]
  },
  {
@@ -117338,10 +117333,10 @@
    "Notes": "groom 5 Dec 1907, bride 18 Oct 1907. Remarks: Documents of the groom: this registry&#x27;s own birth book, vol. III, p. 15[1?], no. 35. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 15[1?], no. 18; and the banns three times, and notices of the rabbinate in Brzostek of 31 Jan 1935."
   },
   "unlinked_prose_tokens": [
+   "Majer",
    "Brzsotek",
    "Feigi",
-   "Documents",
-   "Majer"
+   "Documents"
   ]
  },
  {
@@ -117445,6 +117440,9 @@
    "Notes": "groom 6 Aug 1904, bride 1900. Remarks: Documents of the groom: this registry&#x27;s own birth book, vol. III, [page not written or lost in the binding], no. 22; and a certificate of the Emigration Presidium[?] in Jerusalem of 9 Feb 1926, and of the Consulate General of the Polish Republic in Jerusalem of 10 Apr 1928, ref. no. 13/0/1[2?]/2, N. 132/28, that the surname was changed from Thau to Tal; certificate of the Ministry[?] in Paris of 4 Apr 1934, ref. no. 603658, that he is single. For the bride: this registry&#x27;s own birth book, vol. III, p. 87, no. [not legible]; and the notice of the Rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Nisan",
+   "Chaja",
+   "Sara",
    "Dwora",
    "Documents",
    "Emigration",
@@ -117453,10 +117451,7 @@
    "General",
    "Republic",
    "Ministry",
-   "Rabbinate",
-   "Nisan",
-   "Chaja",
-   "Sara"
+   "Rabbinate"
   ]
  },
  {
@@ -117560,13 +117555,13 @@
    "Notes": "groom 22 Dec 1903, bride 14 Apr 1907. Remarks: Documents of the groom: birth certificate dated Ulanów, 1[0?] Sep 1935, ref. no. 117/35 [struck out: Documen…]; certificate of the banns dated Ulanów, 2 Oct 1935, ref. no. 117/35. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 145, no. 12; and the banns three times, and notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Dawid",
+   "Schejwy",
    "Judesa",
    "Markus",
    "Schlanger",
    "Documents",
-   "Documen",
-   "Dawid",
-   "Schejwy"
+   "Documen"
   ]
  },
  {
@@ -117670,6 +117665,8 @@
    "Notes": "groom 25 Jan 1909, bride 29 July 1911. Remarks: Documents of the groom: birth certificate dated Rozwadów, 24 Jun 1930, ref. no. 155; certificate of the banns dated Tarnów, 5 Dec 1935. For the bride: birth certificate dated Jasło, 2[2?] Aug 1917, ref. no. 477/17; certificate of the banns dated Jasło, 5 Dec 1935, ref. no. 38/35; and the authorisation of the Rabbinate in Jasło for the Rabbinate in Brzostek to perform this marriage. Below the entry: Closed as of 31 Dec 1935 [signature]; seal: Jewish Registrar in Brzostek; stamp: District Office (Starostwo Powiatowe) of Jasło. I certify that the copy agrees with the original. Jasło, 11 Jan[?] 1936 [signature]; stamp: For the District Officer, [illegible], Religious Affairs Officer[?]."
   },
   "unlinked_prose_tokens": [
+   "Elki",
+   "Karp",
    "Chaja",
    "Gitla",
    "Jakob",
@@ -117682,9 +117679,7 @@
    "For",
    "Officer",
    "Religious",
-   "Affairs",
-   "Elki",
-   "Karp"
+   "Affairs"
   ]
  },
  {
@@ -117788,10 +117783,10 @@
    "Notes": "groom 19 Feb 1905, bride 9 March 1896. Remarks: Documents of the groom: birth certificate dated Frysztak, 7 Feb 1936, ref. no. 17/36, according to the birth book there, vol. IV, p. 70; certificate of the banns dated Frysztak, 14 Feb 1936, no. 61. Documents of the bride: this registry&#x27;s birth book, vol. III, p. 41, no. 10; and the notice of the rabbinate in Brzostek of 18 Feb 1936."
   },
   "unlinked_prose_tokens": [
+   "Sara",
    "Izak",
    "Reisli",
-   "Documents",
-   "Sara"
+   "Documents"
   ]
  },
  {
@@ -117888,10 +117883,10 @@
    "Notes": "groom 4 May 1909, bride 17 Aug 1908. Remarks: Documents of the groom: birth certificate dated Oświęcim, 4 Jun 1935, ref. no. 77, according to the birth book there, vol. XII, p. 170, no. 77; certificate of the banns dated Oświęcim, 23 Feb 1936, no. 11. Documents of the bride: this registry&#x27;s birth book, vol. III, p. 102, no. 23; and notices of the rabbi in Brzostek of 27 Feb 1936."
   },
   "unlinked_prose_tokens": [
+   "Ryfka",
    "Mojzesz",
    "Malki",
-   "Documents",
-   "Ryfka"
+   "Documents"
   ]
  },
  {
@@ -117995,12 +117990,12 @@
    "Notes": "groom 16 Dec 1905, bride 16 Sep 1911. Remarks: Documents of the groom: birth certificate dated Jasło, 13 Feb 1936, ref. no. 23/36, according to the register there, vol. VII, p. 254, no. 110; certificate of the banns dated Jasło, 29 Feb 1936, no. 7/36. Documents of the bride: this registry&#x27;s book, vol. III, [p.] 181, no. 19; and the notice of the rabbinate in Brzostek of 2 Mar 1936."
   },
   "unlinked_prose_tokens": [
+   "Markus",
+   "Chaja",
    "Niche",
    "Kiwa",
    "Amalja",
-   "Documents",
-   "Markus",
-   "Chaja"
+   "Documents"
   ]
  },
  {
@@ -118104,11 +118099,11 @@
    "Notes": "groom 15 Jan 1911, bride 25 Oct 1903. Remarks: Documents of the groom: birth certificate dated Strzyżów, 23 Jun 19[3 or 2]6, ref. no. 41, according to the register there, vol. [I or E?], p. 1, no. 4; certificate of the banns dated Strzyżów, 5 Mar 1936, ref. no. 5. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 114; and the notice of the rabbinate in Brzostek of 8 [Feb?] 1936."
   },
   "unlinked_prose_tokens": [
-   "Debora",
-   "Documents",
    "Josef",
    "Diamanta",
-   "Dwojra"
+   "Dwojra",
+   "Debora",
+   "Documents"
   ]
  },
  {
@@ -118212,20 +118207,20 @@
    "Notes": "groom 7 May 1905, bride 10 Sep 1909. Remarks: Documents of the groom: birth certificate dated Krosno, 4 Feb 1936, ref. no. 45, according to the register there, vol. I, p. 114, no. 29; certificate of the banns dated Jedlicze, 23 Feb 1936, ref. no. 4/36. Documents of the bride: this registry&#x27;s book, vol. III, p. 166, no. 14; and the banns three times, and the notice of the rabbinate in Brzostek. Below the entry: Closed as of 31 Dec 1936 [signature]; seal: Jewish Registrar in Brzostek; stamp: District Office (Starostwo Powiatowe) of Jasło. I certify that the copy agrees with the original. Jasło, 5 Jan 1937 [signature]; stamp: For the District Officer, Religious Affairs Officer[?]."
   },
   "unlinked_prose_tokens": [
+   "Jakob",
+   "Szymon",
+   "Chana",
+   "Sara",
    "Mojzesz",
    "Isak",
    "Chaja",
-   "Sara",
    "Documents",
    "Closed",
    "Powiatowe",
    "For",
    "Officer",
    "Religious",
-   "Affairs",
-   "Jakob",
-   "Szymon",
-   "Chana"
+   "Affairs"
   ]
  },
  {
@@ -118322,14 +118317,14 @@
    "Notes": "groom 12 August 1912, bride 17 Oct 1909. Remarks: Documents of the groom: certificate of the Chief Rabbinate in Tel Aviv of 20 Feb 1936, no. 97/543, confirmed by the Polish Consulate, no. 3024/36, that he is single and that there is no impediment to the marriage; passport from Tel Aviv, no. 74917, with a visa of the Polish Consulate, no. 1067/36. Documents of the bride: birth certificate dated Ropczyce, 3 Dec 1936, ref. no. 140/36; certificate of the commune board in Brzostek of 6 Oct 1936 that she lives in this commune; and the banns three times, and notices of the rabbinate in Brzostek of 10 Feb 1937."
   },
   "unlinked_prose_tokens": [
+   "Isak",
    "Mała",
    "Jakob",
    "Chana",
    "Documents",
    "Chief",
    "Rabbinate",
-   "Consulate",
-   "Isak"
+   "Consulate"
   ]
  },
  {
@@ -118433,11 +118428,11 @@
    "Notes": "groom 16 Jan 1897, bride 29 Dec 1899. Remarks: Documents of the groom: this registry&#x27;s birth book, vol. III, p. 50, no. 1. Documents of the bride: this registry&#x27;s birth book, vol. III, p. 79, no. 41; and the banns announced three times, and notices of the rabbinate in Brzostek of 8 Apr 1937."
   },
   "unlinked_prose_tokens": [
+   "Salamon",
+   "Malki",
    "Fischel",
    "Witli",
-   "Documents",
-   "Salamon",
-   "Malki"
+   "Documents"
   ]
  },
  {
@@ -118541,13 +118536,13 @@
    "Notes": "groom 18 Dec 1906, bride 25 Oct 1901. Remarks: Documents of the groom: birth certificate dated Lutowiska, 24 Jan 1934, ref. no. 34/34, vol. VII, p. 57, no. 105. Documents of the bride: certificate of the commune board in Januszkowice; and the banns three times; notices of the rabbinate. In the left margin beside the groom&#x27;s name: [two short words, uncertain: perhaps &#x27;odpis dany&#x27;, copy issued]."
   },
   "unlinked_prose_tokens": [
+   "Berla",
+   "Kornhausser",
+   "Lutowiska",
    "Laja",
    "Schilames",
    "Schlanger",
-   "Documents",
-   "Lutowiska",
-   "Berla",
-   "Kornhausser"
+   "Documents"
   ]
  },
  {
@@ -118651,9 +118646,9 @@
    "Notes": "groom 22 Dec 1911, bride 10 Oct 1907. Remarks: Documents of the groom: this registry&#x27;s book, vol. III, p. 183. Documents of the bride: birth certificate in Tyczyn, vol. P. &amp; II[?], record no. 61; the banns three times, and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Reisli",
    "Feigi",
-   "Documents",
-   "Reisli"
+   "Documents"
   ]
  },
  {
@@ -118846,10 +118841,10 @@
    "Notes": "groom 29 Nov 1902, bride 13 Feb 1902. Remarks: Documents of the groom: birth certificate dated Dąbrowa, 4 Jul 1924, no. 17, according to the birth book there, [vol.] XIX, p. 44, no. 168; certificate of the banns dated Tarnów, 14 Mar 1937. Documents of the bride: this registry&#x27;s birth book, vol. III, p. 99, no. 9; and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Chaja",
    "Fischel",
    "Witli",
-   "Documents",
-   "Chaja"
+   "Documents"
   ]
  },
  {
@@ -118953,11 +118948,11 @@
    "Notes": "groom 19 May 1907, bride 4 July 1911. Remarks: Documents of the groom: this registry&#x27;s book, vol. III, p. 146, no. 15. Documents of the bride: this registry&#x27;s book, vol. III, p. 179, no. 10; and the banns three times, and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Chaji",
    "Laje",
    "Fischel",
    "Gitli",
-   "Documents",
-   "Chaji"
+   "Documents"
   ]
  },
  {
@@ -119053,14 +119048,14 @@
    "Notes": "groom 20 July 1909, bride 20 Oct 1904. Remarks: Documents of the groom: birth certificate dated Rudnik, 7 May 1929, ref. no. 136, entered in the register there, vol. I, p. 163, no. 52; certificate of the banns dated Rzeszów, 8 Aug 1937, ref. no. 120. For the bride: this registry&#x27;s book, vol. III, p. 122, no. 26; and the banns three times, and notices of the rabbinate. Below the entries: Closed as of 30 Dec 1937 [signature]; seal: Jewish Registrar in Brzostek; stamp: District Office (Starostwo Powiatowe) of Jasło. I certify that the duplicate agrees with the original marriage book. Jasło, 3 Jan 1938 [signature, title illegible]."
   },
   "unlinked_prose_tokens": [
+   "Reisli",
    "Ruchla",
    "Schlanger",
    "Menasche",
    "Malki",
    "Documents",
    "Closed",
-   "Powiatowe",
-   "Reisli"
+   "Powiatowe"
   ]
  },
  {
@@ -119164,9 +119159,9 @@
    "Notes": "groom 7 March 1901, bried 17 Sep 1909. Remarks: Documents of the groom: birth certificate dated Tyczyn, 1 Feb 1929, ref. no. 157/29, according to the birth register there, vol. G. I, p. 126, no. 17; certificate of the banns dated Tyczyn, 20 Dec 1937. Documents of the bride: this registry&#x27;s book, vol. III, p. 166, no. 23; and the banns three times; notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
-   "Documents",
    "Salamon",
-   "Gitli"
+   "Gitli",
+   "Documents"
   ]
  },
  {
@@ -119270,12 +119265,12 @@
    "Notes": "groom 1912, bride 6 may 1913. Remarks: Documents of the groom: birth certificate dated Sanok, 27 Sep[?] 1936, ref. no. 520/36, according to the birth book there, vol. VI, p. 325, no. 76; certificate of the banns dated Sanok, 8 Feb 1938, ref. no. 5. Documents of the bride: this registry&#x27;s birth book, vol. IV, p. 2, no. 6; and the banns three times, and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Kiva",
-   "Malki",
-   "Documents",
    "Salamon",
    "Blimy",
-   "Ley"
+   "Ley",
+   "Kiva",
+   "Malki",
+   "Documents"
   ]
  },
  {
@@ -119379,11 +119374,11 @@
    "Notes": "groom 2 dec 1916, bride 1 Aug 1909. Remarks: Documents of the groom: birth certificate dated Jasło, 26 Aug 1930, according to the birth book there, vol. X, p. 71, no. 28; certificate of the banns dated Jasło, 13 Mar 1938, ref. no. 9/38; authorisation of the rabbinate in Jasło for the rabbinate in Brzostek to perform this marriage. Documents of the bride: birth certificate dated Ulanów, 11 Nov 1929, ref. no. 21/29, according to the birth book there, vol. [I?]X, p. 149; certificate of the banns dated Ulanów, 13 Mar 1938, ref. no. 45/[4?]; and notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
-   "Tauby",
-   "Documents",
    "Mordechy",
    "Breindli",
-   "Gew"
+   "Gew",
+   "Tauby",
+   "Documents"
   ]
  },
  {
@@ -119479,9 +119474,9 @@
    "Notes": "groom 14 may 1898, bride 18 dec 1904. Remarks: Documents of the groom: this registry&#x27;s book, vol. III, p. 68, no. 39. Documents of the bride: this registry&#x27;s book, vol. III, p. 124, no. 35; and the banns three times, and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
+   "Ezry",
    "Sara",
-   "Documents",
-   "Ezry"
+   "Documents"
   ]
  },
  {
@@ -119585,15 +119580,15 @@
    "Notes": "groom 9 Dec 1913, bride 1 March 1910. Remarks: Documents of the groom: birth certificate dated Dąbrowa, 25 Mar 1938, ref. no. 77/38. Documents of the bride: this registry&#x27;s book, vol. III, p. 1[7?]1, no. 8; certificate of residence of the commune office in Brzostek; the banns three times, and notices of the rabbinate in Brzostek. In the witnesses column, later: Seen[?] … 5 Apr[?] 1938 [signature]; faint stamp: [P]aliszek[?], Deputy District Officer."
   },
   "unlinked_prose_tokens": [
+   "Sily",
+   "Kressli",
    "Jakob",
    "Elizer",
    "Ruchla",
    "Documents",
    "Seen",
    "Deputy",
-   "Officer",
-   "Sily",
-   "Kressli"
+   "Officer"
   ]
  },
  {
@@ -119683,11 +119678,11 @@
    "Notes": "groom 5 May 1911, bride 25 May 1912. Remarks: Documents of the groom: birth certificate dated Pilzno, 12 Feb 1932, ref. no. 29/32, according to the book there, vol. IV, p. 484, no. 15; certificate of residence, commune board of Brzostek, of 18 Jun[?] 1938. Documents of the bride: birth certificate from Mszana Dolna, 6 Apr 1933, according to the book there, vol. XIV, p. 113, no. 11; the banns three times, and the notice of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
+   "Maryem",
    "Jtel",
    "Słomka",
    "Mszana",
-   "Documents",
-   "Maryem"
+   "Documents"
   ]
  },
  {
@@ -119792,10 +119787,10 @@
   },
   "unlinked_prose_tokens": [
    "Majer",
-   "Tyle",
-   "Documents",
    "Isak",
-   "Cywii"
+   "Cywii",
+   "Tyle",
+   "Documents"
   ]
  },
  {
@@ -119982,6 +119977,7 @@
    "Notes": "groom 9 Jun 1906, bride 2 Dec 1907. Remarks: Documents of the groom: birth certificate dated Ropczyce, 13 Dec 1938, ref. no. 184/38, according to the birth book there, vol. VIII, p. 44, no. 27. Documents of the bride: this registry&#x27;s own birth book, vol. III, p. 151, no. 36; and the banns three times, and notices of the rabbinate in Brzostek. Below the entry: Closed as of 31 Dec 1938 [signature]; seal: Jewish Registrar in Brzostek. I certify that this duplicate agrees with the marriage book. Jasło, 30 Jan 1939 [signature]; stamp: District Officer (Starosta Powiatowy); round seal: District Officer of Jasło; stamp: Mgr Zbigniew Pykosz[?], Referendary."
   },
   "unlinked_prose_tokens": [
+   "Sara",
    "Schajego",
    "Hudesy",
    "Documents",
@@ -119992,8 +119988,7 @@
    "Mgr",
    "Zbigniew",
    "Pykosz",
-   "Referendary",
-   "Sara"
+   "Referendary"
   ]
  }
 ]

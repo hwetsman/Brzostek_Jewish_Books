@@ -2857,6 +2857,23 @@
   },
   {
    "town": "Brzostek",
+   "number": "126b",
+   "events": 1,
+   "distinct_surnames": 1,
+   "year_min": 1896,
+   "year_max": 1896,
+   "surnames": [
+    [
+     "Schonwetter",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 1
+   }
+  },
+  {
+   "town": "Brzostek",
    "number": "128",
    "events": 13,
    "distinct_surnames": 2,
@@ -4018,23 +4035,6 @@
    "events_by_kind": {
     "Birth": 1,
     "Naming": 1
-   }
-  },
-  {
-   "town": "Brzostek",
-   "number": "1266",
-   "events": 1,
-   "distinct_surnames": 1,
-   "year_min": 1896,
-   "year_max": 1896,
-   "surnames": [
-    [
-     "Schonwetter",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 1
    }
   },
   {
@@ -9782,7 +9782,7 @@
     },
     {
      "town": "Brzostek",
-     "number": "1266",
+     "number": "126b",
      "events": 1
     },
     {

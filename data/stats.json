@@ -135,7 +135,7 @@
   ],
   [
    "Jacob",
-   44
+   45
   ],
   [
    "Abraham",
@@ -265,7 +265,7 @@
  "death_age_buckets": [
   [
    "<1 year",
-   100
+   101
   ],
   [
    "1–4",
@@ -482,11 +482,11 @@
  },
  "death_totals": {
   "with_cause": 445,
-  "with_age": 443,
+  "with_age": 444,
   "distinct_causes": 112
  },
  "totals": {
-  "persons": 2382,
+  "persons": 2384,
   "births": 723,
   "deaths": 446,
   "marriages": 279,

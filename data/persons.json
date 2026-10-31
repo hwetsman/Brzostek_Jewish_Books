@@ -1979,14 +1979,6 @@
     "role": "Mohel/Name Giver"
    },
    {
-    "record_id": "b-1902-31",
-    "role": "Mohel/Name Giver"
-   },
-   {
-    "record_id": "b-1902-32",
-    "role": "Mohel/Name Giver"
-   },
-   {
     "record_id": "b-1902-33",
     "role": "Mohel/Name Giver"
    },
@@ -3936,7 +3928,6 @@
       "b-1902-28",
       "b-1902-29",
       "b-1902-30",
-      "b-1902-31",
       "b-1902-33",
       "m-1903-2",
       "b-1904-1",
@@ -4385,12 +4376,6 @@
       "m-1904-2",
       "m-1904-3",
       "m-1904-4"
-     ]
-    },
-    {
-     "form": "Chaim Galizer",
-     "rids": [
-      "b-1902-32"
      ]
     },
     {
@@ -15002,6 +14987,10 @@
     "role": "Mohel/Name Giver"
    },
    {
+    "record_id": "b-1900-29",
+    "role": "Witness2"
+   },
+   {
     "record_id": "b-1901-3",
     "role": "Mohel/Name Giver"
    },
@@ -15115,6 +15104,14 @@
    },
    {
     "record_id": "b-1902-25",
+    "role": "Mohel/Name Giver"
+   },
+   {
+    "record_id": "b-1902-31",
+    "role": "Mohel/Name Giver"
+   },
+   {
+    "record_id": "b-1902-32",
     "role": "Mohel/Name Giver"
    },
    {
@@ -15634,6 +15631,7 @@
       "b-1900-9",
       "b-1900-13",
       "b-1900-14",
+      "b-1900-29",
       "m-1900-4",
       "m-1900-5",
       "m-1900-6",
@@ -15686,6 +15684,8 @@
       "b-1902-23",
       "b-1902-24",
       "b-1902-25",
+      "b-1902-31",
+      "b-1902-32",
       "m-1902-1",
       "m-1902-2",
       "m-1902-3",
@@ -21137,7 +21137,7 @@
    "born": {
     "rid": "b-1896-28",
     "date": "18 Aug 1896",
-    "place": "Brzostek, house 1266",
+    "place": "Brzostek, house 126b",
     "entered_as": "Legitimate"
    },
    "died": null,
@@ -34503,7 +34503,7 @@
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1896-6)",
   "marital_status_at_death": null,
-  "father_id": "P1904",
+  "father_id": "P2737",
   "father_name": "Jacob Klotz (tailor Frysztak)",
   "mother_id": "P1931",
   "mother_name": "Riva Klotz née Taud",
@@ -55925,10 +55925,6 @@
     "role": "Witness2"
    },
    {
-    "record_id": "b-1900-29",
-    "role": "Witness2"
-   },
-   {
     "record_id": "b-1904-22",
     "role": "Witness1"
    },
@@ -55963,12 +55959,6 @@
       "b-1904-22",
       "b-1905-12",
       "b-1916-2"
-     ]
-    },
-    {
-     "form": "Chaim Galizer",
-     "rids": [
-      "b-1900-29"
      ]
     },
     {
@@ -67790,7 +67780,7 @@
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1900-8)",
   "marital_status_at_death": null,
-  "father_id": "P0797",
+  "father_id": "P2736",
   "father_name": "Wolf Grunberger",
   "mother_id": "P1973",
   "mother_name": "Bluma Grunberger",
@@ -88423,38 +88413,20 @@
   "father_name": "Yerucham Grunberger",
   "mother_id": "P0568",
   "mother_name": "Miriam Grunberger née Fichner",
-  "spouse_ids": [
-   "P1973"
-  ],
-  "spouse_names": [
-   "Bluma Grunberger"
-  ],
-  "children_ids": [
-   "P0567"
-  ],
-  "children_names": [
-   "Yerucham Grunberger"
-  ],
+  "spouse_ids": [],
+  "spouse_names": [],
+  "children_ids": [],
+  "children_names": [],
   "in_area": "IN_AREA",
   "refs": [
    {
     "record_id": "b-1901-27",
     "role": "Child"
-   },
-   {
-    "record_id": "m-1900-8",
-    "role": "GF"
    }
   ],
   "external_resources": null,
   "identity": {
    "names": [
-    {
-     "form": "Wolf Grunberger",
-     "rids": [
-      "m-1900-8"
-     ]
-    },
     {
      "form": "Wolf (no surname written; child's birth entry)",
      "rids": [
@@ -88479,17 +88451,7 @@
    "birth_date_text": null,
    "death_date_text": null
   },
-  "unions": [
-   {
-    "kind": "rite",
-    "evidence": "described as married by Jewish rite in m-1900-8",
-    "partner_id": "P1973",
-    "group": "2"
-   }
-  ],
-  "partner_groups": {
-   "P1973": "2"
-  }
+  "unions": []
  },
  {
   "id": "P0798",
@@ -166984,16 +166946,13 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P1905",
-   "P1931"
+   "P1905"
   ],
   "spouse_names": [
-   "Mirla Klotz née Hiller",
-   "Ryza Klotz née Taud"
+   "Mirla Klotz née Hiller"
   ],
   "children_ids": [
-   "P0100",
-   "P0243"
+   "P0100"
   ],
   "children_names": [
    "Moses Klotz",
@@ -167004,10 +166963,6 @@
    {
     "record_id": "m-1894-1",
     "role": "GF"
-   },
-   {
-    "record_id": "m-1896-6",
-    "role": "BF"
    }
   ],
   "external_resources": null,
@@ -167016,8 +166971,7 @@
     {
      "form": "Jacob Klotz",
      "rids": [
-      "m-1894-1",
-      "m-1896-6"
+      "m-1894-1"
      ]
     }
    ],
@@ -167039,17 +166993,10 @@
     "evidence": "named as a couple in m-1894-1",
     "partner_id": "P1905",
     "group": "2"
-   },
-   {
-    "kind": "rite",
-    "evidence": "described as married by Jewish rite in m-1896-6",
-    "partner_id": "P1931",
-    "group": "2"
    }
   ],
   "partner_groups": {
-   "P1905": "2",
-   "P1931": "2"
+   "P1905": "2"
   }
  },
  {
@@ -168950,7 +168897,7 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P1904"
+   "P2737"
   ],
   "spouse_names": [
    "Jacob Klotz (tailor)"
@@ -168995,13 +168942,13 @@
    {
     "kind": "rite",
     "evidence": "described as married by Jewish rite in m-1896-6",
-    "partner_id": "P1904",
+    "partner_id": "P2737",
     "group": "2"
    }
   ],
   "heading_name": "Ryza Klotz née Taud",
   "partner_groups": {
-   "P1904": "2"
+   "P2737": "2"
   }
  },
  {
@@ -171616,7 +171563,7 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P0797"
+   "P2736"
   ],
   "spouse_names": [
    "Wolf Grunberger"
@@ -171660,13 +171607,13 @@
    {
     "kind": "rite",
     "evidence": "described as married by Jewish rite in m-1900-8",
-    "partner_id": "P0797",
+    "partner_id": "P2736",
     "group": "2"
    }
   ],
   "heading_name": "Bluma Grunberger",
   "partner_groups": {
-   "P0797": "2"
+   "P2736": "2"
   }
  },
  {
@@ -219249,6 +219196,156 @@
   "heading_name": "Laja Friedman née Berger",
   "partner_groups": {
    "P1476": "2"
+  }
+ },
+ {
+  "id": "P2736",
+  "legal_given": "Wolf",
+  "common_given": "Wolf",
+  "legal_surname": "Grunberger",
+  "common_surname": "Grunberger",
+  "maiden_surname": null,
+  "married_surname": null,
+  "sex": "M",
+  "birth_date": null,
+  "death_date": null,
+  "marriage_dates": null,
+  "occupations": "butcher",
+  "residences": "Janowice",
+  "status": null,
+  "birth_legitimacy": null,
+  "marital_status_at_marriage": null,
+  "marital_status_at_death": null,
+  "father_id": null,
+  "father_name": null,
+  "mother_id": null,
+  "mother_name": null,
+  "spouse_ids": [
+   "P1973"
+  ],
+  "spouse_names": [
+   "Bluma Grunberger"
+  ],
+  "children_ids": [
+   "P0567"
+  ],
+  "children_names": [
+   "Yerucham Grunberger"
+  ],
+  "in_area": "NOT_IN_AREA",
+  "refs": [
+   {
+    "record_id": "m-1900-8",
+    "role": "GF"
+   }
+  ],
+  "external_resources": null,
+  "identity": {
+   "names": [
+    {
+     "form": "Wolf Grunberger",
+     "rids": [
+      "m-1900-8"
+     ]
+    }
+   ],
+   "quotes": [],
+   "surnames": [
+    "Grunberger"
+   ],
+   "born": null,
+   "died": null,
+   "marriages": [],
+   "birth_year": null,
+   "death_year": null,
+   "birth_date_text": null,
+   "death_date_text": null
+  },
+  "unions": [
+   {
+    "kind": "rite",
+    "evidence": "described as married by Jewish rite in m-1900-8",
+    "partner_id": "P1973",
+    "group": "2"
+   }
+  ],
+  "partner_groups": {
+   "P1973": "2"
+  }
+ },
+ {
+  "id": "P2737",
+  "legal_given": "Jacob",
+  "common_given": "Jacob",
+  "legal_surname": "Klotz",
+  "common_surname": "Klotz",
+  "maiden_surname": null,
+  "married_surname": null,
+  "sex": "M",
+  "birth_date": null,
+  "death_date": null,
+  "marriage_dates": null,
+  "occupations": "tailor",
+  "residences": "Frysztak",
+  "status": null,
+  "birth_legitimacy": null,
+  "marital_status_at_marriage": null,
+  "marital_status_at_death": null,
+  "father_id": null,
+  "father_name": null,
+  "mother_id": null,
+  "mother_name": null,
+  "spouse_ids": [
+   "P1931"
+  ],
+  "spouse_names": [
+   "Ryza Klotz née Taud"
+  ],
+  "children_ids": [
+   "P0243"
+  ],
+  "children_names": [
+   "Hene Klotz"
+  ],
+  "in_area": "NOT_IN_AREA",
+  "refs": [
+   {
+    "record_id": "m-1896-6",
+    "role": "BF"
+   }
+  ],
+  "external_resources": null,
+  "identity": {
+   "names": [
+    {
+     "form": "Jacob Klotz",
+     "rids": [
+      "m-1896-6"
+     ]
+    }
+   ],
+   "quotes": [],
+   "surnames": [
+    "Klotz"
+   ],
+   "born": null,
+   "died": null,
+   "marriages": [],
+   "birth_year": null,
+   "death_year": null,
+   "birth_date_text": null,
+   "death_date_text": null
+  },
+  "unions": [
+   {
+    "kind": "rite",
+    "evidence": "described as married by Jewish rite in m-1896-6",
+    "partner_id": "P1931",
+    "group": "2"
+   }
+  ],
+  "partner_groups": {
+   "P1931": "2"
   }
  }
 ]
