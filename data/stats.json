@@ -165,7 +165,7 @@
   ],
   [
    "Hannah",
-   60
+   59
   ],
   [
    "Sarah",
@@ -197,7 +197,7 @@
   ],
   [
    "Shayndel",
-   37
+   36
   ]
  ],
  "top_causes_of_death": [
@@ -486,7 +486,7 @@
   "distinct_causes": 112
  },
  "totals": {
-  "persons": 2384,
+  "persons": 2382,
   "births": 723,
   "deaths": 446,
   "marriages": 279,

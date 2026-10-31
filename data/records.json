@@ -1806,8 +1806,8 @@
     "person_id": "P0194",
     "display": "David Fichner",
     "role_label": "Father",
-    "written_as": "Moses Fichner",
-    "linked_inline": true
+    "written_as": null,
+    "linked_inline": false
    },
    {
     "role": "Mother",
@@ -1861,7 +1861,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0194.html\" data-pid=\"P0194\">Moses Fichner</a>, foreman of glazing in Błaszkowa",
+   "Father (prose)": "Moses Fichner, foreman of glazing in Błaszkowa",
    "Mother (prose)": "<a href=\"../person/P2563.html\" data-pid=\"P2563\">Chaya</a>, daughter of <a href=\"../person/P0196.html\" data-pid=\"P0196\">Jacob</a> and <a href=\"../person/P0197.html\" data-pid=\"P0197\">Malka Korzennik</a>, owner of farm land in Czermna",
    "Witnesses (prose)": "<a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness. <a href=\"../person/P0120.html\" data-pid=\"P0120\">Samuel Bieder</a>, stallholder of spice stall in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
@@ -1966,8 +1966,8 @@
    "Notes": "Acknowledges paternity: Abraham Mojżesz Piperberg [signature]. <a href=\"../person/P0120.html\" data-pid=\"P0120\">Samuel Bieder</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Blutt",
-   "Mojżesz"
+   "Mojżesz",
+   "Blutt"
   ]
  },
  {
@@ -2469,8 +2469,8 @@
    "Notes": "The undersigned acknowledges paternity: Menasche Schild [signature]. Pinkas <a href=\"../person/P0038.html\" data-pid=\"P0038\">Korn</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Bider",
-   "Menasche"
+   "Menasche",
+   "Bider"
   ]
  },
  {
@@ -2971,8 +2971,8 @@
    "Notes": "The undersigned acknowledges paternity: Hersz Bodner [signature]. Salamon <a href=\"../person/P0108.html\" data-pid=\"P0108\">Schönwetter</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Nusyn",
-   "Hersz"
+   "Hersz",
+   "Nusyn"
   ]
  },
  {
@@ -3687,8 +3687,8 @@
    "Notes": "The undersigned acknowledges paternity: [signature in Hebrew letters], that is, Gerschon Tesser; I have signed, and witness <a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a> [signature]."
   },
   "unlinked_prose_tokens": [
-   "Hena",
-   "Gerschon"
+   "Gerschon",
+   "Hena"
   ]
  },
  {
@@ -4080,9 +4080,9 @@
    "Notes": "The undersigned acknowledges paternity: Markus Kleinman [signature]. Alter Ungerischer, industrialist in Brzostek [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Malzau",
    "Markus",
-   "Ungerischer"
+   "Ungerischer",
+   "Malzau"
   ]
  },
  {
@@ -4498,9 +4498,9 @@
    "Notes": "The father acknowledges paternity and signs in his own hand &#x27;Koppel Landau&#x27;. Witness <a href=\"../person/P0069.html\" data-pid=\"P0069\">Alter</a> Ungerischer."
   },
   "unlinked_prose_tokens": [
+   "Ungerischer",
    "Korzenik",
-   "Zimermann",
-   "Ungerischer"
+   "Zimermann"
   ]
  },
  {
@@ -8593,7 +8593,7 @@
   "number": "14",
   "page_image": "1896_13-16_Offner_1747746929308.jpg",
   "fields": {
-   "Given Name": "Moses Berchiel",
+   "Given Name": "Moses Beer Chiel",
    "Sex": "Male",
    "Status": "Illegitimate",
    "Birth Date": "14 Apr 1896",
@@ -8610,9 +8610,9 @@
    {
     "role": "Child",
     "person_id": "P0401",
-    "display": "Moses Berchiel Diamant",
+    "display": "Chiel Diamant",
     "role_label": "Child",
-    "written_as": null,
+    "written_as": "Moses Beer Chiel",
     "linked_inline": false
    },
    {
@@ -10432,9 +10432,9 @@
    "Notes": "The undersigned acknowledges paternity: [signature in Hebrew letters], that is, Markus Türk; I have signed, and witness [name lost at the bottom edge of the photo]."
   },
   "unlinked_prose_tokens": [
+   "Markus",
    "Łabużin",
-   "Gitta",
-   "Markus"
+   "Gitta"
   ]
  },
  {
@@ -11519,8 +11519,8 @@
    "Notes": "The undersigned acknowledges paternity: Markus Kleinman [signature]. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Malzau",
-   "Markus"
+   "Markus",
+   "Malzau"
   ]
  },
  {
@@ -11823,7 +11823,7 @@
    "Given Name": "Gittla",
    "Sex": "Female",
    "Status": "Illegitimate",
-   "Birth Date": "25 Mar 1897",
+   "Birth Date": "23 Mar 1897",
    "Birth Place": "Brzostek, house 86",
    "Naming Date": "27 Mar 1897",
    "Naming Place": "Brzostek, house 149",
@@ -12309,8 +12309,8 @@
    "Notes": "The undersigned acknowledges paternity: Salaman Guttenberg [signature]. <a href=\"../person/P0082.html\" data-pid=\"P0082\">Hersch Weitz</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Nicha",
-   "Salaman"
+   "Salaman",
+   "Nicha"
   ]
  },
  {
@@ -12512,9 +12512,9 @@
    "Notes": "The undersigned acknowledges paternity: ⊖ [his mark] Mojżesz Krantz, I have signed [name and words written by the witness]. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Basia",
    "Mojżesz",
-   "Krantz"
+   "Krantz",
+   "Basia"
   ]
  },
  {
@@ -12820,9 +12820,9 @@
    "Notes": "The undersigned acknowledges paternity: Isak Rewitz [signature]. <a href=\"../person/P0292.html\" data-pid=\"P0292\">Samuel Königsdorf</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Nicha",
    "Isak",
-   "Rewitz"
+   "Rewitz",
+   "Nicha"
   ]
  },
  {
@@ -13219,8 +13219,8 @@
    "Notes": "Acknowledges paternity: Hersz Bodner [signature]. <a href=\"../person/P0363.html\" data-pid=\"P0363\">Peretz Tager</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Nusyn",
-   "Hersz"
+   "Hersz",
+   "Nusyn"
   ]
  },
  {
@@ -16992,7 +16992,7 @@
    "Given Name": "Moses",
    "Sex": "Male",
    "Status": "Illegitimate",
-   "Birth Date": "31 Aug 1871",
+   "Birth Date": "1871",
    "Birth Place": "Siedliska",
    "Naming Date": "1898",
    "Father (prose)": "Leiser Kirsch",
@@ -20552,7 +20552,7 @@
    "Birth Date": "5 Jun 1899",
    "Birth Place": "Grudna Gorna, house 56",
    "Naming Date": "1899",
-   "Mother (prose)": "Scheindla Trachman, without occupation in Grudna Gorna",
+   "Mother (prose)": "Scheindla Trautman, without occupation in Grudna Gorna",
    "Stillborns": "Stillborn"
   },
   "people": [
@@ -20562,7 +20562,7 @@
     "display": "Trautman",
     "role_label": "Child",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Mother",
@@ -20576,7 +20576,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Mother (prose)": "<a href=\"../person/P0127.html\" data-pid=\"P0127\">Scheindla Trachman</a>, without occupation in Grudna Gorna"
+   "Mother (prose)": "<a href=\"../person/P0127.html\" data-pid=\"P0127\">Scheindla</a> <a href=\"../person/P0669.html\" data-pid=\"P0669\">Trautman</a>, without occupation in Grudna Gorna"
   }
  },
  {
@@ -22086,8 +22086,8 @@
    "Notes": "Marriage performed in Brzostek 13 Jun 1893. Below the entry: Closed as of 31 Dec 1899 A. Wróbl [signature]."
   },
   "unlinked_prose_tokens": [
-   "Chrad",
-   "Closed"
+   "Closed",
+   "Chrad"
   ]
  },
  {
@@ -22846,7 +22846,7 @@
    "Birth Place": "Brzostek, house 52",
    "Naming Date": "7 Apr 1900",
    "Naming Place": "Brzostek, house 149",
-   "Father (prose)": "Elias Singer, leather dealer in Brzostek",
+   "Father (prose)": "Elias Singer, legally Jortner, leather dealer in Brzostek",
    "Mother (prose)": "Itta, daughter of Aba Orner, baker in Brzostek, and Hene nee Licht",
    "Witnesses (prose)": "Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness.",
    "Mohel/Name Giver": "Chaim Galizer",
@@ -22922,7 +22922,7 @@
   "unlinked_roles": [],
   "translator_note": "Hene Orner's maiden name is listed as both Licht and Luft in more than one record. Her father is never mentioned and there is no way to know which name was her fathers and her mothers.",
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0709.html\" data-pid=\"P0709\">Elias Singer</a>, leather dealer in Brzostek",
+   "Father (prose)": "<a href=\"../person/P0709.html\" data-pid=\"P0709\">Elias Singer</a>, legally <a href=\"../person/P0709.html\" data-pid=\"P0709\">Jortner</a>, leather dealer in Brzostek",
    "Mother (prose)": "<a href=\"../person/P0710.html\" data-pid=\"P0710\">Itta</a>, daughter of <a href=\"../person/P0299.html\" data-pid=\"P0299\">Aba Orner</a>, baker in Brzostek, and <a href=\"../person/P0300.html\" data-pid=\"P0300\">Hene nee Licht</a>",
    "Witnesses (prose)": "<a href=\"../person/P0065.html\" data-pid=\"P0065\">Moses Mayer Czopp</a>, manager of the cheder in Brzostek, witness. <a href=\"../person/P0102.html\" data-pid=\"P0102\">Leib Orner</a>, cattle dealer in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>",
@@ -24510,7 +24510,7 @@
    "Naming Date": "8 Dec 1900",
    "Naming Place": "Opacionka, house 70",
    "Father (prose)": "Chaim Unger, industrialist in Opacionka",
-   "Mother (prose)": "Shilamis, daughter of Hersch Meilech Schlanger, called Meilech, without occupation in Bardejov, and Sarah Liba, called Liba, nee Weber",
+   "Mother (prose)": "Shilamis, daughter of Hersch Meilech Schlanger, called Meilech, without occupation in Bardejov, and Sarah Liba, called Liba, nee Weller [sic, = Weber]",
    "Witnesses (prose)": "Hersch Schlenger, industrialist in Brzostek, witness. Osiah Baumgarten",
    "Mohel/Name Giver": "Marcus Kleinman",
    "Notes": "Acknowledges paternity: Chaim Unger, I have signed. Hersch Schlenger [signature], witness."
@@ -24587,13 +24587,14 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0650.html\" data-pid=\"P0650\">Chaim Unger</a>, industrialist in Opacionka",
-   "Mother (prose)": "<a href=\"../person/P0651.html\" data-pid=\"P0651\">Shilamis</a>, daughter of <a href=\"../person/P0652.html\" data-pid=\"P0652\">Hersch Meilech</a> Schlanger, called <a href=\"../person/P0652.html\" data-pid=\"P0652\">Meilech</a>, without occupation in Bardejov, and <a href=\"../person/P0653.html\" data-pid=\"P0653\">Sarah Liba</a>, called <a href=\"../person/P0653.html\" data-pid=\"P0653\">Liba</a>, nee <a href=\"../person/P0653.html\" data-pid=\"P0653\">Weber</a>",
+   "Mother (prose)": "<a href=\"../person/P0651.html\" data-pid=\"P0651\">Shilamis</a>, daughter of <a href=\"../person/P0652.html\" data-pid=\"P0652\">Hersch Meilech</a> Schlanger, called <a href=\"../person/P0652.html\" data-pid=\"P0652\">Meilech</a>, without occupation in Bardejov, and <a href=\"../person/P0653.html\" data-pid=\"P0653\">Sarah Liba</a>, called <a href=\"../person/P0653.html\" data-pid=\"P0653\">Liba</a>, nee Weller [sic, = <a href=\"../person/P0653.html\" data-pid=\"P0653\">Weber</a>]",
    "Witnesses (prose)": "<a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a>, industrialist in Brzostek, witness. <a href=\"../person/P0454.html\" data-pid=\"P0454\">Osiah Baumgarten</a>",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Notes": "Acknowledges paternity: <a href=\"../person/P0650.html\" data-pid=\"P0650\">Chaim Unger</a>, I have signed. <a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Schlanger"
+   "Schlanger",
+   "Weller"
   ]
  },
  {
@@ -26807,8 +26808,8 @@
     "person_id": "P0194",
     "display": "David Fichner",
     "role_label": "Father",
-    "written_as": "Moses Fichner",
-    "linked_inline": true
+    "written_as": null,
+    "linked_inline": false
    },
    {
     "role": "Mother",
@@ -26862,7 +26863,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0194.html\" data-pid=\"P0194\">Moses Fichner</a>, unemployed in Blaszkowa",
+   "Father (prose)": "Moses Fichner, unemployed in Blaszkowa",
    "Mother (prose)": "<a href=\"../person/P2563.html\" data-pid=\"P2563\">Chaya</a>, daughter of the late <a href=\"../person/P0196.html\" data-pid=\"P0196\">Jacob Korzennik</a>, former owner of a farm in Czermna, and <a href=\"../person/P0197.html\" data-pid=\"P0197\">Malka</a> nee unknown",
    "Witnesses (prose)": "<a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeeper in Brzostek, witness. <a href=\"../person/P0038.html\" data-pid=\"P0038\">Pinkus Korn</a>, cloth merchant in Brzostek witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
@@ -28610,7 +28611,7 @@
     "person_id": "P0124",
     "display": "Malka Amsterdam",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Malka née Kolber",
     "linked_inline": true
    },
    {
@@ -29174,7 +29175,7 @@
    "Naming Date": "24 Feb 1902",
    "Naming Place": "Brzostek, house 149",
    "Father (prose)": "Leiser Kornblutt tenant of the manor in Opacionka",
-   "Mother (prose)": "Keile, daughter of Nuchem Berkelhamer, farmer in Bogumilowice, and the late Raana, maiden name not given",
+   "Mother (prose)": "Keile, daughter of Nuchem Leib, called Leib, Berkelhamer, farmer in Bogumiłowice near Brzesko, and the late Raaza, maiden name not given",
    "Witnesses (prose)": "Hersch Schlenger, private person in Brzostek, witness. Moses Klotz spice stallholder in Brzostek, witness.",
    "Mohel/Name Giver": "Chaim Galizer",
    "Midwife": "Josefa Lizowa midwife in Brzostek",
@@ -29218,7 +29219,7 @@
     "person_id": "P0743",
     "display": "Rosa Chomont",
     "role_label": "Mother's mother",
-    "written_as": "Raana Berkelhamer",
+    "written_as": "Raaza Berkelhamer",
     "linked_inline": true
    },
    {
@@ -29246,16 +29247,21 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [],
+  "unlinked_roles": [
+   "prose"
+  ],
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0740.html\" data-pid=\"P0740\">Leiser Kornblutt</a> tenant of the manor in Opacionka",
-   "Mother (prose)": "<a href=\"../person/P0741.html\" data-pid=\"P0741\">Keile</a>, daughter of <a href=\"../person/P0742.html\" data-pid=\"P0742\">Nuchem Berkelhamer</a>, farmer in Bogumilowice, and the late <a href=\"../person/P0743.html\" data-pid=\"P0743\">Raana</a>, maiden name not given",
+   "Mother (prose)": "<a href=\"../person/P0741.html\" data-pid=\"P0741\">Keile</a>, daughter of <a href=\"../person/P0742.html\" data-pid=\"P0742\">Nuchem</a> Leib, called Leib, Berkelhamer, farmer in Bogumiłowice near Brzesko, and the late <a href=\"../person/P0743.html\" data-pid=\"P0743\">Raaza</a>, maiden name not given",
    "Witnesses (prose)": "<a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a>, private person in Brzostek, witness. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz spice stallholder in Brzostek</a>, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>",
    "Midwife": "Josefa Lizowa midwife in Brzostek",
    "Notes": "Marriage took place in Ropczyce 18 May 1897"
-  }
+  },
+  "unlinked_prose_tokens": [
+   "Leib"
+  ]
  },
  {
   "id": "b-1902-11",
@@ -30921,8 +30927,8 @@
    "Notes": "Acknowledges paternity: <a href=\"../person/P0650.html\" data-pid=\"P0650\">Chaim Unger</a> [signature]. Pinkas Korn [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Schlanger",
-   "Korn"
+   "Korn",
+   "Schlanger"
   ]
  },
  {
@@ -32380,8 +32386,8 @@
    "Notes": "The father acknowledges paternity and signs in his own hand &#x27;Koppel Landau&#x27;; the clerk adds &#x27;that is, Kopel Landau&#x27;. Witness Izak <a href=\"../person/P0070.html\" data-pid=\"P0070\">Rowitz</a>."
   },
   "unlinked_prose_tokens": [
-   "Kopel",
-   "Izak"
+   "Izak",
+   "Kopel"
   ]
  },
  {
@@ -38808,7 +38814,7 @@
    "Birth Place": "Brzostek, house 166",
    "Naming Date": "24 February 1906",
    "Naming Place": "Brzostek, house 149",
-   "Father (prose)": "Abraham Hersch, called Hersch, Kalle [sic, = Kolber], false Amsterdam, horse dealer in Brzostek",
+   "Father (prose)": "Abraham Hersch, called Hersch, Kalb [sic, = Kolber], false Amsterdam, horse dealer in Brzostek",
    "Mother (prose)": "Shayndel, daughter of the late Moses Lambek, former farmstead owner in Olszyny, and Hannah nee Kalb",
    "Witnesses (prose)": "Pinkus Korn, haberdashery goods stall owner in Brzostek, witness; Benjamin Schlenger, timber merchant in Brzostek, witness",
    "Mohel/Name Giver": "Marcus Kleinman, name-giver in Brzostek",
@@ -38881,21 +38887,16 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0689.html\" data-pid=\"P0689\">Abraham Hersch</a>, called <a href=\"../person/P0689.html\" data-pid=\"P0689\">Hersch</a>, Kalle [sic, = Kolber], false Amsterdam, horse dealer in Brzostek",
+   "Father (prose)": "<a href=\"../person/P0689.html\" data-pid=\"P0689\">Abraham Hersch</a>, called <a href=\"../person/P0689.html\" data-pid=\"P0689\">Hersch</a>, Kalb [sic, = Kolber], false Amsterdam, horse dealer in Brzostek",
    "Mother (prose)": "<a href=\"../person/P0690.html\" data-pid=\"P0690\">Shayndel</a>, daughter of the late <a href=\"../person/P0691.html\" data-pid=\"P0691\">Moses Lambek</a>, former farmstead owner in Olszyny, and <a href=\"../person/P0692.html\" data-pid=\"P0692\">Hannah nee Kalb</a>",
    "Witnesses (prose)": "<a href=\"../person/P0038.html\" data-pid=\"P0038\">Pinkus Korn</a>, haberdashery goods stall owner in Brzostek, witness; <a href=\"../person/P0749.html\" data-pid=\"P0749\">Benjamin Schlenger</a>, timber merchant in Brzostek, witness",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, name-giver in Brzostek",
    "Midwife": "Jozefa Lisowa, midwife in Brzostek",
    "Notes": "Marriage in Brzostek on 27 Aug 1904. Marriage register Vol. II No. 129, pos. 5"
-  },
-  "unlinked_prose_tokens": [
-   "Kalle"
-  ]
+  }
  },
  {
   "id": "b-1906-7",
@@ -40980,7 +40981,7 @@
     "person_id": "P0368",
     "display": "Wolf Towel",
     "role_label": "Father",
-    "written_as": "Wolf Bodner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -44939,8 +44940,8 @@
    "Notes": "Marriage Brzostek 4 Jul 1900 Vol II p.81 entry 6. Below the entry: Note of the Jewish registrar: For lack of the pages needed to enter three more births, namely nos. 37, 38 and 39, one more sheet of 4 pages has been pasted into this register; with the official clause added, this whole book contains 24 pages, not 20; accordingly concluded and signed as of 31 Dec 1907 [signature], Jewish registrar. Vidi [seen] 20 Jan 1908 [signature, cut off]."
   },
   "unlinked_prose_tokens": [
-   "Dajcha",
-   "For"
+   "For",
+   "Dajcha"
   ]
  },
  {
@@ -57903,7 +57904,7 @@
    "Mother (prose)": "Necha, daughter of late Akiva Diamant, former industrialist in Kozlow and Perla nee unknown",
    "Witnesses (prose)": "David Spett, farmer in Kamienica Dolna, witness. Wolf Steiner, without occupation in Brzostek, witness.",
    "Mohel/Name Giver": "Marcus Kleinman circumciser",
-   "Notes": "Marriage in Korczyna 6 Feb 1907 Vol II p.153 item 2"
+   "Notes": "Marriage in Kozlow near Frysztak 6 Feb 1907, Frysztak marriage register Vol II p.15[?] item 2"
   },
   "people": [
    {
@@ -57978,7 +57979,7 @@
    "Mother (prose)": "<a href=\"../person/P1145.html\" data-pid=\"P1145\">Necha</a>, daughter of late <a href=\"../person/P1146.html\" data-pid=\"P1146\">Akiva Diamant</a>, former industrialist in Kozlow and <a href=\"../person/P1147.html\" data-pid=\"P1147\">Perla</a> nee unknown",
    "Witnesses (prose)": "<a href=\"../person/P0518.html\" data-pid=\"P0518\">David Spett</a>, farmer in Kamienica Dolna, witness. <a href=\"../person/P1082.html\" data-pid=\"P1082\">Wolf Steiner</a>, without occupation in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a> circumciser",
-   "Notes": "Marriage in Korczyna 6 Feb 1907 Vol II p.153 item 2"
+   "Notes": "Marriage in Kozlow near Frysztak 6 Feb 1907, Frysztak marriage register Vol II p.15[?] item 2"
   }
  },
  {
@@ -59049,8 +59050,8 @@
    "Naming Date": "15 Dec 1912",
    "Naming Place": "Blaszkowa",
    "Father (prose)": "Simche Hersch Gluckman, called Hersch, leaseholder of the manor in Blaszkowa",
-   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolicach, Dąbrowa district, and Tauba nee Richter",
-   "Witnesses (prose)": "Izydor Schiff, tenant of the estates in Blaszkowa, witness. David Fisch, without occupation in Dabrowa Tarnowska, witness.",
+   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolice, Dąbrowa district, and Tauba nee Richter",
+   "Witnesses (prose)": "Izydor Schiff, tenant of the estates in Blaszkowa, witness. David Fisch, without occupation in Okolice, witness.",
    "Mohel/Name Giver": "Marcus Kleinman, name-giver in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
    "Notes": "Marriage in Zabno 18 Feb 1908. Marriage register T.II p.1."
@@ -59091,9 +59092,9 @@
    {
     "role": "MGM",
     "person_id": "P1375",
-    "display": "Tauba Schiff",
+    "display": "Fanny Schiff",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Tauba née Richter",
     "linked_inline": true
    },
    {
@@ -59127,15 +59128,14 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P1372.html\" data-pid=\"P1372\">Simche Hersch Gluckman</a>, called <a href=\"../person/P1372.html\" data-pid=\"P1372\">Hersch</a>, leaseholder of the manor in Blaszkowa",
-   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of <a href=\"../person/P1374.html\" data-pid=\"P1374\">David Schiff</a>, farmer in Okolicach, Dąbrowa district, and <a href=\"../person/P1375.html\" data-pid=\"P1375\">Tauba nee Richter</a>",
-   "Witnesses (prose)": "<a href=\"../person/P1377.html\" data-pid=\"P1377\">Izydor Schiff</a>, tenant of the estates in Blaszkowa, witness. <a href=\"../person/P1378.html\" data-pid=\"P1378\">David Fisch</a>, without occupation in Dabrowa Tarnowska, witness.",
+   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of <a href=\"../person/P1374.html\" data-pid=\"P1374\">David Schiff</a>, farmer in Okolice, Dąbrowa district, and <a href=\"../person/P1375.html\" data-pid=\"P1375\">Tauba nee Richter</a>",
+   "Witnesses (prose)": "<a href=\"../person/P1377.html\" data-pid=\"P1377\">Izydor Schiff</a>, tenant of the estates in Blaszkowa, witness. <a href=\"../person/P1378.html\" data-pid=\"P1378\">David Fisch</a>, without occupation in Okolice, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, name-giver in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
    "Notes": "Marriage in Zabno 18 Feb 1908. Marriage register T.II p.1."
   },
   "unlinked_prose_tokens": [
-   "Sosche",
-   "Okolicach"
+   "Sosche"
   ]
  },
  {
@@ -59153,7 +59153,7 @@
    "Naming Date": "20 Dec 1912",
    "Naming Place": "Gorzejowa, house 84",
    "Father (prose)": "Mendel Fruhman, mill owner in Gorzejowa",
-   "Mother (prose)": "Sarah, daughter of Liba Meister and unknown father Chaim Stener, tenant in Nockowa in the Ropczyce district.",
+   "Mother (prose)": "Sarah, daughter of Liba Meister and alleged father Chaim Stener, tenant in Nockowa in the Ropczyce district.",
    "Witnesses (prose)": "David Spett, farmer in Kamienica Dolna, witness. Kelman Kleinman, laborer in Kamienica Dolna, witness.",
    "Mohel/Name Giver": "Marcus Kleinman, circumciser in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
@@ -59229,7 +59229,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P1379.html\" data-pid=\"P1379\">Mendel Fruhman</a>, mill owner in Gorzejowa",
-   "Mother (prose)": "<a href=\"../person/P1380.html\" data-pid=\"P1380\">Sarah</a>, daughter of <a href=\"../person/P1382.html\" data-pid=\"P1382\">Liba Meister</a> and unknown father <a href=\"../person/P1381.html\" data-pid=\"P1381\">Chaim Stener</a>, tenant in Nockowa in the Ropczyce district.",
+   "Mother (prose)": "<a href=\"../person/P1380.html\" data-pid=\"P1380\">Sarah</a>, daughter of <a href=\"../person/P1382.html\" data-pid=\"P1382\">Liba Meister</a> and alleged father <a href=\"../person/P1381.html\" data-pid=\"P1381\">Chaim Stener</a>, tenant in Nockowa in the Ropczyce district.",
    "Witnesses (prose)": "<a href=\"../person/P0518.html\" data-pid=\"P0518\">David Spett</a>, farmer in Kamienica Dolna, witness. <a href=\"../person/P0479.html\" data-pid=\"P0479\">Kelman Kleinman</a>, laborer in Kamienica Dolna, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, circumciser in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
@@ -60649,7 +60649,7 @@
    {
     "role": "MGF",
     "person_id": "P1404",
-    "display": "Moses Hoffman",
+    "display": "Moses Hofjud",
     "role_label": "Mother's father",
     "written_as": null,
     "linked_inline": true
@@ -60657,10 +60657,10 @@
    {
     "role": "MGM",
     "person_id": "P1405",
-    "display": "Hannah Landau",
+    "display": "Chinka Landau",
     "role_label": "Mother's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -60687,22 +60687,16 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P1402.html\" data-pid=\"P1402\">Chune Finberg</a>, tinsmith in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P1403.html\" data-pid=\"P1403\">Sarah Genendel</a> in Brzostek, daughter of Chinka Landau and illegitimate father, <a href=\"../person/P1404.html\" data-pid=\"P1404\">Moses</a> Hofjud, without occupation in Tarnow",
+   "Mother (prose)": "<a href=\"../person/P1403.html\" data-pid=\"P1403\">Sarah Genendel</a> in Brzostek, daughter of <a href=\"../person/P1405.html\" data-pid=\"P1405\">Chinka Landau</a> and illegitimate father, <a href=\"../person/P1404.html\" data-pid=\"P1404\">Moses Hofjud</a>, without occupation in Tarnow",
    "Witnesses (prose)": "<a href=\"../person/P1082.html\" data-pid=\"P1082\">Wolf Steiner</a>, keeper of the synagogue in Brzostek, witness. <a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, circumciser in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
    "Notes": "Marriage in Tarnow 16 May 1904. Marriage certificate of 30 May 1905, register vol. 19 p. 12."
-  },
-  "unlinked_prose_tokens": [
-   "Chinka",
-   "Hofjud"
-  ]
+  }
  },
  {
   "id": "b-1913-15",
@@ -60983,7 +60977,7 @@
    "Birth Place": "Siedliska, house 48",
    "Naming Date": "4 Oct 1913",
    "Naming Place": "Siedliska, house 48",
-   "Father (prose)": "Moses Wrobel, without occupation, currently in America",
+   "Father (prose)": "Moses Wrobel, false Propker, without occupation, currently in America",
    "Mother (prose)": "Zipporah Birn, unemployed, daughter of Marcus Birn, former innkeeper in Siedliska and Beila nee Sperber.",
    "Witnesses (prose)": "Moses Schwarz, merchant in Brzostek, witness. Wolf Steiner, schames in Brzostek, witness.",
    "Mohel/Name Giver": "Marcus Kleinman, name-giver in Brzostek",
@@ -61003,7 +60997,7 @@
     "person_id": "P1412",
     "display": "Moses Wrobel",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Moses Propker",
     "linked_inline": true
    },
    {
@@ -61058,7 +61052,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P1412.html\" data-pid=\"P1412\">Moses Wrobel</a>, without occupation, currently in America",
+   "Father (prose)": "<a href=\"../person/P1412.html\" data-pid=\"P1412\">Moses Wrobel</a>, false <a href=\"../person/P1412.html\" data-pid=\"P1412\">Propker</a>, without occupation, currently in America",
    "Mother (prose)": "<a href=\"../person/P1413.html\" data-pid=\"P1413\">Zipporah Birn</a>, unemployed, daughter of <a href=\"../person/P1063.html\" data-pid=\"P1063\">Marcus Birn</a>, former innkeeper in Siedliska and <a href=\"../person/P1321.html\" data-pid=\"P1321\">Beila nee Sperber</a>.",
    "Witnesses (prose)": "<a href=\"../person/P0488.html\" data-pid=\"P0488\">Moses Schwarz</a>, merchant in Brzostek, witness. <a href=\"../person/P1082.html\" data-pid=\"P1082\">Wolf Steiner</a>, schames in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, name-giver in Brzostek",
@@ -64302,21 +64296,16 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P1460.html\" data-pid=\"P1460\">Chaim Wigdor</a>, called <a href=\"../person/P1460.html\" data-pid=\"P1460\">Wigdor</a>, Wallech false Malz, baker in Brzostek",
+   "Father (prose)": "<a href=\"../person/P1460.html\" data-pid=\"P1460\">Chaim Wigdor</a>, called <a href=\"../person/P1460.html\" data-pid=\"P1460\">Wigdor</a>, <a href=\"../person/P1460.html\" data-pid=\"P1460\">Wallech</a> false Malz, baker in Brzostek",
    "Mother (prose)": "<a href=\"../person/P1461.html\" data-pid=\"P1461\">Malka</a>, daughter of <a href=\"../person/P1462.html\" data-pid=\"P1462\">Selig</a> and <a href=\"../person/P1463.html\" data-pid=\"P1463\">Tauba Teitelbaum</a>, manual laborers in Sedziszow",
    "Witnesses (prose)": "<a href=\"../person/P0102.html\" data-pid=\"P0102\">Leib Orner</a>, merchant in Brzostek, witness. <a href=\"../person/P1258.html\" data-pid=\"P1258\">Jonas Feigenbaum</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, name-giver",
    "Midwife": "Josefa Lisowa",
    "Notes": "Marriage in Sedziszow, marriage register vol. IV, p. 24 (1904). Child died 27 Dec 1915."
-  },
-  "unlinked_prose_tokens": [
-   "Wallech"
-  ]
+  }
  },
  {
   "id": "b-1915-4",
@@ -68671,7 +68660,7 @@
    "Naming Date": "8 Dec 1917",
    "Naming Place": "Brzostek",
    "Father (prose)": "Simche Hersch Gluckman, called Hersch, tenant of the manor in Blaszkowa",
-   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Dabrowa Tarnowska, and Tauba nee Richter",
+   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolice, and Fany nee Richter",
    "Witnesses (prose)": "Hersch Bieder, schames in Brzostek, witness. Solomon Karpf, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "Marcus Kleinman",
    "Midwife": "Josefa Lisowa",
@@ -68713,9 +68702,9 @@
    {
     "role": "MGM",
     "person_id": "P1375",
-    "display": "Tauba Schiff",
+    "display": "Fanny Schiff",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Fany née Richter",
     "linked_inline": true
    },
    {
@@ -68749,16 +68738,16 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P1372.html\" data-pid=\"P1372\">Simche Hersch Gluckman</a>, called <a href=\"../person/P1372.html\" data-pid=\"P1372\">Hersch</a>, tenant of the manor in Blaszkowa",
-   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of <a href=\"../person/P1374.html\" data-pid=\"P1374\">David Schiff</a>, farmer in Dabrowa Tarnowska, and <a href=\"../person/P1375.html\" data-pid=\"P1375\">Tauba nee Richter</a>",
+   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of <a href=\"../person/P1374.html\" data-pid=\"P1374\">David Schiff</a>, farmer in Okolice, and <a href=\"../person/P1375.html\" data-pid=\"P1375\">Fany nee Richter</a>",
    "Witnesses (prose)": "<a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a>, schames in Brzostek, witness. <a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Josefa Lisowa",
    "Notes": "Marriage performed in Zabno 18 Feb 1908. Below the entry: Closed as of 31 Dec 1917. Wilhelm Zahler; stamp: Jewish Registrar in Brzostek."
   },
   "unlinked_prose_tokens": [
-   "Sosche",
    "Closed",
-   "Zahler"
+   "Zahler",
+   "Sosche"
   ]
  },
  {
@@ -82132,11 +82121,11 @@
   "people": [
    {
     "role": "Decedent",
-    "person_id": "P1774",
-    "display": "Dora Oblat",
+    "person_id": "P1127",
+    "display": "Deborah Arnold",
     "role_label": "The deceased",
     "written_as": "Dora Guttstein",
-    "linked_inline": true
+    "linked_inline": false
    },
    {
     "role": "Father",
@@ -82155,12 +82144,17 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [],
+  "unlinked_roles": [
+   "prose"
+  ],
   "translator_note": "Place read as Ostrawy (possibly Ostzawy/Ostrany), district Stanisławów; village not yet identified.",
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P1774.html\" data-pid=\"P1774\">Dora</a> Gutstein, daughter of <a href=\"../person/P1772.html\" data-pid=\"P1772\">Moses Leib Oblat</a>, who was called <a href=\"../person/P1772.html\" data-pid=\"P1772\">Leib</a>, and <a href=\"../person/P1773.html\" data-pid=\"P1773\">Malka Hannah</a> of unknown maiden name, from Ostrawy in the district of Stanislawow",
+   "Decedent (prose)": "Dora Gutstein, daughter of <a href=\"../person/P1772.html\" data-pid=\"P1772\">Moses Leib Oblat</a>, who was called <a href=\"../person/P1772.html\" data-pid=\"P1772\">Leib</a>, and <a href=\"../person/P1773.html\" data-pid=\"P1773\">Malka Hannah</a> of unknown maiden name, from Ostrawy in the district of Stanislawow",
    "Cause of Death": "smallpox"
-  }
+  },
+  "unlinked_prose_tokens": [
+   "Gutstein"
+  ]
  },
  {
   "id": "d-1915-9",
@@ -105595,9 +105589,9 @@
    {
     "role": "GM",
     "person_id": "P1375",
-    "display": "Tauba Schiff",
+    "display": "Fanny Schiff",
     "role_label": "Groom's mother",
-    "written_as": null,
+    "written_as": "Tauba Richter",
     "linked_inline": true
    },
    {
@@ -111673,8 +111667,16 @@
     "linked_inline": false
    },
    {
+    "role": "GF",
+    "person_id": "P0776",
+    "display": "Samuel Kornfeld",
+    "role_label": "Groom's father",
+    "written_as": "Samuel Tum",
+    "linked_inline": true
+   },
+   {
     "role": "GM",
-    "person_id": "P2332",
+    "person_id": "P0777",
     "display": "Shayndel Klausner",
     "role_label": "Groom's mother",
     "written_as": null,
@@ -111722,7 +111724,6 @@
    }
   ],
   "unlinked_roles": [
-   "GF",
    "prose"
   ],
   "translator_note": null,
@@ -111731,7 +111732,7 @@
    "Bride (prose)": "Pese Aron, daughter of Salamon Dawid, called Dawid, Aron, owner of a dry good store in Brzostek I Malki Perli, called Perl, nee Tager",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P2252.html\" data-pid=\"P2252\">Walter Mojzesz</a>, merchant in Brzostek, witness. <a href=\"../person/P0708.html\" data-pid=\"P0708\">Jakob Schwarz</a>, merchant in Brzostek, witness.",
-   "Notes": "groom 6 March 1899, bride 13 dec 1898 | Later annotation (rescript of the Kraków voivode, 30 Jan 1930): the groom was legitimated by the subsequent marriage of his parents Samuel Tum and Scheindla Klausner and, as Samuel Tum&#x27;s legitimate son, is entitled to the surname Tum. Remarks: For the groom: birth certificate dated Mielec, 28[?] Sep 1920, ref. no. 37[1?]/20, according to the birth register there, vol. XIII, p. 10, no. 36; also military service book, District Recruiting Command (P.K.U.) Rzeszów, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 66, no. 32; certificate of the banns, and also certificates of the rabbinate in Brzostek of 3 Jan 1926."
+   "Notes": "groom 6 March 1899, bride 13 dec 1898 | Later annotation (rescript of the Kraków voivode, 30 Jan 1930): the groom was legitimated by the subsequent marriage of his parents <a href=\"../person/P0776.html\" data-pid=\"P0776\">Samuel Tum</a> and Scheindla Klausner and, as <a href=\"../person/P0776.html\" data-pid=\"P0776\">Samuel Tum</a>&#x27;s legitimate son, is entitled to the surname Tum. Remarks: For the groom: birth certificate dated Mielec, 28[?] Sep 1920, ref. no. 37[1?]/20, according to the birth register there, vol. XIII, p. 10, no. 36; also military service book, District Recruiting Command (P.K.U.) Rzeszów, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 66, no. 32; certificate of the banns, and also certificates of the rabbinate in Brzostek of 3 Jan 1926."
   },
   "unlinked_prose_tokens": [
    "Scheindli",
@@ -111741,10 +111742,7 @@
    "Malki",
    "Perli",
    "Perl",
-   "Scheindla",
-   "For",
-   "Recruiting",
-   "Command"
+   "Scheindla"
   ]
  },
  {
@@ -114029,11 +114027,11 @@
    "Notes": "groom 20 march 1902, bride 24 jan 1898. Remarks: For the groom: birth certificate dated Dąbrowa, 1[8?] Nov 1923, according to the book there, vol. VII[?], p. 11; military service book, District Recruiting Command (P.K.U.) in Tarnów, of 5 Nov 1925, ref. no. [one character struck] 179, that he has fulfilled [his] military [duty]; certificate of domicile dated Gorzyce, 28 Aug 1928; also certificate of the banns dated Dąbrowa, 5 Jul 1929. For the bride: this registry&#x27;s own birth book, vol. III, p. 58, no. 4; and notices of the rabbinate in Brzostek."
   },
   "unlinked_prose_tokens": [
-   "Hersch",
    "Keili",
    "Breindla",
    "Fischel",
    "Witla",
+   "Hersch",
    "For",
    "Recruiting",
    "Command"

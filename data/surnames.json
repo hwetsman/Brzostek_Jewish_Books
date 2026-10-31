@@ -2178,7 +2178,7 @@
  {
   "surname": "Guttstein",
   "fname": "Guttstein",
-  "count": 17,
+  "count": 16,
   "person_ids": [
    "P0256",
    "P0257",
@@ -2193,7 +2193,6 @@
    "P1371",
    "P1509",
    "P1512",
-   "P1774",
    "P2030",
    "P2583",
    "P2584"
@@ -2446,14 +2445,13 @@
  {
   "surname": "Hoffman",
   "fname": "Hoffman",
-  "count": 6,
+  "count": 5,
   "person_ids": [
    "P0168",
    "P0412",
    "P0559",
    "P0560",
-   "P0563",
-   "P1404"
+   "P0563"
   ]
  },
  {
@@ -2462,6 +2460,14 @@
   "count": 1,
   "person_ids": [
    "P0005"
+  ]
+ },
+ {
+  "surname": "Hofjud",
+  "fname": "Hofjud",
+  "count": 1,
+  "person_ids": [
+   "P1404"
   ]
  },
  {
@@ -2884,13 +2890,12 @@
  {
   "surname": "Klausner",
   "fname": "Klausner",
-  "count": 6,
+  "count": 5,
   "person_ids": [
    "P0777",
    "P0778",
    "P0984",
    "P2186",
-   "P2332",
    "P2333"
   ]
  },
@@ -4180,11 +4185,10 @@
  {
   "surname": "Oblat",
   "fname": "Oblat",
-  "count": 3,
+  "count": 2,
   "person_ids": [
    "P1772",
-   "P1773",
-   "P1774"
+   "P1773"
   ]
  },
  {
@@ -6563,6 +6567,14 @@
    "P2489",
    "P2490",
    "P2491"
+  ]
+ },
+ {
+  "surname": "Tum",
+  "fname": "Tum",
+  "count": 1,
+  "person_ids": [
+   "P0776"
   ]
  },
  {

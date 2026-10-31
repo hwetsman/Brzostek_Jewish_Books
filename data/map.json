@@ -10,7 +10,7 @@
    "year_max": 1913,
    "top_surnames": [
     [
-     "Wrobel",
+     "Propker",
      1
     ]
    ],
@@ -1639,7 +1639,7 @@
    "town": "Dabrowa Tarnowska",
    "lat": 50.172521,
    "lon": 20.983448,
-   "events": 12,
+   "events": 10,
    "buildings": 1,
    "year_min": 1896,
    "year_max": 1937,
@@ -1650,10 +1650,6 @@
     ],
     [
      "Goldberg",
-     2
-    ],
-    [
-     "Gluckman",
      2
     ],
     [
@@ -1671,7 +1667,7 @@
    ],
    "events_by_kind": {
     "Bride": 1,
-    "MGF_Residence": 4,
+    "MGF_Residence": 2,
     "Bride birthplace": 1,
     "BF_Residence": 1,
     "Groom birthplace": 3,
@@ -1681,7 +1677,7 @@
     "birth_naming": 0,
     "death": 0,
     "marriage_spouse": 5,
-    "remote_relative": 7
+    "remote_relative": 5
    },
    "top_buildings": [
     {
@@ -1697,7 +1693,7 @@
      "year_max": 1897
     }
    ],
-   "town_only_events": 11,
+   "town_only_events": 9,
    "notes": ""
   },
   {
@@ -1711,7 +1707,7 @@
    "top_surnames": [
     [
      "Towel",
-     5
+     6
     ],
     [
      "Lobel",
@@ -7548,7 +7544,7 @@
      "events": 4,
      "surnames": [
       [
-       "Wrobel",
+       "Propker",
        2
       ],
       [
@@ -9576,7 +9572,8 @@
   }
  ],
  "towns_without_pins": [
-  "Bagienica"
+  "Bagienica",
+  "Okolice, Dąbrowa district"
  ],
  "towns_without_pins_with_refs": [
   {
@@ -9585,10 +9582,18 @@
     "m-1921-1"
    ],
    "ref_count": 1
+  },
+  {
+   "town": "Okolice, Dąbrowa district",
+   "refs": [
+    "b-1912-31",
+    "b-1917-18"
+   ],
+   "ref_count": 2
   }
  ],
  "totals": {
   "towns_on_map": 239,
-  "towns_in_corpus": 240
+  "towns_in_corpus": 241
  }
 }

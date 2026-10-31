@@ -2227,7 +2227,7 @@
    "id": "P0124",
    "type": "person",
    "display": "Malka Schonwetter née Amsterdam",
-   "other_names": "Malka née Amsterdam; Malka Amsterdam; Malka Schonwetter; Amsterdam; Kolber; Schonwetter",
+   "other_names": "Malka née Amsterdam; Malka née Kolber; Malka Amsterdam; Malka Schonwetter; Amsterdam; Kolber; Schonwetter",
    "subtitle": "1869–1932; daughter of Naftali Amsterdam",
    "legal_given": "Malka",
    "common_given": "Malka",
@@ -3424,7 +3424,7 @@
    "id": "P0194",
    "type": "person",
    "display": "David Fichner",
-   "other_names": "Moses Fichner; David Fichner; Mojzes Fichner; Fichner; Rubel",
+   "other_names": "David Fichner; Moses Fichner; Mojzes Fichner; Fichner; Rubel",
    "subtitle": "1859–1911; son of Nachman Fichner",
    "legal_given": "Moses David",
    "common_given": "David",
@@ -6255,7 +6255,7 @@
    "id": "P0368",
    "type": "person",
    "display": "Wolf Towel",
-   "other_names": "Wolf Towel; Wolf Bodner; Marcus Wolf Towel; Wolf Töwel; Bodner; Towel",
+   "other_names": "Wolf Towel; Marcus Wolf Towel; Wolf Töwel; Bodner; Towel",
    "subtitle": "son of Rachmil Towel",
    "legal_given": "Marcus Wolf",
    "common_given": "Wolf",
@@ -6824,11 +6824,11 @@
   {
    "id": "P0401",
    "type": "person",
-   "display": "Moses Berchiel Diamant",
-   "other_names": "Moses Berchiel (no surname written; child's birth entry); Diamant; Slanger",
+   "display": "Chiel Diamant",
+   "other_names": "Moses Beer Chiel (no surname written; child's birth entry); Diamant; Slanger",
    "subtitle": "born 1896; son of Isaac Diamant",
-   "legal_given": "Moses Berchiel",
-   "common_given": "Moses Berchiel",
+   "legal_given": "Moses Beer Chiel",
+   "common_given": "Chiel",
    "legal_surname": "Slanger",
    "common_surname": "Diamant",
    "maiden_surname": "",
@@ -6838,7 +6838,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "363000 486590 640000 794800 795800 063900 363000 483400 486590 496000 583400 600000 640000 793000 793600 794800 795800"
+   "phonetic": "363000 480000 486590 580000 640000 790000 063900 363000 480000 483400 486590 496000 580000 583400 600000 640000 790000 793000 793600"
   },
   {
    "id": "P0402",
@@ -13133,7 +13133,7 @@
    "id": "P0743",
    "type": "person",
    "display": "Rosa Berkelhamer née Chomont",
-   "other_names": "Rosa née Chomont; Raana Berkelhamer; Berkelhamer; Chomont",
+   "other_names": "Rosa née Chomont; Raaza Berkelhamer; Berkelhamer; Chomont",
    "subtitle": "wife of Nuchem Berkelhamer",
    "legal_given": "Rosa",
    "common_given": "Rosa",
@@ -13146,7 +13146,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "463000 563000 940000 463000 563000 600000 795856 940000 960000"
+   "phonetic": "463000 563000 940000 463000 563000 600000 795856 940000"
   },
   {
    "id": "P0744",
@@ -13760,7 +13760,7 @@
    "id": "P0776",
    "type": "person",
    "display": "Samuel Kornfeld",
-   "other_names": "Samuel Kornfeld; Kornfeld; Thum",
+   "other_names": "Samuel Kornfeld; Samuel Tum; Kornfeld; Thum; Tum",
    "subtitle": "born 1869; son of Isaac Kornfeld",
    "legal_given": "Samuel",
    "common_given": "Samuel",
@@ -20182,8 +20182,8 @@
    "id": "P1127",
    "type": "person",
    "display": "Deborah Guttstein née Feier",
-   "other_names": "Deborah née Feier; Deborah Feier; Arnold; Feier; Guttstein",
-   "subtitle": "daughter of Leib Arnold",
+   "other_names": "Deborah née Feier; Deborah Feier; Dora Guttstein; Arnold; Feier; Guttstein",
+   "subtitle": "died 1915; daughter of Leib Arnold",
    "legal_given": "Deborah",
    "common_given": "Deborah",
    "legal_surname": "Arnold",
@@ -20195,7 +20195,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "096830 379000 096830 379000 543600 600000 719000"
+   "phonetic": "096830 379000 096830 379000 390000 543600 600000 719000"
   },
   {
    "id": "P1128",
@@ -24534,7 +24534,7 @@
    "type": "person",
    "display": "David Schiff",
    "other_names": "David Schiff; Schiff",
-   "subtitle": "died 1921; husband of Tauba Schiff née Richter",
+   "subtitle": "died 1921; husband of Fanny Schiff née Richter",
    "legal_given": "David",
    "common_given": "David",
    "legal_surname": "Schiff",
@@ -24551,11 +24551,11 @@
   {
    "id": "P1375",
    "type": "person",
-   "display": "Tauba Schiff née Richter",
-   "other_names": "Tauba née Richter; Tauba Richter; Richter; Schiff",
+   "display": "Fanny Schiff née Richter",
+   "other_names": "Tauba née Richter; Tauba Richter; Fany née Richter; Richter; Schiff",
    "subtitle": "wife of David Schiff",
    "legal_given": "Tauba",
-   "common_given": "Tauba",
+   "common_given": "Fanny",
    "legal_surname": "Richter",
    "common_surname": "Schiff",
    "maiden_surname": "",
@@ -24565,7 +24565,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "370000 470000 943900 953900 370000 470000 600000 943900 953900"
+   "phonetic": "370000 470000 760000 943900 953900 370000 470000 600000 760000 943900 953900"
   },
   {
    "id": "P1376",
@@ -25066,7 +25066,7 @@
    "type": "person",
    "display": "Sarah Genendel Finberg",
    "other_names": "Sarah Genendel née Landau; Finberg; Landau",
-   "subtitle": "daughter of Moses Hoffman",
+   "subtitle": "daughter of Moses Hofjud",
    "legal_given": "Sarah Genendel",
    "common_given": "Sarah Genendel",
    "legal_surname": "Finberg",
@@ -25083,13 +25083,13 @@
   {
    "id": "P1404",
    "type": "person",
-   "display": "Moses Hoffman",
-   "other_names": "Moses Hoffman; Hoffman",
-   "subtitle": "husband of Hannah Landau",
+   "display": "Moses Hofjud",
+   "other_names": "Moses Hofjud; Hofjud",
+   "subtitle": "husband of Chinka Landau",
    "legal_given": "Moses",
    "common_given": "Moses",
-   "legal_surname": "Hoffman",
-   "common_surname": "Hoffman",
+   "legal_surname": "Hofjud",
+   "common_surname": "Hofjud",
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "",
@@ -25097,16 +25097,16 @@
    "residences": "Tarnow",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "576000 640000 576000 640000"
+   "phonetic": "571300 574300 640000 571300 574300 640000"
   },
   {
    "id": "P1405",
    "type": "person",
-   "display": "Hannah Landau",
-   "other_names": "Hannah Landau; Landau",
-   "subtitle": "wife of Moses Hoffman",
-   "legal_given": "Hannah",
-   "common_given": "Hannah",
+   "display": "Chinka Landau",
+   "other_names": "Chinka Landau; Landau",
+   "subtitle": "wife of Moses Hofjud",
+   "legal_given": "Chinka",
+   "common_given": "Chinka",
    "legal_surname": "Landau",
    "common_surname": "Landau",
    "maiden_surname": "",
@@ -25116,7 +25116,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "560000 863000 560000 863000"
+   "phonetic": "465000 565000 863000 465000 565000 863000"
   },
   {
    "id": "P1406",
@@ -25236,7 +25236,7 @@
    "id": "P1412",
    "type": "person",
    "display": "Moses Wrobel",
-   "other_names": "Moses Propker; Moses Wrobel; Propker; Wrobel",
+   "other_names": "Moses Propker; Propker; Wrobel",
    "subtitle": "son of Mendel Propker",
    "legal_given": "Moses",
    "common_given": "Moses",
@@ -27677,7 +27677,7 @@
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "",
-   "spouse_names": "Nachman Kirsch",
+   "spouse_names": "Nach Kirsch",
    "residences": "",
    "birth_date": "",
    "death_date": "",
@@ -27694,7 +27694,7 @@
    "legal_surname": "Kirsch",
    "common_surname": "Kirsch",
    "maiden_surname": "",
-   "father_name": "Nachman Kirsch",
+   "father_name": "Nach Kirsch",
    "mother_name": "Shayndel Zahler",
    "spouse_names": "",
    "residences": "Brzostek (house 45)",
@@ -30741,25 +30741,6 @@
    "birth_date": "",
    "death_date": "",
    "phonetic": "078300 560000 685000 078300 560000 685000"
-  },
-  {
-   "id": "P1774",
-   "type": "person",
-   "display": "Dora Oblat",
-   "other_names": "Dora Guttstein; Guttstein; Oblat",
-   "subtitle": "1879–1915; daughter of Leib Oblat",
-   "legal_given": "Dora",
-   "common_given": "Dora",
-   "legal_surname": "Oblat",
-   "common_surname": "Oblat",
-   "maiden_surname": "",
-   "father_name": "Moses Leib Oblat",
-   "mother_name": "Malka Hannah Oblat",
-   "spouse_names": "",
-   "residences": "Skurowa",
-   "birth_date": "",
-   "death_date": "",
-   "phonetic": "078300 390000 078300 390000 543600"
   },
   {
    "id": "P1775",
@@ -39597,30 +39578,11 @@
    "phonetic": "597400 796930 597400 796930"
   },
   {
-   "id": "P2332",
-   "type": "person",
-   "display": "Shayndel Klausner",
-   "other_names": "Shayndel Klausner; Klausner",
-   "subtitle": "",
-   "legal_given": "Shayndel",
-   "common_given": "Shayndel",
-   "legal_surname": "Klausner",
-   "common_surname": "Klausner",
-   "maiden_surname": "",
-   "father_name": "",
-   "mother_name": "",
-   "spouse_names": "",
-   "residences": "",
-   "birth_date": "",
-   "death_date": "",
-   "phonetic": "463800 584690 463800 584690"
-  },
-  {
    "id": "P2333",
    "type": "person",
    "display": "Chaskel Klausner",
    "other_names": "Chaskel Klausner; Klausner",
-   "subtitle": "son of Shayndel Klausner",
+   "subtitle": "son of Samuel Kornfeld",
    "legal_given": "Chaskel",
    "common_given": "Chaskel",
    "legal_surname": "Klausner",
@@ -46338,10 +46300,10 @@
    "book": "birth",
    "year": 1896,
    "number": "14",
-   "summary": "Birth 14/1896: Moses Berchiel",
-   "prose": "Moses Berchiel Male Illegitimate 14 Apr 1896 Bukowa, house 13 21 Apr 1896 Bukowa, house 13 Isaac Diamant without employment in Bukowa Ruchla, daughter of Joseph Offner, tenant of the manor in Bukowa, and Chaya nee Krautblatt Hersch Schlenger, shopkeeper of colonial goods in Brzostek, witness. Joseph Bergman, baker in Brzostek, witness. Marcus Kleinman Legitimized by marriage 6 Feb 1905",
-   "people": "Moses Berchiel Diamant; Isaac Diamant; Ruchla Offner; Joseph Offner; Chaya Krautblatt; Hersch Schlenger; Joseph Bergman; Marcus Kleinman",
-   "phonetic": "040000 045000 076900 147000 363000 410000 470000 486590 510000 540000 545000 586600 593783 594000 594500 640000 694000 695400 794800 795600 795800 948000 958000"
+   "summary": "Birth 14/1896: Moses Beer Chiel",
+   "prose": "Moses Beer Chiel Male Illegitimate 14 Apr 1896 Bukowa, house 13 21 Apr 1896 Bukowa, house 13 Isaac Diamant without employment in Bukowa Ruchla, daughter of Joseph Offner, tenant of the manor in Bukowa, and Chaya nee Krautblatt Hersch Schlenger, shopkeeper of colonial goods in Brzostek, witness. Joseph Bergman, baker in Brzostek, witness. Marcus Kleinman Legitimized by marriage 6 Feb 1905",
+   "people": "Chiel Diamant; Isaac Diamant; Ruchla Offner; Joseph Offner; Chaya Krautblatt; Hersch Schlenger; Joseph Bergman; Marcus Kleinman",
+   "phonetic": "040000 045000 076900 147000 363000 410000 470000 480000 486590 510000 540000 545000 580000 586600 593783 594000 594500 694000 695400 795600 948000 958000"
   },
   {
    "id": "b-1896-15",
@@ -46702,7 +46664,7 @@
    "year": 1897,
    "number": "6",
    "summary": "Birth 6/1897: Gittla",
-   "prose": "Gittla Female Illegitimate 25 Mar 1897 Brzostek, house 86 27 Mar 1897 Brzostek, house 149 Chaskel Leuchtag without employment in Brzostek Hannah, daughter of Schmerl Gewelter, maintainer of the Jewish school in Ryglice, and Rosa nee unknown Berel Kornfeld, grain dealer in Brzostek, witness. Uszer Thum, unemployed in Brzostek, witness. Marcus Kleinman Acknowledges paternity: Chaskel Lei[blot]tag [signature] / Chaskel Lehtag [signature, second attempt], that is, Chaskel Leichtag [written by the clerk]. Berl Kornfeld [signature], witness.",
+   "prose": "Gittla Female Illegitimate 23 Mar 1897 Brzostek, house 86 27 Mar 1897 Brzostek, house 149 Chaskel Leuchtag without employment in Brzostek Hannah, daughter of Schmerl Gewelter, maintainer of the Jewish school in Ryglice, and Rosa nee unknown Berel Kornfeld, grain dealer in Brzostek, witness. Uszer Thum, unemployed in Brzostek, witness. Marcus Kleinman Acknowledges paternity: Chaskel Lei[blot]tag [signature] / Chaskel Lehtag [signature, second attempt], that is, Chaskel Leichtag [written by the clerk]. Berl Kornfeld [signature], witness.",
    "people": "Gittla Leuchtag; Chaskel Leuchtag; Hannah Gewelter; Schmerl Gewelter; Rosa Gewelter; Berel Kornfeld; Uszer Thum; Marcus Kleinman",
    "phonetic": "049000 360000 458000 469800 538000 545800 560000 578390 586600 596783 694000 695400 798000 843500 853500 940000"
   },
@@ -47285,7 +47247,7 @@
    "year": 1898,
    "number": "29",
    "summary": "Birth 29/1898: Moses",
-   "prose": "Moses Male Illegitimate 31 Aug 1871 Siedliska 1898 Leiser Kirsch Matla Wurzel On the basis of the decree of the Imperial-Royal Governor's Office of 6 January 1898 no. 88333 and of the order of the Imperial-Royal District Office in Pilzno of the day 12 March 1898 no. 769 and of the day 1 June 1898 no. 5641, there is entered the following act of supplemental and matriculation of birth: Matla Wurzel gave birth in Siedliska in the year one thousand eight hundred seventy-first (1871) an illegitimate son; at the circumcision the name Moses was given. To the paternity of this child Leiser Kirsch declared himself, according to the certification of the registrar of Jewish records in Jaslo, of the day 14 July 1897 no. 43. The parents of this child contracted in Jaslo on the day 20 May year 1895 a subsequent marriage, which I attest is in the book of marriages of the Jewish matriculation district in Jaslo, volume III, pages 54-55, entry no. 28.",
+   "prose": "Moses Male Illegitimate 1871 Siedliska 1898 Leiser Kirsch Matla Wurzel On the basis of the decree of the Imperial-Royal Governor's Office of 6 January 1898 no. 88333 and of the order of the Imperial-Royal District Office in Pilzno of the day 12 March 1898 no. 769 and of the day 1 June 1898 no. 5641, there is entered the following act of supplemental and matriculation of birth: Matla Wurzel gave birth in Siedliska in the year one thousand eight hundred seventy-first (1871) an illegitimate son; at the circumcision the name Moses was given. To the paternity of this child Leiser Kirsch declared himself, according to the certification of the registrar of Jewish records in Jaslo, of the day 14 July 1897 no. 43. The parents of this child contracted in Jaslo on the day 20 May year 1895 a subsequent marriage, which I attest is in the book of marriages of the Jewish matriculation district in Jaslo, volume III, pages 54-55, entry no. 28.",
    "people": "Moses Kirsch; Leiser Kirsch; Matla Wurzel",
    "phonetic": "540000 545000 594000 594500 638000 640000 748000 794800 849000"
   },
@@ -47692,7 +47654,7 @@
    "year": 1899,
    "number": "26",
    "summary": "Birth 26/1899: (birth)",
-   "prose": "Female Illegitimate 5 Jun 1899 Grudna Gorna, house 56 1899 Scheindla Trachman, without occupation in Grudna Gorna Stillborn",
+   "prose": "Female Illegitimate 5 Jun 1899 Grudna Gorna, house 56 1899 Scheindla Trautman, without occupation in Grudna Gorna Stillborn",
    "people": "Trautman; Shayndel Trachman",
    "phonetic": "393600 394600 395600 463800"
   },
@@ -47956,7 +47918,7 @@
    "year": 1900,
    "number": "8",
    "summary": "Birth 8/1900: Hence",
-   "prose": "Hence Female Legitimate 5 Apr 1900 Brzostek, house 52 7 Apr 1900 Brzostek, house 149 Elias Singer, leather dealer in Brzostek Itta, daughter of Aba Orner, baker in Brzostek, and Hene nee Licht Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage performed 21 Jun 1899 in Brzostek",
+   "prose": "Hence Female Legitimate 5 Apr 1900 Brzostek, house 52 7 Apr 1900 Brzostek, house 149 Elias Singer, legally Jortner, leather dealer in Brzostek Itta, daughter of Aba Orner, baker in Brzostek, and Hene nee Licht Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage performed 21 Jun 1899 in Brzostek",
    "people": "Hence Singer; Elias Singer; Itta Orner; Aba Orner; Hene Licht; Mayer Czopp; Leib Orner; Chaim Galizer",
    "phonetic": "030000 070000 084000 096900 460000 465900 470000 560000 564000 565000 584900 619000 843000 853000 870000"
   },
@@ -48154,7 +48116,7 @@
    "year": 1900,
    "number": "26",
    "summary": "Birth 26/1900: Israel",
-   "prose": "Israel Male Illegitimate 1 Dec 1900 Opacionka, house 70 8 Dec 1900 Opacionka, house 70 Chaim Unger, industrialist in Opacionka Shilamis, daughter of Hersch Meilech Schlanger, called Meilech, without occupation in Bardejov, and Sarah Liba, called Liba, nee Weber Hersch Schlenger, industrialist in Brzostek, witness. Osiah Baumgarten Marcus Kleinman Acknowledges paternity: Chaim Unger, I have signed. Hersch Schlenger [signature], witness.",
+   "prose": "Israel Male Illegitimate 1 Dec 1900 Opacionka, house 70 8 Dec 1900 Opacionka, house 70 Chaim Unger, industrialist in Opacionka Shilamis, daughter of Hersch Meilech Schlanger, called Meilech, without occupation in Bardejov, and Sarah Liba, called Liba, nee Weller [sic, = Weber] Hersch Schlenger, industrialist in Brzostek, witness. Osiah Baumgarten Marcus Kleinman Acknowledges paternity: Chaim Unger, I have signed. Hersch Schlenger [signature], witness.",
    "people": "Israel Unger; Chaim Unger; Shilamis Unger; Meilech Schlenger; Liba Weber; Hersch Schlenger; Osiah Baumgarten; Marcus Kleinman",
    "phonetic": "040000 049800 065900 460000 486400 486590 540000 545000 560000 586600 594000 594500 684000 685000 694000 695400 765936 790000 870000"
   },
@@ -48693,7 +48655,7 @@
    "year": 1902,
    "number": "10",
    "summary": "Birth 10/1902: Raane",
-   "prose": "Raane Female Legitimate 16 Feb 1902 Opacionka, house 1 24 Feb 1902 Brzostek, house 149 Leiser Kornblutt tenant of the manor in Opacionka Keile, daughter of Nuchem Berkelhamer, farmer in Bogumilowice, and the late Raana, maiden name not given Hersch Schlenger, private person in Brzostek, witness. Moses Klotz spice stallholder in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage took place in Ropczyce 18 May 1897",
+   "prose": "Raane Female Legitimate 16 Feb 1902 Opacionka, house 1 24 Feb 1902 Brzostek, house 149 Leiser Kornblutt tenant of the manor in Opacionka Keile, daughter of Nuchem Leib, called Leib, Berkelhamer, farmer in Bogumiłowice near Brzesko, and the late Raaza, maiden name not given Hersch Schlenger, private person in Brzostek, witness. Moses Klotz spice stallholder in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage took place in Ropczyce 18 May 1897",
    "people": "Reyne Kornblutt; Leiser Kornblutt; Keile Berkelhamer; Nuchem Berkelhamer; Rosa Chomont; Hersch Schlenger; Moses Klotz; Chaim Galizer",
    "phonetic": "460000 463000 486590 540000 545000 560000 563000 580000 584000 584900 594000 594500 596783 640000 646000 656000 795856 849000 940000 960000"
   },
@@ -49782,7 +49744,7 @@
    "year": 1906,
    "number": "6",
    "summary": "Birth 6/1906: Basche",
-   "prose": "Basche Female Legitimate 18 February 1906 Brzostek, house 166 24 February 1906 Brzostek, house 149 Abraham Hersch, called Hersch, Kalle [sic, = Kolber], false Amsterdam, horse dealer in Brzostek Shayndel, daughter of the late Moses Lambek, former farmstead owner in Olszyny, and Hannah nee Kalb Pinkus Korn, haberdashery goods stall owner in Brzostek, witness; Benjamin Schlenger, timber merchant in Brzostek, witness Marcus Kleinman, name-giver in Brzostek Jozefa Lisowa, midwife in Brzostek Marriage in Brzostek on 27 Aug 1904. Marriage register Vol. II No. 129, pos. 5",
+   "prose": "Basche Female Legitimate 18 February 1906 Brzostek, house 166 24 February 1906 Brzostek, house 149 Abraham Hersch, called Hersch, Kalb [sic, = Kolber], false Amsterdam, horse dealer in Brzostek Shayndel, daughter of the late Moses Lambek, former farmstead owner in Olszyny, and Hannah nee Kalb Pinkus Korn, haberdashery goods stall owner in Brzostek, witness; Benjamin Schlenger, timber merchant in Brzostek, witness Marcus Kleinman, name-giver in Brzostek Jozefa Lisowa, midwife in Brzostek Marriage in Brzostek on 27 Aug 1904. Marriage register Vol. II No. 129, pos. 5",
    "people": "Basche Amsterdam; Abraham Amsterdam; Shayndel Lambek; Moses Lambek; Hannah Kalb; Pinkus Korn; Benjamin Schlenger; Marcus Kleinman",
    "phonetic": "064393 079560 463800 486590 560000 586600 587000 596000 640000 694000 695400 740000 761600 764600 765400 867500"
   },
@@ -51971,7 +51933,7 @@
    "year": 1912,
    "number": "19",
    "summary": "Birth 19/1912: Chiel",
-   "prose": "Chiel Male Legitimate 5 Oct 1912 Gorzejowa 12 Oct 1912 Gorzejowa Hersch Rothman, owner of mixed goods stall in Gorzejowa Necha, daughter of late Akiva Diamant, former industrialist in Kozlow and Perla nee unknown David Spett, farmer in Kamienica Dolna, witness. Wolf Steiner, without occupation in Brzostek, witness. Marcus Kleinman circumciser Marriage in Korczyna 6 Feb 1907 Vol II p.153 item 2",
+   "prose": "Chiel Male Legitimate 5 Oct 1912 Gorzejowa 12 Oct 1912 Gorzejowa Hersch Rothman, owner of mixed goods stall in Gorzejowa Necha, daughter of late Akiva Diamant, former industrialist in Kozlow and Perla nee unknown David Spett, farmer in Kamienica Dolna, witness. Wolf Steiner, without occupation in Brzostek, witness. Marcus Kleinman circumciser Marriage in Kozlow near Frysztak 6 Feb 1907, Frysztak marriage register Vol II p.15[?] item 2",
    "people": "Chiel Rothman; Hersch Rothman; Necha Diamant; Akiva Diamant; Perla Diamant; David Spett; Wolf Steiner; Marcus Kleinman",
    "phonetic": "057000 269000 363000 373000 473000 480000 540000 545000 580000 586600 594000 594500 640000 650000 694000 695400 787000 798000 936000"
   },
@@ -52103,9 +52065,9 @@
    "year": 1912,
    "number": "31",
    "summary": "Birth 31/1912: Bluma",
-   "prose": "Bluma Female Legitimate 13 Dec 1912 Blaszkowa, house 1 15 Dec 1912 Blaszkowa Simche Hersch Gluckman, called Hersch, leaseholder of the manor in Blaszkowa Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolicach, Dąbrowa district, and Tauba nee Richter Izydor Schiff, tenant of the estates in Blaszkowa, witness. David Fisch, without occupation in Dabrowa Tarnowska, witness. Marcus Kleinman, name-giver in Brzostek Josefa Lisowa, midwife in Brzostek Marriage in Zabno 18 Feb 1908. Marriage register T.II p.1.",
-   "people": "Bluma Gluckman; Simon Gluckman; Sasha Schiff; David Schiff; Tauba Schiff; Israel Schiff; David Fisch; Marcus Kleinman",
-   "phonetic": "049800 370000 373000 400000 460000 470000 584560 585600 586600 694000 695400 740000 786000"
+   "prose": "Bluma Female Legitimate 13 Dec 1912 Blaszkowa, house 1 15 Dec 1912 Blaszkowa Simche Hersch Gluckman, called Hersch, leaseholder of the manor in Blaszkowa Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolice, Dąbrowa district, and Tauba nee Richter Izydor Schiff, tenant of the estates in Blaszkowa, witness. David Fisch, without occupation in Okolice, witness. Marcus Kleinman, name-giver in Brzostek Josefa Lisowa, midwife in Brzostek Marriage in Zabno 18 Feb 1908. Marriage register T.II p.1.",
+   "people": "Bluma Gluckman; Simon Gluckman; Sasha Schiff; David Schiff; Fanny Schiff; Israel Schiff; David Fisch; Marcus Kleinman",
+   "phonetic": "049800 373000 400000 460000 470000 584560 585600 586600 694000 695400 740000 760000 786000"
   },
   {
    "id": "b-1912-32",
@@ -52114,7 +52076,7 @@
    "year": 1912,
    "number": "32",
    "summary": "Birth 32/1912: Isaac",
-   "prose": "Isaac Male Illegitimate 13 Dec 1912 Gorzejowa, house 84 20 Dec 1912 Gorzejowa, house 84 Mendel Fruhman, mill owner in Gorzejowa Sarah, daughter of Liba Meister and unknown father Chaim Stener, tenant in Nockowa in the Ropczyce district. David Spett, farmer in Kamienica Dolna, witness. Kelman Kleinman, laborer in Kamienica Dolna, witness. Marcus Kleinman, circumciser in Brzostek Josefa Lisowa, midwife in Brzostek Paternity acknowledged by Mendel Fruhman.",
+   "prose": "Isaac Male Illegitimate 13 Dec 1912 Gorzejowa, house 84 20 Dec 1912 Gorzejowa, house 84 Mendel Fruhman, mill owner in Gorzejowa Sarah, daughter of Liba Meister and alleged father Chaim Stener, tenant in Nockowa in the Ropczyce district. David Spett, farmer in Kamienica Dolna, witness. Kelman Kleinman, laborer in Kamienica Dolna, witness. Marcus Kleinman, circumciser in Brzostek Josefa Lisowa, midwife in Brzostek Paternity acknowledged by Mendel Fruhman.",
    "people": "Isaac Fruhman; Mendel Fruhman; Sarah Fruhman; Chaim Stener; Liba Meister; David Spett; Kelman Kleinman; Marcus Kleinman",
    "phonetic": "040000 045000 269000 373000 460000 473000 490000 560000 586000 586600 638000 643900 694000 695400 796000 870000"
   },
@@ -52280,8 +52242,8 @@
    "number": "14",
    "summary": "Birth 14/1913: Leib",
    "prose": "Leib Male Legitimate 9 Aug 1913 Brzostek, house 31 16 Aug 1913 Brzostek, house 31 Chune Finberg, tinsmith in Brzostek Sarah Genendel in Brzostek, daughter of Chinka Landau and illegitimate father, Moses Hofjud, without occupation in Tarnow Wolf Steiner, keeper of the synagogue in Brzostek, witness. Leib Faust, merchant in Brzostek, witness. Marcus Kleinman, circumciser in Brzostek Josefa Lisowa, midwife in Brzostek Marriage in Tarnow 16 May 1904. Marriage certificate of 30 May 1905, register vol. 19 p. 12.",
-   "people": "Leib Finberg; Chune Finberg; Sarah Genendel Finberg; Moses Hoffman; Hannah Landau; Wolf Steiner; Leib Faust; Marcus Kleinman",
-   "phonetic": "269000 460000 490000 560000 563800 576000 586600 640000 694000 695400 743000 767950 787000 863000 870000"
+   "people": "Leib Finberg; Chune Finberg; Sarah Genendel Finberg; Moses Hofjud; Chinka Landau; Wolf Steiner; Leib Faust; Marcus Kleinman",
+   "phonetic": "269000 460000 465000 490000 560000 563800 565000 571300 574300 586600 640000 694000 695400 743000 767950 787000 863000 870000"
   },
   {
    "id": "b-1913-15",
@@ -52323,7 +52285,7 @@
    "year": 1913,
    "number": "18",
    "summary": "Birth 18/1913: Yenta",
-   "prose": "Yenta Female Legitimate 3 Oct 1913 Siedliska, house 48 4 Oct 1913 Siedliska, house 48 Moses Wrobel, without occupation, currently in America Zipporah Birn, unemployed, daughter of Marcus Birn, former innkeeper in Siedliska and Beila nee Sperber. Moses Schwarz, merchant in Brzostek, witness. Wolf Steiner, schames in Brzostek, witness. Marcus Kleinman, name-giver in Brzostek Marriage in Siedliska. Marriage register T.II st.143 pos.12.",
+   "prose": "Yenta Female Legitimate 3 Oct 1913 Siedliska, house 48 4 Oct 1913 Siedliska, house 48 Moses Wrobel, false Propker, without occupation, currently in America Zipporah Birn, unemployed, daughter of Marcus Birn, former innkeeper in Siedliska and Beila nee Sperber. Moses Schwarz, merchant in Brzostek, witness. Wolf Steiner, schames in Brzostek, witness. Marcus Kleinman, name-giver in Brzostek Marriage in Siedliska. Marriage register T.II st.143 pos.12.",
    "people": "Yenta Wrobel; Moses Wrobel; Zipporah Birn; Marcus Birn; Beila Sperber; Moses Schwarz; Wolf Steiner; Marcus Kleinman",
    "phonetic": "163000 269000 474000 479000 479400 479790 586600 640000 694000 695400 780000 787000 796000 797800"
   },
@@ -53225,9 +53187,9 @@
    "year": 1917,
    "number": "18",
    "summary": "Birth 18/1917: Deborah",
-   "prose": "Deborah Female Legitimate 5 Dec 1917 Blaszkowa, house 1 8 Dec 1917 Brzostek Simche Hersch Gluckman, called Hersch, tenant of the manor in Blaszkowa Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Dabrowa Tarnowska, and Tauba nee Richter Hersch Bieder, schames in Brzostek, witness. Solomon Karpf, merchant in Brzostek, witness. Marcus Kleinman Josefa Lisowa Marriage performed in Zabno 18 Feb 1908. Below the entry: Closed as of 31 Dec 1917. Wilhelm Zahler; stamp: Jewish Registrar in Brzostek.",
-   "people": "Deborah Gluckman; Simon Gluckman; Sasha Schiff; David Schiff; Tauba Schiff; Hersch Bieder; Solomon Karpf; Marcus Kleinman",
-   "phonetic": "370000 373000 379000 400000 460000 470000 486000 540000 545000 584560 585600 586600 594000 594500 597000 694000 695400 739000"
+   "prose": "Deborah Female Legitimate 5 Dec 1917 Blaszkowa, house 1 8 Dec 1917 Brzostek Simche Hersch Gluckman, called Hersch, tenant of the manor in Blaszkowa Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolice, and Fany nee Richter Hersch Bieder, schames in Brzostek, witness. Solomon Karpf, merchant in Brzostek, witness. Marcus Kleinman Josefa Lisowa Marriage performed in Zabno 18 Feb 1908. Below the entry: Closed as of 31 Dec 1917. Wilhelm Zahler; stamp: Jewish Registrar in Brzostek.",
+   "people": "Deborah Gluckman; Simon Gluckman; Sasha Schiff; David Schiff; Fanny Schiff; Hersch Bieder; Solomon Karpf; Marcus Kleinman",
+   "phonetic": "373000 379000 400000 460000 470000 486000 540000 545000 584560 585600 586600 594000 594500 597000 694000 695400 739000 760000"
   },
   {
    "id": "b-1903-1",
@@ -56227,10 +56189,10 @@
    "book": "death",
    "year": 1915,
    "number": "8",
-   "summary": "Death 8/1915: Dora Oblat",
+   "summary": "Death 8/1915: Deborah Arnold",
    "prose": "27 Oct 1915 Skurowa 28 Oct 1915 Brzostek Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and Malka Hannah of unknown maiden name, from Ostrawy in the district of Stanislawow Skurowa Female 36 years Married smallpox Smallpox daughter of",
-   "people": "Dora Oblat; Leib Oblat; Malka Hannah Oblat",
-   "phonetic": "078300 390000 560000 685000 870000"
+   "people": "Deborah Arnold; Leib Oblat; Malka Hannah Oblat",
+   "phonetic": "078300 096830 379000 560000 685000 870000"
   },
   {
    "id": "d-1915-9",
@@ -59749,8 +59711,8 @@
    "number": "1",
    "summary": "Marriage 1/1913: Israel Schiff & Mindla Miltau [or Miltan]",
    "prose": "23 February 1913 Brzostek Israel Schiff, recte Richter, born in Ludwin, lessee of the Blaszkowa estate, son of Tauba Richter, owner of a business in Ludwin Mindla Miltau [or Miltan], born in Przemyśl, residing in Blaszkowa, daughter of Sara Miltau [or Miltan], residing in Mosciska Judah Leib Wolkenfeld Wolf Steiner, without occupation in Brzostek, witness. Mozes Schwarz, merchant in Brzostek, witness. groom born 9 Dec 1884 and bride 27 Feb 1887. Remarks: Documents of the groom: birth certificate dated Jaworów, 4 Jan 1911; resolution of the Imperial-Royal District Office (Starostwo) in Gródek Jagielloński dated 2 Jan 1911, ref. no. 5680, that he has fulfilled the military obligations. Of the bride: birth certificate dated Przemyśl, 23 Dec 1910; certificate of the banns and of the rabbinate.",
-   "people": "Israel Schiff; Mindla Miltau [or Miltan]; David Schiff; Tauba Schiff; Sarah Miltau [or Miltan]; Wolf Steiner; Moses Schwarz; Judah Leib Wolkenfeld",
-   "phonetic": "049800 090000 130000 269000 370000 373000 430000 470000 474000 479400 490000 638000 640000 683000 683600 785678 787000 870000"
+   "people": "Israel Schiff; Mindla Miltau [or Miltan]; David Schiff; Fanny Schiff; Sarah Miltau [or Miltan]; Wolf Steiner; Moses Schwarz; Judah Leib Wolkenfeld",
+   "phonetic": "049800 090000 130000 269000 373000 430000 470000 474000 479400 490000 638000 640000 683000 683600 760000 785678 787000 870000"
   },
   {
    "id": "m-1913-2",
@@ -60376,8 +60338,8 @@
    "number": "1",
    "summary": "Marriage 1/1926: Chaskel Klausner & Pessel Aron",
    "prose": "2 January 1926 Brzostek Chaskel Klausner, illegitimate son of Scheindli Klausner, born in Mielcu and resides in Wola Brzostecka without profession Pese Aron, daughter of Salamon Dawid, called Dawid, Aron, owner of a dry good store in Brzostek I Malki Perli, called Perl, nee Tager Chaim Wolkenfeld Walter Mojzesz, merchant in Brzostek, witness. Jakob Schwarz, merchant in Brzostek, witness. groom 6 March 1899, bride 13 dec 1898 | Later annotation (rescript of the Kraków voivode, 30 Jan 1930): the groom was legitimated by the subsequent marriage of his parents Samuel Tum and Scheindla Klausner and, as Samuel Tum's legitimate son, is entitled to the surname Tum. Remarks: For the groom: birth certificate dated Mielec, 28[?] Sep 1920, ref. no. 37[1?]/20, according to the birth register there, vol. XIII, p. 10, no. 36; also military service book, District Recruiting Command (P.K.U.) Rzeszów, that he has fulfilled [his] military [duty]. For the bride: this registry's own birth book, vol. III, p. 66, no. 32; certificate of the banns, and also certificates of the rabbinate in Brzostek of 3 Jan 1926.",
-   "people": "Chaskel Klausner; Pessel Aron; Shayndel Klausner; David Aron; Malka Perla Aron; Moses Walter; Jacob Schwarz; Chaim Wolkenfeld",
-   "phonetic": "096000 147000 157000 373000 457000 458000 460000 463800 470000 474000 479400 545800 560000 584690 640000 685000 748000 783900 785678 798000"
+   "people": "Chaskel Klausner; Pessel Aron; Samuel Kornfeld; Shayndel Klausner; David Aron; Malka Perla Aron; Moses Walter; Jacob Schwarz; Chaim Wolkenfeld",
+   "phonetic": "096000 147000 157000 373000 457000 458000 460000 463800 468000 470000 474000 479400 545800 560000 584690 596783 640000 685000 748000 783900 785678 798000"
   },
   {
    "id": "m-1926-2",

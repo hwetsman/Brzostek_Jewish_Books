@@ -2876,17 +2876,13 @@
    "town": "Brzostek",
    "number": "128",
    "events": 13,
-   "distinct_surnames": 2,
+   "distinct_surnames": 1,
    "year_min": 1896,
    "year_max": 1913,
    "surnames": [
     [
      "Towel",
-     11
-    ],
-    [
-     "Bodner",
-     2
+     13
     ]
    ],
    "events_by_kind": {
@@ -5605,7 +5601,7 @@
    "year_max": 1915,
    "surnames": [
     [
-     "Wrobel",
+     "Propker",
      2
     ],
     [
@@ -6622,8 +6618,8 @@
   },
   {
    "surname": "Bodner",
-   "events": 22,
-   "distinct_buildings": 6,
+   "events": 20,
+   "distinct_buildings": 5,
    "year_min": 1894,
    "year_max": 1910,
    "places": [
@@ -6641,11 +6637,6 @@
      "town": "Gebiczyna",
      "number": "95",
      "events": 4
-    },
-    {
-     "town": "Brzostek",
-     "number": "128",
-     "events": 2
     },
     {
      "town": "Brzostek",
@@ -8874,6 +8865,20 @@
    ]
   },
   {
+   "surname": "Propker",
+   "events": 2,
+   "distinct_buildings": 1,
+   "year_min": 1913,
+   "year_max": 1913,
+   "places": [
+    {
+     "town": "Siedliska",
+     "number": "48",
+     "events": 2
+    }
+   ]
+  },
+  {
    "surname": "Ratz",
    "events": 6,
    "distinct_buildings": 4,
@@ -10347,7 +10352,7 @@
   },
   {
    "surname": "Towel",
-   "events": 17,
+   "events": 19,
    "distinct_buildings": 6,
    "year_min": 1894,
    "year_max": 1917,
@@ -10355,7 +10360,7 @@
     {
      "town": "Brzostek",
      "number": "128",
-     "events": 11
+     "events": 13
     },
     {
      "town": "Brzostek",
@@ -10701,16 +10706,11 @@
   },
   {
    "surname": "Wrobel",
-   "events": 4,
-   "distinct_buildings": 3,
+   "events": 2,
+   "distinct_buildings": 2,
    "year_min": 1876,
-   "year_max": 1913,
+   "year_max": 1897,
    "places": [
-    {
-     "town": "Siedliska",
-     "number": "48",
-     "events": 2
-    },
     {
      "town": "Brzostek",
      "number": "8",
@@ -11870,17 +11870,13 @@
    "town": "Brzostek",
    "number": "128",
    "events": 13,
-   "distinct_surnames": 2,
+   "distinct_surnames": 1,
    "year_min": 1896,
    "year_max": 1913,
    "surnames": [
     [
      "Towel",
-     11
-    ],
-    [
-     "Bodner",
-     2
+     13
     ]
    ],
    "events_by_kind": {
@@ -14549,7 +14545,7 @@
    "events": 1,
    "surnames": [
     [
-     "Wrobel",
+     "Propker",
      1
     ]
    ],
@@ -15159,6 +15155,10 @@
      9
     ],
     [
+     "Towel",
+     9
+    ],
+    [
      "Rowitz",
      9
     ],
@@ -15172,10 +15172,6 @@
     ],
     [
      "Faust",
-     8
-    ],
-    [
-     "Towel",
      8
     ],
     [
@@ -15339,10 +15335,6 @@
      2
     ],
     [
-     "Bodner",
-     2
-    ],
-    [
      "Braunheim",
      2
     ],
@@ -15416,6 +15408,10 @@
     ],
     [
      "Altman",
+     1
+    ],
+    [
+     "Bodner",
      1
     ],
     [
@@ -15766,14 +15762,10 @@
   },
   {
    "town": "Dabrowa Tarnowska",
-   "events": 11,
+   "events": 9,
    "surnames": [
     [
      "Goldberg",
-     2
-    ],
-    [
-     "Gluckman",
      2
     ],
     [
@@ -15794,7 +15786,7 @@
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 4,
+    "MGF_Residence": 2,
     "Bride birthplace": 1,
     "BF_Residence": 1,
     "Groom birthplace": 3,
@@ -15809,7 +15801,7 @@
    "surnames": [
     [
      "Towel",
-     5
+     6
     ],
     [
      "Lobel",
@@ -15853,10 +15845,6 @@
     ],
     [
      "Kunstler",
-     1
-    ],
-    [
-     "Bodner",
      1
     ],
     [
@@ -17990,6 +17978,21 @@
    "year_max": 1929
   },
   {
+   "town": "Okolice, Dąbrowa district",
+   "events": 2,
+   "surnames": [
+    [
+     "Gluckman",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "year_min": 1912,
+   "year_max": 1917
+  },
+  {
    "town": "Olchowa",
    "events": 2,
    "surnames": [
@@ -19108,7 +19111,7 @@
      1
     ],
     [
-     "Wrobel",
+     "Propker",
      1
     ],
     [
@@ -21799,8 +21802,6 @@
    "m-1897-5",
    "b-1896-24",
    "b-1898-24",
-   "b-1912-31",
-   "b-1917-18",
    "m-1901-17",
    "m-1913-7",
    "m-1937-6"
@@ -22434,6 +22435,10 @@
   "Ostrowiec Swietokrzski": [
    "b-1912-30"
   ],
+  "Okolice, Dąbrowa district": [
+   "b-1912-31",
+   "b-1917-18"
+  ],
   "Nockowa": [
    "b-1912-32",
    "b-1916-16"
@@ -22850,7 +22855,7 @@
   "events": 1502,
   "town_only_events": 2270,
   "buildings": 242,
-  "surnames_with_buildings": 202,
+  "surnames_with_buildings": 203,
   "towns": 28
  }
 }

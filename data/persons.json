@@ -6662,7 +6662,7 @@
    ],
    "born": {
     "rid": "b-1897-6",
-    "date": "25 Mar 1897",
+    "date": "23 Mar 1897",
     "place": "Brzostek, house 86",
     "entered_as": "Illegitimate"
    },
@@ -21437,10 +21437,15 @@
       "b-1894-34",
       "b-1897-1",
       "b-1898-32",
-      "b-1902-4",
       "m-1924-2",
       "m-1925-5",
       "m-1937-2"
+     ]
+    },
+    {
+     "form": "Malka née Kolber",
+     "rids": [
+      "b-1902-4"
      ]
     },
     {
@@ -21875,7 +21880,7 @@
     {
      "rid": "b-1899-26",
      "role": "Mother",
-     "text": "Scheindla Trachman, without occupation in Grudna Gorna"
+     "text": "Scheindla Trautman, without occupation in Grudna Gorna"
     },
     {
      "rid": "b-1900-11",
@@ -29624,28 +29629,28 @@
   "identity": {
    "names": [
     {
-     "form": "Moses Fichner",
+     "form": "David Fichner",
      "rids": [
       "b-1894-19",
-      "d-1900-18",
+      "b-1896-39",
+      "b-1899-13",
       "b-1901-19",
+      "b-1904-16",
+      "b-1906-11",
+      "b-1908-26",
+      "b-1908-27"
+     ]
+    },
+    {
+     "form": "Moses Fichner",
+     "rids": [
+      "d-1900-18",
       "d-1905-8",
       "d-1905-9",
       "b-1907-24",
       "d-1911-6",
       "d-1914-12",
       "m-1938-8"
-     ]
-    },
-    {
-     "form": "David Fichner",
-     "rids": [
-      "b-1896-39",
-      "b-1899-13",
-      "b-1904-16",
-      "b-1906-11",
-      "b-1908-26",
-      "b-1908-27"
      ]
     },
     {
@@ -47338,6 +47343,7 @@
       "b-1904-17",
       "b-1904-23",
       "b-1906-20",
+      "b-1906-28",
       "b-1907-7",
       "b-1907-20",
       "b-1907-21",
@@ -47350,12 +47356,6 @@
       "b-1911-4",
       "b-1911-17",
       "b-1912-9"
-     ]
-    },
-    {
-     "form": "Wolf Bodner",
-     "rids": [
-      "b-1906-28"
      ]
     },
     {
@@ -50453,8 +50453,8 @@
  },
  {
   "id": "P0401",
-  "legal_given": "Moses Berchiel",
-  "common_given": "Moses Berchiel",
+  "legal_given": "Moses Beer Chiel",
+  "common_given": "Chiel",
   "legal_surname": "Slanger",
   "common_surname": "Diamant",
   "maiden_surname": null,
@@ -50488,7 +50488,7 @@
   "identity": {
    "names": [
     {
-     "form": "Moses Berchiel (no surname written; child's birth entry)",
+     "form": "Moses Beer Chiel (no surname written; child's birth entry)",
      "rids": [
       "b-1896-14"
      ]
@@ -75490,7 +75490,7 @@
     {
      "rid": "b-1900-26",
      "role": "Mother",
-     "text": "Shilamis, daughter of Hersch Meilech Schlanger, called Meilech, without occupation in Bardejov, and Sarah Liba, called Liba, nee Weber"
+     "text": "Shilamis, daughter of Hersch Meilech Schlanger, called Meilech, without occupation in Bardejov, and Sarah Liba, called Liba, nee Weller [sic, = Weber]"
     },
     {
      "rid": "b-1902-27",
@@ -78664,7 +78664,7 @@
     {
      "rid": "b-1906-6",
      "role": "Father",
-     "text": "Abraham Hersch, called Hersch, Kalle [sic, = Kolber], false Amsterdam, horse dealer in Brzostek"
+     "text": "Abraham Hersch, called Hersch, Kalb [sic, = Kolber], false Amsterdam, horse dealer in Brzostek"
     },
     {
      "rid": "b-1907-38",
@@ -80842,6 +80842,11 @@
     },
     {
      "rid": "b-1900-8",
+     "role": "Father",
+     "text": "Elias Singer, legally Jortner, leather dealer in Brzostek"
+    },
+    {
+     "rid": "b-1902-8",
      "role": "Father",
      "text": "Elias Singer, leather dealer in Brzostek"
     },
@@ -83461,7 +83466,7 @@
     {
      "rid": "b-1902-10",
      "role": "Mother",
-     "text": "Keile, daughter of Nuchem Berkelhamer, farmer in Bogumilowice, and the late Raana, maiden name not given"
+     "text": "Keile, daughter of Nuchem Leib, called Leib, Berkelhamer, farmer in Bogumiłowice near Brzesko, and the late Raaza, maiden name not given"
     }
    ],
    "surnames": [
@@ -83617,7 +83622,7 @@
      ]
     },
     {
-     "form": "Raana Berkelhamer",
+     "form": "Raaza Berkelhamer",
      "rids": [
       "b-1902-10"
      ]
@@ -86691,7 +86696,8 @@
    "P0779",
    "P0985",
    "P1060",
-   "P1216"
+   "P1216",
+   "P2333"
   ],
   "children_names": [
    "Solomon Kornfeld (b. 1901)",
@@ -86744,6 +86750,10 @@
    {
     "record_id": "m-1901-7",
     "role": "Groom"
+   },
+   {
+    "record_id": "m-1926-1",
+    "role": "GF"
    }
   ],
   "external_resources": null,
@@ -86763,6 +86773,12 @@
       "b-1909-33",
       "b-1911-23",
       "b-1912-14"
+     ]
+    },
+    {
+     "form": "Samuel Tum",
+     "rids": [
+      "m-1926-1"
      ]
     }
    ],
@@ -86785,7 +86801,8 @@
    ],
    "surnames": [
     "Kornfeld",
-    "Thum"
+    "Thum",
+    "Tum"
    ],
    "born": null,
    "died": null,
@@ -86840,7 +86857,8 @@
    "P0779",
    "P0985",
    "P1060",
-   "P1216"
+   "P1216",
+   "P2333"
   ],
   "children_names": [
    "Solomon Kornfeld",
@@ -86869,6 +86887,10 @@
    {
     "record_id": "m-1901-7",
     "role": "Bride"
+   },
+   {
+    "record_id": "m-1926-1",
+    "role": "GM"
    }
   ],
   "external_resources": null,
@@ -86886,7 +86908,8 @@
     {
      "form": "Shayndel Klausner",
      "rids": [
-      "m-1901-7"
+      "m-1901-7",
+      "m-1926-1"
      ]
     }
    ],
@@ -117491,6 +117514,10 @@
     "role": "Mother"
    },
    {
+    "record_id": "d-1915-8",
+    "role": "Decedent"
+   },
+   {
     "record_id": "m-1908-1",
     "role": "Bride"
    }
@@ -117510,6 +117537,12 @@
      "form": "Deborah Feier",
      "rids": [
       "m-1908-1"
+     ]
+    },
+    {
+     "form": "Dora Guttstein",
+     "rids": [
+      "d-1915-8"
      ]
     }
    ],
@@ -117533,6 +117566,11 @@
      "rid": "b-1912-30",
      "role": "Mother",
      "text": "Deborah, daughter of the late Moses Leib Arnold, called Leib, merchant in Ostrów, and Hannah nee Feier"
+    },
+    {
+     "rid": "d-1915-8",
+     "role": "The deceased",
+     "text": "Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and Malka Hannah of unknown maiden name, from Ostrawy in the district of Stanislawow"
     }
    ],
    "surnames": [
@@ -117541,7 +117579,12 @@
     "Guttstein"
    ],
    "born": null,
-   "died": null,
+   "died": {
+    "rid": "d-1915-8",
+    "date": "27 Oct 1915",
+    "place": "Skurowa",
+    "age": "36 years"
+   },
    "marriages": [
     {
      "rid": "m-1908-1",
@@ -117551,7 +117594,7 @@
     }
    ],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1915",
    "birth_date_text": null,
    "death_date_text": null
   },
@@ -136332,12 +136375,12 @@
     {
      "rid": "b-1912-31",
      "role": "Mother",
-     "text": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolicach, Dąbrowa district, and Tauba nee Richter"
+     "text": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolice, Dąbrowa district, and Tauba nee Richter"
     },
     {
      "rid": "b-1917-18",
      "role": "Mother",
-     "text": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Dabrowa Tarnowska, and Tauba nee Richter"
+     "text": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolice, and Fany nee Richter"
     }
    ],
    "surnames": [
@@ -136447,7 +136490,7 @@
  {
   "id": "P1375",
   "legal_given": "Tauba",
-  "common_given": "Tauba",
+  "common_given": "Fanny",
   "legal_surname": "Richter",
   "common_surname": "Schiff",
   "maiden_surname": null,
@@ -136501,14 +136544,19 @@
     {
      "form": "Tauba née Richter",
      "rids": [
-      "b-1912-31",
-      "b-1917-18"
+      "b-1912-31"
      ]
     },
     {
      "form": "Tauba Richter",
      "rids": [
       "m-1913-1"
+     ]
+    },
+    {
+     "form": "Fany née Richter",
+     "rids": [
+      "b-1917-18"
      ]
     }
    ],
@@ -136533,7 +136581,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tauba Schiff née Richter",
+  "heading_name": "Fanny Schiff née Richter",
   "partner_groups": {
    "P1374": "2"
   }
@@ -136935,7 +136983,7 @@
     {
      "rid": "b-1912-32",
      "role": "Mother",
-     "text": "Sarah, daughter of Liba Meister and unknown father Chaim Stener, tenant in Nockowa in the Ropczyce district."
+     "text": "Sarah, daughter of Liba Meister and alleged father Chaim Stener, tenant in Nockowa in the Ropczyce district."
     },
     {
      "rid": "b-1916-16",
@@ -138519,8 +138567,8 @@
   "id": "P1404",
   "legal_given": "Moses",
   "common_given": "Moses",
-  "legal_surname": "Hoffman",
-  "common_surname": "Hoffman",
+  "legal_surname": "Hofjud",
+  "common_surname": "Hofjud",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -138558,7 +138606,7 @@
   "identity": {
    "names": [
     {
-     "form": "Moses Hoffman",
+     "form": "Moses Hofjud",
      "rids": [
       "b-1913-14"
      ]
@@ -138566,7 +138614,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Hoffman"
+    "Hofjud"
    ],
    "born": null,
    "died": null,
@@ -138583,8 +138631,8 @@
  },
  {
   "id": "P1405",
-  "legal_given": "Hannah",
-  "common_given": "Hannah",
+  "legal_given": "Chinka",
+  "common_given": "Chinka",
   "legal_surname": "Landau",
   "common_surname": "Landau",
   "maiden_surname": null,
@@ -138624,7 +138672,7 @@
   "identity": {
    "names": [
     {
-     "form": "Hannah Landau",
+     "form": "Chinka Landau",
      "rids": [
       "b-1913-14"
      ]
@@ -139135,12 +139183,7 @@
     {
      "form": "Moses Propker",
      "rids": [
-      "m-1906-12"
-     ]
-    },
-    {
-     "form": "Moses Wrobel",
-     "rids": [
+      "m-1906-12",
       "b-1913-18"
      ]
     }
@@ -139154,7 +139197,7 @@
     {
      "rid": "b-1913-18",
      "role": "Father",
-     "text": "Moses Wrobel, without occupation, currently in America"
+     "text": "Moses Wrobel, false Propker, without occupation, currently in America"
     }
    ],
    "surnames": [
@@ -149075,7 +149118,7 @@
    "P1544"
   ],
   "spouse_names": [
-   "Nachman Kirsch"
+   "Nach Kirsch"
   ],
   "children_ids": [
    "P1546"
@@ -149144,7 +149187,7 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P1544",
-  "father_name": "Nachman Kirsch",
+  "father_name": "Nach Kirsch",
   "mother_id": "P1545",
   "mother_name": "Shayndel Zahler",
   "spouse_ids": [],
@@ -150787,7 +150830,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "31 Aug 1871",
+  "birth_date": "1871",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -150828,7 +150871,7 @@
    ],
    "born": {
     "rid": "b-1898-29",
-    "date": "31 Aug 1871",
+    "date": "1871",
     "place": "Siedliska",
     "entered_as": "Illegitimate"
    },
@@ -160744,7 +160787,7 @@
    "Malka Hannah Oblat"
   ],
   "children_ids": [
-   "P1774"
+   "P1127"
   ],
   "children_names": [
    "Dora Guttstein"
@@ -160812,7 +160855,7 @@
    "Moses Leib Oblat"
   ],
   "children_ids": [
-   "P1774"
+   "P1127"
   ],
   "children_names": [
    "Dora Guttstein"
@@ -160850,75 +160893,6 @@
   "partner_groups": {
    "P1772": "unclear"
   }
- },
- {
-  "id": "P1774",
-  "legal_given": "Dora",
-  "common_given": "Dora",
-  "legal_surname": "Oblat",
-  "common_surname": "Oblat",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": "c. 1879 (age 36 at death 1915)",
-  "death_date": "27 Oct 1915",
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": "Skurowa",
-  "status": "M",
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": "Married (d-1915-8)",
-  "father_id": "P1772",
-  "father_name": "Moses Leib Oblat",
-  "mother_id": "P1773",
-  "mother_name": "Malka Hannah Oblat",
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "d-1915-8",
-    "role": "Decedent"
-   }
-  ],
-  "external_resources": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Dora Guttstein",
-     "rids": [
-      "d-1915-8"
-     ]
-    }
-   ],
-   "quotes": [
-    {
-     "rid": "d-1915-8",
-     "role": "The deceased",
-     "text": "Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and Malka Hannah of unknown maiden name, from Ostrawy in the district of Stanislawow"
-    }
-   ],
-   "surnames": [
-    "Guttstein",
-    "Oblat"
-   ],
-   "born": null,
-   "died": {
-    "rid": "d-1915-8",
-    "date": "27 Oct 1915",
-    "place": "Skurowa",
-    "age": "36 years"
-   },
-   "marriages": [],
-   "birth_year": "1879",
-   "death_year": "1915",
-   "birth_date_text": "c. 1879 (age 36 at death 1915)",
-   "death_date_text": null
-  },
-  "unions": []
  },
  {
   "id": "P1775",
@@ -196363,67 +196337,6 @@
   }
  },
  {
-  "id": "P2332",
-  "legal_given": "Shayndel",
-  "common_given": "Shayndel",
-  "legal_surname": "Klausner",
-  "common_surname": "Klausner",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": null,
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [
-   "P2333"
-  ],
-  "children_names": [
-   "Chaskel Klausner"
-  ],
-  "in_area": "NOT_IN_AREA",
-  "refs": [
-   {
-    "record_id": "m-1926-1",
-    "role": "GM"
-   }
-  ],
-  "external_resources": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Shayndel Klausner",
-     "rids": [
-      "m-1926-1"
-     ]
-    }
-   ],
-   "quotes": [],
-   "surnames": [
-    "Klausner"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
- },
- {
   "id": "P2333",
   "legal_given": "Chaskel",
   "common_given": "Chaskel",
@@ -196441,9 +196354,9 @@
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1926-1)",
   "marital_status_at_death": null,
-  "father_id": null,
+  "father_id": "P0776",
   "father_name": null,
-  "mother_id": "P2332",
+  "mother_id": "P0777",
   "mother_name": "Shayndel Klausner",
   "spouse_ids": [
    "P0609"
