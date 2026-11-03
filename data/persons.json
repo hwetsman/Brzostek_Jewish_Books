@@ -21539,8 +21539,8 @@
   "marital_status_at_death": null,
   "father_id": "P0126",
   "father_name": "Judah Handler",
-  "mother_id": "P0127",
-  "mother_name": "Shayndel Handler née Trachman",
+  "mother_id": "P2738",
+  "mother_name": "Shayndel Trachman",
   "spouse_ids": [
    "P0122"
   ],
@@ -21645,10 +21645,10 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P0127"
+   "P2738"
   ],
   "spouse_names": [
-   "Shayndel Handler née Trachman"
+   "Shayndel Trachman"
   ],
   "children_ids": [
    "P0125"
@@ -21685,7 +21685,17 @@
    "birth_date_text": null,
    "death_date_text": null
   },
-  "unions": []
+  "unions": [
+   {
+    "kind": "rite",
+    "evidence": "named as a couple in m-1907-8",
+    "partner_id": "P2738",
+    "group": "2"
+   }
+  ],
+  "partner_groups": {
+   "P2738": "2"
+  }
  },
  {
   "id": "P0127",
@@ -21700,7 +21710,7 @@
   "death_date": "2 Oct 1915",
   "marriage_dates": "26 October 1900 in Brzostek; 26 Oct 1900 in Brzostek (civil)",
   "occupations": null,
-  "residences": "Makowiska (with Judah Handler 1880s); Grudna Gorna house 56 (with Nusim Weintraub from ~1894)",
+  "residences": "born at Łajsce near Jasło; Grudna Gorna house 56 (with Nusim Weintraub from 1895)",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1900-22)",
@@ -21710,34 +21720,30 @@
   "mother_id": "P0332",
   "mother_name": "Sarah Trachman",
   "spouse_ids": [
-   "P0126",
    "P0329"
   ],
   "spouse_names": [
-   "Judah Handler",
    "Nusim Weintraub"
   ],
   "children_ids": [
-   "P0125",
    "P0328",
    "P0400",
    "P1620",
    "P0592",
+   "P0669",
    "P0717",
    "P0980",
-   "P1067",
-   "P0669"
+   "P1067"
   ],
   "children_names": [
-   "Ephraim Handler",
    "Unnamed Weintraub (b-1895-21 stillborn)",
    "Unnamed Weintraub (b-1896-13 stillborn)",
    "Stillborn Weintraub (d-1897-1 only)",
    "Unnamed Weintraub (b-1898-23 stillborn)",
+   "Stillborn Trachman (b-1899-26)",
    "Stillborn Weintraub (b-1900-11)",
    "Sarah Mindla Weintraub",
-   "Tauba Weintraub",
-   "Stillborn Trachman (d-1899-4)"
+   "Tauba Weintraub"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -21806,10 +21812,6 @@
     "role": "Bride"
    },
    {
-    "record_id": "m-1907-8",
-    "role": "GM"
-   },
-   {
     "record_id": "m-1929-5",
     "role": "BM"
    }
@@ -21829,7 +21831,6 @@
       "b-1900-11",
       "b-1905-22",
       "b-1907-13",
-      "m-1907-8",
       "m-1929-5"
      ]
     },
@@ -21909,7 +21910,6 @@
     }
    ],
    "surnames": [
-    "Handler",
     "Trachman",
     "Weintraub"
    ],
@@ -44396,7 +44396,7 @@
    "P2211"
   ],
   "spouse_names": [
-   "Shayndel Handler",
+   "Hannah Shayndel Trachman",
    "Miriam Herman"
   ],
   "children_ids": [
@@ -219258,6 +219258,83 @@
   ],
   "partner_groups": {
    "P1931": "2"
+  }
+ },
+ {
+  "id": "P2738",
+  "legal_given": "Shayndel",
+  "common_given": "Shayndel",
+  "legal_surname": "Trachman",
+  "common_surname": "Trachman",
+  "maiden_surname": null,
+  "married_surname": null,
+  "sex": "F",
+  "birth_date": null,
+  "death_date": null,
+  "marriage_dates": null,
+  "occupations": null,
+  "residences": "Makowiska",
+  "status": null,
+  "birth_legitimacy": null,
+  "marital_status_at_marriage": null,
+  "marital_status_at_death": null,
+  "father_id": null,
+  "father_name": null,
+  "mother_id": null,
+  "mother_name": null,
+  "spouse_ids": [
+   "P0126"
+  ],
+  "spouse_names": [
+   "Judah Handler"
+  ],
+  "children_ids": [
+   "P0125"
+  ],
+  "children_names": [
+   "Ephraim Handler"
+  ],
+  "in_area": "NOT_IN_AREA",
+  "refs": [
+   {
+    "record_id": "m-1907-8",
+    "role": "GM"
+   }
+  ],
+  "external_resources": null,
+  "identity": {
+   "names": [
+    {
+     "form": "Shayndel née Trachman",
+     "rids": [
+      "m-1907-8"
+     ]
+    }
+   ],
+   "quotes": [],
+   "surnames": [
+    "Handler",
+    "Trachman"
+   ],
+   "born": null,
+   "died": null,
+   "marriages": [],
+   "birth_year": null,
+   "death_year": null,
+   "birth_date_text": null,
+   "death_date_text": null
+  },
+  "unions": [
+   {
+    "kind": "rite",
+    "evidence": "named as a couple in m-1907-8",
+    "partner_id": "P0126",
+    "group": "2"
+   }
+  ],
+  "heading_name": "Shayndel Handler née Trachman",
+  "partner_groups": {
+   "P0126": "2"
   }
  }
 ]
