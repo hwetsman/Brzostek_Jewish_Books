@@ -5750,7 +5750,7 @@
    "common_surname": "Weintraub",
    "maiden_surname": "",
    "father_name": "Fishel Weintraub",
-   "mother_name": "Mindla Weintraub née Berger",
+   "mother_name": "Mindla Bodner",
    "spouse_names": "Hannah Shayndel Trachman; Miriam Herman",
    "residences": "Grudna Gorna",
    "birth_date": "",
@@ -10082,7 +10082,7 @@
    "common_surname": "Weintraub",
    "maiden_surname": "",
    "father_name": "Fishel Weintraub",
-   "mother_name": "Mindla Weintraub née Berger",
+   "mother_name": "Mindla Bodner",
    "spouse_names": "Esther Weintraub née List",
    "residences": "Grudna Gorna",
    "birth_date": "",
@@ -28845,9 +28845,9 @@
   {
    "id": "P1622",
    "type": "person",
-   "display": "Mindla Weintraub",
-   "other_names": "Mindla Weintraub; Bodner; Weintraub",
-   "subtitle": "1818–1897",
+   "display": "Mindla Weintraub née Bodner",
+   "other_names": "Mindla Weintraub; Mindla née Bodner; Bodner; Weintraub",
+   "subtitle": "1818–1897; wife of Fishel Weintraub",
    "legal_given": "Mindla",
    "common_given": "Mindla",
    "legal_surname": "Bodner",
@@ -28855,11 +28855,11 @@
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "",
-   "spouse_names": "",
+   "spouse_names": "Fishel Weintraub",
    "residences": "Grudna Gorna (house 56)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "638000 736900 763970 638000 736900 763970"
+   "phonetic": "638000 736900 763970 600000 638000 736900 763970"
   },
   {
    "id": "P1623",
@@ -34091,7 +34091,7 @@
    "type": "person",
    "display": "Fishel Weintraub",
    "other_names": "Fishel Weintraub; Weintraub",
-   "subtitle": "died 1900; husband of Mindla Weintraub née Berger",
+   "subtitle": "died 1900; husband of Mindla Weintraub née Bodner",
    "legal_given": "Fishel",
    "common_given": "Fishel",
    "legal_surname": "Weintraub",
@@ -34099,7 +34099,7 @@
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "",
-   "spouse_names": "Mindla Weintraub née Berger",
+   "spouse_names": "Mindla Bodner",
    "residences": "Grudna Gorna",
    "birth_date": "",
    "death_date": "",
@@ -34427,25 +34427,6 @@
    "birth_date": "",
    "death_date": "",
    "phonetic": "043590 387600 560000 387600 560000"
-  },
-  {
-   "id": "P2029",
-   "type": "person",
-   "display": "Mindla Weintraub née Berger",
-   "other_names": "Mindla Weintraub; Mindla née Berger; Berger; Weintraub",
-   "subtitle": "wife of Fishel Weintraub",
-   "legal_given": "Mindla",
-   "common_given": "Mindla",
-   "legal_surname": "Berger",
-   "common_surname": "Berger",
-   "maiden_surname": "",
-   "father_name": "",
-   "mother_name": "",
-   "spouse_names": "Fishel Weintraub",
-   "residences": "",
-   "birth_date": "",
-   "death_date": "",
-   "phonetic": "638000 795900 600000 638000 763970 795900"
   },
   {
    "id": "P2030",
@@ -58685,8 +58666,8 @@
    "number": "22",
    "summary": "Marriage 22/1900: Nusim Weintraub & Shayndel Trachman",
    "prose": "26 October 1900 Brzostek Nusym Weintraub, born and living in Grudna Gorna, owner of a landholding there, son of Fischl and Mindla Weintraub, former innkeepers in Grudna Gorna Scheindla Trachman, born in Łajsce near Jasło, residing in Grudna Górna, daughter of Samuel Trachman, a cattle dealer, and Sara Trachman of Szebnie ad Jasło Judah Leib Wolkenfeld Marcus Kleinman, sworn schochet in Brzostek, witness. Chaim Galizer, sworn schochet in Brzostek, witness. Remarks: Militia (Landsturm) passport dated Rzeszów, 19 Feb 1895, no. 55, and the banns announced three times, and the notice of the rabbinate. Later note at the foot of the page: I certify that the extract agrees with the original register. P[ilzno?], 14 Nov 1928[?]. Head of the District Office (Starostwo Powiatowe) [signature] J. Kurcz[?]; stamp: Starostwo in Pilzno.",
-   "people": "Nusim Weintraub; Shayndel Trachman; Fishel Weintraub; Mindla Berger; Samuel Trachman; Sarah Trachman; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
-   "phonetic": "130000 394600 395600 430000 460000 463800 468000 490000 560000 584900 586600 638000 646000 694000 695400 748000 763970 785678 795900 870000"
+   "people": "Nusim Weintraub; Shayndel Trachman; Fishel Weintraub; Mindla Weintraub; Samuel Trachman; Sarah Trachman; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
+   "phonetic": "130000 394600 395600 430000 460000 463800 468000 490000 560000 584900 586600 638000 646000 694000 695400 748000 763970 785678 870000"
   },
   {
    "id": "m-1901-1",
@@ -58816,8 +58797,8 @@
    "year": 1901,
    "number": "12",
    "summary": "Marriage 12/1901: Joseph Weintraub & Esther List",
-   "prose": "24 October 1901 Brzostek Symche Jozef, called Jozef, Bodner, called Weintraub, born in Grudna Gorna, House No. 82, residing in Brzostek, industrialist, son of the ritual marriage of Efroim Fischl, called Fishl, Weintraub, former innkeeper in Grudna Gorna and Mindla nee Berger Estera Berger, called List, born in Brzeziny, Imperial-Royal, Starostwo Ropczyce, residing in Brzostek without employment, daughter of the ritual marriage of Aron List, a tavern keeper in Brzeziny, and Feiga née Berger Judah Leib Wolkenfeld Chajm Majer Fisch, egg dealer in Brzostek, witness. Dawid Tesser, cattle dealer in Brzostek, witness. Remarks: The capacity for the marriage contracted alongside rests on [the registrar's] own knowledge, under § 32 of the register instructions; also the banns announced three times, and the notice of the rabbinate of 24 Oct 1901.",
-   "people": "Joseph Weintraub; Esther List; Fishel Weintraub; Mindla Berger; Aron List; Feige Berger; Chaim Fisch; David Tesser; Judah Leib Wolkenfeld",
+   "prose": "24 October 1901 Brzostek Symche Jozef, called Jozef, Bodner, called Weintraub, born in Grudna Gorna, House No. 82, residing in Brzostek, industrialist, son of the ritual marriage of Efroim Fischl, called Fishl, Weintraub, former innkeeper in Grudna Gorna and Mindla nee Berger [sic, = Bodner] Estera Berger, called List, born in Brzeziny, Imperial-Royal, Starostwo Ropczyce, residing in Brzostek without employment, daughter of the ritual marriage of Aron List, a tavern keeper in Brzeziny, and Feiga née Berger Judah Leib Wolkenfeld Chajm Majer Fisch, egg dealer in Brzostek, witness. Dawid Tesser, cattle dealer in Brzostek, witness. Remarks: The capacity for the marriage contracted alongside rests on [the registrar's] own knowledge, under § 32 of the register instructions; also the banns announced three times, and the notice of the rabbinate of 24 Oct 1901.",
+   "people": "Joseph Weintraub; Esther List; Fishel Weintraub; Mindla Weintraub; Aron List; Feige Berger; Chaim Fisch; David Tesser; Judah Leib Wolkenfeld",
    "phonetic": "043590 096000 130000 147000 349000 373000 430000 460000 470000 560000 638000 740000 748000 750000 763970 785678 795900 843000 870000"
   },
   {
@@ -59840,8 +59821,8 @@
    "number": "2",
    "summary": "Marriage 2/1916: Nusim Weintraub & Miriam Herman",
    "prose": "16 February 1916 Brzostek Nusyn Weintraub, farmer residing in Grudna Górna, son of the deceased Fischl and Mindla Weintraub Mariem, daughter of the late Moshe Herman and Chaja, née Friedman, a laborer, lived in Kamienica Górna Chaim Wolkenfeld Salamon Guttenberg, dealer living in Nawsie Brzosteckie, witness. Hersch Bieder, schames in Brzostek, witness. Remarks: Documents of the groom: militia (Landsturm) passport dated Pilzno, 19 Feb 1896, no. 55; death record of his late wife Scheindla. Documents of the bride: this registry's own birth book, vol. II, p. 6, no. 11; certificate of the banns; certificate of the rabbinate.",
-   "people": "Nusim Weintraub; Miriam Herman; Fishel Weintraub; Mindla Berger; Moses Herman; Chaya Friedman; Solomon Guttenberg; Hersch Bieder; Chaim Wolkenfeld",
-   "phonetic": "410000 460000 486000 510000 536795 540000 545000 560000 594000 594500 596000 638000 640000 646000 696000 739000 748000 763970 785678 793600 795900"
+   "people": "Nusim Weintraub; Miriam Herman; Fishel Weintraub; Mindla Weintraub; Moses Herman; Chaya Friedman; Solomon Guttenberg; Hersch Bieder; Chaim Wolkenfeld",
+   "phonetic": "410000 460000 486000 510000 536795 540000 545000 560000 594000 594500 596000 638000 640000 646000 696000 739000 748000 763970 785678 793600"
   },
   {
    "id": "m-1916-3",

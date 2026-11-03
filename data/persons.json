@@ -44389,8 +44389,8 @@
   "marital_status_at_death": null,
   "father_id": "P2007",
   "father_name": "Fishel Weintraub",
-  "mother_id": "P2029",
-  "mother_name": "Mindla Weintraub née Berger",
+  "mother_id": "P1622",
+  "mother_name": "Mindla Bodner",
   "spouse_ids": [
    "P0127",
    "P2211"
@@ -68632,8 +68632,8 @@
   "marital_status_at_death": null,
   "father_id": "P2007",
   "father_name": "Fishel Weintraub",
-  "mother_id": "P2029",
-  "mother_name": "Mindla Weintraub née Berger",
+  "mother_id": "P1622",
+  "mother_name": "Mindla Bodner",
   "spouse_ids": [
    "P0576"
   ],
@@ -68706,7 +68706,7 @@
     {
      "rid": "m-1901-12",
      "role": "Groom",
-     "text": "Symche Jozef, called Jozef, Bodner, called Weintraub, born in Grudna Gorna, House No. 82, residing in Brzostek, industrialist, son of the ritual marriage of Efroim Fischl, called Fishl, Weintraub, former innkeeper in Grudna Gorna and Mindla nee Berger"
+     "text": "Symche Jozef, called Jozef, Bodner, called Weintraub, born in Grudna Gorna, House No. 82, residing in Brzostek, industrialist, son of the ritual marriage of Efroim Fischl, called Fishl, Weintraub, former innkeeper in Grudna Gorna and Mindla nee Berger [sic, = Bodner]"
     }
    ],
    "surnames": [
@@ -153679,15 +153679,37 @@
   "father_name": null,
   "mother_id": null,
   "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
+  "spouse_ids": [
+   "P2007"
+  ],
+  "spouse_names": [
+   "Fishel Weintraub"
+  ],
+  "children_ids": [
+   "P0575",
+   "P0329"
+  ],
+  "children_names": [
+   "Simcha Joseph Bodner/Weintraub",
+   "Nusim Weintraub"
+  ],
   "in_area": "IN_AREA",
   "refs": [
    {
     "record_id": "d-1897-3",
     "role": "Decedent"
+   },
+   {
+    "record_id": "m-1900-22",
+    "role": "GM"
+   },
+   {
+    "record_id": "m-1901-12",
+    "role": "GM"
+   },
+   {
+    "record_id": "m-1916-2",
+    "role": "GM"
    }
   ],
   "external_resources": null,
@@ -153696,7 +153718,15 @@
     {
      "form": "Mindla Weintraub",
      "rids": [
-      "d-1897-3"
+      "d-1897-3",
+      "m-1900-22",
+      "m-1916-2"
+     ]
+    },
+    {
+     "form": "Mindla née Bodner",
+     "rids": [
+      "m-1901-12"
      ]
     }
    ],
@@ -153724,7 +153754,18 @@
    "birth_date_text": "c. 1818 (age 79 at death 1897)",
    "death_date_text": null
   },
-  "unions": []
+  "unions": [
+   {
+    "kind": "rite",
+    "evidence": "described as married by Jewish rite in m-1901-12",
+    "partner_id": "P2007",
+    "group": "2"
+   }
+  ],
+  "heading_name": "Mindla Weintraub née Bodner",
+  "partner_groups": {
+   "P2007": "2"
+  }
  },
  {
   "id": "P1623",
@@ -174094,10 +174135,10 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P2029"
+   "P1622"
   ],
   "spouse_names": [
-   "Mindla Weintraub née Berger"
+   "Mindla Bodner"
   ],
   "children_ids": [
    "P0329",
@@ -174150,12 +174191,12 @@
    {
     "kind": "rite",
     "evidence": "described as married by Jewish rite in m-1901-12",
-    "partner_id": "P2029",
+    "partner_id": "P1622",
     "group": "2"
    }
   ],
   "partner_groups": {
-   "P2029": "2"
+   "P1622": "2"
   }
  },
  {
@@ -175423,100 +175464,6 @@
   "heading_name": "Hene Galizer née Teitelbaum",
   "partner_groups": {
    "P0071": "1"
-  }
- },
- {
-  "id": "P2029",
-  "legal_given": "Mindla",
-  "common_given": "Mindla",
-  "legal_surname": "Berger",
-  "common_surname": "Berger",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": null,
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [
-   "P2007"
-  ],
-  "spouse_names": [
-   "Fishel Weintraub"
-  ],
-  "children_ids": [
-   "P0575",
-   "P0329"
-  ],
-  "children_names": [
-   "Simcha Joseph Bodner",
-   "Nusim Weintraub"
-  ],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "m-1900-22",
-    "role": "GM"
-   },
-   {
-    "record_id": "m-1901-12",
-    "role": "GM"
-   },
-   {
-    "record_id": "m-1916-2",
-    "role": "GM"
-   }
-  ],
-  "external_resources": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Mindla Weintraub",
-     "rids": [
-      "m-1900-22",
-      "m-1916-2"
-     ]
-    },
-    {
-     "form": "Mindla née Berger",
-     "rids": [
-      "m-1901-12"
-     ]
-    }
-   ],
-   "quotes": [],
-   "surnames": [
-    "Berger",
-    "Weintraub"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": [
-   {
-    "kind": "rite",
-    "evidence": "described as married by Jewish rite in m-1901-12",
-    "partner_id": "P2007",
-    "group": "2"
-   }
-  ],
-  "heading_name": "Mindla Weintraub née Berger",
-  "partner_groups": {
-   "P2007": "2"
   }
  },
  {

@@ -386,7 +386,7 @@
  {
   "surname": "Berger",
   "fname": "Berger",
-  "count": 31,
+  "count": 30,
   "person_ids": [
    "P0271",
    "P0273",
@@ -408,7 +408,6 @@
    "P1881",
    "P1882",
    "P1964",
-   "P2029",
    "P2245",
    "P2264",
    "P2265",
@@ -6850,7 +6849,7 @@
  {
   "surname": "Weintraub",
   "fname": "Weintraub",
-  "count": 19,
+  "count": 18,
   "person_ids": [
    "P0127",
    "P0316",
@@ -6869,7 +6868,6 @@
    "P1622",
    "P1950",
    "P2007",
-   "P2029",
    "P2397"
   ]
  },
