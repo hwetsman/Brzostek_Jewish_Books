@@ -21880,7 +21880,7 @@
     {
      "rid": "b-1899-26",
      "role": "Mother",
-     "text": "Scheindla Trautman, without occupation in Grudna Gorna"
+     "text": "Scheindla Trachman, without occupation in Grudna Gorna"
     },
     {
      "rid": "b-1900-11",
@@ -50769,8 +50769,8 @@
   ],
   "children_names": [
    "Israel Offner",
-   "Rachel Offner",
-   "Aron Mordechi Offner"
+   "Aron Mordechi Offner",
+   "Ruchla Offner"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -50856,8 +50856,8 @@
   "birth_date": "c. 1840 (age 60 at m-1900-21); born in Cieklin",
   "death_date": null,
   "marriage_dates": "26 Oct 1900 in Brzostek (civil)",
-  "occupations": "tavern keeper in Brzostek (1903, per Galicia Business Directory 1903, Vol 10, image 341 (Brzostek, Pilzno district))",
-  "residences": null,
+  "occupations": "tavern keeper (Schenker) in Bukowa (1903, per Austrian Central Cadastre, Galicia and Bukovina, vol. 10, image 341: Ortsgemeinde Bukowa, court district Brzostek, district Pilzno, post office Brzostek)",
+  "residences": "Bukowa",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1900-21)",
@@ -50879,8 +50879,8 @@
   ],
   "children_names": [
    "Israel Offner",
-   "Rachel Offner",
-   "Aron Mordechi Offner"
+   "Aron Mordechi Offner",
+   "Ruchla Offner"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -76899,8 +76899,8 @@
   "id": "P0669",
   "legal_given": null,
   "common_given": null,
-  "legal_surname": "Trautman",
-  "common_surname": "Trautman",
+  "legal_surname": "Trachman",
+  "common_surname": "Trachman",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -76916,7 +76916,7 @@
   "father_id": null,
   "father_name": null,
   "mother_id": "P0127",
-  "mother_name": "Shayndel Trautman",
+  "mother_name": "Shayndel Trachman",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -76950,8 +76950,7 @@
     }
    ],
    "surnames": [
-    "Trachman",
-    "Trautman"
+    "Trachman"
    ],
    "born": {
     "rid": "b-1899-26",

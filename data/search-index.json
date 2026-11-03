@@ -6911,7 +6911,7 @@
    "father_name": "Chiel Krautblatt",
    "mother_name": "Sarah Solomon",
    "spouse_names": "Joseph Offner",
-   "residences": "",
+   "residences": "Bukowa",
    "birth_date": "",
    "death_date": "",
    "phonetic": "410000 510000 593783 076900 410000 510000 593783 600000"
@@ -11783,21 +11783,21 @@
   {
    "id": "P0669",
    "type": "person",
-   "display": "Trautman",
-   "other_names": "Unnamed_d-1899-4 Trachman; Trachman; Trautman",
+   "display": "Trachman",
+   "other_names": "Unnamed_d-1899-4 Trachman; Trachman",
    "subtitle": "1899–1899; daughter of Shayndel Weintraub née Trachman",
    "legal_given": "",
    "common_given": "",
-   "legal_surname": "Trautman",
-   "common_surname": "Trautman",
+   "legal_surname": "Trachman",
+   "common_surname": "Trachman",
    "maiden_surname": "",
    "father_name": "",
-   "mother_name": "Shayndel Trautman",
+   "mother_name": "Shayndel Trachman",
    "spouse_names": "",
    "residences": "Grudna Gorna (house 56)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "393600 063000 393600 394600 395600"
+   "phonetic": "394600 395600 063000 394600 395600"
   },
   {
    "id": "P0670",
@@ -47654,9 +47654,9 @@
    "year": 1899,
    "number": "26",
    "summary": "Birth 26/1899: (birth)",
-   "prose": "Female Illegitimate 5 Jun 1899 Grudna Gorna, house 56 1899 Scheindla Trautman, without occupation in Grudna Gorna Stillborn",
-   "people": "Trautman; Shayndel Trachman",
-   "phonetic": "393600 394600 395600 463800"
+   "prose": "Female Illegitimate 5 Jun 1899 Grudna Gorna, house 56 1899 Scheindla Trachman, without occupation in Grudna Gorna Stillborn",
+   "people": "Trachman; Shayndel Trachman",
+   "phonetic": "394600 395600 463800"
   },
   {
    "id": "b-1899-27",
@@ -53912,10 +53912,10 @@
    "book": "death",
    "year": 1899,
    "number": "4",
-   "summary": "Death 4/1899: Trautman",
+   "summary": "Death 4/1899: Trachman",
    "prose": "5 Jun 1899 Grudna Gorna 7 Jun 1899 Brzostek Stillborn female child of Scheindla Trachman, unemployed in Grudna Gorna Grudna Gorna, house 56 Female under 1 month stillborn Stillborn child of",
-   "people": "Trautman; Shayndel Trachman",
-   "phonetic": "393600 394600 395600 463800"
+   "people": "Trachman; Shayndel Trachman",
+   "phonetic": "394600 395600 463800"
   },
   {
    "id": "d-1899-5",
