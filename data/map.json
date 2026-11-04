@@ -5260,8 +5260,8 @@
   },
   {
    "town": "Mosciska",
-   "lat": 52.288196,
-   "lon": 20.869799,
+   "lat": 49.7986,
+   "lon": 23.1514,
    "events": 2,
    "buildings": 0,
    "year_min": 1913,
@@ -5283,7 +5283,7 @@
    },
    "top_buildings": [],
    "town_only_events": 2,
-   "notes": ""
+   "notes": "C 2026-11-03: was 52.2882,20.8698 (a Moscicka near Warsaw). Galician Mosciska (Mostyska), near Przemysl; approx. town centre. Probable."
   },
   {
    "town": "Nagawczyna near Debica",
@@ -5484,8 +5484,8 @@
   },
   {
    "town": "Nawsie Wielopolskie",
-   "lat": 50.061578,
-   "lon": 19.703228,
+   "lat": 49.933,
+   "lon": 21.65,
    "events": 1,
    "buildings": 0,
    "year_min": 1919,
@@ -5507,7 +5507,7 @@
    },
    "top_buildings": [],
    "town_only_events": 1,
-   "notes": "Was 'Nawsie Wielski' on m-1919-6"
+   "notes": "Was 'Nawsie Wielski' on m-1919-6 | C 2026-11-03 (the curator approved fixing geography errors): was 50.0616,19.7032 (near Krakow). Nawsie, gmina Wielopole Skrzynskie (Wikipedia, Nawsie). Bride of m-1919-6, family farmers in Baczalka."
   },
   {
    "town": "Niebylec",
@@ -8830,8 +8830,8 @@
   },
   {
    "town": "Wierzbica",
-   "lat": 51.247236,
-   "lon": 21.083408,
+   "lat": 50.35028,
+   "lon": 23.67333,
    "events": 1,
    "buildings": 0,
    "year_min": 1904,
@@ -8853,7 +8853,7 @@
    },
    "top_buildings": [],
    "town_only_events": 1,
-   "notes": "Was misread 'Wierzleica' on m-1904-3; narrative cited 'starosty of Rawa'"
+   "notes": "Was misread 'Wierzleica' on m-1904-3; narrative cited 'starosty of Rawa' | C 2026-11-03: was 51.2472,21.0834 (Wierzbica near Radom, Congress Poland). m-1904-3 says 'starosty of Rawa' = Rawa Ruska, Galicia; taken as Wierzbica, gmina Lubycza Krolewska (Wikipedia), then in Rawa Ruska district. Probable."
   },
   {
    "town": "Wojtowa",

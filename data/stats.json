@@ -135,7 +135,7 @@
   ],
   [
    "Jacob",
-   45
+   44
   ],
   [
    "Abraham",
@@ -486,7 +486,7 @@
   "distinct_causes": 112
  },
  "totals": {
-  "persons": 2382,
+  "persons": 2381,
   "births": 723,
   "deaths": 446,
   "marriages": 279,

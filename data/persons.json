@@ -34508,7 +34508,7 @@
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1896-6)",
   "marital_status_at_death": null,
-  "father_id": "P2737",
+  "father_id": "P1904",
   "father_name": "Jacob Klotz (tailor Frysztak)",
   "mother_id": "P1931",
   "mother_name": "Riva Klotz née Taud",
@@ -34596,7 +34596,7 @@
     {
      "rid": "m-1896-6",
      "role": "Bride",
-     "text": "Hene Klotz born in Frysztak, unemployed, daughter of Jakob Klotz a tailor in Frysztak and Ryza née Taud"
+     "text": "Hene Klotz born in Frysztak, unemployed, daughter of Jakob Klotz a tailor in Frysztak and Ryza née Taud [sic]"
     }
    ],
    "surnames": [
@@ -166960,23 +166960,30 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
+   "P1931",
    "P1905"
   ],
   "spouse_names": [
-   "Mirla Klotz née Hiller"
+   "Ryza Taud (1st)",
+   "Mirla Hiller (2nd)"
   ],
   "children_ids": [
+   "P0243",
    "P0100"
   ],
   "children_names": [
-   "Moses Klotz",
-   "Hene Klotz"
+   "Hene Klotz",
+   "Moses Klotz"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
    {
     "record_id": "m-1894-1",
     "role": "GF"
+   },
+   {
+    "record_id": "m-1896-6",
+    "role": "BF"
    }
   ],
   "external_resources": null,
@@ -166985,7 +166992,8 @@
     {
      "form": "Jacob Klotz",
      "rids": [
-      "m-1894-1"
+      "m-1894-1",
+      "m-1896-6"
      ]
     }
    ],
@@ -167007,10 +167015,17 @@
     "evidence": "named as a couple in m-1894-1",
     "partner_id": "P1905",
     "group": "2"
+   },
+   {
+    "kind": "rite",
+    "evidence": "described as married by Jewish rite in m-1896-6",
+    "partner_id": "P1931",
+    "group": "2"
    }
   ],
   "partner_groups": {
-   "P1905": "2"
+   "P1905": "2",
+   "P1931": "2"
   }
  },
  {
@@ -168911,10 +168926,10 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P2737"
+   "P1904"
   ],
   "spouse_names": [
-   "Jacob Klotz (tailor)"
+   "Jacob Klotz"
   ],
   "children_ids": [
    "P0243"
@@ -168956,13 +168971,13 @@
    {
     "kind": "rite",
     "evidence": "described as married by Jewish rite in m-1896-6",
-    "partner_id": "P2737",
+    "partner_id": "P1904",
     "group": "2"
    }
   ],
   "heading_name": "Ryza Klotz née Taud",
   "partner_groups": {
-   "P2737": "2"
+   "P1904": "2"
   }
  },
  {
@@ -176967,7 +176982,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": null,
+  "residences": "Glinik Średni near Frysztak",
   "status": null,
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -177035,7 +177050,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": null,
+  "residences": "Glinik Średni near Frysztak",
   "status": null,
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -183400,7 +183415,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": "propination leaseholder",
-  "residences": "Jazowy",
+  "residences": "Jazowa",
   "status": null,
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -219130,81 +219145,6 @@
   ],
   "partner_groups": {
    "P1973": "2"
-  }
- },
- {
-  "id": "P2737",
-  "legal_given": "Jacob",
-  "common_given": "Jacob",
-  "legal_surname": "Klotz",
-  "common_surname": "Klotz",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": "tailor",
-  "residences": "Frysztak",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [
-   "P1931"
-  ],
-  "spouse_names": [
-   "Ryza Klotz née Taud"
-  ],
-  "children_ids": [
-   "P0243"
-  ],
-  "children_names": [
-   "Hene Klotz"
-  ],
-  "in_area": "NOT_IN_AREA",
-  "refs": [
-   {
-    "record_id": "m-1896-6",
-    "role": "BF"
-   }
-  ],
-  "external_resources": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Jacob Klotz",
-     "rids": [
-      "m-1896-6"
-     ]
-    }
-   ],
-   "quotes": [],
-   "surnames": [
-    "Klotz"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": [
-   {
-    "kind": "rite",
-    "evidence": "described as married by Jewish rite in m-1896-6",
-    "partner_id": "P1931",
-    "group": "2"
-   }
-  ],
-  "partner_groups": {
-   "P1931": "2"
   }
  },
  {
