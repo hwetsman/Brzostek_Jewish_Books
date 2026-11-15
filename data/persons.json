@@ -326,7 +326,7 @@
     {
      "rid": "m-1898-4",
      "role": "Bride",
-     "text": "Chaja Schlindla, called Schindla, daughter of Chaskel Leuchtag from Brzostek and Ettla née Hoffmeister"
+     "text": "Chaja Scheindla, called Scheindla, daughter of Chaskel Leuchtag from Brzostek and Ettla née Hoffmeister"
     },
     {
      "rid": "d-1932-11",
@@ -38757,11 +38757,16 @@
      "form": "Liba née Herman",
      "rids": [
       "b-1895-8",
-      "m-1898-1",
       "b-1904-21",
       "b-1905-32",
       "m-1906-4",
       "b-1911-7"
+     ]
+    },
+    {
+     "form": "Freida née Herman",
+     "rids": [
+      "m-1898-1"
      ]
     },
     {
@@ -60847,7 +60852,7 @@
    "marriages": [
     {
      "rid": "m-1898-1",
-     "date": "9 January 1898",
+     "date": "7 January 1898",
      "place": "Kamienica Gorna",
      "spouse_id": "P0498"
     }
@@ -60939,7 +60944,7 @@
     {
      "rid": "m-1898-1",
      "role": "Bride",
-     "text": "Reisla, daughter of Jakob Sporn, an innkeeper in the royal district of Kolbuszowa, and Scheindli née Keller."
+     "text": "Reisla, daughter of Jakob Sporn, an innkeeper in Hutanka, Imperial-Royal district of Kolbuszowa, and Scheindli née Keller."
     }
    ],
    "surnames": [
@@ -60951,7 +60956,7 @@
    "marriages": [
     {
      "rid": "m-1898-1",
-     "date": "9 January 1898",
+     "date": "7 January 1898",
      "place": "Kamienica Gorna",
      "spouse_id": "P0497"
     }
@@ -74251,7 +74256,7 @@
     {
      "rid": "m-1898-5",
      "role": "Groom",
-     "text": "Israel Friedenbach, (born) in Grudna Dolna House No. 3, farmer in (place missing) and residing there, son of (father's name missing) Freidenba(missing) and Ryfki nee (maiden name missing)"
+     "text": "Israel Friedenbach, (born) in Grudna Dolna House No. 3, farmer in Bączałka and residing there, son of (father's name missing) Friedenbach and Ryfki nee (maiden name missing)"
     },
     {
      "rid": "b-1899-14",
@@ -74277,7 +74282,7 @@
    "marriages": [
     {
      "rid": "m-1898-5",
-     "date": "3 September 1898",
+     "date": "3 April 1898",
      "place": "Blaszkowa",
      "spouse_id": "P0642"
     }
@@ -74455,7 +74460,7 @@
    "marriages": [
     {
      "rid": "m-1898-5",
-     "date": "3 September 1898",
+     "date": "3 April 1898",
      "place": "Blaszkowa",
      "spouse_id": "P0641"
     }
