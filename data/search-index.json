@@ -5267,7 +5267,7 @@
    "id": "P0300",
    "type": "person",
    "display": "Hene Orner née Licht",
-   "other_names": "Hene née Licht; Hene Orner; Hannah née Licht; Hene née Luft; Licht; Luft; Orner",
+   "other_names": "Hencie née Licht; Hene Orner; Hannah née Licht; Hene née Licht; Hene née Luft; Licht; Luft; Orner",
    "subtitle": "wife of Aba Orner",
    "legal_given": "Hene",
    "common_given": "Hene",
@@ -5280,7 +5280,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "560000 843000 853000 096900 560000 600000 843000 853000 873000"
+   "phonetic": "560000 843000 853000 096900 560000 564000 565000 600000 843000 853000 873000"
   },
   {
    "id": "P0301",
@@ -14194,6 +14194,25 @@
    "phonetic": "460000 560000 946760 063900 460000 483400 496000 560000 583400 600000 793000 793600 946760"
   },
   {
+   "id": "P0801",
+   "type": "person",
+   "display": "Hersch Sperber",
+   "other_names": "Hersch Sperber; Sperber",
+   "subtitle": "husband of Feige Sperber née Klotz",
+   "legal_given": "Hersch",
+   "common_given": "Hersch",
+   "legal_surname": "Sperber",
+   "common_surname": "Sperber",
+   "maiden_surname": "",
+   "father_name": "",
+   "mother_name": "",
+   "spouse_names": "Feige Sperber née Klotz",
+   "residences": "Siedliska (1901-1908); Silruic (1926)",
+   "birth_date": "",
+   "death_date": "",
+   "phonetic": "479790 540000 545000 594000 594500 479790 540000 545000 594000 594500"
+  },
+  {
    "id": "P0802",
    "type": "person",
    "display": "Feige Sperber née Klotz",
@@ -15813,7 +15832,7 @@
    "type": "person",
    "display": "Hersch Sperber",
    "other_names": "Hersch Sperber; Hersz Sperber; Sperber",
-   "subtitle": "husband of Feige Sperber née Klotz",
+   "subtitle": "husband of Esther Sperber née Wurzel",
    "legal_given": "Hersch",
    "common_given": "Hersch",
    "legal_surname": "Sperber",
@@ -15821,8 +15840,8 @@
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "",
-   "spouse_names": "Feige Sperber née Klotz; Esther Sperber née Wurzel",
-   "residences": "Siedliska (1899-1908); Brzostek / Nawsie Brzosteckie (1903-1916); Silruic (1926)",
+   "spouse_names": "Esther Sperber née Wurzel",
+   "residences": "Brzostek / Nawsie Brzosteckie (1904-1923)",
    "birth_date": "",
    "death_date": "",
    "phonetic": "479790 540000 545000 594000 594500 479790 540000 545000 594000 594500"
@@ -27611,7 +27630,7 @@
    "id": "P1542",
    "type": "person",
    "display": "Chaya Panzer née Ruber",
-   "other_names": "Chaya née Ruber; Panzer; Ruber",
+   "other_names": "Chaya née Rubel; Panzer; Rubel; Ruber",
    "subtitle": "wife of Chaim Panzer",
    "legal_given": "Chaya",
    "common_given": "Chaya",
@@ -27624,7 +27643,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "410000 510000 979000 410000 510000 600000 764900 979000"
+   "phonetic": "410000 510000 979000 410000 510000 600000 764900 978000 979000"
   },
   {
    "id": "P1543",
@@ -45985,7 +46004,7 @@
    "year": 1876,
    "number": "143",
    "summary": "Birth 143/1876: Joseph Panzer",
-   "prose": "Joseph Panzer Male Legitimate 1 Aug 1876 Brzostek, house 5 7 Aug 1876 Chaim Panzer Chaya nee Ruber Berel Bergman Jadwiga Lukowicz",
+   "prose": "Joseph Panzer Male Legitimate 1 Aug 1876 Brzostek, house 5 7 Aug 1876 Chaim Panzer Chaya nee Ruber [sic, = Rubel] Berel Bergman Jadwiga Lukowicz",
    "people": "Joseph Panzer; Chaim Panzer; Chaya Ruber; Berel Bergman",
    "phonetic": "147000 410000 460000 470000 510000 560000 764900 795600 798000 979000"
   },
@@ -46051,7 +46070,7 @@
    "year": 1876,
    "number": "149",
    "summary": "Birth 149/1876: Jacob Zahler",
-   "prose": "Jacob Zahler Male Legitimate 16 Nov 1876 Brzostek, house 1 23 Nov 1876 Leib Zahler in Brzostek Sarah nee Schrift Berel Bergman Jadwiga Lukowicz",
+   "prose": "Jacob Zahler Male Legitimate 16 Nov 1876 Brzostek, house 1 23 Nov 1876 Leib Zahler in Brzostek Sarah nee Schrift [sic, = Grabschrift] Berel Bergman Jadwiga Lukowicz",
    "people": "Jacob Zahler; Leib Zahler; Sarah Grabschrift; Berel Bergman",
    "phonetic": "147000 157000 457000 470000 489000 490000 597497 795600 798000 870000"
   },
@@ -46062,7 +46081,7 @@
    "year": 1876,
    "number": "150",
    "summary": "Birth 150/1876: Moses Panzer",
-   "prose": "Moses Panzer Male Legitimate 17 Nov 1876 Brzostek, house 80 24 Nov 1876 Joel Panzer, butcher in Brzostek Esther nee Orner Berel Bergman Jadwiga Lukowicz",
+   "prose": "Moses Panzer Male Legitimate 17 Nov 1876 Brzostek, house 80 24 Nov 1876 Josl [sic, = Joel] Panzer, butcher in Brzostek Esther nee Orner Berel Bergman Jadwiga Lukowicz",
    "people": "Moses Panzer; Joel Panzer; Esther Orner; Berel Bergman",
    "phonetic": "043590 096900 180000 480000 640000 764900 795600 798000"
   },
@@ -46095,7 +46114,7 @@
    "year": 1876,
    "number": "153",
    "summary": "Birth 153/1876: Moses Orner",
-   "prose": "Moses Orner Male Legitimate 21 Dec 1876 Brzostek, house 47 28 Dec 1876 Aba Orner, baker in Brzostek Hene nee Luft Berel Bergman Jadwiga Lukowicz",
+   "prose": "Moses Orner Male Legitimate 21 Dec 1876 Brzostek, house 47 28 Dec 1876 Aba Orner, baker in Brzostek Hencie nee Luft Berel Bergman Jadwiga Lukowicz",
    "people": "Moses Orner; Aba Orner; Hene Licht; Berel Bergman",
    "phonetic": "070000 096900 560000 640000 795600 798000 843000 853000"
   },
@@ -46106,7 +46125,7 @@
    "year": 1876,
    "number": "154",
    "summary": "Birth 154/1876: Isaac Orner",
-   "prose": "Isaac Orner Male Legitimate 21 Dec 1876 Brzostek, house 47 28 Dec 1876 Aba Orner, baker in Brzostek Hene nee Luft Berel Bergman Jadwiga Lukowicz",
+   "prose": "Isaac Orner Male Legitimate 21 Dec 1876 Brzostek, house 47 28 Dec 1876 Aba Orner, baker in Brzostek Hencie nee Luft Berel Bergman Jadwiga Lukowicz",
    "people": "Isaac Orner; Aba Orner; Hene Licht; Berel Bergman",
    "phonetic": "040000 045000 070000 096900 560000 795600 798000 843000 853000"
   },
@@ -46117,7 +46136,7 @@
    "year": 1876,
    "number": "155",
    "summary": "Birth 155/1876: Israel Isaac Bloch",
-   "prose": "Israel Isaac Bloch Male Legitimate 29 Dec 1876 Brzostek, house 24 6 Jan 1877 Hillel Bloch in Brzostek Rivka nee Bieder Berel Bergman Jadwiga Lukowicz Below the entry: Closed on 31 Dec 1876. AStrobel[?] m.p. Seen [illegible] I.R. District Captain (Bezirkshauptmann) m.p. [in German]",
+   "prose": "Israel Isaac Bloch Male Legitimate 29 Dec 1876 Brzostek, house 24 6 Jan 1877 Hillel Bloch in Brzostek Rivka nee Bieder Berel Bergman Jadwiga Lukowicz Below the entry: Closed on 31 Dec 1876. A. Wrobel m.p. Seen [illegible] I.R. District Captain (Bezirkshauptmann) m.p. [in German]",
    "people": "Israel Isaac Bloch; Hillel Bloch; Necha Bieder; Berel Bergman",
    "phonetic": "040000 045000 049800 580000 640000 650000 739000 784000 785000 795600 798000"
   },
@@ -47360,7 +47379,7 @@
    "year": 1899,
    "number": "1",
    "summary": "Birth 1/1899: Rachmil",
-   "prose": "Rachmil Male Legitimate 7 Jan 1899 Nawsie Brzosteckie, house 66 14 Jan 1899 Nawsie Brzosteckie, house 66 Isaac Rowitz, owner of a spice shop in Nawsie Brzosteckie Machla, daughter of Rachmil Towel and Necha Bodner in Brzostek Nechemje Storch, innkeepter in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Marriage performed in Brzostek 14 Jan 1898",
+   "prose": "Rachmil Male Legitimate 7 Jan 1899 Nawsie Brzosteckie, house 66 14 Jan 1899 Nawsie Brzosteckie, house 66 Isaac Rowitz, owner of a spice shop in Nawsie Brzosteckie Machla, daughter of Rachmil Towel and Nicha Bodner in Brzostek Nechemje Storch, innkeepter in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Marriage performed in Brzostek 14 Jan 1898",
    "people": "Rachmil Rowitz; Isaac Rowitz; Machla Bodner; Rachmil Towel; Necha Towel; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
    "phonetic": "040000 045000 146000 156000 294000 295000 378000 456000 460000 586600 640000 646100 646400 648000 650000 656100 656400 658000 694000 695400 736900 946800 956800 974000"
   },
@@ -47393,7 +47412,7 @@
    "year": 1899,
    "number": "4",
    "summary": "Birth 4/1899: Rachel",
-   "prose": "Rachel Female Legitimate 26 Jan 1899 Brzostek, house 17 28 Jan 1899 Brzostek, house 149 Leib Faust, leather dealer in Brzostek Hannah, daughter of Joseph Schilloj, unemployed in Brzostek, and Freida nee Bloch Nechemje Storch, innkeepter in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 30 Oct 1894",
+   "prose": "Rachel Female Legitimate 26 Jan 1899 Brzostek, house 17 28 Jan 1899 Brzostek, house 149 Leib Faust, leather dealer in Brzostek Hannah, daughter of Joseph Schillaj, unemployed in Brzostek, and Freida nee Bloch Nechemje Storch, innkeepter in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 30 Oct 1894",
    "people": "Rachel Faust; Leib Faust; Hannah Faust; Joseph Schilloj; Freida Bloch; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
    "phonetic": "146000 147000 156000 294000 295000 456000 460000 470000 480000 560000 586600 646100 646400 656100 656400 694000 695400 743000 784000 785000 793000 870000 948000 958000"
   },
@@ -47668,7 +47687,7 @@
    "year": 1899,
    "number": "29",
    "summary": "Birth 29/1899: Hersch",
-   "prose": "Hersch Male Illegitimate 12 Jul 1899 Januszkowice, house 1 19 Jul 1899 Januszkowice, house 1 Shaya Amsterdam, tenant of the estates in Januszkowice Adela, daughter of Alter Engelhard, industrialist in Zalubincze near Nowy Sacz, and Sarah nee Landau Alter Ungerischer, industrialist in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Acknowledges paternity: Szyja Amsterdam [signature]. Moses Schwarz, industrialist in Brzostek [signature], witness.",
+   "prose": "Hersch Male Illegitimate 12 Jul 1899 Januszkowice, house 1 19 Jul 1899 Januszkowice, house 1 Shaya Amsterdam, tenant of the estates in Januszkowice Adela, daughter of Alter Engelhard, industrialist in Zalubincze near Nowy Sacz, and Sarah nee Landau Alter Ungerischer, industrialist in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lisowa midwife in Brzostek Acknowledges paternity: Szyja Amsterdam [signature]. Moses Schwarz, industrialist in Brzostek [signature], witness.",
    "people": "Hersch Amsterdam; Shaya Amsterdam; Adela Amsterdam; Alter Engelhard; Alter Ungarischer; Jochene Nechemje; Marcus Kleinman",
    "phonetic": "038000 064393 065859 065949 083900 146000 156000 410000 456000 460000 540000 545000 586600 594000 594500 646100 646400 656100 656400 694000 695400"
   },
@@ -47679,7 +47698,7 @@
    "year": 1899,
    "number": "30",
    "summary": "Birth 30/1899: Rachmil",
-   "prose": "Rachmil Male Illegitimate 12 Jul 1899 Brzostek, house 13 19 Jul 1899 Brzostek, house 149 Solomon Guttenberg, cattle dealer in Brzostek Hannah, daughter of Rachmil Towel, grain dealer in Brzostek, and Necha nee Bodner Alter Ungerischer, industrialist in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek The undersigned acknowledges paternity: Salamon Guttenberg [signature]. Zalel Löbel, owner of an iron-goods stall in Brzostek [signature], witness.",
+   "prose": "Rachmil Male Illegitimate 12 Jul 1899 Brzostek, house 13 19 Jul 1899 Brzostek, house 149 Solomon Guttenberg, cattle dealer in Brzostek Hannah, daughter of Rachmil Towel, grain dealer in Brzostek, and Nicha nee Bodner Alter Ungerischer, industrialist in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lisowa midwife in Brzostek The undersigned acknowledges paternity: Salamon Guttenberg [signature]. Zalel Löbel, owner of an iron-goods stall in Brzostek [signature], witness.",
    "people": "Rachmil Guttenberg; Solomon Guttenberg; Hannah Towel; Rachmil Towel; Necha Towel; Alter Ungarischer; Jochene Nechemje; Marcus Kleinman",
    "phonetic": "065949 083900 146000 156000 378000 456000 460000 486000 536795 560000 586600 640000 646100 646400 650000 656100 656400 694000 695400 946800 956800"
   },
@@ -47723,7 +47742,7 @@
    "year": 1899,
    "number": "34",
    "summary": "Birth 34/1899: Sima",
-   "prose": "Sima Female Legitimate 24 Sep 1899 Brzostek, house 1 25 Sep 1899 Brzostek, house 149 Isaac Rubel, grain dealer in Brzostek Reisla, daughter of Abraham Walter, farmer in Jodlowa, and Hinde nee Freiberger Alter Ungerischer, industrialist in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 9 Jun 1893",
+   "prose": "Sima Female Legitimate 24 Sep 1899 Brzostek, house 1 25 Sep 1899 Brzostek, house 149 Isaac Rubel, grain dealer in Brzostek Reisla, daughter of Abraham Walter, farmer in Jodlowa, and Hinde nee Freiberger Alter Ungerischer, industrialist in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Chaim Galizer Josefa Lisowa midwife in Brzostek Marriage performed in Brzostek 9 Jun 1893",
    "people": "Sima Rubel; Isaac Rubel; Reisla Walter; Abraham Walter; Hinde Walter née Freiberger; Alter Ungarischer; Jochene Nechemje; Chaim Galizer",
    "phonetic": "040000 045000 065949 079560 083900 146000 156000 456000 460000 560000 563000 584900 600000 646100 646400 656100 656400 783900 797959 948000 978000"
   },
@@ -47866,7 +47885,7 @@
    "year": 1900,
    "number": "5",
    "summary": "Birth 5/1900: Yehudit",
-   "prose": "Yehudit Female Legitimate 14 Feb 1900 Zawadka Brzostecka, house 23 17 Feb 1900 Brzostek, house 149 Nathan Zimmerman, known as Nathan Scheier, unemployed in Zawadka Brzostecka Sarah, daughter of Leib Schonwetter, owner of the estates in Zawadka Brzostecka, and Hannah nee Korzennik Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage performed in Zawadka Brzostecka 27 Apr 1899",
+   "prose": "Yehudit Female Legitimate 14 Feb 1900 Zawadka Brzostecka, house 23 17 Feb 1900 Brzostek, house 149 Nathan Zimmerman, known as Nathan Scheier, unemployed in Zawadka Brzostecka Sarah, daughter of Leib Schonwetter, owner of the estates in Zawadka Brzostecka, and Hannah nee Korzennik Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness. Chaim Galizer Josefa Lisowa midwife in Brzostek Marriage performed in Zawadka Brzostecka 27 Apr 1899",
    "people": "Yehudit Scheier; Nathan Scheier; Sarah Schonwetter; Leib Schonwetter; Hannah Korzennik; Mayer Czopp; Leib Orner; Chaim Galizer",
    "phonetic": "096900 153000 419000 460000 467390 470000 490000 546500 560000 584900 594650 619000 636000 870000"
   },
@@ -47877,7 +47896,7 @@
    "year": 1900,
    "number": "6",
    "summary": "Birth 6/1900: Rosa",
-   "prose": "Rosa Female Illegitimate 25 Feb 1900 Brzostek, house 129 3 Mar 1900 Brzostek, house 149 Alter Ungarischer, unemployed in Brzostek Sarah, daughter of Rachmil Towel, former grain dealer in Brzostek, and Maria Matla nee Rephahn Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Acknowledges paternity: Alter Ungarischer [signature]. Leib Orner [signature], witness.",
+   "prose": "Rosa Female Illegitimate 25 Feb 1900 Brzostek, house 129 3 Mar 1900 Brzostek, house 149 Alter Ungarischer, unemployed in Brzostek Sarah, daughter of Rachmil Towel, former grain dealer in Brzostek, and Maria Matla nee Rephahn Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness. Chaim Galizer Josefa Lisowa midwife in Brzostek Acknowledges paternity: Alter Ungarischer [signature]. Leib Orner [signature], witness.",
    "people": "Rosa Ungarischer; Alter Ungarischer; Sarah Towel; Rachmil Towel; Maria Matla Towel; Mayer Czopp; Leib Orner; Chaim Galizer",
    "phonetic": "065949 083900 096900 378000 460000 470000 490000 560000 584900 619000 638000 690000 870000 940000 946800 956800"
   },
@@ -47888,7 +47907,7 @@
    "year": 1900,
    "number": "7",
    "summary": "Birth 7/1900: Jacob",
-   "prose": "Jacob Male Legitimate 24 Mar 1900 Brzostek, house 1 31 Mar 1900 Brzostek, house 1 Moses Schwarz industrialist in Brzostek Malka, daughter of Isaac Rubel, grain dealer in Brzostek, and Sarah nee Freiberger Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed 17 Aug 1899",
+   "prose": "Jacob Male Legitimate 24 Mar 1900 Brzostek, house 1 31 Mar 1900 Brzostek, house 1 Moses Schwarz industrialist in Brzostek Malka, daughter of Isaac Rubel, grain dealer in Brzostek, and Sarah nee Freiberger Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness. Marcus Kleinman Josefa Lisowa midwife in Brzostek Marriage performed 17 Aug 1899",
    "people": "Jacob Schwarz; Moses Schwarz; Malka Rubel; Isaac Rubel; Sarah Freiberger; Mayer Czopp; Leib Orner; Marcus Kleinman",
    "phonetic": "040000 045000 096900 147000 157000 457000 470000 474000 479400 490000 586600 619000 640000 685000 694000 695400 797959 870000 978000"
   },
@@ -48295,7 +48314,7 @@
    "year": 1901,
    "number": "13",
    "summary": "Birth 13/1901: Leiser",
-   "prose": "Leiser Male Illegitimate 25 May 1901 Brzostek, house 1 1 Jun 1901 Brzostek, house 1 Mendel Schuss, unemployed in Brzostek Hinde, daughter of Isaac Rubel, industrialist in Brzostek, and the deceased Sarah nee Freiberger Moses Schwarz, wood dealer in Brzostek. Moses Panzer, butcher in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Acknowledges paternity: Mendel Schüss [signature]. Mojzesz Schwarz [signature], witness.",
+   "prose": "Leiser Male Illegitimate 25 May 1901 Brzostek, house 1 1 Jun 1901 Brzostek, house 1 Mendel Schuss, unemployed in Brzostek Hinde, daughter of Isaac Rubel, industrialist in Brzostek, and the deceased Sarah nee Freiberger Moses Schwarz, wood dealer in Brzostek. Moses Panzer, butcher in Brzostek, witness. Marcus Kleinman Josefa Lisowa midwife in Brzostek Acknowledges paternity: Mendel Schüss [signature]. Mojzesz Schwarz [signature], witness.",
    "people": "Leiser Schuss; Mendel Schuss; Hinde Schuss; Isaac Rubel; Sarah Freiberger; Moses Schwarz; Moses Panzer; Marcus Kleinman",
    "phonetic": "040000 045000 400000 474000 479400 490000 563000 586600 638000 640000 694000 695400 764900 797959 849000 978000"
   },
@@ -48372,7 +48391,7 @@
    "year": 1901,
    "number": "20",
    "summary": "Birth 20/1901: Necha",
-   "prose": "Necha Female Illegitimate 11 Jun 1901 Brzostek, house 13 15 Jun 1901 Brzostek, house 149 Solomon Guttenberg, cattle dealer in Brzostek Hannah, daughter of the late Rachmil Towel and the late Necha nee Bodner Nechemje Storch, innkeeper in Brzostek, witness. Pinkus Korn, cloth merchant in Brzostek witness. Chaim Galizer Josefa Lizowa, midwife in Brzostek Acknowledges paternity: Salamon Guttenberg [signature]. Nechemje Storch, tavern keeper in Brzostek [signature], witness.",
+   "prose": "Necha Female Illegitimate 11 Jun 1901 Brzostek, house 13 15 Jun 1901 Brzostek, house 149 Solomon Guttenberg, cattle dealer in Brzostek Hannah, daughter of the late Rachmil Towel and the late Nicha nee Bodner Nechemje Storch, innkeeper in Brzostek, witness. Pinkus Korn, cloth merchant in Brzostek witness. Chaim Galizer Josefa Lizowa, midwife in Brzostek Acknowledges paternity: Salamon Guttenberg [signature]. Nechemje Storch, tavern keeper in Brzostek [signature], witness.",
    "people": "Necha Guttenberg; Solomon Guttenberg; Hannah Towel; Rachmil Towel; Necha Towel; Nechemje Storch; Pinkus Korn; Chaim Galizer",
    "phonetic": "294000 295000 378000 460000 486000 536795 560000 584900 596000 640000 646100 646400 650000 656100 656400 765400 946800 956800"
   },
@@ -48394,7 +48413,7 @@
    "year": 1901,
    "number": "22",
    "summary": "Birth 22/1901: Hannah",
-   "prose": "Hannah Female Legitimate 29 Jun 1901 Brzostek, house 11 29 Jun 1901 Brzostek, house 149 Solomon David Aron, called David, owner of a colonial goods store in Brzostek Malka Perla, called Perla, daughter of Leib Tager, innkeeper in Klecie, and Dacha nee Zweig Nechemje Storch, innkeepter in Brzostek, witness. Pinkus Korn, cloth merchant in Brzostek witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 4 Jul 1900",
+   "prose": "Hannah Female Legitimate 29 Jun 1901 Brzostek, house 11 29 Jun 1901 Brzostek, house 149 Solomon David Aron, called David, owner of a colonial goods store in Brzostek Malka Perla, called Perla, daughter of Leib Tager, innkeeper in Klecie, and Dacha nee Zweig Nechemje Storch, innkeepter in Brzostek, witness. Pinkus Korn, cloth merchant in Brzostek witness. Chaim Galizer Josefa Lisowa midwife in Brzostek Marriage performed in Brzostek 4 Jul 1900",
    "people": "Hannah Aron; David Aron; Malka Perla Aron; Leib Tager; Dacha Zweig; Nechemje Storch; Pinkus Korn; Chaim Galizer",
    "phonetic": "096000 294000 295000 340000 350000 359000 373000 460000 475000 560000 584900 596000 646100 646400 656100 656400 685000 765400 798000 870000"
   },
@@ -48427,7 +48446,7 @@
    "year": 1901,
    "number": "25",
    "summary": "Birth 25/1901: Beila",
-   "prose": "Beila Female Legitimate 6 Aug 1901 Brzostek, house 111 10 Aug 1901 Brzostek, house 149 Hersch Chaskel Goldberg, called Chaskel, tenant of the alcohol monopoloy in Brzostek Hinde, daughter of Kelman Grossbard, innkeeper in Zabno, and Teme nee Binenstock Nechemje Storch, innkeepter in Brzostek, witness. Pinkus Korn, cloth merchant in Brzostek witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage performed in Zabno 6 May 1887",
+   "prose": "Beila Female Legitimate 6 Aug 1901 Brzostek, house 111 10 Aug 1901 Brzostek, house 149 Hersch Chaskel Goldberg, called Chaskel, tenant of the alcohol monopoloy in Brzostek Hinde, daughter of Kelman Grossbard, innkeeper in Zabno, and Teme nee Binenstock Nechemje Storch, innkeepter in Brzostek, witness. Pinkus Korn, cloth merchant in Brzostek witness. Chaim Galizer Josefa Lisowa midwife in Brzostek Marriage performed in Zabno 6 May 1887",
    "people": "Beila Goldberg; Chaskel Goldberg; Itta Grossbard; Kelman Grossbard; Teme Benenstock; Nechemje Storch; Pinkus Korn; Chaim Galizer",
    "phonetic": "030000 294000 295000 360000 458000 460000 545800 560000 583795 584900 586000 594793 596000 646100 646400 656100 656400 764345 764350 765400 780000"
   },
@@ -48702,7 +48721,7 @@
    "year": 1902,
    "number": "16",
    "summary": "Birth 16/1902: Golda",
-   "prose": "Golda Female Legitimate 16 Mar 1902 Brzostek, house 1 22 Mar 1902 Brzostek, house 149 Isaac Rubel, grain dealer in Brzostek Reisla, daughter of Abraham Walter, owner of agricultural land in Joniny near Ryglice, and the late Hinde nee Freiberger Hersch Schlenger, shopkeeper of colonial goods in Brzostek, witness. Moses Klotz spice stallholder in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage took place in Brzostek 9 Aug 1893",
+   "prose": "Golda Female Legitimate 16 Mar 1902 Brzostek, house 1 22 Mar 1902 Brzostek, house 149 Isaac Rubel, grain dealer in Brzostek Reisla, daughter of Abraham Walter, owner of agricultural land in Joniny near Ryglice, and the late Hinde nee Freiberger Hersch Schlenger, shopkeeper of colonial goods in Brzostek, witness. Moses Klotz spice stallholder in Brzostek, witness. Chaim Galizer Josefa Lisowa midwife in Brzostek Marriage took place in Brzostek 9 Aug 1893",
    "people": "Golda Rubel; Isaac Rubel; Reisla Walter; Abraham Walter; Hinde Walter née Freiberger; Hersch Schlenger; Moses Klotz; Chaim Galizer",
    "phonetic": "040000 045000 079560 460000 486590 540000 545000 560000 563000 583000 584000 584900 594000 594500 600000 640000 783900 797959 948000 978000"
   },
@@ -48746,7 +48765,7 @@
    "year": 1902,
    "number": "20",
    "summary": "Birth 20/1902: Reisla",
-   "prose": "Reisla Female Legitimate 23 May 1902 Brzostek, house 47 25 May 1902 Brzostek, house 149 Zalel Lobel, irongood shopkeeper in Brzostek Ruda, daughter of David Mendel Schlenger, called Mendel, lumber dealer in Brzostek, and Rondla nee Turk Moses Klotz spice stallholder in Brzostek, witness. Solomon Guttenberg, cattle dealer in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 23 Jan 1901",
+   "prose": "Reisla Female Legitimate 23 May 1902 Brzostek, house 47 25 May 1902 Brzostek, house 149 Zalel Lobel, irongood shopkeeper in Brzostek Ruda, daughter of David Mendel Schlenger, called Mendel, lumber dealer in Brzostek, and Rondla nee Turk Moses Klotz spice stallholder in Brzostek, witness. Solomon Guttenberg, cattle dealer in Brzostek, witness. Chaim Galizer Josefa Lisowa midwife in Brzostek Marriage performed in Brzostek 23 Jan 1901",
    "people": "Reisla Lobel; Zalel Lobel; Ruda Schlenger; Mendel Schlenger; Rondla Turk; Moses Klotz; Solomon Guttenberg; Chaim Galizer",
    "phonetic": "395000 460000 480000 486000 486590 536795 560000 584000 584900 638000 640000 878000 930000 948000 963800"
   },
@@ -48878,7 +48897,7 @@
    "year": 1902,
    "number": "32",
    "summary": "Birth 32/1902: Sarah Rivka",
-   "prose": "Sarah Rivka Female Legitimate 12 Dec 1902 Brzostek, house 1 13 Dec 1902 Brzostek, house 149 Mendel Schuss, industrialist in Brzostek Hinde, daughter of Isaac Rubel, grain dealer in Brzostek, and the late Sarah nee Freiberger Pinkus Korn, cloth merchant in Brzostek witness. Moses Klotz spice stallholder in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 18 Jun 1902",
+   "prose": "Sarah Rivka Female Legitimate 12 Dec 1902 Brzostek, house 1 13 Dec 1902 Brzostek, house 149 Mendel Schuss, industrialist in Brzostek Hinde, daughter of Isaac Rubel, grain dealer in Brzostek, and the late Sarah nee Freiberger Pinkus Korn, cloth merchant in Brzostek witness. Moses Klotz spice stallholder in Brzostek, witness. Chaim Galizer Josefa Lisowa midwife in Brzostek Marriage performed in Brzostek 18 Jun 1902",
    "people": "Sarah Rivka Schuss; Mendel Schuss; Hinde Schuss; Isaac Rubel; Sarah Freiberger; Pinkus Korn; Moses Klotz; Chaim Galizer",
    "phonetic": "040000 045000 400000 460000 490000 560000 563000 584000 584900 596000 638000 640000 765400 797959 975000 978000"
   },
@@ -48900,7 +48919,7 @@
    "year": 1904,
    "number": "1",
    "summary": "Birth 1/1904: Kelman",
-   "prose": "Kelman Male Legitimate 5 Jan 1904 Brzostek, house 52 12 Jan 1904 Brzostek, house 52 Jehosua Blum, dealer is small goods in Brzostek Miriam, daughter of Marcus David Hirsch, called David, industrialist in Brzostek, and Hendela nee Sperber Chaskel Goldberg, industrialist in Brzostek, witness. Menashe Schlanger, owner of an iron business in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 1 Apr 1903",
+   "prose": "Kelman Male Legitimate 5 Jan 1904 Brzostek, house 52 12 Jan 1904 Brzostek, house 52 Jehosua Blum, dealer is small goods in Brzostek Miriam, daughter of Marcus David Hirsch, called David, industrialist in Brzostek, and Hendela nee Sperber Chaskel Goldberg, industrialist in Brzostek, witness. Menashe Schlanger, owner of an iron business in Brzostek, witness. Marcus Kleinman Josefa Lisowa midwife in Brzostek Marriage performed in Brzostek 1 Apr 1903",
    "people": "Kelman Blum; Shaya Blum; Miriam Hirsch; David Hirsch; Hendela Sperber; Chaskel Goldberg; Menashe Schlenger; Marcus Kleinman",
    "phonetic": "373000 410000 458000 479790 486590 540000 545000 545800 563800 583795 586000 586600 594000 594500 640000 694000 695400 696000 786000"
   },
@@ -49054,7 +49073,7 @@
    "year": 1904,
    "number": "15",
    "summary": "Birth 15/1904: Breindel",
-   "prose": "Breindel Female Legitimate 14 Jun 1904 Blaszkowa, house 15 19 Jun 1904 Brzostek, house 149 Yerucham Grunberger, makes a living as a farmer in Blaszkowa Miriam, daughter of Nachman Fichner, innkeeper in Blaszkowa, and the late Mirla nee Rubel Jochene Nechemje, cloth merchant in Brzostek, witness. Hersch Schlenger, private in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 10 Jul 1900",
+   "prose": "Breindel Female Legitimate 14 Jun 1904 Blaszkowa, house 15 19 Jun 1904 Brzostek, house 149 Yerucham Grunberger, makes a living as a farmer in Blaszkowa Miriam, daughter of Nachman Fichner, innkeeper in Blaszkowa, and the late Mirla nee Rubel Jochene Nechemje, cloth merchant in Brzostek, witness. Hersch Schlenger, private in Brzostek, witness. Marcus Kleinman Josefa Lisowa midwife in Brzostek Marriage performed in Brzostek 10 Jul 1900",
    "people": "Breindel Grunberger; Yerucham Grunberger; Miriam Fichner; Nachman Fichner; Mirla Rubel; Jochene Nechemje; Hersch Schlenger; Marcus Kleinman",
    "phonetic": "146000 156000 194600 195600 456000 460000 486590 540000 545000 586600 594000 594500 596795 646000 646100 646400 656000 656100 656400 694000 695400 696000 698000 746900 756900 796380 978000"
   },
@@ -49219,7 +49238,7 @@
    "year": 1904,
    "number": "30",
    "summary": "Birth 30/1904: Joseph",
-   "prose": "Joseph Male Legitimate 21 Nov 1904 Grudna Gorna, house 6 28 Nov 1904 Grudna Gorna, house 6 Lipa Rozner, overseer of the manor in Grudna Gorna Rachel, daughter of Baruch Just, innkeeper in Lubinko near Zmigrod, and Rivka nee unknown Benjamin Schlenger, tree dealer in Brzostek, witness. Chaskel Goldberg. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Zmigrod 21 Nov 1903",
+   "prose": "Joseph Male Legitimate 21 Nov 1904 Grudna Gorna, house 6 28 Nov 1904 Grudna Gorna, house 6 Lipa Rosner, overseer of the manor in Grudna Gorna Rachel, daughter of Baruch Just, innkeeper in Lubinko near Zmigrod, and Rivka nee unknown Benjamin Schlenger, tree dealer in Brzostek, witness. Chaskel Goldberg. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Zmigrod 21 Nov 1903",
    "people": "Joseph Rozner; Lipa Rozner; Rachel Just; Baruch Just; Rivka Just; Benjamin Schlenger; Chaskel Goldberg; Marcus Kleinman",
    "phonetic": "143000 147000 430000 458000 470000 486590 545800 583795 586600 694000 695400 761600 764600 794000 795000 870000 946900 948000 958000 975000"
   },
@@ -49285,7 +49304,7 @@
    "year": 1904,
    "number": "36",
    "summary": "Birth 36/1904: Shaya",
-   "prose": "Shaya Male Legitimate 23 Dec 1904 Brzostek, house 46 30 Dec 1904 Brzostek, house 149 Fishel Kornfeld cattle dealer in Brzostek Vitla daughter of Leib Karpf, industrialist in Rzeszow, and Sarah nee Charad Kelman Storch, merchant in Brzostek, witness. Pinkus Kurz, innkeeper in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 13 Jun 1893",
+   "prose": "Shaya Male Legitimate 23 Dec 1904 Brzostek, house 46 30 Dec 1904 Brzostek, house 149 Fishel Kornfeld cattle dealer in Brzostek Vitla daughter of Leib Karpf, industrialist in Rzeszow, and Sarah nee Charad Kelman Storch, merchant in Brzostek, witness. Pinkus Kurz, innkeeper in Brzostek, witness. Marcus Kleinman Josefa Lisowa midwife in Brzostek Marriage performed in Brzostek 13 Jun 1893",
    "people": "Shaya Kornfeld; Fishel Kornfeld; Vitla Karpf; Leib Karpf; Sarah Charad; Kelman Storch; Pinkus Kurz; Marcus Kleinman",
    "phonetic": "294000 295000 410000 490000 493000 540000 586000 586600 593000 594000 596783 597000 694000 695400 738000 748000 765400 870000"
   },
@@ -56765,7 +56784,7 @@
    "year": 1920,
    "number": "8",
    "summary": "Death 8/1920: Joseph Rozner",
-   "prose": "13 Nov 1920 Brzostek 15 Nov 1920 Brzostek Joseph Rozner, unemployed, single, son of Lipa and Rachel Rozner, workers in Brzostek Brzostek Male 17 years Single unemployed dysentery Dysentery son of Noted in the birth register, vol. III, p. 123",
+   "prose": "13 Nov 1920 Brzostek 15 Nov 1920 Brzostek Joseph Rosner, unemployed, single, son of Lipa and Rachel Rosner, workers in Brzostek Brzostek Male 17 years Single unemployed dysentery Dysentery son of Noted in the birth register, vol. III, p. 123",
    "people": "Joseph Rozner; Lipa Rozner; Rachel Just",
    "phonetic": "143000 147000 430000 470000 870000 946900 948000 958000"
   },
@@ -56776,7 +56795,7 @@
    "year": 1920,
    "number": "9",
    "summary": "Death 9/1920: Golda Rozner",
-   "prose": "21 Nov 1920 Brzostek 23 Nov 1920 Brzostek Golda Rozner, single and unemployed, daughter of Lipa and Rachel Rozner, workers in Brzostek Brzostek Female 5 years Single unemployed dysentery Dysentery daughter of Noted in the birth register, vol. IV, p. 17",
+   "prose": "21 Nov 1920 Brzostek 23 Nov 1920 Brzostek Golda Rosner, single and unemployed, daughter of Lipa and Rachel Rosner, workers in Brzostek Brzostek Female 5 years Single unemployed dysentery Dysentery daughter of Noted in the birth register, vol. IV, p. 17",
    "people": "Golda Rozner; Lipa Rozner; Rachel Just",
    "phonetic": "143000 430000 583000 870000 946900 948000 958000"
   },
@@ -58327,7 +58346,7 @@
    "year": 1898,
    "number": "3",
    "summary": "Marriage 3/1898: Isaac Rowitz & Machla Bodner",
-   "prose": "14 January 1898 Brzostek [Groom column torn away. By the citation of this entry (Tom II p. 69 no. 3, 14 Jan 1898) in the birth entries of his children (b-1896-11, b-1899-1, b-1901-31, b-1904-18, b-1912-14): Izaak Rewitz.] Machla, daughter of Rachmil Towel, industrialist in Brzostek, and Nie[cha] (rest of entry torn away) Judah Leib Wolkenfeld Jochene Nechemyjs, merchant of cloth goods in Brzostek, witness. Moses Schwarz, merchant in Brzostek, witness. Remarks: Docu[ments] … [mostly covered by a pasted paper repair; visible fragments: '…nego', 'z dat…', 'No 10…', 'poz …', 'co d[o] …', 'własna metryka' (this registry's own birth book), '… 1 poz 8[?]', '…ach'].",
+   "prose": "14 January 1898 Brzostek [Groom column torn away. By the citation of this entry (Tom II p. 69 no. 3, 14 Jan 1898) in the birth entries of his children (b-1896-11, b-1899-1, b-1901-31, b-1904-18, b-1912-14): Izaak Rewitz.] Machla, daughter of Rachmil Towel, industrialist in Brzostek, and Nich[a] (rest of entry torn away) Judah Leib Wolkenfeld Jochene Nechemyjs, merchant of cloth goods in Brzostek, witness. Moses Schwarz, merchant in Brzostek, witness. Remarks: Docu[ments] … [mostly covered by a pasted paper repair; visible fragments: '…nego', 'z dat…', 'No 10…', 'poz …', 'co d[o] …', 'własna metryka' (this registry's own birth book), '… 1 poz 8[?]', '…ach'].",
    "people": "Isaac Rowitz; Machla Bodner; Rachmil Towel; Jochene Nechemje; Moses Schwarz; Judah Leib Wolkenfeld",
    "phonetic": "040000 045000 130000 146000 156000 378000 430000 456000 460000 474000 479400 640000 646100 646400 648000 656100 656400 658000 736900 785678 870000 946800 956800 974000"
   },
@@ -59416,7 +59435,7 @@
    "year": 1908,
    "number": "1",
    "summary": "Marriage 1/1908: Koppel Guttstein & Deborah Arnold",
-   "prose": "23 January 1908 Brzostek Eisig Koppel, called Koppel, Gutstein, born in Jezupol, Stanislawow district, industrialist living in Skurowa, son of the deceased Eliasz and Rifka Gutstein, former industrialists in Jezupol Debora Feier was born in Halicz, Stanisławów district, daughter of Chana Feier, owner of a landed estate in Ostrów, Stanisławów district. Judah Leib Wolkenfeld Salamon Abraham, industrialist in Brzostek, witness. Simon Riemer, tavern keeper in Skurowa, witness. Remarks: Birth certificate dated Jezupol, 5 Nov 1890, ref. no. 37, vol. I, p. 3[4?], for the groom; birth certificate for the bride dated Halicz, 29 May 1907, ref. no. 59, vol. III, p. 37, no. 59; the banns announced, and the notice of the rabbinate.",
+   "prose": "23 January 1908 Brzostek Eisig Koppel, called Koppel, Gutstein, born in Jezupol, Stanislawow district, industrialist living in Skurowa, son of the deceased Eliasz and Ryfka Gutstein, former industrialists in Jezupol Debora Feier was born in Halicz, Stanisławów district, daughter of Chana Feier, owner of a landed estate in Ostrów, Stanisławów district. Judah Leib Wolkenfeld Salamon Abraham, industrialist in Brzostek, witness. Simon Riemer, tavern keeper in Skurowa, witness. Remarks: Birth certificate dated Jezupol, 5 Nov 1890, ref. no. 37, vol. I, p. 3[4?], for the groom; birth certificate for the bride dated Halicz, 29 May 1907, ref. no. 59, vol. III, p. 37, no. 59; the banns announced, and the notice of the rabbinate.",
    "people": "Koppel Guttstein; Deborah Arnold; Elias Guttstein; Rivka Guttstein; Leib Arnold; Hannah Arnold; Solomon Abraham; Simon Reimer; Judah Leib Wolkenfeld",
    "phonetic": "079560 084000 096830 130000 379000 430000 460000 486000 543600 560000 578000 785678 870000 969000 975000"
   },

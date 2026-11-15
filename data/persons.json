@@ -16729,12 +16729,12 @@
     {
      "rid": "m-1898-3",
      "role": "Bride",
-     "text": "Machla, daughter of Rachmil Towel, industrialist in Brzostek, and Nie[cha] (rest of entry torn away)"
+     "text": "Machla, daughter of Rachmil Towel, industrialist in Brzostek, and Nich[a] (rest of entry torn away)"
     },
     {
      "rid": "b-1899-1",
      "role": "Mother",
-     "text": "Machla, daughter of Rachmil Towel and Necha Bodner in Brzostek"
+     "text": "Machla, daughter of Rachmil Towel and Nicha Bodner in Brzostek"
     },
     {
      "rid": "b-1901-31",
@@ -19765,14 +19765,9 @@
      "text": "Hannah, daughter of Rachmil Towel, grain dealer in Brzostek, and Nicha nee Bodner"
     },
     {
-     "rid": "b-1899-30",
-     "role": "Mother",
-     "text": "Hannah, daughter of Rachmil Towel, grain dealer in Brzostek, and Necha nee Bodner"
-    },
-    {
      "rid": "b-1901-20",
      "role": "Mother",
-     "text": "Hannah, daughter of the late Rachmil Towel and the late Necha nee Bodner"
+     "text": "Hannah, daughter of the late Rachmil Towel and the late Nicha nee Bodner"
     }
    ],
    "surnames": [
@@ -28125,11 +28120,6 @@
      "rid": "m-1894-3",
      "role": "Bride",
      "text": "Chana, also called \"Chancia\", was born in Brzostek and lived here, daughter of Jozef Schillaj, a leather dealer in Brzostek, and Freidla, née Bloch."
-    },
-    {
-     "rid": "b-1899-4",
-     "role": "Mother",
-     "text": "Hannah, daughter of Joseph Schilloj, unemployed in Brzostek, and Freida nee Bloch"
     }
    ],
    "surnames": [
@@ -36079,7 +36069,7 @@
     {
      "rid": "m-1908-1",
      "role": "Groom",
-     "text": "Eisig Koppel, called Koppel, Gutstein, born in Jezupol, Stanislawow district, industrialist living in Skurowa, son of the deceased Eliasz and Rifka Gutstein, former industrialists in Jezupol"
+     "text": "Eisig Koppel, called Koppel, Gutstein, born in Jezupol, Stanislawow district, industrialist living in Skurowa, son of the deceased Eliasz and Ryfka Gutstein, former industrialists in Jezupol"
     },
     {
      "rid": "m-1916-3",
@@ -40661,6 +40651,11 @@
    ],
    "quotes": [
     {
+     "rid": "b-1876-150",
+     "role": "Father",
+     "text": "Josl [sic, = Joel] Panzer, butcher in Brzostek"
+    },
+    {
      "rid": "b-1895-15",
      "role": "Father",
      "text": "Joel Panzer, butcher in Brzostek"
@@ -41087,15 +41082,10 @@
   "identity": {
    "names": [
     {
-     "form": "Hene née Licht",
+     "form": "Hencie née Licht",
      "rids": [
       "b-1876-153",
-      "b-1876-154",
-      "b-1900-8",
-      "b-1902-8",
-      "b-1904-3",
-      "b-1905-5",
-      "b-1906-5"
+      "b-1876-154"
      ]
     },
     {
@@ -41112,6 +41102,16 @@
      ]
     },
     {
+     "form": "Hene née Licht",
+     "rids": [
+      "b-1900-8",
+      "b-1902-8",
+      "b-1904-3",
+      "b-1905-5",
+      "b-1906-5"
+     ]
+    },
+    {
      "form": "Hene née Luft",
      "rids": [
       "m-1906-9"
@@ -41122,7 +41122,7 @@
     {
      "rid": "b-1876-153",
      "role": "Mother",
-     "text": "Hene nee Luft"
+     "text": "Hencie nee Luft"
     }
    ],
    "surnames": [
@@ -88600,6 +88600,118 @@
   "unions": []
  },
  {
+  "id": "P0801",
+  "legal_given": "Hersch",
+  "common_given": "Hersch",
+  "legal_surname": "Sperber",
+  "common_surname": "Sperber",
+  "maiden_surname": null,
+  "married_surname": null,
+  "sex": "M",
+  "birth_date": null,
+  "death_date": null,
+  "marriage_dates": "26 Feb 1899 in Frysztak (civil, to Feige née Klotz)",
+  "occupations": "industrialist / toll leaseholder / cattle dealer in Siedliska (1901-1908); property owner, Silruic (1926)",
+  "residences": "Siedliska (1901-1908); Silruic (1926)",
+  "status": null,
+  "birth_legitimacy": null,
+  "marital_status_at_marriage": null,
+  "marital_status_at_death": null,
+  "father_id": null,
+  "father_name": null,
+  "mother_id": null,
+  "mother_name": null,
+  "spouse_ids": [
+   "P0802"
+  ],
+  "spouse_names": [
+   "Feige Sperber née Klotz"
+  ],
+  "children_ids": [
+   "P0805",
+   "P0990",
+   "P1132",
+   "P1675",
+   "P2336"
+  ],
+  "children_names": [
+   "Chaya Sperber",
+   "Shayndel Sperber",
+   "Malka Sperber",
+   "Marcus Joseph Sperber",
+   "Kelman Sperber"
+  ],
+  "in_area": "RETIRED",
+  "refs": [
+   {
+    "record_id": "b-1901-32",
+    "role": "Father"
+   },
+   {
+    "record_id": "b-1905-29",
+    "role": "Father"
+   },
+   {
+    "record_id": "b-1908-10",
+    "role": "Father"
+   },
+   {
+    "record_id": "d-1903-6",
+    "role": "Father"
+   },
+   {
+    "record_id": "m-1926-2",
+    "role": "GF"
+   }
+  ],
+  "external_resources": null,
+  "identity": {
+   "names": [
+    {
+     "form": "Hersch Sperber",
+     "rids": [
+      "b-1901-32",
+      "d-1903-6",
+      "b-1905-29",
+      "b-1908-10",
+      "m-1926-2"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "rid": "b-1901-32",
+     "role": "Father",
+     "text": "Hersch Sperber industrialist in Siedliska"
+    },
+    {
+     "rid": "b-1905-29",
+     "role": "Father",
+     "text": "Hersch Sperber, toll leaseholder in Siedliska"
+    },
+    {
+     "rid": "b-1908-10",
+     "role": "Father",
+     "text": "Hersch Sperber, cattle dealer in Siedliska"
+    }
+   ],
+   "surnames": [
+    "Sperber"
+   ],
+   "born": null,
+   "died": null,
+   "marriages": [],
+   "birth_year": null,
+   "death_year": null,
+   "birth_date_text": null,
+   "death_date_text": null
+  },
+  "unions": [],
+  "partner_groups": {
+   "P0802": "1"
+  }
+ },
+ {
   "id": "P0802",
   "legal_given": "Feige",
   "common_given": "Feige",
@@ -88622,7 +88734,7 @@
   "mother_id": "P0804",
   "mother_name": "Gittla Klotz née Forgacz",
   "spouse_ids": [
-   "P0891"
+   "P0801"
   ],
   "spouse_names": [
    "Hersch Sperber"
@@ -88705,7 +88817,7 @@
   "unions": [],
   "heading_name": "Feige Sperber née Klotz",
   "partner_groups": {
-   "P0891": "1"
+   "P0801": "1"
   }
  },
  {
@@ -88898,7 +89010,7 @@
   "birth_legitimacy": "Legitimate (b-1901-32)",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
-  "father_id": "P0891",
+  "father_id": "P0801",
   "father_name": "Hersch Sperber",
   "mother_id": "P0802",
   "mother_name": "Feige Sperber née Klotz",
@@ -95992,9 +96104,9 @@
   "sex": "M",
   "birth_date": null,
   "death_date": null,
-  "marriage_dates": "26 Feb 1899 in Frysztak (civil — to Feige née Klotz, 1st wife); 10 Sep 1903 near Pilzno (civil — to Esther née Wurzel, 2nd wife); recorded 18 Jul 1904",
-  "occupations": "industrialist / toll leaseholder / cattle dealer (Siedliska era 1899-1908, with Feige); glazier / innkeeper / egg dealer (Brzostek era 1904-1916, with Esther); property owner Silruic (1926)",
-  "residences": "Siedliska (1899-1908); Brzostek / Nawsie Brzosteckie (1903-1916); Silruic (1926)",
+  "marriage_dates": "10 Sep 1903 near Pilzno (civil, to Esther née Wurzel); recorded 18 Jul 1904",
+  "occupations": "glazier / egg dealer / schames in Brzostek and Nawsie Brzosteckie (1904-1916)",
+  "residences": "Brzostek / Nawsie Brzosteckie (1904-1923)",
   "status": null,
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -96004,11 +96116,9 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P0802",
    "P0892"
   ],
   "spouse_names": [
-   "Feige Sperber née Klotz",
    "Esther Sperber née Wurzel"
   ],
   "children_ids": [
@@ -96018,12 +96128,7 @@
    "P1203",
    "P1342",
    "P1430",
-   "P1490",
-   "P0805",
-   "P0990",
-   "P1132",
-   "P1675",
-   "P2336"
+   "P1490"
   ],
   "children_names": [
    "Moses Sperber",
@@ -96032,25 +96137,12 @@
    "Ksiel Sperber",
    "Samuel Sperber",
    "Joseph Sperber",
-   "(unnamed son who died) Sperber",
-   "Chaya Sperber",
-   "Shayndel Sperber",
-   "Malka Sperber",
-   "Marcus Joseph Sperber",
-   "Kelman Sperber"
+   "(unnamed son who died) Sperber"
   ],
   "in_area": "IN_AREA",
   "refs": [
    {
-    "record_id": "b-1901-32",
-    "role": "Father"
-   },
-   {
     "record_id": "b-1904-20",
-    "role": "Father"
-   },
-   {
-    "record_id": "b-1905-29",
     "role": "Father"
    },
    {
@@ -96063,10 +96155,6 @@
    },
    {
     "record_id": "b-1908-7",
-    "role": "Father"
-   },
-   {
-    "record_id": "b-1908-10",
     "role": "Father"
    },
    {
@@ -96126,10 +96214,6 @@
     "role": "Father"
    },
    {
-    "record_id": "d-1903-6",
-    "role": "Father"
-   },
-   {
     "record_id": "d-1916-5",
     "role": "Father"
    },
@@ -96144,10 +96228,6 @@
    {
     "record_id": "m-1909-1",
     "role": "Witness1"
-   },
-   {
-    "record_id": "m-1926-2",
-    "role": "GF"
    }
   ],
   "external_resources": null,
@@ -96156,14 +96236,10 @@
     {
      "form": "Hersch Sperber",
      "rids": [
-      "b-1901-32",
-      "d-1903-6",
       "b-1904-20",
-      "b-1905-29",
       "b-1906-18",
       "b-1906-29",
       "b-1908-7",
-      "b-1908-10",
       "b-1909-27",
       "b-1912-11",
       "b-1914-5",
@@ -96180,8 +96256,7 @@
       "b-1916-11",
       "d-1916-5",
       "d-1916-11",
-      "d-1923-6",
-      "m-1926-2"
+      "d-1923-6"
      ]
     },
     {
@@ -96193,29 +96268,14 @@
    ],
    "quotes": [
     {
-     "rid": "b-1901-32",
-     "role": "Father",
-     "text": "Hersch Sperber industrialist in Siedliska"
-    },
-    {
      "rid": "b-1904-20",
      "role": "Father",
      "text": "Hersch Sperber glazier in Brzostek"
     },
     {
-     "rid": "b-1905-29",
-     "role": "Father",
-     "text": "Hersch Sperber, toll leaseholder in Siedliska"
-    },
-    {
      "rid": "b-1906-18",
      "role": "Father",
      "text": "Hersch Sperber, glazier in Brzostek"
-    },
-    {
-     "rid": "b-1908-10",
-     "role": "Father",
-     "text": "Hersch Sperber, cattle dealer in Siedliska"
     },
     {
      "rid": "b-1909-27",
@@ -96241,7 +96301,6 @@
   },
   "unions": [],
   "partner_groups": {
-   "P0802": "1",
    "P0892": "1"
   }
  },
@@ -99758,7 +99817,7 @@
     {
      "rid": "b-1904-30",
      "role": "Father",
-     "text": "Lipa Rozner, overseer of the manor in Grudna Gorna"
+     "text": "Lipa Rosner, overseer of the manor in Grudna Gorna"
     },
     {
      "rid": "b-1907-1",
@@ -100208,7 +100267,7 @@
     {
      "rid": "d-1920-8",
      "role": "The deceased",
-     "text": "Joseph Rozner, unemployed, single, son of Lipa and Rachel Rozner, workers in Brzostek"
+     "text": "Joseph Rosner, unemployed, single, son of Lipa and Rachel Rosner, workers in Brzostek"
     }
    ],
    "surnames": [
@@ -105699,7 +105758,7 @@
   "birth_legitimacy": "Legitimate (b-1905-29)",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
-  "father_id": "P0891",
+  "father_id": "P0801",
   "father_name": "Hersch Sperber",
   "mother_id": "P0802",
   "mother_name": "Feige Sperber née Klotz",
@@ -118021,7 +118080,7 @@
   "birth_legitimacy": "Legitimate (b-1908-1)",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
-  "father_id": "P0891",
+  "father_id": "P0801",
   "father_name": "Hersch Sperber",
   "mother_id": "P0802",
   "mother_name": "Feige Sperber née Klotz",
@@ -144636,7 +144695,7 @@
     {
      "rid": "d-1920-9",
      "role": "The deceased",
-     "text": "Golda Rozner, single and unemployed, daughter of Lipa and Rachel Rozner, workers in Brzostek"
+     "text": "Golda Rosner, single and unemployed, daughter of Lipa and Rachel Rosner, workers in Brzostek"
     }
    ],
    "surnames": [
@@ -148924,7 +148983,7 @@
   "identity": {
    "names": [
     {
-     "form": "Chaya née Ruber",
+     "form": "Chaya née Rubel",
      "rids": [
       "b-1876-143"
      ]
@@ -148934,11 +148993,12 @@
     {
      "rid": "b-1876-143",
      "role": "Mother",
-     "text": "Chaya nee Ruber"
+     "text": "Chaya nee Ruber [sic, = Rubel]"
     }
    ],
    "surnames": [
     "Panzer",
+    "Rubel",
     "Ruber"
    ],
    "born": null,
@@ -149742,7 +149802,7 @@
     {
      "rid": "b-1876-149",
      "role": "Mother",
-     "text": "Sarah nee Schrift"
+     "text": "Sarah nee Schrift [sic, = Grabschrift]"
     },
     {
      "rid": "d-1895-7",
@@ -155986,7 +156046,7 @@
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1903-6)",
-  "father_id": "P0891",
+  "father_id": "P0801",
   "father_name": "Hersch Sperber",
   "mother_id": "P0802",
   "mother_name": "Feige Sperber née Klotz",
@@ -196392,7 +196452,7 @@
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1926-2)",
   "marital_status_at_death": null,
-  "father_id": "P0891",
+  "father_id": "P0801",
   "father_name": "Hersch Sperber",
   "mother_id": "P0802",
   "mother_name": "Feige Sperber née Klotz",
