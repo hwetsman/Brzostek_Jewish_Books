@@ -92213,7 +92213,7 @@
    "Marriage Date": "7 January 1898",
    "Marriage Place": "Kamienica Gorna",
    "Groom (prose)": "Samuel Samul, born in Kamienica Gorna, son of Naftali Samul, a tavern keeper, and Freida nee Herman.",
-   "Bride (prose)": "Reisla, daughter of Jakob Sporn, an innkeeper in Hutanka, Imperial-Royal district of Kolbuszowa, and Scheindli née Keller.",
+   "Bride (prose)": "Reisla, daughter of Jakob Sporn, an innkeeper in Hutanka [probably Huta Przedborska], Imperial-Royal district of Kolbuszowa, and Scheindli née Keller.",
    "Rabbi": "Judah Leib Wolkenfeld",
    "Witnesses": "Jochene Nechemyjs, merchant of cloth goods in Brzostek, witness. Moses Schwarz, merchant in Brzostek, witness.",
    "Notes": "Remarks: The capacity to contract a legal marriage rests on [the registrar's] own knowledge, under § 32 of the register instructions; the banns announced three times; and proof by the assessment of the military tax of 13 Jun 1885."
@@ -92298,7 +92298,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P0497.html\" data-pid=\"P0497\">Samuel Samul</a>, born in Kamienica Gorna, son of <a href=\"../person/P0279.html\" data-pid=\"P0279\">Naftali Samul</a>, a tavern keeper, and <a href=\"../person/P0280.html\" data-pid=\"P0280\">Freida nee Herman</a>.",
-   "Bride (prose)": "<a href=\"../person/P0498.html\" data-pid=\"P0498\">Reisla</a>, daughter of Jakob Sporn, an innkeeper in Hutanka, Imperial-Royal district of Kolbuszowa, and Scheindli née <a href=\"../person/P0500.html\" data-pid=\"P0500\">Keller</a>.",
+   "Bride (prose)": "<a href=\"../person/P0498.html\" data-pid=\"P0498\">Reisla</a>, daughter of Jakob Sporn, an innkeeper in Hutanka [probably Huta Przedborska], Imperial-Royal district of Kolbuszowa, and Scheindli née <a href=\"../person/P0500.html\" data-pid=\"P0500\">Keller</a>.",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemyjs</a>, merchant of cloth goods in Brzostek, witness. <a href=\"../person/P0488.html\" data-pid=\"P0488\">Moses Schwarz</a>, merchant in Brzostek, witness.",
    "Notes": "Remarks: The capacity to contract a legal marriage rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times; and proof by the assessment of the military tax of 13 Jun 1885."
@@ -92306,6 +92306,7 @@
   "unlinked_prose_tokens": [
    "Jakob",
    "Hutanka",
+   "Przedborska",
    "Scheindli"
   ]
  },
