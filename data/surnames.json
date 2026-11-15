@@ -3763,14 +3763,6 @@
   ]
  },
  {
-  "surname": "Lupper",
-  "fname": "Lupper",
-  "count": 1,
-  "person_ids": [
-   "P1934"
-  ]
- },
- {
   "surname": "Luskind",
   "fname": "Luskind",
   "count": 1,
@@ -7411,6 +7403,14 @@
    "P0836",
    "P1122",
    "P1952"
+  ]
+ },
+ {
+  "surname": "Zupper",
+  "fname": "Zupper",
+  "count": 1,
+  "person_ids": [
+   "P1934"
   ]
  },
  {

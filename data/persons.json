@@ -424,6 +424,10 @@
     "role": "Spouse"
    },
    {
+    "record_id": "m-1896-8",
+    "role": "Witness1"
+   },
+   {
     "record_id": "m-1898-4",
     "role": "BF"
    }
@@ -436,6 +440,7 @@
      "rids": [
       "b-1894-1",
       "d-1895-8",
+      "m-1896-8",
       "b-1897-6",
       "b-1898-10",
       "m-1898-4"
@@ -167889,7 +167894,7 @@
     {
      "rid": "m-1895-1",
      "role": "Bride",
-     "text": "Rivka Staub, born in Tarnów, daughter of Menasze Staub, a haberdashery merchant, and Lebeindel, née Frankel, in Tarnów"
+     "text": "Rivka Staub, born in Tarnów, daughter of Menasze Staub, a haberdashery merchant, and Scheindla, née Frankel, in Tarnów"
     }
    ],
    "surnames": [
@@ -169061,7 +169066,7 @@
   "father_id": "P1933",
   "father_name": "Abraham Jacob Wurst",
   "mother_id": "P1934",
-  "mother_name": "Risa Judesa Lupper",
+  "mother_name": "Risa Judith Zupper",
   "spouse_ids": [
    "P1936"
   ],
@@ -169091,7 +169096,7 @@
     {
      "rid": "m-1896-8",
      "role": "Groom",
-     "text": "Chaim David Wurst, called David, born in Brzezinach, House No. 171, son of Abraham Jakob Wurst, assistant surgeon in Brzezinach, and Risa Judah Lupper currently residing in Nizankowice"
+     "text": "Chaim David Wurst, called David, born in Brzezinach, House No. 171, son of Abraham Jakob Wurst, assistant surgeon in Brzezinach, and Risa Judith Zupper currently residing in Nizankowice"
     }
    ],
    "surnames": [
@@ -169143,7 +169148,7 @@
    "P1934"
   ],
   "spouse_names": [
-   "Risa Judesa Lupper"
+   "Risa Judith Zupper"
   ],
   "children_ids": [
    "P1932"
@@ -169187,10 +169192,10 @@
  },
  {
   "id": "P1934",
-  "legal_given": "Risa Judesa",
-  "common_given": "Risa Judesa",
-  "legal_surname": "Lupper",
-  "common_surname": "Lupper",
+  "legal_given": "Risa Judith",
+  "common_given": "Risa Judith",
+  "legal_surname": "Zupper",
+  "common_surname": "Zupper",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -169230,7 +169235,7 @@
   "identity": {
    "names": [
     {
-     "form": "Risa Judesa Lupper",
+     "form": "Risa Judith Zupper",
      "rids": [
       "m-1896-8"
      ]
@@ -169238,7 +169243,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Lupper"
+    "Zupper"
    ],
    "born": null,
    "died": null,
