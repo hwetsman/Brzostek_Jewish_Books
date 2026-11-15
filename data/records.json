@@ -90402,7 +90402,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -90507,7 +90507,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -90616,7 +90616,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -90726,7 +90726,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -90820,7 +90820,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -90928,7 +90928,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91027,7 +91027,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91133,7 +91133,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91238,7 +91238,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91329,7 +91329,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91435,7 +91435,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91541,7 +91541,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91645,7 +91645,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91679,9 +91679,9 @@
   "fields": {
    "Marriage Date": "3 January 1897",
    "Marriage Place": "Brzostek",
-   "Groom (prose)": "Michal Finder, born in Rudawy ad Wieckowice, Imperial-Royal Brzesko district, owner of the estate and resident here, son of Mendel and Freida Finder, owners of a land holding and leaseholders of the liquor concession in Rudawy ad Wieckowice, Imperial-Royal Brzesko district",
+   "Groom (prose)": "Michal Finder, born in Rudawy ad Wieckowice, Imperial-Royal Brzesko district, owner of the Skurowa estate and resident here, son of Mendel and Freida Finder, owners of a land holding and leaseholders of the liquor concession in Rudawy ad Wieckowice, Imperial-Royal Brzesko district",
    "Bride (prose)": "Henryka, recte Hinda, Kornhauser, born in Wielka Wieś, Imperial-Royal, starosty of Brzesko, co-owner of the Skurowa estate and residing here, daughter of Majer and Ryfka Kornhauser, deceased, former tenants of the Wielka Wies estate, Imperial-Royal, starosty of Brzesko.",
-   "Rabbi": "Judah Leib Wolkenfeld",
+   "Rabbi": "Judah Leib Wolkenfeld, authorized official at weddings",
    "Witnesses": "Jozef Bergman, owner of real estate and dealer in Brzostek, witness. Moses Panzer, butcher in Brzostek, witness.",
    "Notes": "Remarks: The capacity for, and the entry of, this marriage rest on [the registrar's] own knowledge, under § 32 of the register instructions, and also on the ruling of the High Imperial-Royal Ministry of 22 Aug 1887, ref. no. 12262."
   },
@@ -91754,7 +91754,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91764,9 +91764,9 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Michal Finder, born in Rudawy ad Wieckowice, Imperial-Royal Brzesko district, owner of the estate and resident here, son of <a href=\"../person/P1937.html\" data-pid=\"P1937\">Mendel</a> and <a href=\"../person/P1938.html\" data-pid=\"P1938\">Freida Finder</a>, owners of a land holding and leaseholders of the liquor concession in Rudawy ad Wieckowice, Imperial-Royal Brzesko district",
+   "Groom (prose)": "Michal Finder, born in Rudawy ad Wieckowice, Imperial-Royal Brzesko district, owner of the Skurowa estate and resident here, son of <a href=\"../person/P1937.html\" data-pid=\"P1937\">Mendel</a> and <a href=\"../person/P1938.html\" data-pid=\"P1938\">Freida Finder</a>, owners of a land holding and leaseholders of the liquor concession in Rudawy ad Wieckowice, Imperial-Royal Brzesko district",
    "Bride (prose)": "<a href=\"../person/P1576.html\" data-pid=\"P1576\">Henryka</a>, recte Hinda, Kornhauser, born in Wielka Wieś, Imperial-Royal, starosty of Brzesko, co-owner of the Skurowa estate and residing here, daughter of Majer and Ryfka Kornhauser, deceased, former tenants of the Wielka Wies estate, Imperial-Royal, starosty of Brzesko.",
-   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
+   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>, authorized official at weddings",
    "Witnesses": "<a href=\"../person/P0025.html\" data-pid=\"P0025\">Jozef Bergman</a>, owner of real estate and dealer in Brzostek, witness. <a href=\"../person/P2573.html\" data-pid=\"P2573\">Moses Panzer</a>, butcher in Brzostek, witness.",
    "Notes": "Remarks: The capacity for, and the entry of, this marriage rest on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions, and also on the ruling of the High Imperial-Royal Ministry of 22 Aug 1887, ref. no. 12262."
   },
@@ -91789,7 +91789,7 @@
    "Marriage Place": "Zawadka Brzostecka",
    "Groom (prose)": "Lowy Sandberg, born in Trzebinia, Imperial and Royal starosty Chrzanów, unmarried with his parents, son of Jan and Malka Beila, called Beila, industrialists and owners of real estate in Trzebinia",
    "Bride (prose)": "Laja Mindla, called Mindla, born in Zawadka, unmarried, to her parents, daughter of Leib Schonwetter and Chana née Korzennik, owner of the estate in Zawadka Brzostecka",
-   "Rabbi": "Judah Leib Wolkenfeld",
+   "Rabbi": "Judah Leib Wolkenfeld, deputy of the rabbi in Brzostek",
    "Witnesses": "Leib Zahler, owner of a forest in Brzostek, witness. Salamon Karpf, leaseholder of the manor farm in Zawadka, witness.",
    "Notes": "Remarks: Documents of the groom, namely: birth certificate of the registry district of Trzebinia, certificate of the banns, and certificate of the Imperial-Royal District Office (Starostwo) in Chrzanów that the military obligation has been fulfilled; kept in the register files. For the bride, this registry's own birth book confirms the capacity to contract this marriage."
   },
@@ -91862,7 +91862,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91874,7 +91874,7 @@
   "fields_html": {
    "Groom (prose)": "Lowy <a href=\"../person/P0538.html\" data-pid=\"P0538\">Sandberg</a>, born in Trzebinia, Imperial and Royal starosty Chrzanów, unmarried with his parents, son of Jan and <a href=\"../person/P1942.html\" data-pid=\"P1942\">Malka Beila</a>, called <a href=\"../person/P1942.html\" data-pid=\"P1942\">Beila</a>, industrialists and owners of real estate in Trzebinia",
    "Bride (prose)": "Laja <a href=\"../person/P0539.html\" data-pid=\"P0539\">Mindla</a>, called <a href=\"../person/P0539.html\" data-pid=\"P0539\">Mindla</a>, born in Zawadka, unmarried, to her parents, daughter of <a href=\"../person/P0324.html\" data-pid=\"P0324\">Leib Schonwetter</a> and Chana née <a href=\"../person/P0325.html\" data-pid=\"P0325\">Korzennik</a>, owner of the estate in Zawadka Brzostecka",
-   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
+   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>, deputy of the rabbi in Brzostek",
    "Witnesses": "<a href=\"../person/P0356.html\" data-pid=\"P0356\">Leib Zahler</a>, owner of a forest in Brzostek, witness. <a href=\"../person/P0055.html\" data-pid=\"P0055\">Salamon Karpf</a>, leaseholder of the manor farm in Zawadka, witness.",
    "Notes": "Remarks: Documents of the groom, namely: birth certificate of the registry district of Trzebinia, certificate of the banns, and certificate of the Imperial-Royal District Office (Starostwo) in Chrzanów that the military obligation has been fulfilled; kept in the register files. For the bride, this registry&#x27;s own birth book confirms the capacity to contract this marriage."
   },
@@ -91894,7 +91894,7 @@
    "Marriage Place": "Brzostek",
    "Groom (prose)": "Menasche Schlanger, born in Debica, residing without employment in Brzostek, son of Samuel Schlanger, a baker in Debica, and Breindla nee Verziger",
    "Bride (prose)": "Malke Schlanger, born in Brzostek, unemployed, daughter of Dawid Mendel, called Mendel, Schlanger and Rondla née Türk industrialists in Brzostek",
-   "Rabbi": "Judah Leib Wolkenfeld",
+   "Rabbi": "Judah Leib Wolkenfeld, deputy of the rabbi in Brzostek",
    "Witnesses": "Moses Mayer Czopp, keeping a cheder in Brzostek, witness. Leib Faust, hide dealer in Brzostek, witness.",
    "Notes": "Remarks: Documents for the groom, namely: decree of the Imperial-Royal District Court in Dębica of 3 Jul 1896, ref. no. 7213, declaring him of full age; certificate of the Imperial-Royal District Office (Starostwo) in Ropczyce of 29 Mar 1897, ref. no. 3247, that the military obligations have been fulfilled; kept in the register files. For the bride, this registry's own birth book attests, vol. I, p. 3, no. 20."
   },
@@ -91967,7 +91967,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -91979,7 +91979,7 @@
   "fields_html": {
    "Groom (prose)": "Menasche Schlanger, born in Debica, residing without employment in Brzostek, son of <a href=\"../person/P1065.html\" data-pid=\"P1065\">Samuel</a> Schlanger, a baker in Debica, and Breindla nee Verziger",
    "Bride (prose)": "Malke Schlanger, born in Brzostek, unemployed, daughter of Dawid <a href=\"../person/P0175.html\" data-pid=\"P0175\">Mendel</a>, called <a href=\"../person/P0175.html\" data-pid=\"P0175\">Mendel</a>, Schlanger and <a href=\"../person/P0176.html\" data-pid=\"P0176\">Rondla née Türk</a> industrialists in Brzostek",
-   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
+   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>, deputy of the rabbi in Brzostek",
    "Witnesses": "<a href=\"../person/P0065.html\" data-pid=\"P0065\">Moses Mayer Czopp</a>, keeping a cheder in Brzostek, witness. <a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a>, hide dealer in Brzostek, witness.",
    "Notes": "Remarks: Documents for the groom, namely: decree of the Imperial-Royal District Court in Dębica of 3 Jul 1896, ref. no. 7213, declaring him of full age; certificate of the Imperial-Royal District Office (Starostwo) in Ropczyce of 29 Mar 1897, ref. no. 3247, that the military obligations have been fulfilled; kept in the register files. For the bride, this registry&#x27;s own birth book attests, vol. I, p. 3, no. 20."
   },
@@ -92001,7 +92001,7 @@
    "Marriage Place": "Brzostek",
    "Groom (prose)": "Antschel Wolf, called Wolf, Druck, a timber dealer born in Jaworów, No. 376, and settled there, son of Leib Druck, private, and Ryfka, nee Freidman, in Jaworów",
    "Bride (prose)": "Matylda Wróbel, born in Brzostek at No. 111, the daughter of Abe Wróbel, the chief tobacconist in Brzostek, and Chana, née Schaufel.",
-   "Rabbi": "Judah Leib Wolkenfeld",
+   "Rabbi": "Judah Leib Wolkenfeld, deputy of the rabbi in Brzostek",
    "Witnesses": "Moses Mayer Czopp, keeping a cheder in Brzostek, witness. Leib Faust, hide dealer in Brzostek, witness.",
    "Notes": "Remarks: The groom's birth certificate in Jaworów, vol. II, p. 185, without entry number; certificate of the Imperial-Royal District Office (Starostwo) in Jaworów of 23 Aug 1897, draft lot no. 502, that the military draft obligation has been fulfilled; certificate of the banns of the rabbinate there; in the files. For the bride, this registry's own book attests, vol. I, p. 6, no. 58, dr.[?] 1872."
   },
@@ -92074,7 +92074,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -92086,7 +92086,7 @@
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P0586.html\" data-pid=\"P0586\">Antschel Wolf</a>, called <a href=\"../person/P0586.html\" data-pid=\"P0586\">Wolf</a>, Druck, a timber dealer born in Jaworów, No. 376, and settled there, son of <a href=\"../person/P1944.html\" data-pid=\"P1944\">Leib Druck</a>, private, and Ryfka, nee <a href=\"../person/P1945.html\" data-pid=\"P1945\">Freidman</a>, in Jaworów",
    "Bride (prose)": "<a href=\"../person/P0587.html\" data-pid=\"P0587\">Matylda Wróbel</a>, born in Brzostek at No. 111, the daughter of Abe Wróbel, the chief tobacconist in Brzostek, and Chana, née <a href=\"../person/P0589.html\" data-pid=\"P0589\">Schaufel</a>.",
-   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
+   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>, deputy of the rabbi in Brzostek",
    "Witnesses": "<a href=\"../person/P0065.html\" data-pid=\"P0065\">Moses Mayer Czopp</a>, keeping a cheder in Brzostek, witness. <a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a>, hide dealer in Brzostek, witness.",
    "Notes": "Remarks: The groom&#x27;s birth certificate in Jaworów, vol. II, p. 185, without entry number; certificate of the Imperial-Royal District Office (Starostwo) in Jaworów of 23 Aug 1897, draft lot no. 502, that the military draft obligation has been fulfilled; certificate of the banns of the rabbinate there; in the files. For the bride, this registry&#x27;s own book attests, vol. I, p. 6, no. 58, dr.[?] 1872."
   },
@@ -92107,7 +92107,7 @@
    "Marriage Place": "Brzostek",
    "Groom (prose)": "Mojzesz Goldberg, born at No. 37 in Rzepiennik Strzyzewski, innkeeper in Brzostek, son of Baruch Goldberg, merchant in Rzepiennik Strzyzewski, and Freidli nee Spitz",
    "Bride (prose)": "Alte Ester, called Ester, Fenechel, born in Dąbrowa at No. 31, daughter of Leib Fenechel, a wine-tavern keeper in Dąbrowa, and Hudesa [sic, = Ruchla] née Stein",
-   "Rabbi": "Judah Leib Wolkenfeld",
+   "Rabbi": "Judah Leib Wolkenfeld, deputy of the rabbi in Brzostek",
    "Witnesses": "Moses Mayer Czopp, keeping a cheder in Brzostek, witness. Leib Faust, hide dealer in Brzostek, witness.",
    "Notes": "Remarks: The groom's birth certificate from the register book in Rzepiennik Strzyżewski, of the year 1866, p. 9, no. 131; the bride's birth certificate of the year 1869 in Dąbrowa, vol. II, p. 205, without entry number; kept in the register files; also the banns announced three times in the synagogue here. At the foot of the page: Entered and closed by the undersigned on 31 Dec 1897. Aba Wróbl [signature], Jewish registrar."
   },
@@ -92180,7 +92180,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -92192,7 +92192,7 @@
   "fields_html": {
    "Groom (prose)": "Mojzesz Goldberg, born at No. 37 in Rzepiennik Strzyzewski, innkeeper in Brzostek, son of <a href=\"../person/P1946.html\" data-pid=\"P1946\">Baruch Goldberg</a>, merchant in Rzepiennik Strzyzewski, and Freidli nee <a href=\"../person/P1947.html\" data-pid=\"P1947\">Spitz</a>",
    "Bride (prose)": "Alte Ester, called Ester, Fenechel, born in Dąbrowa at No. 31, daughter of <a href=\"../person/P0425.html\" data-pid=\"P0425\">Leib Fenechel</a>, a wine-tavern keeper in Dąbrowa, and <a href=\"../person/P0426.html\" data-pid=\"P0426\">Hudesa</a> [sic, = Ruchla] née <a href=\"../person/P0426.html\" data-pid=\"P0426\">Stein</a>",
-   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
+   "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>, deputy of the rabbi in Brzostek",
    "Witnesses": "<a href=\"../person/P0065.html\" data-pid=\"P0065\">Moses Mayer Czopp</a>, keeping a cheder in Brzostek, witness. <a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a>, hide dealer in Brzostek, witness.",
    "Notes": "Remarks: The groom&#x27;s birth certificate from the register book in Rzepiennik Strzyżewski, of the year 1866, p. 9, no. 131; the bride&#x27;s birth certificate of the year 1869 in Dąbrowa, vol. II, p. 205, without entry number; kept in the register files; also the banns announced three times in the synagogue here. At the foot of the page: Entered and closed by the undersigned on 31 Dec 1897. Aba Wróbl [signature], Jewish registrar."
   },
@@ -92287,7 +92287,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -92392,7 +92392,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -92472,7 +92472,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -92580,7 +92580,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -92681,7 +92681,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -92788,7 +92788,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -92895,7 +92895,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93002,7 +93002,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93109,7 +93109,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93218,7 +93218,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93326,7 +93326,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93441,7 +93441,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93550,7 +93550,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93661,7 +93661,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93768,7 +93768,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93873,7 +93873,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -93979,7 +93979,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -94085,7 +94085,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -94190,7 +94190,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -94292,7 +94292,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -94400,7 +94400,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -94508,7 +94508,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -94620,7 +94620,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -94727,7 +94727,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -94836,7 +94836,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -94946,7 +94946,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95053,7 +95053,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95161,7 +95161,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95269,7 +95269,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95377,7 +95377,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95483,7 +95483,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95588,7 +95588,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95696,7 +95696,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95785,7 +95785,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95874,7 +95874,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -95963,7 +95963,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -96060,7 +96060,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -96165,7 +96165,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -96269,7 +96269,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -96378,7 +96378,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -96485,7 +96485,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -96598,7 +96598,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -96707,7 +96707,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -96815,7 +96815,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -96923,7 +96923,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97024,7 +97024,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97131,7 +97131,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97241,7 +97241,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97349,7 +97349,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97456,7 +97456,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97565,7 +97565,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97672,7 +97672,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97780,7 +97780,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97887,7 +97887,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -97993,7 +97993,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -98100,7 +98100,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -98205,7 +98205,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -98313,7 +98313,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -98418,7 +98418,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -98525,7 +98525,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -98630,7 +98630,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -98736,7 +98736,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -98844,7 +98844,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -98950,7 +98950,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -99058,7 +99058,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -99165,7 +99165,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -99275,7 +99275,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -99381,7 +99381,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -99487,7 +99487,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -99592,7 +99592,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -99700,7 +99700,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -99810,7 +99810,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -99916,7 +99916,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100027,7 +100027,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100125,7 +100125,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100236,7 +100236,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100340,7 +100340,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100448,7 +100448,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100557,7 +100557,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100648,7 +100648,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100754,7 +100754,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100859,7 +100859,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -100964,7 +100964,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -101072,7 +101072,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -101182,7 +101182,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -101271,7 +101271,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -101379,7 +101379,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -101486,7 +101486,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -101594,7 +101594,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -101705,7 +101705,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -101812,7 +101812,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -101911,7 +101911,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102016,7 +102016,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102122,7 +102122,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102227,7 +102227,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102331,7 +102331,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102438,7 +102438,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102539,7 +102539,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102651,7 +102651,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102749,7 +102749,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102858,7 +102858,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -102968,7 +102968,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -103075,7 +103075,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -103175,7 +103175,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -103285,7 +103285,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -103394,7 +103394,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -103504,7 +103504,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -103609,7 +103609,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -103715,7 +103715,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -103823,7 +103823,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -103929,7 +103929,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -104038,7 +104038,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -104149,7 +104149,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -104254,7 +104254,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -104360,7 +104360,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -104467,7 +104467,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -104573,7 +104573,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -104681,7 +104681,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -104789,7 +104789,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -104897,7 +104897,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105006,7 +105006,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105115,7 +105115,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105224,7 +105224,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105337,7 +105337,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105445,7 +105445,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105543,7 +105543,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105649,7 +105649,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105757,7 +105757,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105861,7 +105861,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -105968,7 +105968,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -106072,7 +106072,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -106180,7 +106180,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -106286,7 +106286,7 @@
     "role": "Rabbi",
     "person_id": "P0016",
     "display": "Judah Leib Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -106392,7 +106392,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -106575,7 +106575,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -106684,7 +106684,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -106793,7 +106793,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -106904,7 +106904,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107011,7 +107011,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107118,7 +107118,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107230,7 +107230,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107336,7 +107336,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107438,7 +107438,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107539,7 +107539,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107650,7 +107650,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107759,7 +107759,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107868,7 +107868,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -107974,7 +107974,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -108082,7 +108082,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -108188,7 +108188,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -108296,7 +108296,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -108403,7 +108403,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -108511,7 +108511,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -108619,7 +108619,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -108728,7 +108728,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -108841,7 +108841,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -108939,7 +108939,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -109050,7 +109050,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -109160,7 +109160,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -109258,7 +109258,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -109367,7 +109367,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -109468,7 +109468,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -109575,7 +109575,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -109685,7 +109685,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -109792,7 +109792,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -109904,7 +109904,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110011,7 +110011,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110121,7 +110121,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110223,7 +110223,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110332,7 +110332,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110440,7 +110440,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110551,7 +110551,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110657,7 +110657,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110766,7 +110766,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110867,7 +110867,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -110978,7 +110978,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -111085,7 +111085,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -111195,7 +111195,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -111304,7 +111304,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -111413,7 +111413,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -111523,7 +111523,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -111632,7 +111632,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -111745,7 +111745,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -111856,7 +111856,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -111966,7 +111966,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -112075,7 +112075,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -112185,7 +112185,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -112296,7 +112296,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -112406,7 +112406,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -112515,7 +112515,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -112625,7 +112625,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -112734,7 +112734,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -112846,7 +112846,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -112949,7 +112949,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -113057,7 +113057,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -113162,7 +113162,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -113275,7 +113275,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -113387,7 +113387,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -113495,7 +113495,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -113602,7 +113602,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -113711,7 +113711,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -113821,7 +113821,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -113929,7 +113929,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -114037,7 +114037,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": "Chaim Wolkenfeld (by",
     "linked_inline": true
    }
@@ -114148,7 +114148,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -114261,7 +114261,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -114377,7 +114377,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -114485,7 +114485,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -114587,7 +114587,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -114686,7 +114686,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -114793,7 +114793,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": "Chaim Wolkenfeld (by",
     "linked_inline": true
    }
@@ -114901,7 +114901,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": "Chaim Wolkenfeld (by",
     "linked_inline": true
    }
@@ -115016,7 +115016,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -115126,7 +115126,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -115228,7 +115228,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -115335,7 +115335,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -115444,7 +115444,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -115553,7 +115553,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -115654,7 +115654,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -115762,7 +115762,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -115865,7 +115865,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -115965,7 +115965,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -116072,7 +116072,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -116180,7 +116180,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -116288,7 +116288,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -116400,7 +116400,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -116509,7 +116509,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -116618,7 +116618,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -116725,7 +116725,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -116832,7 +116832,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -116940,7 +116940,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117040,7 +117040,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117148,7 +117148,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117241,7 +117241,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117340,7 +117340,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117448,7 +117448,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117563,7 +117563,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117673,7 +117673,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117791,7 +117791,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117890,7 +117890,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -117998,7 +117998,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -118107,7 +118107,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -118215,7 +118215,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -118324,7 +118324,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -118436,7 +118436,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -118544,7 +118544,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -118654,7 +118654,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -118752,7 +118752,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -118849,7 +118849,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -118956,7 +118956,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119056,7 +119056,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119167,7 +119167,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119273,7 +119273,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119382,7 +119382,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119482,7 +119482,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119588,7 +119588,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119684,7 +119684,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119794,7 +119794,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119886,7 +119886,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
@@ -119985,7 +119985,7 @@
     "role": "Rabbi",
     "person_id": "P0056",
     "display": "Chaim Wolkenfeld",
-    "role_label": "Rabbi",
+    "role_label": "Officiant",
     "written_as": null,
     "linked_inline": true
    }
