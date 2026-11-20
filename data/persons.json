@@ -1103,7 +1103,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "drawer of lots (1894 b-1894-1); forest overseer (1894 b-1894-25)",
+  "occupations": "forest overseer in Brzostek",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -1151,7 +1151,7 @@
     {
      "rid": "b-1894-25",
      "role": "Father",
-     "text": "Menashe Schild, forest overseeer residing in Brzostek"
+     "text": "Menashe Schild, forest overseer residing in Brzostek"
     }
    ],
    "surnames": [
