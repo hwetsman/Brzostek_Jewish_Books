@@ -1125,11 +1125,11 @@
    "id": "P0064",
    "type": "person",
    "display": "Esther Itta Czopp",
-   "other_names": "Esther Etla (no surname written; child's birth entry); Czopp; Ryf",
+   "other_names": "Esther Etla (no surname written; child's birth entry); Czopp; Indyk",
    "subtitle": "born 1894; daughter of Mayer Czopp",
    "legal_given": "Esther Itta",
    "common_given": "Esther Itta",
-   "legal_surname": "Ryf",
+   "legal_surname": "Indyk",
    "common_surname": "Czopp",
    "maiden_surname": "",
    "father_name": "Moses Mayer Czopp",
@@ -1138,7 +1138,7 @@
    "residences": "Brzostek (house 31)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "030000 043590 470000 970000 038000 043590 063900 470000 483400 496000 583400 600000 793000 793600 970000"
+   "phonetic": "030000 043590 063500 470000 038000 043590 063500 063900 470000 483400 496000 583400 600000 793000 793600"
   },
   {
    "id": "P0065",
@@ -1277,11 +1277,11 @@
    "id": "P0072",
    "type": "person",
    "display": "Shaya Czopp",
-   "other_names": "Shaya (no surname written; child's birth entry); Czopp; Ryf",
+   "other_names": "Shaya (no surname written; child's birth entry); Czopp; Indyk",
    "subtitle": "born 1894; son of Mayer Czopp",
    "legal_given": "Shaya",
    "common_given": "Shaya",
-   "legal_surname": "Ryf",
+   "legal_surname": "Indyk",
    "common_surname": "Czopp",
    "maiden_surname": "",
    "father_name": "Moses Mayer Czopp",
@@ -1290,17 +1290,17 @@
    "residences": "Brzostek (house 31); USA (after 1911 emigration)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "410000 470000 970000 063900 410000 470000 483400 496000 583400 600000 793000 793600 970000"
+   "phonetic": "063500 410000 470000 063500 063900 410000 470000 483400 496000 583400 600000 793000 793600"
   },
   {
    "id": "P0073",
    "type": "person",
    "display": "Israel Czopp",
-   "other_names": "Israel (no surname written; child's birth entry); Czopp; Ryf",
+   "other_names": "Israel (no surname written; child's birth entry); Czopp; Indyk",
    "subtitle": "born 1896; son of Mayer Czopp",
    "legal_given": "Israel",
    "common_given": "Israel",
-   "legal_surname": "Ryf",
+   "legal_surname": "Indyk",
    "common_surname": "Czopp",
    "maiden_surname": "",
    "father_name": "Moses Mayer Czopp",
@@ -1309,7 +1309,7 @@
    "residences": "Brzostek (house 73)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "049800 470000 970000 049800 063900 470000 483400 496000 583400 600000 793000 793600 970000"
+   "phonetic": "049800 063500 470000 049800 063500 063900 470000 483400 496000 583400 600000 793000 793600"
   },
   {
    "id": "P0074",
@@ -1334,11 +1334,11 @@
    "id": "P0075",
    "type": "person",
    "display": "Freida Czopp, married name Groskopf",
-   "other_names": "Freida Czopp; Czopp; Ryf",
+   "other_names": "Freida Czopp; Czopp",
    "subtitle": "daughter of Mayer Czopp",
    "legal_given": "Freida",
    "common_given": "Freida",
-   "legal_surname": "Ryf",
+   "legal_surname": "Czopp",
    "common_surname": "Czopp",
    "maiden_surname": "",
    "father_name": "Moses Mayer Czopp",
@@ -1347,7 +1347,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "470000 793000 970000 470000 793000 970000"
+   "phonetic": "470000 793000 470000 793000"
   },
   {
    "id": "P0076",

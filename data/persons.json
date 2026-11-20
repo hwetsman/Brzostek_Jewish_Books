@@ -13359,7 +13359,7 @@
   "id": "P0064",
   "legal_given": "Esther Itta",
   "common_given": "Esther Itta",
-  "legal_surname": "Ryf",
+  "legal_surname": "Indyk",
   "common_surname": "Czopp",
   "maiden_surname": null,
   "married_surname": null,
@@ -13401,7 +13401,7 @@
    "quotes": [],
    "surnames": [
     "Czopp",
-    "Ryf"
+    "Indyk"
    ],
    "born": {
     "rid": "b-1894-2",
@@ -15832,7 +15832,7 @@
   "id": "P0072",
   "legal_given": "Shaya",
   "common_given": "Shaya",
-  "legal_surname": "Ryf",
+  "legal_surname": "Indyk",
   "common_surname": "Czopp",
   "maiden_surname": null,
   "married_surname": null,
@@ -15874,7 +15874,7 @@
    "quotes": [],
    "surnames": [
     "Czopp",
-    "Ryf"
+    "Indyk"
    ],
    "born": {
     "rid": "b-1894-3",
@@ -15895,7 +15895,7 @@
   "id": "P0073",
   "legal_given": "Israel",
   "common_given": "Israel",
-  "legal_surname": "Ryf",
+  "legal_surname": "Indyk",
   "common_surname": "Czopp",
   "maiden_surname": null,
   "married_surname": null,
@@ -15937,7 +15937,7 @@
    "quotes": [],
    "surnames": [
     "Czopp",
-    "Ryf"
+    "Indyk"
    ],
    "born": {
     "rid": "b-1896-37",
@@ -16027,7 +16027,7 @@
   "id": "P0075",
   "legal_given": "Freida",
   "common_given": "Freida",
-  "legal_surname": "Ryf",
+  "legal_surname": "Czopp",
   "common_surname": "Czopp",
   "maiden_surname": null,
   "married_surname": null,
@@ -16078,8 +16078,7 @@
     }
    ],
    "surnames": [
-    "Czopp",
-    "Ryf"
+    "Czopp"
    ],
    "born": null,
    "died": null,
