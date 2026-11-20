@@ -23868,7 +23868,7 @@
    {
     "role": "Child",
     "person_id": "P0730",
-    "display": "Roth",
+    "display": "Neuman",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -24043,7 +24043,7 @@
    {
     "role": "Child",
     "person_id": "P0732",
-    "display": "Treitel Brandsdorfer",
+    "display": "Treitel Glassner",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -24070,7 +24070,7 @@
     "display": "Treitel Brandsdorfer",
     "role_label": "Mother's father",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "MGM",
@@ -24109,7 +24109,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0628.html\" data-pid=\"P0628\">Abraham Glassner</a>, spice shop holder in Blaszkowa",
-   "Mother (prose)": "<a href=\"../person/P1641.html\" data-pid=\"P1641\">Leah</a>, daughter of Treitel Brandsdorfer and <a href=\"../person/P0631.html\" data-pid=\"P0631\">Mirla Weisbard</a>, former industrialists in Brzostek",
+   "Mother (prose)": "<a href=\"../person/P1641.html\" data-pid=\"P1641\">Leah</a>, daughter of <a href=\"../person/P0630.html\" data-pid=\"P0630\">Treitel Brandsdorfer</a> and <a href=\"../person/P0631.html\" data-pid=\"P0631\">Mirla Weisbard</a>, former industrialists in Brzostek",
    "Witnesses (prose)": "<a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a>, industrialist in Brzostek, witness. <a href=\"../person/P0061.html\" data-pid=\"P0061\">Zalel Lobel</a> owner of a colonial goods stall in Brzostek",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Notes": "Legitimized by subsequent marriage of the parents in Kolaczyce 14 Apr 1904"
@@ -72736,7 +72736,7 @@
    {
     "role": "Decedent",
     "person_id": "P0730",
-    "display": "Roth",
+    "display": "Neuman",
     "role_label": "The deceased",
     "written_as": "Unnamed_d-1900-14 Neuman",
     "linked_inline": false
@@ -76957,7 +76957,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P0884.html\" data-pid=\"P0884\">Breindel Grunberger</a> daughter of <a href=\"../person/P0567.html\" data-pid=\"P0567\">Yerucham Grunberger</a> industrialist and Maria nee <a href=\"../person/P0568.html\" data-pid=\"P0568\">Rubel</a>, who used the surname Fichner, in Blaszkowa",
+   "Decedent (prose)": "<a href=\"../person/P0884.html\" data-pid=\"P0884\">Breindel Grunberger</a> daughter of <a href=\"../person/P0567.html\" data-pid=\"P0567\">Yerucham Grunberger</a> industrialist and Maria nee <a href=\"../person/P0568.html\" data-pid=\"P0568\">Rubel</a>, who used the surname <a href=\"../person/P0568.html\" data-pid=\"P0568\">Fichner</a>, in Blaszkowa",
    "Cause of Death": "pneumonia"
   },
   "unlinked_prose_tokens": [
@@ -112930,7 +112930,7 @@
     "display": "Rivka Orner",
     "role_label": "Bride's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -112963,7 +112963,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P2363.html\" data-pid=\"P2363\">Mechel Freund</a>, single merchant in Korczyna, illegitimate son of <a href=\"../person/P2362.html\" data-pid=\"P2362\">Rosa Freund</a>, merchant in Korczyna",
-   "Bride (prose)": "Hencie Grabkowicz, single daughter of Salamon Grabkowicz and Ryfka nee Orner",
+   "Bride (prose)": "Hencie Grabkowicz, single daughter of Salamon Grabkowicz and Ryfka nee <a href=\"../person/P0435.html\" data-pid=\"P0435\">Orner</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor in Brzostek, witness. <a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa Rosner</a>, schames in Brzostek, witness.",
    "Notes": "groom 9 nov 1902, bride 1 sept 1896. Remarks: For the groom: birth certificate dated Korczyna, 31 Aug 1919, ref. no. 246, birth book there vol. VII, p. 120, no. 56; certificates of the banns dated Korczyna, 19 Jun 1927, ref. no. 5; also military service book, District Recruiting Command (P.K.U.) Sanok, of 2[4?] May 1925, Gr. ks. 2051, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 44, no. 31; and certificates of the rabbinate in Brzostek."
@@ -114358,7 +114358,7 @@
     "display": "Bina Wolkenfeld",
     "role_label": "Bride's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -114391,7 +114391,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Moses Markus, known as Markus, Rokach born in Magierów, Wesoła and currently residing in Brzostek son of Schulim Rokach rabbi of Rawa Ruska and <a href=\"../person/P2400.html\" data-pid=\"P2400\">Malka nee Rokach</a>",
-   "Bride (prose)": "Scheindla Wolkenfeld daughter of <a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>, rabbi of Brzostek and Bieny nee Silberstein",
+   "Bride (prose)": "Scheindla Wolkenfeld daughter of <a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>, rabbi of Brzostek and Bieny nee <a href=\"../person/P1106.html\" data-pid=\"P1106\">Silberstein</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> Rosner, Synagogue attendant from Brzostek and <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor from Brzostek",
    "Notes": "As to the groom birth record obtained from Magierow 8/3/1927 l. 38 . Military booklet PKU Rava-Ruska, file of 20 July 1927, entry 1618. As to the bride, birth record Vol 3 page 152 entry 40 and certificate of banns and rabinical certification."

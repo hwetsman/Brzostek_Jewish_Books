@@ -15895,7 +15895,7 @@
   "id": "P0073",
   "legal_given": "Israel",
   "common_given": "Israel",
-  "legal_surname": "Indyk",
+  "legal_surname": "Czopp",
   "common_surname": "Czopp",
   "maiden_surname": null,
   "married_surname": null,
@@ -15906,7 +15906,7 @@
   "occupations": null,
   "residences": "Brzostek (house 73)",
   "status": "N (legitimized by parents' civil marriage 22 Dec 1901)",
-  "birth_legitimacy": "Illegitimate (b-1896-37)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-37); legitimized by the parents' marriage: Birth legitimized by parents marriage 22 Dec 1901 C5442: given-name canonicalized to legal",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0065",
@@ -15936,8 +15936,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Czopp",
-    "Indyk"
+    "Czopp"
    ],
    "born": {
     "rid": "b-1896-37",
@@ -46777,7 +46776,7 @@
   "id": "P0362",
   "legal_given": "Sarah Pessel",
   "common_given": "Sarah Pessel",
-  "legal_surname": "Goldberg",
+  "legal_surname": "Tager",
   "common_surname": "Tager",
   "maiden_surname": null,
   "married_surname": null,
@@ -46788,7 +46787,7 @@
   "occupations": null,
   "residences": "Brzostek",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1896-1)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-1); legitimized by the parents' marriage: legitimized in marriage in Klecie 2 Dec 1896",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0363",
@@ -46818,7 +46817,6 @@
    ],
    "quotes": [],
    "surnames": [
-    "Goldberg",
     "Tager"
    ],
    "born": {
@@ -47082,7 +47080,7 @@
   "id": "P0367",
   "legal_given": "Rachmil",
   "common_given": "Rachmil",
-  "legal_surname": "Wurzel",
+  "legal_surname": "Bodner",
   "common_surname": "Towel",
   "maiden_surname": null,
   "married_surname": null,
@@ -47093,7 +47091,7 @@
   "occupations": null,
   "residences": "Brzostek",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1896-2)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-2); legitimized by the parents' marriage: legitimized in marriage 12 Jan 1898 Correction 2026-04-21: canonicalize",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0368",
@@ -47123,8 +47121,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Towel",
-    "Wurzel"
+    "Bodner",
+    "Towel"
    ],
    "born": {
     "rid": "b-1896-2",
@@ -49773,7 +49771,7 @@
   "occupations": null,
   "residences": "Januszkowice",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1896-9)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-9); legitimized by the parents' marriage: Legitimized by marriage certificate from 8 Aug 1900 C 2026-05-05 (Howard town-batch correc",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0150",
@@ -50466,7 +50464,7 @@
   "id": "P0401",
   "legal_given": "Moses Beer Chiel",
   "common_given": "Chiel",
-  "legal_surname": "Offner",
+  "legal_surname": "Slanger",
   "common_surname": "Diamant",
   "maiden_surname": null,
   "married_surname": null,
@@ -50477,7 +50475,7 @@
   "occupations": null,
   "residences": "Bukowa (house 13, per b-1896-14)",
   "status": "S",
-  "birth_legitimacy": "Illegitimate (b-1896-14)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-14); legitimized by the parents' marriage: Legitimized by marriage 6 Feb 1905 Correction 2026-04-22: MGM_Maiden_Su",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0402",
@@ -50508,7 +50506,7 @@
    "quotes": [],
    "surnames": [
     "Diamant",
-    "Offner"
+    "Slanger"
    ],
    "born": {
     "rid": "b-1896-14",
@@ -50975,7 +50973,7 @@
   "id": "P0406",
   "legal_given": "Mirla",
   "common_given": "Mirla",
-  "legal_surname": "Rubel",
+  "legal_surname": "Rozner",
   "common_surname": "Pencier",
   "maiden_surname": null,
   "married_surname": null,
@@ -50986,7 +50984,7 @@
   "occupations": null,
   "residences": "Brzostek",
   "status": "M",
-  "birth_legitimacy": "Illegitimate (b-1896-15)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-15); legitimized by the parents' marriage: Legitimized by marriage 18 Dec 1901 Correction 2026-04-21: canonicalize",
   "marital_status_at_marriage": "Single (m-1924-1)",
   "marital_status_at_death": null,
   "father_id": "P0189",
@@ -51037,7 +51035,7 @@
    ],
    "surnames": [
     "Pencier",
-    "Rubel"
+    "Rozner"
    ],
    "born": {
     "rid": "b-1896-15",
@@ -51842,7 +51840,7 @@
   "id": "P0414",
   "legal_given": "Maria",
   "common_given": "Maria",
-  "legal_surname": "Reiger",
+  "legal_surname": "Bieder",
   "common_surname": "Bieder",
   "maiden_surname": null,
   "married_surname": null,
@@ -51853,7 +51851,7 @@
   "occupations": null,
   "residences": "Brzostek",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1896-21)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-21); legitimized by the parents' marriage: Legitimized by the marriage of the parents 15 Apr 1904",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0415",
@@ -51883,8 +51881,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Bieder",
-    "Reiger"
+    "Bieder"
    ],
    "born": {
     "rid": "b-1896-21",
@@ -52531,7 +52528,7 @@
   "occupations": null,
   "residences": "Brzostek",
   "status": "M",
-  "birth_legitimacy": "Illegitimate (b-1896-23)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-23); legitimized by the parents' marriage: Legitimized by the parents marriage 16 Jul 1897",
   "marital_status_at_marriage": "Single (m-1922-7)",
   "marital_status_at_death": null,
   "father_id": "P0383",
@@ -53253,7 +53250,7 @@
   "id": "P0427",
   "legal_given": "Chaim",
   "common_given": "Chaim",
-  "legal_surname": "Freiberger",
+  "legal_surname": "Steinhorn",
   "common_surname": "Steinhorn",
   "maiden_surname": null,
   "married_surname": null,
@@ -53264,7 +53261,7 @@
   "occupations": null,
   "residences": "Blaszkowa",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1896-25)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-25); legitimized by the parents' marriage: Legitimized by the marriage of the parents 16 Jul 1902 C5239: Abraham Walter (Jodlowa/Janu",
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1897-9)",
   "father_id": "P0223",
@@ -53310,7 +53307,6 @@
     }
    ],
    "surnames": [
-    "Freiberger",
     "Steinhorn"
    ],
    "born": {
@@ -54141,7 +54137,7 @@
   "id": "P0433",
   "legal_given": "Henca",
   "common_given": "Henca",
-  "legal_surname": "Orner",
+  "legal_surname": "Grabkowicz",
   "common_surname": "Grabkowicz",
   "maiden_surname": null,
   "married_surname": null,
@@ -54152,7 +54148,7 @@
   "occupations": null,
   "residences": "Brzostek",
   "status": "M",
-  "birth_legitimacy": "Illegitimate (b-1896-31)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-31); legitimized by the parents' marriage: As a result, this child has been legitimized",
   "marital_status_at_marriage": "Single (m-1927-7)",
   "marital_status_at_death": null,
   "father_id": "P0434",
@@ -54218,8 +54214,7 @@
    ],
    "surnames": [
     "Freund",
-    "Grabkowicz",
-    "Orner"
+    "Grabkowicz"
    ],
    "born": {
     "rid": "b-1896-31",
@@ -55336,7 +55331,7 @@
   "id": "P0448",
   "legal_given": "Pessel",
   "common_given": "Pessel",
-  "legal_surname": "Windstroh",
+  "legal_surname": "Guttstein",
   "common_surname": "Guttstein",
   "maiden_surname": null,
   "married_surname": null,
@@ -55347,7 +55342,7 @@
   "occupations": null,
   "residences": "Skurowa",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1896-38)",
+  "birth_legitimacy": "Registered illegitimate (b-1896-38); legitimized by the parents' marriage: Birth legitimized by parents marriage 30 Oct 1901 Correction 2026-04-21: Hinde's 4-way-spl",
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1901-3)",
   "father_id": "P0256",
@@ -55393,8 +55388,7 @@
     }
    ],
    "surnames": [
-    "Guttstein",
-    "Windstroh"
+    "Guttstein"
    ],
    "born": {
     "rid": "b-1896-38",
@@ -66297,7 +66291,7 @@
   "id": "P0551",
   "legal_given": "Shaya Heschel",
   "common_given": "Shaya Heschel",
-  "legal_surname": "Stecher",
+  "legal_surname": "Salamon",
   "common_surname": "Schonwetter",
   "maiden_surname": null,
   "married_surname": null,
@@ -66308,7 +66302,7 @@
   "occupations": null,
   "residences": "Kamienica Dolna (house 23)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1898-6)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-6); legitimized by the parents' marriage: Child legitimized by marriage 20 Nov 1901 Correction 2026-04-27: Sima nee sur",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P2033",
@@ -66338,8 +66332,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Schonwetter",
-    "Stecher"
+    "Salamon",
+    "Schonwetter"
    ],
    "born": {
     "rid": "b-1898-6",
@@ -66371,7 +66365,7 @@
   "occupations": null,
   "residences": "Januszkowice (house 23)",
   "status": "M",
-  "birth_legitimacy": "Illegitimate (b-1898-7)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-7); legitimized by the parents' marriage: Child legitimized by marriage 8 Aug 1900 C 2026-05-04 (Rubel audit): redirected P2587 → P0",
   "marital_status_at_marriage": "Single (m-1924-6)",
   "marital_status_at_death": null,
   "father_id": "P0150",
@@ -66864,7 +66858,7 @@
   "id": "P0556",
   "legal_given": "Fishel",
   "common_given": "Fishel",
-  "legal_surname": "Korzennik",
+  "legal_surname": "Nusbaum",
   "common_surname": "Landau",
   "maiden_surname": null,
   "married_surname": null,
@@ -66875,7 +66869,7 @@
   "occupations": null,
   "residences": "Brzostek",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1898-9)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-9); legitimized by the parents' marriage: Child legitimized by marriage 20 Oct 1904 Correction 2026-04-22: Zimerman/Zim",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0553",
@@ -66905,8 +66899,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Korzennik",
-    "Landau"
+    "Landau",
+    "Nusbaum"
    ],
    "born": {
     "rid": "b-1898-9",
@@ -67631,7 +67625,7 @@
   "id": "P0565",
   "legal_given": "Pessel",
   "common_given": "Pessel",
-  "legal_surname": "Kranz",
+  "legal_surname": "Meer",
   "common_surname": "Meer",
   "maiden_surname": null,
   "married_surname": null,
@@ -67642,7 +67636,7 @@
   "occupations": null,
   "residences": "Globikowa (house 10)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1898-13)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-13); legitimized by the parents' marriage: Child legitimized by marriage 20 Jan 1902",
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1901-9)",
   "father_id": "P0144",
@@ -67688,7 +67682,6 @@
     }
    ],
    "surnames": [
-    "Kranz",
     "Meer",
     "Wurzel"
    ],
@@ -68103,7 +68096,7 @@
   "id": "P0569",
   "legal_given": "Mirla",
   "common_given": "Mirla",
-  "legal_surname": "Fichner",
+  "legal_surname": "Grunberger",
   "common_surname": "Grunberger",
   "maiden_surname": null,
   "married_surname": null,
@@ -68114,7 +68107,7 @@
   "occupations": null,
   "residences": "Blaszkowa (house 146)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1898-15)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-15); legitimized by the parents' marriage: Child legitimized by marriage 10 Jul 1900 Correction 2026-04-22: 4-way-split applied to Mi",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0567",
@@ -68144,7 +68137,6 @@
    ],
    "quotes": [],
    "surnames": [
-    "Fichner",
     "Grunberger"
    ],
    "born": {
@@ -69078,7 +69070,7 @@
   "id": "P0579",
   "legal_given": "Leib",
   "common_given": "Leib",
-  "legal_surname": "List",
+  "legal_surname": "Bodner",
   "common_surname": "Weintraub",
   "maiden_surname": null,
   "married_surname": null,
@@ -69089,7 +69081,7 @@
   "occupations": null,
   "residences": "Grudna Gorna (house 72)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1898-18)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-18); legitimized by the parents' marriage: Child legitimized by marriage 27 Oct 1901 C 2026-05-04 (Rubel audit): redirec",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0575",
@@ -69119,7 +69111,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "List",
+    "Bodner",
     "Weintraub"
    ],
    "born": {
@@ -69688,7 +69680,7 @@
   "id": "P0585",
   "legal_given": "Bluma Rivka",
   "common_given": "Bluma Rivka",
-  "legal_surname": "Low",
+  "legal_surname": "Fichner",
   "common_surname": "Fichner",
   "maiden_surname": null,
   "married_surname": null,
@@ -69699,7 +69691,7 @@
   "occupations": null,
   "residences": "Brzostek (house 4)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1898-2)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-20); legitimized by the parents' marriage: Child legitimized by marriage 26 Feb 1899 Maternal grandmother's maiden name unknown",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0373",
@@ -69729,8 +69721,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Fichner",
-    "Low"
+    "Fichner"
    ],
    "born": {
     "rid": "b-1898-20",
@@ -71211,7 +71202,7 @@
   "occupations": null,
   "residences": "Januszkowice (house 57)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1898-27)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-27); legitimized by the parents' marriage: Child legitimized by marriage 10 Jul 1900 Correction 2026-04-21: canonicalized Legal_Given",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0596",
@@ -71710,7 +71701,7 @@
   "id": "P0607",
   "legal_given": "Wolf",
   "common_given": "Wolf",
-  "legal_surname": "Kolber",
+  "legal_surname": "Schonwetter",
   "common_surname": "Schonwetter",
   "maiden_surname": null,
   "married_surname": null,
@@ -71721,7 +71712,7 @@
   "occupations": null,
   "residences": "Brzostek (house 148)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1898-32)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-32); legitimized by the parents' marriage: Child legitimized by marriage 10 Dec 1906 C 2026-05-05 (Howard town-rename mega-batch): MG",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0108",
@@ -71751,7 +71742,6 @@
    ],
    "quotes": [],
    "surnames": [
-    "Kolber",
     "Schonwetter"
    ],
    "born": {
@@ -71835,7 +71825,7 @@
   "id": "P0609",
   "legal_given": "Pessel",
   "common_given": "Pessel",
-  "legal_surname": "Tager",
+  "legal_surname": "Aron",
   "common_surname": "Aron",
   "maiden_surname": null,
   "married_surname": null,
@@ -71846,7 +71836,7 @@
   "occupations": null,
   "residences": "Klecie (house 16)",
   "status": "M",
-  "birth_legitimacy": "Illegitimate (b-1898-34)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-34); legitimized by the parents' marriage: Child legitimized by subsequent marriage 11 July 1900",
   "marital_status_at_marriage": "Single (m-1926-1)",
   "marital_status_at_death": null,
   "father_id": "P0502",
@@ -71896,8 +71886,7 @@
     }
    ],
    "surnames": [
-    "Aron",
-    "Tager"
+    "Aron"
    ],
    "born": {
     "rid": "b-1898-34",
@@ -71991,7 +71980,7 @@
   "id": "P0611",
   "legal_given": "Miriam",
   "common_given": "Miriam",
-  "legal_surname": "Rubel",
+  "legal_surname": "Schwarz",
   "common_surname": "Schwarz",
   "maiden_surname": null,
   "married_surname": null,
@@ -72002,7 +71991,7 @@
   "occupations": null,
   "residences": "Brzostek (house 1)",
   "status": "M",
-  "birth_legitimacy": "Illegitimate (b-1898-36)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-36); legitimized by the parents' marriage: Child legitimized by marriage 17 Aug 1899 Correction 2026-04-21: MGM canonicalized to Lega",
   "marital_status_at_marriage": "Single (m-1927-3)",
   "marital_status_at_death": null,
   "father_id": "P0488",
@@ -72052,7 +72041,6 @@
     }
    ],
    "surnames": [
-    "Rubel",
     "Schwarz"
    ],
    "born": {
@@ -72147,7 +72135,7 @@
   "id": "P0613",
   "legal_given": "Elka Yocheved",
   "common_given": "Elka",
-  "legal_surname": "Schonwetter",
+  "legal_surname": "Littman",
   "common_surname": "Littman",
   "maiden_surname": null,
   "married_surname": null,
@@ -72158,7 +72146,7 @@
   "occupations": null,
   "residences": "Brzostek (house 102)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1898-38)",
+  "birth_legitimacy": "Registered illegitimate (b-1898-38); legitimized by the parents' marriage: Child legitimized by subsequent marriage of parents 4 Jul 1900 Maternal grandmother's maid",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0312",
@@ -72188,8 +72176,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Littman",
-    "Schonwetter"
+    "Littman"
    ],
    "born": {
     "rid": "b-1898-38",
@@ -80160,7 +80147,7 @@
   "id": "P0701",
   "legal_given": "Baracha",
   "common_given": "Barcha",
-  "legal_surname": "Turk",
+  "legal_surname": "Kranz",
   "common_surname": "Kranz",
   "maiden_surname": null,
   "married_surname": null,
@@ -80171,7 +80158,7 @@
   "occupations": null,
   "residences": "Kamienica Dolna",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1899-42)",
+  "birth_legitimacy": "Registered illegitimate (b-1899-42); legitimized by the parents' marriage: Retroactively legitimized 1932 per parents' 1902 civil marriage in Jaslo (m-1902 vol III p",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0482",
@@ -80201,8 +80188,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Kranz",
-    "Turk"
+    "Kranz"
    ],
    "born": {
     "rid": "b-1899-42",
@@ -81107,7 +81093,7 @@
   "id": "P0712",
   "legal_given": "Mindla",
   "common_given": "Mindla",
-  "legal_surname": "List",
+  "legal_surname": "Bodner",
   "common_surname": "Weintraub",
   "maiden_surname": null,
   "married_surname": null,
@@ -81118,7 +81104,7 @@
   "occupations": null,
   "residences": "Grudna Gorna (house 72)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1900-9)",
+  "birth_legitimacy": "Registered illegitimate (b-1900-9); legitimized by the parents' marriage: Child legitimized by subsequent marriage of parents in Brzostek 14 Oct 1901 C",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0575",
@@ -81148,7 +81134,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "List",
+    "Bodner",
     "Weintraub"
    ],
    "born": {
@@ -82483,7 +82469,7 @@
   "legal_given": null,
   "common_given": null,
   "legal_surname": "Fenechel",
-  "common_surname": "Roth",
+  "common_surname": "Neuman",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -82534,8 +82520,7 @@
    ],
    "surnames": [
     "Fenechel",
-    "Neuman",
-    "Roth"
+    "Neuman"
    ],
    "born": {
     "rid": "b-1900-19",
@@ -82623,8 +82608,8 @@
   "id": "P0732",
   "legal_given": "Treitel",
   "common_given": "Treitel",
-  "legal_surname": "Brandsdorfer",
-  "common_surname": "Brandsdorfer",
+  "legal_surname": "Glassner",
+  "common_surname": "Glassner",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -82634,7 +82619,7 @@
   "occupations": null,
   "residences": "Blaszkowa (house 22)",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1900-21)",
+  "birth_legitimacy": "Registered illegitimate (b-1900-21); legitimized by the parents' marriage: Legitimized by subsequent marriage of the parents in Kolaczyce 14 Apr 1904 C 2026-05-05 (G",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0628",
@@ -82664,7 +82649,6 @@
    ],
    "quotes": [],
    "surnames": [
-    "Brandsdorfer",
     "Glassner"
    ],
    "born": {
@@ -115924,7 +115908,7 @@
   "id": "P1107",
   "legal_given": "Shayndel",
   "common_given": "Shayndel",
-  "legal_surname": "Silberstein",
+  "legal_surname": "Wolkenfeld",
   "common_surname": "Wolkenfeld",
   "maiden_surname": null,
   "married_surname": null,
@@ -115935,7 +115919,7 @@
   "occupations": null,
   "residences": "Brzostek",
   "status": "M",
-  "birth_legitimacy": "Illegitimate (b-1907-4)",
+  "birth_legitimacy": "Registered illegitimate (b-1907-40); legitimized by the parents' marriage: view of this, this child is henceforth [legitimized] through the subsequent marriage of th",
   "marital_status_at_marriage": "Single (m-1930-1)",
   "marital_status_at_death": null,
   "father_id": "P0056",
@@ -115985,7 +115969,6 @@
     }
    ],
    "surnames": [
-    "Silberstein",
     "Wolkenfeld"
    ],
    "born": {
@@ -121204,7 +121187,7 @@
   "id": "P1174",
   "legal_given": "Aidla",
   "common_given": "Aidla",
-  "legal_surname": "Leiman",
+  "legal_surname": "Braunheim",
   "common_surname": "Braunheim",
   "maiden_surname": null,
   "married_surname": null,
@@ -121215,7 +121198,7 @@
   "occupations": null,
   "residences": "Brzostek",
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1909-8)",
+  "birth_legitimacy": "Registered illegitimate (b-1909-8); legitimized by the parents' marriage: Legitimized 15 Dec year unknonwn MGM maiden surname listed as unknown (nee unknown)",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P1170",
@@ -121245,8 +121228,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Braunheim",
-    "Leiman"
+    "Braunheim"
    ],
    "born": {
     "rid": "b-1909-8",
@@ -133539,7 +133521,7 @@
   "id": "P1329",
   "legal_given": "Mayer",
   "common_given": "Mayer",
-  "legal_surname": "Mass",
+  "legal_surname": "Panzer",
   "common_surname": "Panzer",
   "maiden_surname": null,
   "married_surname": null,
@@ -133550,7 +133532,7 @@
   "occupations": null,
   "residences": null,
   "status": "N",
-  "birth_legitimacy": "Illegitimate (b-1911-27)",
+  "birth_legitimacy": "Registered illegitimate (b-1911-27); legitimized by the parents' marriage: Legitimized 4 Mar 1917, father Chaim Panzer married the mother, marriage register Volume I",
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P1271",
@@ -133580,7 +133562,6 @@
    ],
    "quotes": [],
    "surnames": [
-    "Mass",
     "Panzer"
    ],
    "born": {
