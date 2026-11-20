@@ -191669,7 +191669,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1896 Brzeziny (age 25 at m-1921-3)",
+  "birth_date": "18 Feb 1896, Brzeziny (per m-1921-3)",
   "death_date": null,
   "marriage_dates": "1921-11-27 in Grudna Dolna (civil)",
   "occupations": null,
@@ -191727,9 +191727,9 @@
      "spouse_id": "P2269"
     }
    ],
-   "birth_year": "1896",
+   "birth_year": null,
    "death_year": null,
-   "birth_date_text": "c. 1896 Brzeziny (age 25 at m-1921-3)",
+   "birth_date_text": null,
    "death_date_text": null
   },
   "unions": [],
@@ -191799,7 +191799,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1898 Brzeziny (age 23 at m-1921-3)",
+  "birth_date": "27 Dec 1898, Brzeziny (per m-1921-3)",
   "death_date": null,
   "marriage_dates": "1921-11-27 in Grudna Dolna (civil)",
   "occupations": null,
@@ -191857,9 +191857,9 @@
      "spouse_id": "P2266"
     }
    ],
-   "birth_year": "1898",
+   "birth_year": null,
    "death_year": null,
-   "birth_date_text": "c. 1898 Brzeziny (age 23 at m-1921-3)",
+   "birth_date_text": null,
    "death_date_text": null
   },
   "unions": [],
