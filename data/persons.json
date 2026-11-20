@@ -165109,7 +165109,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1860 Baczal Dolny (per m-1920-2 source; age 60 at marriage; d-1928-1 noted age 85 b.~1843 — 17y discrepancy, m-1920-2 likely more accurate)",
+  "birth_date": "1860, Bączałka (from m-1920-2; her death record d-1928-1 gives age 85, about 1843)",
   "death_date": "22 Oct 1928",
   "marriage_dates": "1920-12-28 in Brzostek (civil)",
   "occupations": null,
@@ -165188,9 +165188,9 @@
      "spouse_id": "P1855"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1860",
    "death_year": "1928",
-   "birth_date_text": null,
+   "birth_date_text": "1860, Bączałka (from m-1920-2; her death record d-1928-1 gives age 85, about 1843)",
    "death_date_text": null
   },
   "unions": [],
