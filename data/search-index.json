@@ -850,7 +850,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Rivka Grunberger",
-   "residences": "Matzau, Hungary",
+   "residences": "Malzau, Hungary",
    "birth_date": "",
    "death_date": "",
    "phonetic": "596795 780000 596795 780000"
@@ -869,7 +869,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Fivel Grunberger",
-   "residences": "Matzau, Hungary",
+   "residences": "Malzau, Hungary",
    "birth_date": "",
    "death_date": "",
    "phonetic": "596795 975000 596795 975000"
@@ -2978,7 +2978,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Chaya Sarah Rothman",
-   "residences": "Thum, Germany",
+   "residences": "",
    "birth_date": "",
    "death_date": "",
    "phonetic": "694000 695400 936000 694000 695400 936000"
@@ -6493,7 +6493,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "",
-   "residences": "Przecznica",
+   "residences": "Brzeziny",
    "birth_date": "",
    "death_date": "",
    "phonetic": "349000 456000 460000 349000 456000 460000"
@@ -7519,7 +7519,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Gittla Schnosh",
-   "residences": "Zabrze",
+   "residences": "Łabużin",
    "birth_date": "",
    "death_date": "",
    "phonetic": "464000 464800 465000 464000 464800 465000"
@@ -13219,7 +13219,7 @@
    "father_name": "Jacob Koppel Nusbaum/Landau",
    "mother_name": "Tyla Landau née Korzennik",
    "spouse_names": "",
-   "residences": "Opacionka (house 12)",
+   "residences": "Brzostek (house 86)",
    "birth_date": "",
    "death_date": "",
    "phonetic": "458000 545800 546500 594650 863000 063900 458000 483400 496000 545800 546500 583400 594650 600000 793000 793600 863000"
@@ -20895,7 +20895,7 @@
    "father_name": "Lipa Rozner",
    "mother_name": "Rachel Rozner née Just",
    "spouse_names": "",
-   "residences": "Opacionka (house 1)",
+   "residences": "",
    "birth_date": "",
    "death_date": "",
    "phonetic": "946900 975000 063900 483400 496000 583400 600000 793000 793600 946900 975000"
@@ -21750,7 +21750,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Mirla Littman",
-   "residences": "Debowa / Debowiec / Debica area",
+   "residences": "Debowiec near Jaslo",
    "birth_date": "",
    "death_date": "",
    "phonetic": "193690 493690 646100 646400 656100 656400 193690 493690 646100 646400 656100 656400"
@@ -23441,7 +23441,7 @@
    "father_name": "",
    "mother_name": "Amalia Schonbach",
    "spouse_names": "Israel Springer",
-   "residences": "Opacionka (house 11)",
+   "residences": "Brzostek (house 11)",
    "birth_date": "",
    "death_date": "",
    "phonetic": "043590 467400 467500 640000 650000 763900 043590 063900 467400 467500 483400 496000 583400 600000 640000 650000 763900 793000 793600"
@@ -23460,7 +23460,7 @@
    "father_name": "Chaim Leiman",
    "mother_name": "Yehudit Leiman née Schmaja",
    "spouse_names": "Chaim Leib Welisch",
-   "residences": "Opacionka",
+   "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
    "phonetic": "860000 975000 461000 600000 860000 975000"
@@ -23517,7 +23517,7 @@
    "father_name": "",
    "mother_name": "Rivka Leiman",
    "spouse_names": "",
-   "residences": "Opacionka (house 84)",
+   "residences": "Brzostek (house 84)",
    "birth_date": "",
    "death_date": "",
    "phonetic": "153000 860000 063900 153000 461000 483400 496000 583400 600000 793000 793600 860000"
@@ -25227,7 +25227,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "",
-   "residences": "Gorzejowa",
+   "residences": "Gogolow; Januszkowice",
    "birth_date": "",
    "death_date": "",
    "phonetic": "460000 576900 460000 576900"
@@ -30034,7 +30034,7 @@
    "father_name": "Abraham Gruber",
    "mother_name": "Sprinza Gruber",
    "spouse_names": "",
-   "residences": "Baczalka (house 40); husband bricklayer in Jaslo",
+   "residences": "Baczalka (house 40)",
    "birth_date": "",
    "death_date": "",
    "phonetic": "460000 597900 460000 579000 597900"
@@ -31212,7 +31212,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Deborah Welisch",
-   "residences": "Strykow",
+   "residences": "Strzyzow",
    "birth_date": "",
    "death_date": "",
    "phonetic": "147000 470000 784000 147000 470000 784000"
@@ -31231,7 +31231,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Joseph Welisch",
-   "residences": "Strykow",
+   "residences": "Strzyzow",
    "birth_date": "",
    "death_date": "",
    "phonetic": "379000 784000 379000 784000"
@@ -37520,7 +37520,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Leah Shuster",
-   "residences": "Belzec",
+   "residences": "Belz",
    "birth_date": "",
    "death_date": "",
    "phonetic": "147000 157000 439000 457000 470000 147000 157000 439000 457000 470000"
@@ -44341,7 +44341,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "",
-   "residences": "Gorzejowa",
+   "residences": "Gogolow",
    "birth_date": "",
    "death_date": "",
    "phonetic": "586000 597400 586000 597400"
