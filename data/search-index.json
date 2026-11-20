@@ -18647,7 +18647,7 @@
    "subtitle": "born 1906; son of Akiva Schindel",
    "legal_given": "Hersch",
    "common_given": "Hersch",
-   "legal_surname": "Schindel",
+   "legal_surname": "Neubart",
    "common_surname": "Schindel",
    "maiden_surname": "",
    "father_name": "Akiva Neubart/Schindel",
@@ -18656,7 +18656,7 @@
    "residences": "Baczalka (house 10)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "463800 540000 545000 594000 594500 063900 463800 483400 496000 540000 545000 583400 594000 594500 600000 679300 793000 793600"
+   "phonetic": "463800 540000 545000 594000 594500 679300 063900 463800 483400 496000 540000 545000 583400 594000 594500 600000 679300 793000 793600"
   },
   {
    "id": "P1045",
@@ -19555,11 +19555,11 @@
    "id": "P1092",
    "type": "person",
    "display": "Chiel Neuman",
-   "other_names": "Chiel (no surname written; child's birth entry); Neuman; Wegier",
+   "other_names": "Chiel (no surname written; child's birth entry); Neuman",
    "subtitle": "born 1907; son of Selig Neuman",
    "legal_given": "Chiel",
    "common_given": "Chiel",
-   "legal_surname": "Wegier",
+   "legal_surname": "Neuman",
    "common_surname": "Neuman",
    "maiden_surname": "",
    "father_name": "Selig Neuman",
@@ -19568,7 +19568,7 @@
    "residences": "Januszkowice (house 16)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "480000 580000 600000 759000 063900 480000 483400 496000 580000 583400 600000 759000 793000 793600"
+   "phonetic": "480000 580000 600000 063900 480000 483400 496000 580000 583400 600000 793000 793600"
   },
   {
    "id": "P1093",
@@ -19764,11 +19764,11 @@
    "id": "P1103",
    "type": "person",
    "display": "Shaya Landau",
-   "other_names": "Shaya (no surname written; child's birth entry); Korzennik; Landau",
+   "other_names": "Shaya (no surname written; child's birth entry); Landau",
    "subtitle": "born 1907; son of Koppel Landau",
    "legal_given": "Shaya",
    "common_given": "Shaya",
-   "legal_surname": "Korzennik",
+   "legal_surname": "Landau",
    "common_surname": "Landau",
    "maiden_surname": "",
    "father_name": "Jacob Koppel Nusbaum/Landau",
@@ -19777,7 +19777,7 @@
    "residences": "Brzostek (house 131)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "410000 546500 594650 863000 063900 410000 483400 496000 546500 583400 594650 600000 793000 793600 863000"
+   "phonetic": "410000 863000 063900 410000 483400 496000 583400 600000 793000 793600 863000"
   },
   {
    "id": "P1104",
@@ -20490,7 +20490,7 @@
    "subtitle": "born 1908; daughter of Pinkus Zeller",
    "legal_given": "Hannah",
    "common_given": "Hannah",
-   "legal_surname": "Zeller",
+   "legal_surname": "Zweibel",
    "common_surname": "Zeller",
    "maiden_surname": "",
    "father_name": "Pinkus Zweibel/Zeller",
@@ -20499,7 +20499,7 @@
    "residences": "Brzostek (house 52)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "489000 560000 063900 478000 483400 489000 496000 560000 583400 600000 793000 793600"
+   "phonetic": "478000 489000 560000 063900 478000 483400 489000 496000 560000 583400 600000 793000 793600"
   },
   {
    "id": "P1144",
@@ -22485,7 +22485,7 @@
    "subtitle": "born 1910; son of Pinkus Zeller",
    "legal_given": "Abraham",
    "common_given": "Abraham",
-   "legal_surname": "Zeller",
+   "legal_surname": "Zweibel",
    "common_surname": "Zeller",
    "maiden_surname": "",
    "father_name": "Pinkus Zweibel/Zeller",
@@ -22494,7 +22494,7 @@
    "residences": "Brzostek (house 52)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "079560 489000 063900 079560 478000 483400 489000 496000 583400 600000 793000 793600"
+   "phonetic": "079560 478000 489000 063900 079560 478000 483400 489000 496000 583400 600000 793000 793600"
   },
   {
    "id": "P1254",
@@ -24176,7 +24176,7 @@
    "subtitle": "born 1912; daughter of Pinkus Zeller",
    "legal_given": "Feige",
    "common_given": "Feige",
-   "legal_surname": "Zeller",
+   "legal_surname": "Zweibel",
    "common_surname": "Zeller",
    "maiden_surname": "",
    "father_name": "Pinkus Zweibel/Zeller",
@@ -24185,7 +24185,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "489000 750000 063900 478000 483400 489000 496000 583400 600000 750000 793000 793600"
+   "phonetic": "478000 489000 750000 063900 478000 483400 489000 496000 583400 600000 750000 793000 793600"
   },
   {
    "id": "P1350",
@@ -25506,7 +25506,7 @@
    "subtitle": "born 1913; son of Pinkus Zeller",
    "legal_given": "Nechemje",
    "common_given": "Nechemje",
-   "legal_surname": "Zeller",
+   "legal_surname": "Zweibel",
    "common_surname": "Zeller",
    "maiden_surname": "",
    "father_name": "Pinkus Zweibel/Zeller",
@@ -25515,7 +25515,7 @@
    "residences": "Brzostek (house 52)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "489000 646100 646400 656100 656400 063900 478000 483400 489000 496000 583400 600000 646100 646400 656100 656400 793000 793600"
+   "phonetic": "478000 489000 646100 646400 656100 656400 063900 478000 483400 489000 496000 583400 600000 646100 646400 656100 656400 793000 793600"
   },
   {
    "id": "P1426",
@@ -26418,7 +26418,7 @@
    "subtitle": "1915–1916; daughter of Pinkus Zeller",
    "legal_given": "Yenta",
    "common_given": "Yenta",
-   "legal_surname": "Zeller",
+   "legal_surname": "Zweibel",
    "common_surname": "Zeller",
    "maiden_surname": "",
    "father_name": "Pinkus Zweibel/Zeller",
@@ -26427,7 +26427,7 @@
    "residences": "Brzostek (house 52)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "163000 489000 063900 163000 478000 483400 489000 496000 583400 600000 793000 793600"
+   "phonetic": "163000 478000 489000 063900 163000 478000 483400 489000 496000 583400 600000 793000 793600"
   },
   {
    "id": "P1474",
@@ -27273,7 +27273,7 @@
    "subtitle": "born 1917; son of Pinkus Zeller",
    "legal_given": "Chaim",
    "common_given": "Chaim",
-   "legal_surname": "Zeller",
+   "legal_surname": "Zweibel",
    "common_surname": "Zeller",
    "maiden_surname": "",
    "father_name": "Pinkus Zweibel/Zeller",
@@ -27282,7 +27282,7 @@
    "residences": "Brzostek (house 52)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "460000 489000 560000 063900 460000 478000 483400 489000 496000 560000 583400 600000 793000 793600"
+   "phonetic": "460000 478000 489000 560000 063900 460000 478000 483400 489000 496000 560000 583400 600000 793000 793600"
   },
   {
    "id": "P1520",

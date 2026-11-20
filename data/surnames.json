@@ -3211,7 +3211,7 @@
  {
   "surname": "Korzennik",
   "fname": "Korzennik",
-  "count": 23,
+  "count": 22,
   "person_ids": [
    "P0196",
    "P0197",
@@ -3226,7 +3226,6 @@
    "P0556",
    "P0747",
    "P0874",
-   "P1103",
    "P1122",
    "P1679",
    "P1689",
@@ -6758,14 +6757,13 @@
  {
   "surname": "Wegier",
   "fname": "Wegier",
-  "count": 6,
+  "count": 5,
   "person_ids": [
    "P0869",
    "P0870",
    "P0871",
    "P0872",
-   "P0986",
-   "P1092"
+   "P0986"
   ]
  },
  {
