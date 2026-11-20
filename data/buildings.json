@@ -14929,22 +14929,6 @@
    "year_max": 1902
   },
   {
-   "town": "Brzesko",
-   "events": 2,
-   "surnames": [
-    [
-     "Glassner",
-     2
-    ]
-   ],
-   "events_by_kind": {
-    "MGF_Residence": 1,
-    "MGM_Residence": 1
-   },
-   "year_min": 1900,
-   "year_max": 1900
-  },
-  {
    "town": "Brzeziny",
    "events": 28,
    "surnames": [
@@ -15004,7 +14988,7 @@
   },
   {
    "town": "Brzostek",
-   "events": 848,
+   "events": 850,
    "surnames": [
     [
      "Rubel",
@@ -15299,6 +15283,10 @@
      3
     ],
     [
+     "Glassner",
+     3
+    ],
+    [
      "Russ",
      3
     ],
@@ -15404,10 +15392,6 @@
     ],
     [
      "Druck",
-     1
-    ],
-    [
-     "Glassner",
      1
     ],
     [
@@ -15517,8 +15501,8 @@
    ],
    "events_by_kind": {
     "Father_Residence": 389,
-    "MGF_Residence": 191,
-    "MGM_Residence": 8,
+    "MGF_Residence": 192,
+    "MGM_Residence": 9,
     "Mother_Residence": 5,
     "Bride birthplace": 69,
     "BF_Residence": 111,
@@ -20949,6 +20933,7 @@
    "b-1898-9",
    "b-1898-22",
    "b-1899-1",
+   "b-1900-21",
    "b-1901-31",
    "b-1902-6",
    "b-1904-18",
@@ -22228,9 +22213,6 @@
    "b-1914-13",
    "b-1917-10",
    "m-1904-5"
-  ],
-  "Brzesko": [
-   "b-1900-21"
   ],
   "Brzyscie near Mielec": [
    "b-1900-24",
