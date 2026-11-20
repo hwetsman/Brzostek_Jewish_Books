@@ -731,28 +731,28 @@
    "town": "Brzesko",
    "lat": 49.969893,
    "lon": 20.606672,
-   "events": 3,
+   "events": 2,
    "buildings": 0,
-   "year_min": 1899,
+   "year_min": 1900,
    "year_max": 1900,
    "top_surnames": [
     [
      "Glassner",
-     3
+     2
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 2,
+    "MGF_Residence": 1,
     "MGM_Residence": 1
    },
    "categories": {
     "birth_naming": 0,
     "death": 0,
     "marriage_spouse": 0,
-    "remote_relative": 3
+    "remote_relative": 2
    },
    "top_buildings": [],
-   "town_only_events": 3,
+   "town_only_events": 2,
    "notes": ""
   },
   {
@@ -851,7 +851,7 @@
    "town": "Brzostek",
    "lat": 49.880454,
    "lon": 21.409835,
-   "events": 1837,
+   "events": 1838,
    "buildings": 104,
    "year_min": 1876,
    "year_max": 1938,
@@ -888,7 +888,7 @@
     "Bride": 3,
     "Groom": 5,
     "Father_Residence": 389,
-    "MGF_Residence": 190,
+    "MGF_Residence": 191,
     "MGM_Residence": 8,
     "Mother_Residence": 5,
     "Bride birthplace": 69,
@@ -900,7 +900,7 @@
     "birth_naming": 853,
     "death": 129,
     "marriage_spouse": 108,
-    "remote_relative": 747
+    "remote_relative": 748
    },
    "top_buildings": [
     {
@@ -1148,7 +1148,7 @@
      "year_max": 1914
     }
    ],
-   "town_only_events": 847,
+   "town_only_events": 848,
    "notes": "Town center"
   },
   {
