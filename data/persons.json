@@ -16620,9 +16620,9 @@
   "legal_given": "Machla",
   "common_given": "Machla",
   "legal_surname": "Bodner",
-  "common_surname": "Bodner",
+  "common_surname": "Towel",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Rowitz",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -16781,7 +16781,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Machla Bodner, married name Rowitz",
+  "heading_name": "Machla Towel, married name Rowitz",
   "partner_groups": {
    "P0070": "1"
   }
