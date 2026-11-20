@@ -194481,7 +194481,7 @@
    "P2307"
   ],
   "spouse_names": [
-   "Reisla Bergman née Torn Schreiber"
+   "Reisla Bierman née Tornschreiber"
   ],
   "children_ids": [
    "P2308"
@@ -194556,7 +194556,7 @@
    "P2306"
   ],
   "spouse_names": [
-   "Jacob Bergman"
+   "Jacob Bierman"
   ],
   "children_ids": [
    "P2308"
@@ -194611,8 +194611,8 @@
   "id": "P2308",
   "legal_given": "Necha",
   "common_given": "Necha",
-  "legal_surname": "Bergman",
-  "common_surname": "Bergman",
+  "legal_surname": "Bierman",
+  "common_surname": "Bierman",
   "maiden_surname": "Bierman",
   "married_surname": null,
   "sex": "F",
@@ -194626,9 +194626,9 @@
   "marital_status_at_marriage": "Single (m-1924-4)",
   "marital_status_at_death": null,
   "father_id": "P2306",
-  "father_name": "Jacob Bergman",
+  "father_name": "Jacob Bierman",
   "mother_id": "P2307",
-  "mother_name": "Reisla Bergman née Torn Schreiber",
+  "mother_name": "Reisla Bierman née Tornschreiber",
   "spouse_ids": [
    "P1895"
   ],
@@ -194677,7 +194677,6 @@
    ],
    "surnames": [
     "Baar",
-    "Bergman",
     "Bierman"
    ],
    "born": null,

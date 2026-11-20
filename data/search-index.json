@@ -39115,7 +39115,7 @@
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "",
-   "spouse_names": "Reisla Bergman née Torn Schreiber",
+   "spouse_names": "Reisla Bierman née Tornschreiber",
    "residences": "Baranowka near Sanbor",
    "birth_date": "",
    "death_date": "",
@@ -39134,7 +39134,7 @@
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "",
-   "spouse_names": "Jacob Bergman",
+   "spouse_names": "Jacob Bierman",
    "residences": "",
    "birth_date": "",
    "death_date": "",
@@ -39144,20 +39144,20 @@
    "id": "P2308",
    "type": "person",
    "display": "Necha Baar née Bierman",
-   "other_names": "Necha Bierman; Necha née Bierman; Baar; Bergman; Bierman",
+   "other_names": "Necha Bierman; Necha née Bierman; Baar; Bierman",
    "subtitle": "daughter of Jacob Bierman",
    "legal_given": "Necha",
    "common_given": "Necha",
-   "legal_surname": "Bergman",
-   "common_surname": "Bergman",
+   "legal_surname": "Bierman",
+   "common_surname": "Bierman",
    "maiden_surname": "Bierman",
-   "father_name": "Jacob Bergman",
-   "mother_name": "Reisla Bergman née Torn Schreiber",
+   "father_name": "Jacob Bierman",
+   "mother_name": "Reisla Bierman née Tornschreiber",
    "spouse_names": "Jacob Baar",
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "640000 650000 795600 796000 600000 640000 650000 790000 795600 796000"
+   "phonetic": "640000 650000 796000 600000 640000 650000 790000 796000"
   },
   {
    "id": "P2309",
@@ -60215,10 +60215,10 @@
    "book": "marriage",
    "year": 1924,
    "number": "4",
-   "summary": "Marriage 4/1924: Jacob Baar & Necha Bergman née Bierman",
+   "summary": "Marriage 4/1924: Jacob Baar & Necha Bierman",
    "prose": "6 April 1924 Brzostek Jakob Baar, owner of a dairy in Brzostek, son of Josef Baar and Golde née Salamon, born in Rudki for several years, residing in Brzostek Neche Bierman, daughter of Jakub Bierman and Reisla née Tornschreiber, was born in Barańczyce near Sambor and lived in Brzostek for a dozen or so years Chaim Wolkenfeld Wolf Töwel, grain dealer in Brzostek, witness. Lipa Rosner, synagogue attendant in Brzostek, witness. groom 24 Jun 1874, bride 1874. Remarks: The capacity to contract the marriage rests on [the registrar's] own knowledge, under § 32 of the instructions; certificates of the banns; certificates of the rabbinate.",
-   "people": "Jacob Baar; Necha Bergman née Bierman; Joseph Baar; Golda Salamon; Jacob Bierman; Reisla Tornschreiber; Wolf Towel; Lipa Rozner; Chaim Wolkenfeld",
-   "phonetic": "147000 157000 378000 396497 457000 460000 470000 486000 560000 583000 600000 640000 650000 785678 787000 790000 795600 796000 870000 946900 948000"
+   "people": "Jacob Baar; Necha Bierman; Joseph Baar; Golda Salamon; Jacob Bierman; Reisla Tornschreiber; Wolf Towel; Lipa Rozner; Chaim Wolkenfeld",
+   "phonetic": "147000 157000 378000 396497 457000 460000 470000 486000 560000 583000 640000 650000 785678 787000 790000 796000 870000 946900 948000"
   },
   {
    "id": "m-1924-5",
@@ -60228,8 +60228,8 @@
    "number": "5",
    "summary": "Marriage 5/1924: Pinkus Baar & Feige Friedenbach",
    "prose": "11 April 1924 Nawsie Brzosteckie Pinkas Baar, without profession, residing in Brzostek, son of Jakob Baar, owner of a dairy in Brzostek and Neche née Bierman Feiga Friedenbach, of no profession, from Nawsie Brzosteckie, daughter of Izrael Friedenbach, a farmer from Bączalka, and Mindla, née Freiberger Chaim Wolkenfeld Lipa Rosner, synagogue attendant, witness. Kelman Storcz, watchmaker in Brzostek, witness. groom 10 Feb 1901, bride 30 May 1901. Remarks: For the groom: birth certificate dated Sambor, 1[1?] Mar 1924, ref. no. 75/24, [showing] that he is entered in the birth register there of the year 1901, p. 15, no. 43; military service book, District Recruiting Command (P.K.U.) Rzeszów, of 17 Oct 1922, ref. no. 597/58, that he is wholly unfit for military service. For the bride: this registry's own birth book, vol. II, p. 92, no. 18; certificate of the banns; certificates of the rabbinate.",
-   "people": "Pinkus Baar; Feige Friedenbach; Jacob Baar; Necha Bergman née Bierman; Israel Friedenbach; Sarah Mindla Freiberger; Lipa Rozner; Kelman Storch; Chaim Wolkenfeld",
-   "phonetic": "049800 147000 157000 294000 295000 457000 460000 470000 490000 560000 586000 600000 638000 640000 650000 750000 765400 785678 790000 793674 793675 795600 796000 797959 870000 946900"
+   "people": "Pinkus Baar; Feige Friedenbach; Jacob Baar; Necha Bierman; Israel Friedenbach; Sarah Mindla Freiberger; Lipa Rozner; Kelman Storch; Chaim Wolkenfeld",
+   "phonetic": "049800 147000 157000 294000 295000 457000 460000 470000 490000 560000 586000 638000 640000 650000 750000 765400 785678 790000 793674 793675 796000 797959 870000 946900"
   },
   {
    "id": "m-1924-6",
