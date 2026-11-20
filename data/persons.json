@@ -30837,7 +30837,7 @@
   "id": "P0206",
   "legal_given": "Zelda",
   "common_given": "Zelda",
-  "legal_surname": "Glassner",
+  "legal_surname": "Zeughauser",
   "common_surname": "Glassner",
   "maiden_surname": null,
   "married_surname": null,
@@ -50975,7 +50975,7 @@
   "id": "P0406",
   "legal_given": "Mirla",
   "common_given": "Mirla",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Pencier",
   "maiden_surname": null,
   "married_surname": null,
@@ -51036,8 +51036,8 @@
     }
    ],
    "surnames": [
-    "Fichner",
-    "Pencier"
+    "Pencier",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1896-15",
@@ -51069,7 +51069,7 @@
   "id": "P0407",
   "legal_given": "Moses",
   "common_given": "Moses",
-  "legal_surname": "Roth",
+  "legal_surname": "Fenechel",
   "common_surname": "Neuman",
   "maiden_surname": null,
   "married_surname": null,
@@ -51144,6 +51144,7 @@
     }
    ],
    "surnames": [
+    "Fenechel",
     "Neuman",
     "Roth"
    ],
@@ -53252,7 +53253,7 @@
   "id": "P0427",
   "legal_given": "Chaim",
   "common_given": "Chaim",
-  "legal_surname": "Walter",
+  "legal_surname": "Freiberger",
   "common_surname": "Steinhorn",
   "maiden_surname": null,
   "married_surname": null,
@@ -53309,8 +53310,8 @@
     }
    ],
    "surnames": [
-    "Steinhorn",
-    "Walter"
+    "Freiberger",
+    "Steinhorn"
    ],
    "born": {
     "rid": "b-1896-25",
@@ -56911,7 +56912,7 @@
   "id": "P0465",
   "legal_given": "Abraham",
   "common_given": "Abraham",
-  "legal_surname": "Amsterdam",
+  "legal_surname": "Kolber",
   "common_surname": "Schonwetter",
   "maiden_surname": null,
   "married_surname": null,
@@ -56972,7 +56973,7 @@
     }
    ],
    "surnames": [
-    "Amsterdam",
+    "Kolber",
     "Schonwetter"
    ],
    "born": {
@@ -71261,7 +71262,7 @@
   "id": "P0601",
   "legal_given": null,
   "common_given": null,
-  "legal_surname": "Walter",
+  "legal_surname": "Freiberger",
   "common_surname": "Steinhorn",
   "maiden_surname": null,
   "married_surname": null,
@@ -71318,8 +71319,8 @@
     }
    ],
    "surnames": [
-    "Steinhorn",
-    "Walter"
+    "Freiberger",
+    "Steinhorn"
    ],
    "born": {
     "rid": "b-1898-28",
@@ -79189,7 +79190,7 @@
   "id": "P0693",
   "legal_given": "Leah Gittla",
   "common_given": "Leah Gittla",
-  "legal_surname": "Kolber",
+  "legal_surname": "Lambek",
   "common_surname": "Amsterdam",
   "maiden_surname": null,
   "married_surname": null,
@@ -79251,7 +79252,7 @@
    ],
    "surnames": [
     "Amsterdam",
-    "Kolber"
+    "Lambek"
    ],
    "born": {
     "rid": "b-1899-36",
@@ -82481,7 +82482,7 @@
   "id": "P0730",
   "legal_given": null,
   "common_given": null,
-  "legal_surname": "Roth",
+  "legal_surname": "Fenechel",
   "common_surname": "Roth",
   "maiden_surname": null,
   "married_surname": null,
@@ -82532,6 +82533,7 @@
     }
    ],
    "surnames": [
+    "Fenechel",
     "Neuman",
     "Roth"
    ],
@@ -85101,7 +85103,7 @@
   "id": "P0759",
   "legal_given": "(Unnamed)",
   "common_given": "(Unnamed)",
-  "legal_surname": "Freiberger",
+  "legal_surname": "Bakon",
   "common_surname": "Abrahamowicz",
   "maiden_surname": null,
   "married_surname": null,
@@ -85153,7 +85155,7 @@
    ],
    "surnames": [
     "Abrahamowicz",
-    "Freiberger"
+    "Bakon"
    ],
    "born": {
     "rid": "b-1901-5",
@@ -110347,7 +110349,7 @@
   "id": "P1046",
   "legal_given": "Aron",
   "common_given": "Aron",
-  "legal_surname": "Wurzel",
+  "legal_surname": "Bodner",
   "common_surname": "Bodner",
   "maiden_surname": null,
   "married_surname": null,
@@ -110405,8 +110407,7 @@
    ],
    "surnames": [
     "Bodner",
-    "Towel",
-    "Wurzel"
+    "Towel"
    ],
    "born": {
     "rid": "b-1906-28",
@@ -136714,7 +136715,7 @@
   "id": "P1377",
   "legal_given": "Israel",
   "common_given": "Israel",
-  "legal_surname": "Schiff",
+  "legal_surname": "Richter",
   "common_surname": "Schiff",
   "maiden_surname": null,
   "married_surname": null,
@@ -151351,7 +151352,7 @@
   "id": "P1581",
   "legal_given": "Joseph",
   "common_given": "Joseph",
-  "legal_surname": "Amsterdam",
+  "legal_surname": "Kolber",
   "common_surname": "Schonwetter",
   "maiden_surname": null,
   "married_surname": null,
@@ -151412,7 +151413,7 @@
     }
    ],
    "surnames": [
-    "Amsterdam",
+    "Kolber",
     "Schonwetter"
    ],
    "born": {
@@ -185399,7 +185400,7 @@
   "id": "P2178",
   "legal_given": "Aron Mordechi",
   "common_given": "Mordechi",
-  "legal_surname": "Krautblatt",
+  "legal_surname": "Offner",
   "common_surname": "Offner",
   "maiden_surname": null,
   "married_surname": null,
@@ -185450,7 +185451,6 @@
     }
    ],
    "surnames": [
-    "Krautblatt",
     "Offner"
    ],
    "born": null,

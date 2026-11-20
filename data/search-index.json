@@ -3637,7 +3637,7 @@
    "subtitle": "1834–1909; daughter of Solomon Glassner",
    "legal_given": "Zelda",
    "common_given": "Zelda",
-   "legal_surname": "Glassner",
+   "legal_surname": "Zeughauser",
    "common_surname": "Glassner",
    "maiden_surname": "",
    "father_name": "Solomon Glassner",
@@ -3646,7 +3646,7 @@
    "residences": "Januszkowice (house 28)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "483000 584690 454900 483000 584690 600000 878000"
+   "phonetic": "454900 483000 584690 454900 483000 584690 600000 878000"
   },
   {
    "id": "P0207",
@@ -6920,11 +6920,11 @@
    "id": "P0406",
    "type": "person",
    "display": "Mirla Pencier, married name Roth",
-   "other_names": "Mirla (no surname written; child's birth entry); Mirla Pencier; Fichner; Pencier",
+   "other_names": "Mirla (no surname written; child's birth entry); Mirla Pencier; Pencier; Rubel",
    "subtitle": "born 1896; daughter of Aron Pencier",
    "legal_given": "Mirla",
    "common_given": "Mirla",
-   "legal_surname": "Fichner",
+   "legal_surname": "Rubel",
    "common_surname": "Pencier",
    "maiden_surname": "",
    "father_name": "Aron Pencier",
@@ -6933,17 +6933,17 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "698000 746900 756900 764900 765900 063900 483400 496000 583400 600000 698000 746900 756900 764900 765900 793000 793600"
+   "phonetic": "698000 764900 765900 978000 063900 483400 496000 583400 600000 698000 764900 765900 793000 793600 978000"
   },
   {
    "id": "P0407",
    "type": "person",
    "display": "Moses Neuman",
-   "other_names": "Moses (no surname written; child's birth entry); Moses Roth; Moses Neuman; Neuman; Roth",
+   "other_names": "Moses (no surname written; child's birth entry); Moses Roth; Moses Neuman; Fenechel; Neuman; Roth",
    "subtitle": "1896–1913; son of Selig Neuman",
    "legal_given": "Moses",
    "common_given": "Moses",
-   "legal_surname": "Roth",
+   "legal_surname": "Fenechel",
    "common_surname": "Neuman",
    "maiden_surname": "",
    "father_name": "Selig Neuman",
@@ -6952,7 +6952,7 @@
    "residences": "Januszkowice",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "600000 640000 930000 063900 483400 496000 583400 600000 640000 793000 793600 930000"
+   "phonetic": "600000 640000 764800 765800 063900 483400 496000 583400 600000 640000 764800 765800 793000 793600 930000"
   },
   {
    "id": "P0408",
@@ -7319,11 +7319,11 @@
    "id": "P0427",
    "type": "person",
    "display": "Chaim Steinhorn",
-   "other_names": "Chaim (no surname written; child's birth entry); Chaim Steinhorn; Steinhorn; Walter",
+   "other_names": "Chaim (no surname written; child's birth entry); Chaim Steinhorn; Freiberger; Steinhorn",
    "subtitle": "1896–1897; son of Joseph Steinhorn",
    "legal_given": "Chaim",
    "common_given": "Chaim",
-   "legal_surname": "Walter",
+   "legal_surname": "Freiberger",
    "common_surname": "Steinhorn",
    "maiden_surname": "",
    "father_name": "",
@@ -7332,7 +7332,7 @@
    "residences": "Blaszkowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "265960 460000 560000 783900 063900 265960 460000 483400 496000 560000 583400 600000 783900 793000 793600"
+   "phonetic": "265960 460000 560000 797959 063900 265960 460000 483400 496000 560000 583400 600000 793000 793600 797959"
   },
   {
    "id": "P0428",
@@ -8022,11 +8022,11 @@
    "id": "P0465",
    "type": "person",
    "display": "Abraham Schonwetter",
-   "other_names": "Abraham (no surname written; child's birth entry); Abraham Schonwetter; Amsterdam; Schonwetter",
+   "other_names": "Abraham (no surname written; child's birth entry); Abraham Schonwetter; Kolber; Schonwetter",
    "subtitle": "born 1897; son of Solomon Schonwetter",
    "legal_given": "Abraham",
    "common_given": "Abraham",
-   "legal_surname": "Amsterdam",
+   "legal_surname": "Kolber",
    "common_surname": "Schonwetter",
    "maiden_surname": "",
    "father_name": "Solomon Schonwetter",
@@ -8035,7 +8035,7 @@
    "residences": "Zawada (post-marriage); Brzostek house 47 at birth",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "064393 079560 467390 063900 064393 079560 467390 483400 496000 583400 600000 793000 793600"
+   "phonetic": "079560 467390 587900 063900 079560 467390 483400 496000 583400 587900 600000 793000 793600"
   },
   {
    "id": "P0466",
@@ -10568,11 +10568,11 @@
    "id": "P0601",
    "type": "person",
    "display": "Steinhorn",
-   "other_names": "Died without name (no surname written; child's birth entry); Unnamed_d-1898-6 Steinhorn; Steinhorn; Walter",
+   "other_names": "Died without name (no surname written; child's birth entry); Unnamed_d-1898-6 Steinhorn; Freiberger; Steinhorn",
    "subtitle": "1898–1898; son of Joseph Steinhorn",
    "legal_given": "",
    "common_given": "",
-   "legal_surname": "Walter",
+   "legal_surname": "Freiberger",
    "common_surname": "Steinhorn",
    "maiden_surname": "",
    "father_name": "Joseph Steinhorn",
@@ -10581,7 +10581,7 @@
    "residences": "Blaszkowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "265960 783900 063000 063900 265960 300000 483400 496000 583400 600000 730000 783900 793000 793600"
+   "phonetic": "265960 797959 063000 063900 265960 300000 483400 496000 583400 600000 730000 793000 793600 797959"
   },
   {
    "id": "P0602",
@@ -12221,11 +12221,11 @@
    "id": "P0693",
    "type": "person",
    "display": "Leah Gittla Amsterdam, married name Schonwetter",
-   "other_names": "Leah Gittla (no surname written; child's birth entry); Gittla Amsterdam; Amsterdam; Kolber",
+   "other_names": "Leah Gittla (no surname written; child's birth entry); Gittla Amsterdam; Amsterdam; Lambek",
    "subtitle": "born 1899; daughter of Abraham Amsterdam",
    "legal_given": "Leah Gittla",
    "common_given": "Leah Gittla",
-   "legal_surname": "Kolber",
+   "legal_surname": "Lambek",
    "common_surname": "Amsterdam",
    "maiden_surname": "",
    "father_name": "Abraham Hersch Kolber",
@@ -12234,7 +12234,7 @@
    "residences": "Blaszkowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "064393 538000 587900 800000 063900 064393 483400 496000 538000 583400 587900 600000 793000 793600 800000"
+   "phonetic": "064393 538000 800000 867500 063900 064393 483400 496000 538000 583400 600000 793000 793600 800000 867500"
   },
   {
    "id": "P0694",
@@ -12886,11 +12886,11 @@
    "id": "P0730",
    "type": "person",
    "display": "Roth",
-   "other_names": "Unnamed_d-1900-14 Neuman; Neuman; Roth",
+   "other_names": "Unnamed_d-1900-14 Neuman; Fenechel; Neuman; Roth",
    "subtitle": "1900–1900; son of Selig Neuman",
    "legal_given": "",
    "common_given": "",
-   "legal_surname": "Roth",
+   "legal_surname": "Fenechel",
    "common_surname": "Roth",
    "maiden_surname": "",
    "father_name": "Selig Neuman",
@@ -12899,7 +12899,7 @@
    "residences": "Januszkowice (house 16)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "930000 063000 600000 930000"
+   "phonetic": "764800 765800 930000 063000 600000 764800 765800 930000"
   },
   {
    "id": "P0731",
@@ -13437,11 +13437,11 @@
    "id": "P0759",
    "type": "person",
    "display": "(Unnamed) Abrahamowicz",
-   "other_names": "Unnamed_d-1901-4 Abrahamowicz; Abrahamowicz; Freiberger",
+   "other_names": "Unnamed_d-1901-4 Abrahamowicz; Abrahamowicz; Bakon",
    "subtitle": "1901–1901; son of Abraham Abrahamowicz",
    "legal_given": "(Unnamed)",
    "common_given": "(Unnamed)",
-   "legal_surname": "Freiberger",
+   "legal_surname": "Bakon",
    "common_surname": "Abrahamowicz",
    "maiden_surname": "",
    "father_name": "Abraham Abrahamowicz",
@@ -13450,7 +13450,7 @@
    "residences": "Blaszkowa (house 271)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "063000 079567 797959 063000 079567 797959"
+   "phonetic": "063000 079567 756000 063000 079567 756000"
   },
   {
    "id": "P0760",
@@ -18681,11 +18681,11 @@
    "id": "P1046",
    "type": "person",
    "display": "Aron Bodner",
-   "other_names": "Aron (no surname written; child's birth entry); Aron Towel; Bodner; Towel; Wurzel",
+   "other_names": "Aron (no surname written; child's birth entry); Aron Towel; Bodner; Towel",
    "subtitle": "1906–1907; son of Wolf Towel",
    "legal_given": "Aron",
    "common_given": "Aron",
-   "legal_surname": "Wurzel",
+   "legal_surname": "Bodner",
    "common_surname": "Bodner",
    "maiden_surname": "",
    "father_name": "Marcus Wolf Bodner/Towel",
@@ -18694,7 +18694,7 @@
    "residences": "Brzostek (house 128)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "096000 736900 748000 794800 063900 096000 378000 483400 496000 583400 600000 736900 748000 793000 793600 794800"
+   "phonetic": "096000 736900 063900 096000 378000 483400 496000 583400 600000 736900 793000 793600"
   },
   {
    "id": "P1047",
@@ -24613,7 +24613,7 @@
    "subtitle": "son of David Schiff",
    "legal_given": "Israel",
    "common_given": "Israel",
-   "legal_surname": "Schiff",
+   "legal_surname": "Richter",
    "common_surname": "Schiff",
    "maiden_surname": "",
    "father_name": "",
@@ -24622,7 +24622,7 @@
    "residences": "Blaszkowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "049800 470000 040000 043900 045000 049800 470000 943900 953900"
+   "phonetic": "049800 470000 943900 953900 040000 043900 045000 049800 470000 943900 953900"
   },
   {
    "id": "P1378",
@@ -28257,11 +28257,11 @@
    "id": "P1581",
    "type": "person",
    "display": "Joseph Schonwetter",
-   "other_names": "Joseph (no surname written; child's birth entry); Joseph Schonwetter; Amsterdam; Schonwetter",
+   "other_names": "Joseph (no surname written; child's birth entry); Joseph Schonwetter; Kolber; Schonwetter",
    "subtitle": "born 1894; son of Solomon Schonwetter",
    "legal_given": "Joseph",
    "common_given": "Joseph",
-   "legal_surname": "Amsterdam",
+   "legal_surname": "Kolber",
    "common_surname": "Schonwetter",
    "maiden_surname": "",
    "father_name": "Solomon Schonwetter",
@@ -28270,7 +28270,7 @@
    "residences": "Zawadka Brzostecka (house 50; 1925 living in Zawadka)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "064393 147000 467390 470000 063900 064393 147000 467390 470000 483400 496000 583400 600000 793000 793600"
+   "phonetic": "147000 467390 470000 587900 063900 147000 467390 470000 483400 496000 583400 587900 600000 793000 793600"
   },
   {
    "id": "P1582",
@@ -36921,11 +36921,11 @@
    "id": "P2178",
    "type": "person",
    "display": "Mordechi Offner",
-   "other_names": "Mordechi Offner; Krautblatt; Offner",
+   "other_names": "Mordechi Offner; Offner",
    "subtitle": "son of Joseph Offner",
    "legal_given": "Aron Mordechi",
    "common_given": "Mordechi",
-   "legal_surname": "Krautblatt",
+   "legal_surname": "Offner",
    "common_surname": "Offner",
    "maiden_surname": "",
    "father_name": "Joseph Offner",
@@ -36934,7 +36934,7 @@
    "residences": "Bukowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "076900 096000 593783 693400 693500 076900 593783 693400 693500"
+   "phonetic": "076900 096000 693400 693500 076900 693400 693500"
   },
   {
    "id": "P2179",

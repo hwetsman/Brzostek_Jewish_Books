@@ -90688,7 +90688,7 @@
     "display": "Chaya Krautblatt",
     "role_label": "Groom's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "BF",
@@ -90736,7 +90736,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "<a href=\"../person/P1912.html\" data-pid=\"P1912\">Israel Offner</a> with his parents, born in Bukowy, No. 19, son of Josef Offner, tenant of the farm in Bukowy, and Chaja nee Krautblatt.",
+   "Groom (prose)": "<a href=\"../person/P1912.html\" data-pid=\"P1912\">Israel Offner</a> with his parents, born in Bukowy, No. 19, son of Josef Offner, tenant of the farm in Bukowy, and Chaja nee <a href=\"../person/P0405.html\" data-pid=\"P0405\">Krautblatt</a>.",
    "Bride (prose)": "<a href=\"../person/P1915.html\" data-pid=\"P1915\">Rivka Staub</a>, born in Tarnów, daughter of Menasze Staub, a haberdashery merchant, and Scheindla, née <a href=\"../person/P1914.html\" data-pid=\"P1914\">Frankel</a>, in Tarnów",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemyj</a>, merchant of cloth goods in Brzostek, witness. <a href=\"../person/P0061.html\" data-pid=\"P0061\">Zalel Löbel</a>, merchant of iron goods in Brzostek, witness.",
@@ -104751,7 +104751,7 @@
     "display": "Chaya Krautblatt",
     "role_label": "Groom's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "BF",
@@ -104799,7 +104799,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Aron Mordko, called Mordko, Offner, born in Bukowy, without profession, son of Jozef Offner, owner of a farm in Bukowy and Chaja née Krautblatt",
+   "Groom (prose)": "Aron Mordko, called Mordko, Offner, born in Bukowy, without profession, son of Jozef Offner, owner of a farm in Bukowy and Chaja née <a href=\"../person/P0405.html\" data-pid=\"P0405\">Krautblatt</a>",
    "Bride (prose)": "<a href=\"../person/P2179.html\" data-pid=\"P2179\">Gittla Muller</a>, false Faber, born in Siedlec ad Żabno, daughter of <a href=\"../person/P2177.html\" data-pid=\"P2177\">Sarah Rachel</a>, called <a href=\"../person/P2177.html\" data-pid=\"P2177\">Rachel</a>, Muller, a merchant in Siedlec, and her illegitimate father, Hersch <a href=\"../person/P2176.html\" data-pid=\"P2176\">Leib</a>, called <a href=\"../person/P2176.html\" data-pid=\"P2176\">Leib</a>, Faber, an industrialist in Siedlec ad Zabno",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P1013.html\" data-pid=\"P1013\">Chaim Horowitz</a>, owner of a mixed-goods business in Brzostek, witness. <a href=\"../person/P0061.html\" data-pid=\"P0061\">Zalel Löbel</a>, owner of an iron business, witness.",
@@ -110204,7 +110204,7 @@
     "display": "Reisla Fichner",
     "role_label": "Bride's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -110237,7 +110237,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Mordchy Fried, false <a href=\"../person/P2301.html\" data-pid=\"P2301\">Roth</a>, single, no profession, born in Wadowice Górne ad Radomyśl Wielki, residing in Machowa ad Pilzno, illegitimate son of Ryfka Fried",
-   "Bride (prose)": "<a href=\"../person/P0406.html\" data-pid=\"P0406\">Mirla Pencier</a>, single, no profession, daughter of <a href=\"../person/P0189.html\" data-pid=\"P0189\">Aron Pencier</a>, a shoemaker in Brzostek, and Reisli, née Fichner, settled in Brzostek",
+   "Bride (prose)": "<a href=\"../person/P0406.html\" data-pid=\"P0406\">Mirla Pencier</a>, single, no profession, daughter of <a href=\"../person/P0189.html\" data-pid=\"P0189\">Aron Pencier</a>, a shoemaker in Brzostek, and Reisli, née <a href=\"../person/P0190.html\" data-pid=\"P0190\">Fichner</a>, settled in Brzostek",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0063.html\" data-pid=\"P0063\">Chaskel Goldberg</a>, owner of real estate in Brzostek. <a href=\"../person/P0646.html\" data-pid=\"P0646\">Peretz Sperber</a>, owner of the mill in Kamienica Dolna.",
    "Notes": "groom borhn 8 July 1900, bride 14 April 1896. Remarks: For the groom: birth certificate dated Radomyśl Wielki, 12 Feb 1924, birth register there vol. VIII, p. 71, no. 97; and permission to marry from the District Recruiting Command (P.K.U.) in Rzeszów, through the records officer in Pilzno, of 12 Feb 1924, ref. no. 121; certificates of the banns. For the bride: this registry&#x27;s own birth book, vol. III, p. 42, no. 15; certificate of the banns; certificates of the rabbinate of 20 Mar 1924."
@@ -111378,7 +111378,7 @@
     "display": "Malka Amsterdam",
     "role_label": "Groom's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "BF",
@@ -111426,7 +111426,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Josef Schonwetter, without profession residing in Zawadka Brzostecka, son of Salamon Schonwetter, an inkeeper in Zawadka Brzostecka and Malki nee Amsterdam",
+   "Groom (prose)": "Josef Schonwetter, without profession residing in Zawadka Brzostecka, son of Salamon Schonwetter, an inkeeper in Zawadka Brzostecka and Malki nee <a href=\"../person/P0124.html\" data-pid=\"P0124\">Amsterdam</a>",
    "Bride (prose)": "Leja Gitla, called Gitla, Amsterdam, daughter of <a href=\"../person/P0689.html\" data-pid=\"P0689\">Abraham Amsterdam</a>, grain dealer in Brzostek and Scheindli nee Lambek",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0065.html\" data-pid=\"P0065\">Moses Mayer Czopp</a>, merchant in Brzostek, witness. <a href=\"../person/P0697.html\" data-pid=\"P0697\">Mendel Schüss</a>, owner of an iron business in Brzostek, witness.",
@@ -118401,7 +118401,7 @@
     "display": "Malka Amsterdam",
     "role_label": "Groom's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "BF",
@@ -118449,7 +118449,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "<a href=\"../person/P0465.html\" data-pid=\"P0465\">Abraham Schonwetter</a>, farmer in Zawadka, son of Salamon Schonwetter and Malki nee Amsterdam farmers in Zawadka",
+   "Groom (prose)": "<a href=\"../person/P0465.html\" data-pid=\"P0465\">Abraham Schonwetter</a>, farmer in Zawadka, son of Salamon Schonwetter and Malki nee <a href=\"../person/P0124.html\" data-pid=\"P0124\">Amsterdam</a> farmers in Zawadka",
    "Bride (prose)": "Laja Kornfeld, daughter Fischel Kornfeld, merchant in Brzostek and Witli nee <a href=\"../person/P0339.html\" data-pid=\"P0339\">Karpf</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0052.html\" data-pid=\"P0052\">Abraham Barber</a>, cantor in Brzostek, witness. <a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa Rosner</a>, synagogue attendant in Brzostek, witness.",
@@ -118619,7 +118619,7 @@
     "display": "Reisla Fichner",
     "role_label": "Groom's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "BF",
@@ -118667,7 +118667,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Markus Pencier, without profession in Brzostek, son of deceased <a href=\"../person/P0189.html\" data-pid=\"P0189\">Aron Pencier</a>, former shoemakiner in Brzostek and Reisli nee Fichner",
+   "Groom (prose)": "Markus Pencier, without profession in Brzostek, son of deceased <a href=\"../person/P0189.html\" data-pid=\"P0189\">Aron Pencier</a>, former shoemakiner in Brzostek and Reisli nee <a href=\"../person/P0190.html\" data-pid=\"P0190\">Fichner</a>",
    "Bride (prose)": "Sara Ratz, born in Tyczyn, lives in Brzostek, daughter of <a href=\"../person/P0915.html\" data-pid=\"P0915\">Leib Ratz</a> in Brzostek and Feigi nee Panzer",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0052.html\" data-pid=\"P0052\">Abraham Barber</a>, cantor in Brzostek, witness. <a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa Rosner</a>, synagogue attendant in Brzostek, witness.",
