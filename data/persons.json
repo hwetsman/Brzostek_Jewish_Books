@@ -40500,9 +40500,9 @@
   "sex": "M",
   "birth_date": "29 May 1895",
   "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": "Brzostek",
+  "marriage_dates": "1922-06-03 in Manhattan, New York (civil certificate no. 16537)",
+  "occupations": "furrier (New York, 1922)",
+  "residences": "Brzostek; New York (from 1911; 750 Bryant Avenue, Bronx, in 1933)",
   "status": "S",
   "birth_legitimacy": "Legitimate (b-1895-15)",
   "marital_status_at_marriage": null,
@@ -40512,7 +40512,9 @@
   "mother_id": "P0298",
   "mother_name": "Esther Orner",
   "spouse_ids": [],
-  "spouse_names": [],
+  "spouse_names": [
+   "Helen Fridman"
+  ],
   "children_ids": [],
   "children_names": [],
   "in_area": "IN_AREA",
@@ -40522,7 +40524,7 @@
     "role": "Child"
    }
   ],
-  "external_resources": null,
+  "external_resources": "Jacob Panzer emigrated to the United States, where he was known as Jack or Jake. He left Brzostek in 1911, aged 16. On 3 June 1922, as Jake Panzer, a furrier aged 23 living at 170 Second Street, he married Helen Fridman, 21, of 527 East 13th Street, in Manhattan. Both were born in Austria. His parents are given as Joel Panzer and Ester Orner, matching his birth record here; hers as Isig Fridman and Selkie (or Silkie) Stigman. Rabbi Jacob Streit performed the ceremony; the witnesses were Moses Delman and a second whose name is hard to read (New York City marriage certificate no. 16537). On 29 August 1933 Jack, 36, Helen, 32, born in Stanisławów, and their son Irving, 9, born in New York, landed in New York aboard the S.S. Paris, returning home to 750 Bryant Avenue, the Bronx. Jack named his father, still living in Brzostek, as his nearest relative there (passenger manifest, S.S. Paris).",
   "identity": {
    "names": [
     {
