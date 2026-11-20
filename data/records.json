@@ -106212,7 +106212,7 @@
    "Marriage Date": "17 August 1913",
    "Marriage Place": "Brzostek",
    "Groom (prose)": "Mordko Brand, born in Dąbrowa 5/3 1890, no profession, son of Michal Brand, communal secretary in Dąbrowa, and his mother Chana, née Offen",
-   "Bride (prose)": "Beila Zahler, born in Brzostek on 6/12/1890, no profession, daughter of Wilhelm Zahler, director of (something) advance payment in Brzostek, and Maria née Leibel",
+   "Bride (prose)": "Beila Zahler, born in Brzostek on 6/12/1890, no profession, daughter of Wilhelm Zahler, director of the Loan Society (Towarzystwo Zaliczkowe) in Brzostek, and Maria née Leibel",
    "Rabbi": "Judah Leib Wolkenfeld",
    "Witnesses": "Leib Faust, merchant in Brzostek, witness. Kelman Birnbaum, merchant in Brzostek, witness.",
    "Notes": "Remarks: Documents of the groom: birth certificate dated Dąbrowa, 10 Aug 1910; decree of the Imperial-Royal District Court in Dąbrowa of 13 May 1913, ref. no. Nc I 312[?]/13, declaring him of full age; and resolution of the Imperial-Royal District Office (Starostwo) in Dąbrowa of 13 May 1913 that he has fulfilled the military obligations. For the bride: this registry's own birth book; decree of the Imperial-Royal District Court in Brzostek of 25 Jun 1913, Nc I 210/13, declaring her of full age; certificate of the banns, and certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1913 [1914 written first, corrected]. Wilhelm Zahler [signature]; stamp: Jewish Registrar in Brzostek. Slanting: I certify that the duplicate agrees with the original. Pilzno, 17 Jan 1914[?] [signature], Imperial-Royal district commissioner[?]."
@@ -106297,7 +106297,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Mordko Brand, born in Dąbrowa 5/3 1890, no profession, son of Michal Brand, communal secretary in Dąbrowa, and his mother <a href=\"../person/P2202.html\" data-pid=\"P2202\">Chana</a>, née <a href=\"../person/P2202.html\" data-pid=\"P2202\">Offen</a>",
-   "Bride (prose)": "<a href=\"../person/P1446.html\" data-pid=\"P1446\">Beila Zahler</a>, born in Brzostek on 6/12/1890, no profession, daughter of <a href=\"../person/P0456.html\" data-pid=\"P0456\">Wilhelm Zahler</a>, director of (something) advance payment in Brzostek, and <a href=\"../person/P0457.html\" data-pid=\"P0457\">Maria née Leibel</a>",
+   "Bride (prose)": "<a href=\"../person/P1446.html\" data-pid=\"P1446\">Beila Zahler</a>, born in Brzostek on 6/12/1890, no profession, daughter of <a href=\"../person/P0456.html\" data-pid=\"P0456\">Wilhelm Zahler</a>, director of the Loan Society (Towarzystwo Zaliczkowe) in Brzostek, and <a href=\"../person/P0457.html\" data-pid=\"P0457\">Maria née Leibel</a>",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a>, merchant in Brzostek, witness. <a href=\"../person/P1042.html\" data-pid=\"P1042\">Kelman Birnbaum</a>, merchant in Brzostek, witness.",
    "Notes": "Remarks: Documents of the groom: birth certificate dated Dąbrowa, 10 Aug 1910; decree of the Imperial-Royal District Court in Dąbrowa of 13 May 1913, ref. no. Nc I 312[?]/13, declaring him of full age; and resolution of the Imperial-Royal District Office (Starostwo) in Dąbrowa of 13 May 1913 that he has fulfilled the military obligations. For the bride: this registry&#x27;s own birth book; decree of the Imperial-Royal District Court in Brzostek of 25 Jun 1913, Nc I 210/13, declaring her of full age; certificate of the banns, and certificate of the rabbinate. Below the entry: Closed as of 31 Dec 1913 [1914 written first, corrected]. <a href=\"../person/P0456.html\" data-pid=\"P0456\">Wilhelm Zahler</a> [signature]; stamp: Jewish Registrar in Brzostek. Slanting: I certify that the duplicate agrees with the original. Pilzno, 17 Jan 1914[?] [signature], Imperial-Royal district commissioner[?]."
@@ -106305,7 +106305,10 @@
   "unlinked_prose_tokens": [
    "Documents",
    "Closed",
-   "Michal"
+   "Michal",
+   "Loan",
+   "Towarzystwo",
+   "Zaliczkowe"
   ]
  },
  {
