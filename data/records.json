@@ -143,7 +143,7 @@
     "person_id": "P0066",
     "display": "Reisla Ryf",
     "role_label": "Mother",
-    "written_as": "Reisla née Ryf",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -244,7 +244,7 @@
     "person_id": "P0066",
     "display": "Reisla Ryf",
     "role_label": "Mother",
-    "written_as": "Reisla née Ryf",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -641,7 +641,7 @@
    {
     "role": "Mother",
     "person_id": "P0140",
-    "display": "Rivka Beer",
+    "display": "Rivka Bodner, married name Beer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -742,7 +742,7 @@
    {
     "role": "Mother",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -1035,7 +1035,7 @@
    {
     "role": "Mother",
     "person_id": "P0156",
-    "display": "Sarah Reicher",
+    "display": "Sarah Bochner, married name Reicher",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -1232,7 +1232,7 @@
    {
     "role": "MGM",
     "person_id": "P0167",
-    "display": "Chaya Sarah Rothman née Thum",
+    "display": "Chaya Sarah Thum, married name Rothman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -1421,7 +1421,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -1519,7 +1519,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -1606,7 +1606,7 @@
    {
     "role": "Mother",
     "person_id": "P0184",
-    "display": "Hannah Faust",
+    "display": "Hannah Schilloj, married name Faust",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -2028,7 +2028,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -2106,7 +2106,7 @@
    {
     "role": "Mother",
     "person_id": "P0209",
-    "display": "Esther Samul",
+    "display": "Esther Kampf, married name Samul",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -2410,7 +2410,7 @@
    {
     "role": "Mother",
     "person_id": "P0035",
-    "display": "Ruda Schild",
+    "display": "Ruda Bieder, married name Schild",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -2529,7 +2529,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -2913,7 +2913,7 @@
    {
     "role": "Mother",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -3016,7 +3016,7 @@
    {
     "role": "Mother",
     "person_id": "P0241",
-    "display": "Riva Gewirtz",
+    "display": "Riva Bloch, married name Gewirtz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -3120,9 +3120,9 @@
    {
     "role": "Mother",
     "person_id": "P0246",
-    "display": "Tyla List née Korzennik",
+    "display": "Tyla Korzennik, married name List",
     "role_label": "Mother",
-    "written_as": "Tyla née Rubel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -3424,7 +3424,7 @@
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Guttstein née Gottlieb",
+    "display": "Hinde Gottlieb, married name Guttstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -3527,7 +3527,7 @@
    {
     "role": "Mother",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -3543,7 +3543,7 @@
    {
     "role": "MGM",
     "person_id": "P0263",
-    "display": "Schifra Sturm née Samul",
+    "display": "Schifra Samul, married name Sturm",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -3732,9 +3732,9 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    },
    {
@@ -3748,7 +3748,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -3835,7 +3835,7 @@
    {
     "role": "Mother",
     "person_id": "P0026",
-    "display": "Reisla Schlenger",
+    "display": "Reisla Steinbach, married name Schlenger",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -3932,7 +3932,7 @@
    {
     "role": "Mother",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": false
@@ -4229,7 +4229,7 @@
     "person_id": "P0095",
     "display": "Sarah Towel",
     "role_label": "Mother",
-    "written_as": "Sarah née Towel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -4432,7 +4432,7 @@
    {
     "role": "Mother",
     "person_id": "P0554",
-    "display": "Tyla Landau née Zimmerman",
+    "display": "Tyla Zimmerman, married name Landau",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -4636,7 +4636,7 @@
    {
     "role": "Mother",
     "person_id": "P0288",
-    "display": "Hannah Langer",
+    "display": "Hannah Herman, married name Langer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -4838,7 +4838,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Esther née Luft",
     "linked_inline": true
    },
    {
@@ -4928,7 +4928,7 @@
     "person_id": "P0303",
     "display": "Golda Towel",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Golda née Zanger",
     "linked_inline": true
    },
    {
@@ -5023,7 +5023,7 @@
    {
     "role": "Mother",
     "person_id": "P0308",
-    "display": "Hene Abrahamowicz née Bakon",
+    "display": "Hene Bakon, married name Abrahamowicz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -5125,7 +5125,7 @@
    {
     "role": "Mother",
     "person_id": "P0313",
-    "display": "Freida Littman",
+    "display": "Freida Schonwetter, married name Littman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -5346,7 +5346,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -5997,7 +5997,7 @@
    {
     "role": "Mother",
     "person_id": "P0353",
-    "display": "Rachel Korzennik",
+    "display": "Rachel Wildstein, married name Korzennik",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -6946,7 +6946,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Esther née Luft",
     "linked_inline": true
    },
    {
@@ -7473,7 +7473,7 @@
    {
     "role": "Mother",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -7665,7 +7665,7 @@
    {
     "role": "Mother",
     "person_id": "P0379",
-    "display": "Leah Goldfluss",
+    "display": "Leah Tesser, married name Goldfluss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -7767,7 +7767,7 @@
    {
     "role": "Mother",
     "person_id": "P0156",
-    "display": "Sarah Reicher",
+    "display": "Sarah Bochner, married name Reicher",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -8269,7 +8269,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -8351,7 +8351,7 @@
     "person_id": "P0083",
     "display": "Machla Bodner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Machla née Towel",
     "linked_inline": true
    },
    {
@@ -8365,7 +8365,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -8448,7 +8448,7 @@
    {
     "role": "Mother",
     "person_id": "P0140",
-    "display": "Rivka Beer",
+    "display": "Rivka Bodner, married name Beer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -8627,7 +8627,7 @@
     "person_id": "P0403",
     "display": "Ruchla Offner",
     "role_label": "Mother",
-    "written_as": "Ruchla née Offner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -8817,7 +8817,7 @@
    {
     "role": "Mother",
     "person_id": "P0409",
-    "display": "Hene Neuman née Fenechel",
+    "display": "Hene Fenechel, married name Neuman",
     "role_label": "Mother",
     "written_as": "Hannah née Roth",
     "linked_inline": true
@@ -8929,7 +8929,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -9009,9 +9009,9 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    },
    {
@@ -9025,7 +9025,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -9201,7 +9201,7 @@
    {
     "role": "Mother",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -9217,7 +9217,7 @@
    {
     "role": "MGM",
     "person_id": "P0263",
-    "display": "Schifra Sturm née Samul",
+    "display": "Schifra Samul, married name Sturm",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -9302,7 +9302,7 @@
    {
     "role": "Mother",
     "person_id": "P0416",
-    "display": "Itta Bieder",
+    "display": "Itta Reiger, married name Bieder",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -9515,7 +9515,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -9595,7 +9595,7 @@
    {
     "role": "Mother",
     "person_id": "P0424",
-    "display": "Esther Goldberg",
+    "display": "Esther Fenechel, married name Goldberg",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -9707,7 +9707,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -10087,7 +10087,7 @@
     "person_id": "P0095",
     "display": "Sarah Towel",
     "role_label": "Mother",
-    "written_as": "Sarah née Towel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -10197,7 +10197,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -10373,7 +10373,7 @@
    {
     "role": "Mother",
     "person_id": "P0437",
-    "display": "Pessel Turk",
+    "display": "Pessel Schnöszel, married name Turk",
     "role_label": "Mother",
     "written_as": "Pessel née Schnosh",
     "linked_inline": true
@@ -10572,7 +10572,7 @@
    {
     "role": "Mother",
     "person_id": "P0442",
-    "display": "Sarah Wolek",
+    "display": "Sarah Krauc, married name Wolek",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -10769,7 +10769,7 @@
    {
     "role": "Mother",
     "person_id": "P0209",
-    "display": "Esther Samul",
+    "display": "Esther Kampf, married name Samul",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -10867,7 +10867,7 @@
     "person_id": "P0066",
     "display": "Reisla Ryf",
     "role_label": "Mother",
-    "written_as": "Reisla née Ryf",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -10961,7 +10961,7 @@
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Guttstein née Gottlieb",
+    "display": "Hinde Gottlieb, married name Guttstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -11256,7 +11256,7 @@
     "person_id": "P0303",
     "display": "Golda Towel",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Golda née Zanger",
     "linked_inline": true
    },
    {
@@ -11660,7 +11660,7 @@
    {
     "role": "Mother",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": false
@@ -11772,7 +11772,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -12170,7 +12170,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -12251,7 +12251,7 @@
     "person_id": "P0110",
     "display": "Hannah Towel",
     "role_label": "Mother",
-    "written_as": "Hannah née Towel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -12265,7 +12265,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -12368,7 +12368,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -12453,9 +12453,9 @@
    {
     "role": "Mother",
     "person_id": "P0483",
-    "display": "Hinde Kranz",
+    "display": "Hinde Turk, married name Kranz",
     "role_label": "Mother",
-    "written_as": "Hinde née Turk",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -12556,7 +12556,7 @@
    {
     "role": "Mother",
     "person_id": "P0308",
-    "display": "Hene Abrahamowicz née Bakon",
+    "display": "Hene Bakon, married name Abrahamowicz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -12763,7 +12763,7 @@
     "person_id": "P0083",
     "display": "Machla Bodner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Machla née Towel",
     "linked_inline": true
    },
    {
@@ -12777,7 +12777,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -12864,7 +12864,7 @@
    {
     "role": "Mother",
     "person_id": "P0493",
-    "display": "Sussla Schaller",
+    "display": "Sussla Finder, married name Schaller",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -12961,7 +12961,7 @@
    {
     "role": "Mother",
     "person_id": "P0498",
-    "display": "Reisla Samul",
+    "display": "Reisla Sporn, married name Samul",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -13058,7 +13058,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -13160,7 +13160,7 @@
    {
     "role": "Mother",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -13263,7 +13263,7 @@
    {
     "role": "Mother",
     "person_id": "P0508",
-    "display": "Chaya Fenechel",
+    "display": "Chaya Blima, married name Fenechel",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -13462,7 +13462,7 @@
    {
     "role": "Mother",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -13663,7 +13663,7 @@
    {
     "role": "Mother",
     "person_id": "P0140",
-    "display": "Rivka Beer",
+    "display": "Rivka Bodner, married name Beer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -13878,7 +13878,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -14067,7 +14067,7 @@
    {
     "role": "Mother",
     "person_id": "P0536",
-    "display": "Freida Herman",
+    "display": "Freida Freiberger, married name Herman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -14163,7 +14163,7 @@
    {
     "role": "Mother",
     "person_id": "P0528",
-    "display": "Feige Faust",
+    "display": "Feige Springer, married name Faust",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -14264,9 +14264,9 @@
    {
     "role": "Mother",
     "person_id": "P0246",
-    "display": "Tyla List née Korzennik",
+    "display": "Tyla Korzennik, married name List",
     "role_label": "Mother",
-    "written_as": "Tyla née Rubel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -14380,7 +14380,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -14453,15 +14453,15 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    },
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -14548,7 +14548,7 @@
    {
     "role": "Mother",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -14564,7 +14564,7 @@
    {
     "role": "MGM",
     "person_id": "P0263",
-    "display": "Schifra Sturm née Samul",
+    "display": "Schifra Samul, married name Sturm",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -15149,7 +15149,7 @@
    {
     "role": "Mother",
     "person_id": "P0554",
-    "display": "Tyla Landau née Zimmerman",
+    "display": "Tyla Zimmerman, married name Landau",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -15463,7 +15463,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -15544,7 +15544,7 @@
    {
     "role": "Mother",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -15852,7 +15852,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -16146,7 +16146,7 @@
    {
     "role": "MGM",
     "person_id": "P0583",
-    "display": "Sarah Haim née Hajman",
+    "display": "Sarah Hajman, married name Haim",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -16563,7 +16563,7 @@
    {
     "role": "Mother",
     "person_id": "P0424",
-    "display": "Esther Goldberg",
+    "display": "Esther Fenechel, married name Goldberg",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -16653,7 +16653,7 @@
    {
     "role": "Mother",
     "person_id": "P0156",
-    "display": "Sarah Reicher",
+    "display": "Sarah Bochner, married name Reicher",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -16958,7 +16958,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -17325,7 +17325,7 @@
     "person_id": "P0303",
     "display": "Golda Towel",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Golda née Zanger",
     "linked_inline": true
    },
    {
@@ -17420,7 +17420,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -17815,7 +17815,7 @@
    {
     "role": "Mother",
     "person_id": "P0313",
-    "display": "Freida Littman",
+    "display": "Freida Schonwetter, married name Littman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -18110,7 +18110,7 @@
     "person_id": "P0083",
     "display": "Machla Bodner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Machla née Towel",
     "linked_inline": true
    },
    {
@@ -18124,7 +18124,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -18212,7 +18212,7 @@
     "person_id": "P0616",
     "display": "Matla Zehngutt",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Matla née Zehnwirth",
     "linked_inline": true
    },
    {
@@ -18312,7 +18312,7 @@
    {
     "role": "Mother",
     "person_id": "P0026",
-    "display": "Reisla Schlenger",
+    "display": "Reisla Steinbach, married name Schlenger",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -18409,7 +18409,7 @@
    {
     "role": "Mother",
     "person_id": "P0184",
-    "display": "Hannah Faust",
+    "display": "Hannah Schilloj, married name Faust",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -18528,7 +18528,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -18717,7 +18717,7 @@
    {
     "role": "Mother",
     "person_id": "P0409",
-    "display": "Hene Neuman née Fenechel",
+    "display": "Hene Fenechel, married name Neuman",
     "role_label": "Mother",
     "written_as": "Hannah née Roth",
     "linked_inline": true
@@ -18830,7 +18830,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -18911,7 +18911,7 @@
    {
     "role": "Mother",
     "person_id": "P0623",
-    "display": "Gittla Altman",
+    "display": "Gittla Nechemje, married name Altman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -19207,7 +19207,7 @@
    {
     "role": "Mother",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": false
@@ -19500,7 +19500,7 @@
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Guttstein née Gottlieb",
+    "display": "Hinde Gottlieb, married name Guttstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -19694,7 +19694,7 @@
    {
     "role": "Mother",
     "person_id": "P0647",
-    "display": "Freida Walter",
+    "display": "Freida Walter, married name Sperber",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -19710,7 +19710,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -19894,9 +19894,9 @@
    {
     "role": "Mother",
     "person_id": "P0651",
-    "display": "Shilamis Unger",
+    "display": "Shilamis Schlenger, married name Unger",
     "role_label": "Mother",
-    "written_as": "Shilamis née Schlenger",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -20110,7 +20110,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -20190,7 +20190,7 @@
    {
     "role": "Mother",
     "person_id": "P0498",
-    "display": "Reisla Samul",
+    "display": "Reisla Sporn, married name Samul",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -20286,7 +20286,7 @@
    {
     "role": "Mother",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -20388,7 +20388,7 @@
    {
     "role": "Mother",
     "person_id": "P0663",
-    "display": "Marjem Bier",
+    "display": "Marjem Mahler, married name Bier",
     "role_label": "Mother",
     "written_as": "Miriam née Mahler",
     "linked_inline": true
@@ -20492,9 +20492,9 @@
    {
     "role": "Mother",
     "person_id": "P0246",
-    "display": "Tyla List née Korzennik",
+    "display": "Tyla Korzennik, married name List",
     "role_label": "Mother",
-    "written_as": "Tyla née Rubel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -20629,7 +20629,7 @@
    {
     "role": "Mother",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -20727,7 +20727,7 @@
    {
     "role": "Mother",
     "person_id": "P0672",
-    "display": "Tyla Fisch",
+    "display": "Tyla Bieder, married name Fisch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -20831,7 +20831,7 @@
    {
     "role": "Mother",
     "person_id": "P0676",
-    "display": "Adela Amsterdam",
+    "display": "Adela Engelhard, married name Amsterdam",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -20930,7 +20930,7 @@
     "person_id": "P0110",
     "display": "Hannah Towel",
     "role_label": "Mother",
-    "written_as": "Hannah née Towel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -20944,7 +20944,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -21032,7 +21032,7 @@
    {
     "role": "Mother",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -21048,7 +21048,7 @@
    {
     "role": "MGM",
     "person_id": "P0263",
-    "display": "Schifra Sturm née Samul",
+    "display": "Schifra Samul, married name Sturm",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -21136,7 +21136,7 @@
    {
     "role": "Mother",
     "person_id": "P0682",
-    "display": "Hene Blumenberg",
+    "display": "Hene Gewirtz, married name Blumenberg",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -21353,7 +21353,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -21452,7 +21452,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -21629,9 +21629,9 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    },
    {
@@ -21645,7 +21645,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -21742,7 +21742,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -21934,7 +21934,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -22138,9 +22138,9 @@
    {
     "role": "Mother",
     "person_id": "P0483",
-    "display": "Hinde Kranz",
+    "display": "Hinde Turk, married name Kranz",
     "role_label": "Mother",
-    "written_as": "Hinde née Turk",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -22328,7 +22328,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -22600,7 +22600,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -22684,7 +22684,7 @@
     "person_id": "P0095",
     "display": "Sarah Towel",
     "role_label": "Mother",
-    "written_as": "Sarah née Towel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -23077,7 +23077,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -23227,7 +23227,7 @@
     "person_id": "P0303",
     "display": "Golda Towel",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Golda née Zanger",
     "linked_inline": true
    },
    {
@@ -23429,7 +23429,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -23510,7 +23510,7 @@
    {
     "role": "Mother",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -23597,7 +23597,7 @@
    {
     "role": "Mother",
     "person_id": "P0722",
-    "display": "Feige Ratz",
+    "display": "Feige Panzer, married name Ratz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -23615,7 +23615,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Esther née Luft",
     "linked_inline": true
    },
    {
@@ -23876,9 +23876,9 @@
    {
     "role": "Mother",
     "person_id": "P0409",
-    "display": "Hene Neuman née Fenechel",
+    "display": "Hene Fenechel, married name Neuman",
     "role_label": "Mother",
-    "written_as": "Hene née Roth",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -23978,7 +23978,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -24171,7 +24171,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -24352,7 +24352,7 @@
     "person_id": "P0736",
     "display": "Reisla Eisen",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Reisla née Strumpf",
     "linked_inline": true
    },
    {
@@ -24545,9 +24545,9 @@
    {
     "role": "Mother",
     "person_id": "P0651",
-    "display": "Shilamis Unger",
+    "display": "Shilamis Schlenger, married name Unger",
     "role_label": "Mother",
-    "written_as": "Shilamis née Schlenger",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -24647,7 +24647,7 @@
    {
     "role": "Mother",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -24749,7 +24749,7 @@
    {
     "role": "Mother",
     "person_id": "P0554",
-    "display": "Tyla Landau née Zimmerman",
+    "display": "Tyla Zimmerman, married name Landau",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -25050,7 +25050,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -25110,7 +25110,7 @@
    {
     "role": "Mother",
     "person_id": "P0313",
-    "display": "Freida Littman",
+    "display": "Freida Schonwetter, married name Littman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -25207,7 +25207,7 @@
    {
     "role": "Mother",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -25223,7 +25223,7 @@
    {
     "role": "MGM",
     "person_id": "P0263",
-    "display": "Schifra Sturm née Samul",
+    "display": "Schifra Samul, married name Sturm",
     "role_label": "Mother's mother",
     "written_as": "Shifra Sturm",
     "linked_inline": true
@@ -25304,7 +25304,7 @@
    {
     "role": "Mother",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": false
@@ -25422,9 +25422,9 @@
    {
     "role": "MGM",
     "person_id": "P0583",
-    "display": "Sarah Haim née Hajman",
+    "display": "Sarah Hajman, married name Haim",
     "role_label": "Mother's mother",
-    "written_as": "Sarah née Haim",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -25498,7 +25498,7 @@
    {
     "role": "Mother",
     "person_id": "P0308",
-    "display": "Hene Abrahamowicz née Bakon",
+    "display": "Hene Bakon, married name Abrahamowicz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -25567,7 +25567,7 @@
    {
     "role": "Mother",
     "person_id": "P0209",
-    "display": "Esther Samul",
+    "display": "Esther Kampf, married name Samul",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -25669,7 +25669,7 @@
    {
     "role": "Mother",
     "person_id": "P0672",
-    "display": "Tyla Fisch",
+    "display": "Tyla Bieder, married name Fisch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -25884,7 +25884,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -25954,9 +25954,9 @@
    {
     "role": "Mother",
     "person_id": "P0764",
-    "display": "Feige Bodner",
+    "display": "Feige Gastwirt, married name Bodner",
     "role_label": "Mother",
-    "written_as": "Feige née Gastwirt",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -26051,7 +26051,7 @@
     "person_id": "P0771",
     "display": "Malka Schlenger",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Malka née Verziger",
     "linked_inline": true
    },
    {
@@ -26152,15 +26152,15 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    },
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -26242,7 +26242,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -26924,7 +26924,7 @@
     "person_id": "P0110",
     "display": "Hannah Towel",
     "role_label": "Mother",
-    "written_as": "Hannah née Towel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -26938,7 +26938,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -27116,7 +27116,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -27528,7 +27528,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -27940,7 +27940,7 @@
     "person_id": "P0083",
     "display": "Machla Bodner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Machla née Towel",
     "linked_inline": true
    },
    {
@@ -27954,7 +27954,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -28229,7 +28229,7 @@
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Guttstein née Gottlieb",
+    "display": "Hinde Gottlieb, married name Guttstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -28722,7 +28722,7 @@
    {
     "role": "Mother",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -29511,7 +29511,7 @@
    {
     "role": "Mother",
     "person_id": "P0831",
-    "display": "Sarah Kaller",
+    "display": "Sarah Winianer, married name Kaller",
     "role_label": "Mother",
     "written_as": "Sarah née Winusner",
     "linked_inline": true
@@ -29630,7 +29630,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -29728,7 +29728,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -29826,7 +29826,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -30107,7 +30107,7 @@
    {
     "role": "Mother",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -30123,7 +30123,7 @@
    {
     "role": "MGM",
     "person_id": "P0263",
-    "display": "Schifra Sturm née Samul",
+    "display": "Schifra Samul, married name Sturm",
     "role_label": "Mother's mother",
     "written_as": "Shifra Chaya Sturm",
     "linked_inline": true
@@ -30221,7 +30221,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -30319,7 +30319,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -30416,7 +30416,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -30785,7 +30785,7 @@
     "person_id": "P0736",
     "display": "Reisla Eisen",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Reisla née Strumpf",
     "linked_inline": true
    },
    {
@@ -30880,9 +30880,9 @@
    {
     "role": "Mother",
     "person_id": "P0651",
-    "display": "Shilamis Unger",
+    "display": "Shilamis Schlenger, married name Unger",
     "role_label": "Mother",
-    "written_as": "Shilamis née Schlenger",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -31080,7 +31080,7 @@
    {
     "role": "Mother",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -31275,9 +31275,9 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    },
    {
@@ -31291,7 +31291,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -31373,7 +31373,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -31671,7 +31671,7 @@
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Guttstein née Gottlieb",
+    "display": "Hinde Gottlieb, married name Guttstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -31882,7 +31882,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -32050,9 +32050,9 @@
    {
     "role": "Mother",
     "person_id": "P0764",
-    "display": "Feige Bodner",
+    "display": "Feige Gastwirt, married name Bodner",
     "role_label": "Mother",
-    "written_as": "Feige née Gastwirt",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -32135,9 +32135,9 @@
    {
     "role": "Mother",
     "person_id": "P0869",
-    "display": "Rosa Neuman",
+    "display": "Rosa Wegier, married name Neuman",
     "role_label": "Mother",
-    "written_as": "Rosa née Wegier",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -32338,7 +32338,7 @@
    {
     "role": "Mother",
     "person_id": "P0554",
-    "display": "Tyla Landau née Zimmerman",
+    "display": "Tyla Zimmerman, married name Landau",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -32736,7 +32736,7 @@
     "person_id": "P0736",
     "display": "Reisla Eisen",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Reisla née Strumpf",
     "linked_inline": true
    },
    {
@@ -33198,7 +33198,7 @@
     "person_id": "P0083",
     "display": "Machla Bodner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Machla née Towel",
     "linked_inline": true
    },
    {
@@ -33212,7 +33212,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -33588,7 +33588,7 @@
    {
     "role": "Mother",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -33996,7 +33996,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -34078,7 +34078,7 @@
    {
     "role": "Mother",
     "person_id": "P0722",
-    "display": "Feige Ratz",
+    "display": "Feige Panzer, married name Ratz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -34096,7 +34096,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Esther née Luft",
     "linked_inline": true
    },
    {
@@ -34176,7 +34176,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -34273,7 +34273,7 @@
    {
     "role": "Mother",
     "person_id": "P0920",
-    "display": "Rivka Reimer",
+    "display": "Rivka Lederer, married name Reimer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -34566,7 +34566,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -34679,7 +34679,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -34757,7 +34757,7 @@
    {
     "role": "Mother",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -35257,7 +35257,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -35357,7 +35357,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -35438,9 +35438,9 @@
    {
     "role": "Mother",
     "person_id": "P0764",
-    "display": "Feige Bodner",
+    "display": "Feige Gastwirt, married name Bodner",
     "role_label": "Mother",
-    "written_as": "Feige née Gastwirt",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -35724,7 +35724,7 @@
    {
     "role": "Mother",
     "person_id": "P0308",
-    "display": "Hene Abrahamowicz née Bakon",
+    "display": "Hene Bakon, married name Abrahamowicz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -35916,7 +35916,7 @@
    {
     "role": "Mother",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": false
@@ -36120,7 +36120,7 @@
     "person_id": "P0303",
     "display": "Golda Towel",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Golda née Zanger",
     "linked_inline": true
    },
    {
@@ -36215,7 +36215,7 @@
    {
     "role": "Mother",
     "person_id": "P0964",
-    "display": "Sarah Berger",
+    "display": "Sarah Joehner, married name Berger",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -36618,7 +36618,7 @@
    {
     "role": "Mother",
     "person_id": "P0313",
-    "display": "Freida Littman",
+    "display": "Freida Schonwetter, married name Littman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -36715,9 +36715,9 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    },
    {
@@ -36731,7 +36731,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -37006,7 +37006,7 @@
    {
     "role": "Mother",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -37022,7 +37022,7 @@
    {
     "role": "MGM",
     "person_id": "P0263",
-    "display": "Schifra Sturm née Samul",
+    "display": "Schifra Samul, married name Sturm",
     "role_label": "Mother's mother",
     "written_as": "Shifra Chaya Sturm",
     "linked_inline": true
@@ -37411,7 +37411,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -37587,9 +37587,9 @@
    {
     "role": "Mother",
     "person_id": "P0869",
-    "display": "Rosa Neuman",
+    "display": "Rosa Wegier, married name Neuman",
     "role_label": "Mother",
-    "written_as": "Rosa née Wegier",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -37700,9 +37700,9 @@
    {
     "role": "MGM",
     "person_id": "P0583",
-    "display": "Sarah Haim née Hajman",
+    "display": "Sarah Hajman, married name Haim",
     "role_label": "Mother's mother",
-    "written_as": "Sarah née Haim",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -37997,7 +37997,7 @@
    {
     "role": "MGM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -38576,7 +38576,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -38657,7 +38657,7 @@
    {
     "role": "Mother",
     "person_id": "P0722",
-    "display": "Feige Ratz",
+    "display": "Feige Panzer, married name Ratz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -38675,7 +38675,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Esther née Luft",
     "linked_inline": true
    },
    {
@@ -39237,9 +39237,9 @@
    {
     "role": "Mother",
     "person_id": "P0246",
-    "display": "Tyla List née Korzennik",
+    "display": "Tyla Korzennik, married name List",
     "role_label": "Mother",
-    "written_as": "Tyla née Rubel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -39527,7 +39527,7 @@
    {
     "role": "Mother",
     "person_id": "P1014",
-    "display": "Shayndel Horowitz",
+    "display": "Shayndel Klotz, married name Horowitz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -39625,7 +39625,7 @@
    {
     "role": "Mother",
     "person_id": "P0672",
-    "display": "Tyla Fisch",
+    "display": "Tyla Bieder, married name Fisch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -39722,7 +39722,7 @@
    {
     "role": "Mother",
     "person_id": "P0920",
-    "display": "Rivka Reimer",
+    "display": "Rivka Lederer, married name Reimer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -39825,7 +39825,7 @@
    {
     "role": "Mother",
     "person_id": "P1019",
-    "display": "Rivka Burstin",
+    "display": "Rivka Plattner, married name Burstin",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -40215,9 +40215,9 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    },
    {
@@ -40231,7 +40231,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -40896,9 +40896,9 @@
    {
     "role": "Mother",
     "person_id": "P0651",
-    "display": "Shilamis Unger",
+    "display": "Shilamis Schlenger, married name Unger",
     "role_label": "Mother",
-    "written_as": "Shilamis née Schlenger",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -40998,7 +40998,7 @@
    {
     "role": "Mother",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -41588,7 +41588,7 @@
    {
     "role": "Mother",
     "person_id": "P0536",
-    "display": "Freida Herman",
+    "display": "Freida Freiberger, married name Herman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -41782,7 +41782,7 @@
    {
     "role": "Mother",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": false
@@ -41991,7 +41991,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -42088,7 +42088,7 @@
    {
     "role": "MGM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -42268,7 +42268,7 @@
     "person_id": "P0771",
     "display": "Malka Schlenger",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Malka née Verziger",
     "linked_inline": true
    },
    {
@@ -42576,7 +42576,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -43613,7 +43613,7 @@
     "person_id": "P0303",
     "display": "Golda Towel",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Golda née Zanger",
     "linked_inline": true
    },
    {
@@ -43811,9 +43811,9 @@
    {
     "role": "Mother",
     "person_id": "P0764",
-    "display": "Feige Bodner",
+    "display": "Feige Gastwirt, married name Bodner",
     "role_label": "Mother",
-    "written_as": "Feige née Gastwirt",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -43908,7 +43908,7 @@
    {
     "role": "Mother",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -44005,9 +44005,9 @@
    {
     "role": "Mother",
     "person_id": "P0869",
-    "display": "Rosa Neuman",
+    "display": "Rosa Wegier, married name Neuman",
     "role_label": "Mother",
-    "written_as": "Rosa née Wegier",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -44221,7 +44221,7 @@
    {
     "role": "MGM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -44418,7 +44418,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -44497,7 +44497,7 @@
    {
     "role": "Mother",
     "person_id": "P0672",
-    "display": "Tyla Fisch",
+    "display": "Tyla Bieder, married name Fisch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -44692,7 +44692,7 @@
    {
     "role": "Mother",
     "person_id": "P0554",
-    "display": "Tyla Landau née Zimmerman",
+    "display": "Tyla Zimmerman, married name Landau",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -44892,7 +44892,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -45728,7 +45728,7 @@
     "person_id": "P1127",
     "display": "Deborah Arnold",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Deborah née Feier",
     "linked_inline": true
    },
    {
@@ -46206,7 +46206,7 @@
    {
     "role": "Mother",
     "person_id": "P1014",
-    "display": "Shayndel Horowitz",
+    "display": "Shayndel Klotz, married name Horowitz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -46309,7 +46309,7 @@
     "person_id": "P0083",
     "display": "Machla Bodner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Machla née Towel",
     "linked_inline": true
    },
    {
@@ -46323,7 +46323,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -46408,9 +46408,9 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    },
    {
@@ -46424,7 +46424,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -46715,9 +46715,9 @@
    {
     "role": "MGM",
     "person_id": "P0583",
-    "display": "Sarah Haim née Hajman",
+    "display": "Sarah Hajman, married name Haim",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Sarah née Hajman",
     "linked_inline": true
    },
    {
@@ -46796,9 +46796,9 @@
    {
     "role": "Mother",
     "person_id": "P0651",
-    "display": "Shilamis Unger",
+    "display": "Shilamis Schlenger, married name Unger",
     "role_label": "Mother",
-    "written_as": "Shilamis née Schlenger",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -46898,7 +46898,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -47296,7 +47296,7 @@
    {
     "role": "Mother",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -47828,7 +47828,7 @@
    {
     "role": "Mother",
     "person_id": "P0920",
-    "display": "Rivka Reimer",
+    "display": "Rivka Lederer, married name Reimer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -47945,7 +47945,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -48123,7 +48123,7 @@
    {
     "role": "Mother",
     "person_id": "P0536",
-    "display": "Freida Herman",
+    "display": "Freida Freiberger, married name Herman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -48610,7 +48610,7 @@
    {
     "role": "Mother",
     "person_id": "P1019",
-    "display": "Rivka Burstin",
+    "display": "Rivka Plattner, married name Burstin",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -48902,7 +48902,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -49694,7 +49694,7 @@
    {
     "role": "Mother",
     "person_id": "P1194",
-    "display": "Chaya Katz",
+    "display": "Chaya Tager, married name Katz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -49890,7 +49890,7 @@
    {
     "role": "Mother",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -49988,7 +49988,7 @@
    {
     "role": "Mother",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": false
@@ -50183,9 +50183,9 @@
    {
     "role": "Mother",
     "person_id": "P0869",
-    "display": "Rosa Neuman",
+    "display": "Rosa Wegier, married name Neuman",
     "role_label": "Mother",
-    "written_as": "Rosa née Wegier",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -50488,7 +50488,7 @@
     "person_id": "P0303",
     "display": "Golda Towel",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Golda née Zanger",
     "linked_inline": true
    },
    {
@@ -51757,7 +51757,7 @@
    {
     "role": "Mother",
     "person_id": "P1231",
-    "display": "Rachel Kaufman",
+    "display": "Rachel Klotz, married name Kaufman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -51872,7 +51872,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -51968,7 +51968,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -52245,7 +52245,7 @@
     "person_id": "P1127",
     "display": "Deborah Arnold",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Deborah née Feier",
     "linked_inline": true
    },
    {
@@ -52537,7 +52537,7 @@
    {
     "role": "Mother",
     "person_id": "P1247",
-    "display": "Gittla Kaufman",
+    "display": "Gittla Thum, married name Kaufman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -52635,7 +52635,7 @@
    {
     "role": "Mother",
     "person_id": "P1251",
-    "display": "Gittla Unger",
+    "display": "Gittla Licht, married name Unger",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -52927,7 +52927,7 @@
    {
     "role": "Mother",
     "person_id": "P1014",
-    "display": "Shayndel Horowitz",
+    "display": "Shayndel Klotz, married name Horowitz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -53616,7 +53616,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -54011,7 +54011,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -54093,7 +54093,7 @@
     "person_id": "P1275",
     "display": "Hinde Walter",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Hinde née Steinhorn",
     "linked_inline": true
    },
    {
@@ -54188,7 +54188,7 @@
    {
     "role": "Mother",
     "person_id": "P1279",
-    "display": "Pessel Shuster",
+    "display": "Pessel Siegfried, married name Shuster",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -54482,7 +54482,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -54879,7 +54879,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Mother's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -55139,7 +55139,7 @@
     "person_id": "P0771",
     "display": "Malka Schlenger",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Malka née Verziger",
     "linked_inline": true
    },
    {
@@ -55525,7 +55525,7 @@
     "person_id": "P1310",
     "display": "Yehudit Schmaja",
     "role_label": "Mother's mother",
-    "written_as": "Yehudit née Schmaja",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -55701,7 +55701,7 @@
    {
     "role": "Mother",
     "person_id": "P1231",
-    "display": "Rachel Kaufman",
+    "display": "Rachel Klotz, married name Kaufman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -56793,7 +56793,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -57460,7 +57460,7 @@
     "person_id": "P0083",
     "display": "Machla Bodner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Machla née Towel",
     "linked_inline": true
    },
    {
@@ -57474,7 +57474,7 @@
    {
     "role": "MGM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -58324,7 +58324,7 @@
    {
     "role": "Mother",
     "person_id": "P1247",
-    "display": "Gittla Kaufman",
+    "display": "Gittla Thum, married name Kaufman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -58396,7 +58396,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -58692,7 +58692,7 @@
     "person_id": "P0403",
     "display": "Ruchla Offner",
     "role_label": "Mother",
-    "written_as": "Ruchla née Offner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -58788,9 +58788,9 @@
    {
     "role": "Mother",
     "person_id": "P0651",
-    "display": "Shilamis Unger",
+    "display": "Shilamis Schlenger, married name Unger",
     "role_label": "Mother",
-    "written_as": "Shilamis née Schlenger",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -58991,7 +58991,7 @@
     "person_id": "P1127",
     "display": "Deborah Arnold",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Deborah née Feier",
     "linked_inline": true
    },
    {
@@ -59190,7 +59190,7 @@
    {
     "role": "Mother",
     "person_id": "P1380",
-    "display": "Sarah Fruhman",
+    "display": "Sarah Stener, married name Fruhman",
     "role_label": "Mother",
     "written_as": "Sarah née Meister",
     "linked_inline": true
@@ -59406,7 +59406,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -60162,7 +60162,7 @@
    {
     "role": "Mother",
     "person_id": "P1014",
-    "display": "Shayndel Horowitz",
+    "display": "Shayndel Klotz, married name Horowitz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -60472,7 +60472,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -60652,7 +60652,7 @@
    {
     "role": "Mother",
     "person_id": "P1403",
-    "display": "Sarah Genendel Finberg",
+    "display": "Sarah Genendel Hofjud, married name Finberg",
     "role_label": "Mother",
     "written_as": "Sarah Genendel née Landau",
     "linked_inline": true
@@ -60750,7 +60750,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -61209,7 +61209,7 @@
    {
     "role": "Mother",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -61491,7 +61491,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -61792,7 +61792,7 @@
     "person_id": "P0771",
     "display": "Malka Schlenger",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Malka née Verziger",
     "linked_inline": true
    },
    {
@@ -62001,7 +62001,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -62083,7 +62083,7 @@
    {
     "role": "Mother",
     "person_id": "P1247",
-    "display": "Gittla Kaufman",
+    "display": "Gittla Thum, married name Kaufman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -63290,7 +63290,7 @@
    {
     "role": "Mother",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Mother",
     "written_as": "Chaya Sarah née Ader",
     "linked_inline": true
@@ -63478,7 +63478,7 @@
    {
     "role": "Mother",
     "person_id": "P1231",
-    "display": "Rachel Kaufman",
+    "display": "Rachel Klotz, married name Kaufman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -63673,9 +63673,9 @@
    {
     "role": "Mother",
     "person_id": "P0651",
-    "display": "Shilamis Unger",
+    "display": "Shilamis Schlenger, married name Unger",
     "role_label": "Mother",
-    "written_as": "Shilamis née Schlenger",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -63971,7 +63971,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -64666,7 +64666,7 @@
    {
     "role": "MGM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -64747,7 +64747,7 @@
    {
     "role": "Mother",
     "person_id": "P1014",
-    "display": "Shayndel Horowitz",
+    "display": "Shayndel Klotz, married name Horowitz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -65242,7 +65242,7 @@
    {
     "role": "MGM",
     "person_id": "P2735",
-    "display": "Laja Friedman née Berger",
+    "display": "Laja Berger, married name Friedman",
     "role_label": "Mother's mother",
     "written_as": "Leah née Berger",
     "linked_inline": true
@@ -65782,7 +65782,7 @@
     "person_id": "P0403",
     "display": "Ruchla Offner",
     "role_label": "Mother",
-    "written_as": "Ruchla née Offner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -66442,7 +66442,7 @@
    {
     "role": "Mother",
     "person_id": "P0722",
-    "display": "Feige Ratz",
+    "display": "Feige Panzer, married name Ratz",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -66460,7 +66460,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Esther née Luft",
     "linked_inline": true
    },
    {
@@ -66540,7 +66540,7 @@
    {
     "role": "Mother",
     "person_id": "P1380",
-    "display": "Sarah Fruhman",
+    "display": "Sarah Stener, married name Fruhman",
     "role_label": "Mother",
     "written_as": "Hence née Meister",
     "linked_inline": true
@@ -67632,7 +67632,7 @@
    {
     "role": "Mother",
     "person_id": "P1247",
-    "display": "Gittla Kaufman",
+    "display": "Gittla Thum, married name Kaufman",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -67730,7 +67730,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -68398,7 +68398,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -68599,7 +68599,7 @@
    {
     "role": "Mother",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -68795,7 +68795,7 @@
    {
     "role": "Mother",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -68811,7 +68811,7 @@
    {
     "role": "MGM",
     "person_id": "P0263",
-    "display": "Schifra Sturm née Samul",
+    "display": "Schifra Samul, married name Sturm",
     "role_label": "Mother's mother",
     "written_as": "Shifra Chaya née Sturm",
     "linked_inline": true
@@ -69564,7 +69564,7 @@
    {
     "role": "Decedent",
     "person_id": "P0241",
-    "display": "Riva Gewirtz",
+    "display": "Riva Bloch, married name Gewirtz",
     "role_label": "The deceased",
     "written_as": "Rywi Bloch",
     "linked_inline": false
@@ -70128,7 +70128,7 @@
    {
     "role": "Mother",
     "person_id": "P0140",
-    "display": "Rivka Beer",
+    "display": "Rivka Bodner, married name Beer",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -71115,7 +71115,7 @@
    {
     "role": "Mother",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -71341,7 +71341,7 @@
    {
     "role": "Mother",
     "person_id": "P0663",
-    "display": "Marjem Bier",
+    "display": "Marjem Mahler, married name Bier",
     "role_label": "Mother of the deceased",
     "written_as": "Maryem Mahler",
     "linked_inline": true
@@ -71845,7 +71845,7 @@
    {
     "role": "Mother",
     "person_id": "P0156",
-    "display": "Sarah Reicher",
+    "display": "Sarah Bochner, married name Reicher",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -71988,7 +71988,7 @@
    {
     "role": "Mother",
     "person_id": "P0308",
-    "display": "Hene Abrahamowicz née Bakon",
+    "display": "Hene Bakon, married name Abrahamowicz",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -72137,7 +72137,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -72235,7 +72235,7 @@
    {
     "role": "Mother",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -72364,7 +72364,7 @@
    {
     "role": "Decedent",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -72410,7 +72410,7 @@
    {
     "role": "Mother",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -72508,7 +72508,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -72553,7 +72553,7 @@
    {
     "role": "Mother",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -72701,7 +72701,7 @@
     "person_id": "P0303",
     "display": "Golda Towel",
     "role_label": "Mother of the deceased",
-    "written_as": null,
+    "written_as": "Golda née Zanger",
     "linked_inline": true
    }
   ],
@@ -72752,7 +72752,7 @@
    {
     "role": "Mother",
     "person_id": "P0409",
-    "display": "Hene Neuman née Fenechel",
+    "display": "Hene Fenechel, married name Neuman",
     "role_label": "Mother of the deceased",
     "written_as": "Sarah Hene Roth",
     "linked_inline": true
@@ -72806,7 +72806,7 @@
    {
     "role": "Mother",
     "person_id": "P0409",
-    "display": "Hene Neuman née Fenechel",
+    "display": "Hene Fenechel, married name Neuman",
     "role_label": "Mother of the deceased",
     "written_as": "Sarah Hene Roth",
     "linked_inline": true
@@ -73066,7 +73066,7 @@
    {
     "role": "Mother",
     "person_id": "P0663",
-    "display": "Marjem Bier",
+    "display": "Marjem Mahler, married name Bier",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -73119,7 +73119,7 @@
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Guttstein née Gottlieb",
+    "display": "Hinde Gottlieb, married name Guttstein",
     "role_label": "Mother of the deceased",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -73172,7 +73172,7 @@
    {
     "role": "Mother",
     "person_id": "P0308",
-    "display": "Hene Abrahamowicz née Bakon",
+    "display": "Hene Bakon, married name Abrahamowicz",
     "role_label": "Mother of the deceased",
     "written_as": "Hene Bakon",
     "linked_inline": true
@@ -73227,7 +73227,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "Mother of the deceased",
-    "written_as": "Esther née Orner",
+    "written_as": null,
     "linked_inline": true
    }
   ],
@@ -73353,7 +73353,7 @@
    {
     "role": "Decedent",
     "person_id": "P0647",
-    "display": "Freida Walter",
+    "display": "Freida Walter, married name Sperber",
     "role_label": "The deceased",
     "written_as": "Freida Freiberger",
     "linked_inline": true
@@ -73369,7 +73369,7 @@
    {
     "role": "Mother",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -73423,7 +73423,7 @@
    {
     "role": "Mother",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -73477,7 +73477,7 @@
    {
     "role": "Mother",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -73514,7 +73514,7 @@
    {
     "role": "Decedent",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": false
@@ -73561,7 +73561,7 @@
    {
     "role": "Decedent",
     "person_id": "P1657",
-    "display": "Lane Kornfeld née Kostenbaum",
+    "display": "Lane Kostenbaum, married name Kornfeld",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -73727,7 +73727,7 @@
     "person_id": "P0736",
     "display": "Reisla Eisen",
     "role_label": "Mother of the deceased",
-    "written_as": null,
+    "written_as": "Reisla née Strumpf",
     "linked_inline": true
    }
   ],
@@ -73871,7 +73871,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -73924,7 +73924,7 @@
    {
     "role": "Mother",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Mother of the deceased",
     "written_as": "Shayndel Wurzel",
     "linked_inline": true
@@ -73962,7 +73962,7 @@
    {
     "role": "Decedent",
     "person_id": "P0409",
-    "display": "Hene Neuman née Fenechel",
+    "display": "Hene Fenechel, married name Neuman",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -74053,7 +74053,7 @@
    {
     "role": "Decedent",
     "person_id": "P0026",
-    "display": "Reisla Schlenger",
+    "display": "Reisla Steinbach, married name Schlenger",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -74630,7 +74630,7 @@
    {
     "role": "Decedent",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "The deceased",
     "written_as": "Rondla Schlenger née Türk",
     "linked_inline": true
@@ -74684,7 +74684,7 @@
    {
     "role": "Mother",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -74765,7 +74765,7 @@
    {
     "role": "Decedent",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "The deceased",
     "written_as": "Yehudit Meer née Kranz",
     "linked_inline": true
@@ -75434,7 +75434,7 @@
    {
     "role": "Decedent",
     "person_id": "P1690",
-    "display": "Schindla Wolkenfeld née Wagschal",
+    "display": "Schindla Wagschal, married name Wolkenfeld",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -75549,7 +75549,7 @@
    {
     "role": "Mother",
     "person_id": "P0920",
-    "display": "Rivka Reimer",
+    "display": "Rivka Lederer, married name Reimer",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -75609,7 +75609,7 @@
    {
     "role": "Mother",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -75746,7 +75746,7 @@
    {
     "role": "Spouse",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Spouse of the deceased",
     "written_as": null,
     "linked_inline": false
@@ -75841,7 +75841,7 @@
    {
     "role": "Mother",
     "person_id": "P0156",
-    "display": "Sarah Reicher",
+    "display": "Sarah Bochner, married name Reicher",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -76656,7 +76656,7 @@
    {
     "role": "Mother",
     "person_id": "P0536",
-    "display": "Freida Herman",
+    "display": "Freida Freiberger, married name Herman",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -77089,7 +77089,7 @@
    {
     "role": "Decedent",
     "person_id": "P0257",
-    "display": "Hinde Guttstein née Gottlieb",
+    "display": "Hinde Gottlieb, married name Guttstein",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -77158,7 +77158,7 @@
    {
     "role": "Mother",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -77430,7 +77430,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Spouse of the deceased",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": false
    }
   ],
@@ -77820,7 +77820,7 @@
    {
     "role": "Mother",
     "person_id": "P1019",
-    "display": "Rivka Burstin",
+    "display": "Rivka Plattner, married name Burstin",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": false
@@ -78391,7 +78391,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "The deceased",
-    "written_as": "Zelda Lobel née Glassner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -79315,7 +79315,7 @@
    {
     "role": "Decedent",
     "person_id": "P1739",
-    "display": "Itta Sperber",
+    "display": "Itta Rubel, married name Sperber",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -79986,7 +79986,7 @@
     "person_id": "P0083",
     "display": "Machla Bodner",
     "role_label": "Mother of the deceased",
-    "written_as": null,
+    "written_as": "Machla née Towel",
     "linked_inline": true
    }
   ],
@@ -80090,7 +80090,7 @@
    {
     "role": "Mother",
     "person_id": "P1247",
-    "display": "Gittla Kaufman",
+    "display": "Gittla Thum, married name Kaufman",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -80559,7 +80559,7 @@
    {
     "role": "Mother",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -80667,7 +80667,7 @@
    {
     "role": "Mother",
     "person_id": "P0409",
-    "display": "Hene Neuman née Fenechel",
+    "display": "Hene Fenechel, married name Neuman",
     "role_label": "Mother of the deceased",
     "written_as": "Sarah Hene née Roth",
     "linked_inline": true
@@ -80722,7 +80722,7 @@
    {
     "role": "Mother",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -80977,7 +80977,7 @@
    {
     "role": "Mother",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -81085,7 +81085,7 @@
    {
     "role": "Mother",
     "person_id": "P1757",
-    "display": "Etla Senft née Bergman",
+    "display": "Etla Bergman, married name Senft",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -81393,9 +81393,9 @@
    {
     "role": "Mother",
     "person_id": "P0270",
-    "display": "Rivka Silberman",
+    "display": "Rivka Plattner, married name Silberman",
     "role_label": "Mother of the deceased",
-    "written_as": null,
+    "written_as": "Rivka née Kainer",
     "linked_inline": true
    }
   ],
@@ -81432,7 +81432,7 @@
    {
     "role": "Decedent",
     "person_id": "P1757",
-    "display": "Etla Senft née Bergman",
+    "display": "Etla Bergman, married name Senft",
     "role_label": "The deceased",
     "written_as": "Etla Kern",
     "linked_inline": true
@@ -81754,7 +81754,7 @@
    {
     "role": "Mother",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -82096,7 +82096,7 @@
    {
     "role": "Mother",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Mother of the deceased",
     "written_as": "Chaya Sarah née Ader",
     "linked_inline": true
@@ -83995,7 +83995,7 @@
     "person_id": "P1808",
     "display": "Gittla Kainer",
     "role_label": "Mother of the deceased",
-    "written_as": "Gittla née Kainer",
+    "written_as": null,
     "linked_inline": true
    }
   ],
@@ -84047,7 +84047,7 @@
    {
     "role": "Mother",
     "person_id": "P0869",
-    "display": "Rosa Neuman",
+    "display": "Rosa Wegier, married name Neuman",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": false
@@ -84085,7 +84085,7 @@
    {
     "role": "Decedent",
     "person_id": "P1810",
-    "display": "Malka Orner née Haim",
+    "display": "Malka Haim, married name Orner",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -84532,7 +84532,7 @@
     "person_id": "P0616",
     "display": "Matla Zehngutt",
     "role_label": "Mother of the deceased",
-    "written_as": null,
+    "written_as": "Matla née Zehnwirth",
     "linked_inline": true
    }
   ],
@@ -84640,7 +84640,7 @@
    {
     "role": "Mother",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -84739,7 +84739,7 @@
    {
     "role": "Mother",
     "person_id": "P1014",
-    "display": "Shayndel Horowitz",
+    "display": "Shayndel Klotz, married name Horowitz",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -84849,7 +84849,7 @@
     "person_id": "P0095",
     "display": "Sarah Towel",
     "role_label": "Mother of the deceased",
-    "written_as": "Sarah née Towel",
+    "written_as": null,
     "linked_inline": true
    }
   ],
@@ -85199,7 +85199,7 @@
    {
     "role": "Decedent",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -85315,7 +85315,7 @@
    {
     "role": "Decedent",
     "person_id": "P0288",
-    "display": "Hannah Langer",
+    "display": "Hannah Herman, married name Langer",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -85593,7 +85593,7 @@
    {
     "role": "Mother",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -87464,7 +87464,7 @@
    {
     "role": "Decedent",
     "person_id": "P1861",
-    "display": "Zelda Berger née Nechemje",
+    "display": "Zelda Nechemje, married name Berger",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -88130,7 +88130,7 @@
    {
     "role": "Decedent",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -89695,7 +89695,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "The deceased",
-    "written_as": null,
+    "written_as": "Esther Panzer née Luft",
     "linked_inline": true
    },
    {
@@ -89821,7 +89821,7 @@
    {
     "role": "Decedent",
     "person_id": "P0308",
-    "display": "Hene Abrahamowicz née Bakon",
+    "display": "Hene Bakon, married name Abrahamowicz",
     "role_label": "The deceased",
     "written_as": "Hannah Abrahamowicz",
     "linked_inline": false
@@ -89952,7 +89952,7 @@
    {
     "role": "Decedent",
     "person_id": "P0722",
-    "display": "Feige Ratz",
+    "display": "Feige Panzer, married name Ratz",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -89990,7 +89990,7 @@
    {
     "role": "Decedent",
     "person_id": "P0554",
-    "display": "Tyla Landau née Zimmerman",
+    "display": "Tyla Zimmerman, married name Landau",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -90121,7 +90121,7 @@
    {
     "role": "Decedent",
     "person_id": "P2236",
-    "display": "Pessel Faust",
+    "display": "Pessel Faust, married name Plutzer",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -90559,7 +90559,7 @@
    {
     "role": "Bride",
     "person_id": "P0184",
-    "display": "Hannah Faust",
+    "display": "Hannah Schilloj, married name Faust",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -90781,7 +90781,7 @@
     "person_id": "P0303",
     "display": "Golda Towel",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Golda Zanger",
     "linked_inline": true
    },
    {
@@ -91837,7 +91837,7 @@
    {
     "role": "BM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": true
@@ -91942,7 +91942,7 @@
    {
     "role": "BM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": true
@@ -92123,7 +92123,7 @@
    {
     "role": "Bride",
     "person_id": "P0424",
-    "display": "Esther Goldberg",
+    "display": "Esther Fenechel, married name Goldberg",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -92230,7 +92230,7 @@
    {
     "role": "Bride",
     "person_id": "P0498",
-    "display": "Reisla Samul",
+    "display": "Reisla Sporn, married name Samul",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -92337,7 +92337,7 @@
    {
     "role": "Bride",
     "person_id": "P0369",
-    "display": "Hannah Towel",
+    "display": "Hannah Wurzel, married name Towel",
     "role_label": "Bride",
     "written_as": "Zipporah Wurzel",
     "linked_inline": false
@@ -92353,7 +92353,7 @@
    {
     "role": "GM",
     "person_id": "P0094",
-    "display": "Necha Towel",
+    "display": "Necha Bodner, married name Towel",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -92443,7 +92443,7 @@
     "person_id": "P0083",
     "display": "Machla Bodner",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Machla Towel",
     "linked_inline": true
    },
    {
@@ -92641,7 +92641,7 @@
    {
     "role": "GM",
     "person_id": "P1950",
-    "display": "Rivka Friedenbach née Weintraub",
+    "display": "Rivka Weintraub, married name Friedenbach",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -92870,7 +92870,7 @@
    {
     "role": "BM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -93269,7 +93269,7 @@
    {
     "role": "Bride",
     "person_id": "P0672",
-    "display": "Tyla Fisch",
+    "display": "Tyla Bieder, married name Fisch",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -93378,7 +93378,7 @@
     "person_id": "P1960",
     "display": "Leah Sperber",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Leah Konigsdorf",
     "linked_inline": false
    },
    {
@@ -93509,9 +93509,9 @@
    {
     "role": "GM",
     "person_id": "P1962",
-    "display": "Sarah Silberberg née Poper",
+    "display": "Sarah Poper, married name Silberberg",
     "role_label": "Groom's mother",
-    "written_as": null,
+    "written_as": "Sarah née Poper",
     "linked_inline": true
    },
    {
@@ -93620,7 +93620,7 @@
    {
     "role": "GM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Groom's mother",
     "written_as": "Gela née Kajner",
     "linked_inline": true
@@ -93711,7 +93711,7 @@
    {
     "role": "Bride",
     "person_id": "P0313",
-    "display": "Freida Littman",
+    "display": "Freida Schonwetter, married name Littman",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -93816,7 +93816,7 @@
    {
     "role": "Bride",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -94469,7 +94469,7 @@
     "person_id": "P0206",
     "display": "Zelda Glassner",
     "role_label": "Groom's mother",
-    "written_as": "Zelda née Glassner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -94595,7 +94595,7 @@
    {
     "role": "BM",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": true
@@ -94672,7 +94672,7 @@
     "person_id": "P0736",
     "display": "Reisla Eisen",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Reisla Strumpf",
     "linked_inline": true
    },
    {
@@ -95833,9 +95833,9 @@
    {
     "role": "Bride",
     "person_id": "P0409",
-    "display": "Hene Neuman née Fenechel",
+    "display": "Hene Fenechel, married name Neuman",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Hene Fenechel",
     "linked_inline": true
    },
    {
@@ -95938,7 +95938,7 @@
    {
     "role": "BM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Bride's mother",
     "written_as": "Serla Basler",
     "linked_inline": false
@@ -96011,7 +96011,7 @@
    {
     "role": "Bride",
     "person_id": "P0647",
-    "display": "Freida Walter",
+    "display": "Freida Walter, married name Sperber",
     "role_label": "Bride",
     "written_as": "Freida Walter née Freiberger",
     "linked_inline": false
@@ -96035,7 +96035,7 @@
    {
     "role": "BM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -96108,7 +96108,7 @@
    {
     "role": "Bride",
     "person_id": "P0261",
-    "display": "Shayndel Bloch",
+    "display": "Shayndel Sturm, married name Bloch",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -96140,7 +96140,7 @@
    {
     "role": "BM",
     "person_id": "P0263",
-    "display": "Schifra Sturm née Samul",
+    "display": "Schifra Samul, married name Sturm",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": true
@@ -96543,7 +96543,7 @@
     "person_id": "P0616",
     "display": "Matla Zehngutt",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Matla Zehnwirth",
     "linked_inline": true
    },
    {
@@ -96557,7 +96557,7 @@
    {
     "role": "GM",
     "person_id": "P1690",
-    "display": "Schindla Wolkenfeld née Wagschal",
+    "display": "Schindla Wagschal, married name Wolkenfeld",
     "role_label": "Groom's mother",
     "written_as": "Shayndel née Wagschel",
     "linked_inline": true
@@ -96866,7 +96866,7 @@
    {
     "role": "Bride",
     "person_id": "P0257",
-    "display": "Hinde Guttstein née Gottlieb",
+    "display": "Hinde Gottlieb, married name Guttstein",
     "role_label": "Bride",
     "written_as": "Hinde Windstroh née Gottlieb",
     "linked_inline": true
@@ -97292,7 +97292,7 @@
    {
     "role": "Bride",
     "person_id": "P0308",
-    "display": "Hene Abrahamowicz née Bakon",
+    "display": "Hene Bakon, married name Abrahamowicz",
     "role_label": "Bride",
     "written_as": "Hene Freiberger née Bakon",
     "linked_inline": true
@@ -97617,7 +97617,7 @@
     "person_id": "P0066",
     "display": "Reisla Ryf",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Reisla Riw",
     "linked_inline": true
    },
    {
@@ -97739,7 +97739,7 @@
    {
     "role": "GM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": true
@@ -97830,7 +97830,7 @@
    {
     "role": "Bride",
     "person_id": "P0145",
-    "display": "Yehudit Meer née Wurzel",
+    "display": "Yehudit Wurzel, married name Meer",
     "role_label": "Bride",
     "written_as": "Yehudit Wurzel née Kranz",
     "linked_inline": false
@@ -97968,7 +97968,7 @@
    {
     "role": "BM",
     "person_id": "P1757",
-    "display": "Etla Senft née Bergman",
+    "display": "Etla Bergman, married name Senft",
     "role_label": "Bride's mother",
     "written_as": "Itta née Bergman",
     "linked_inline": true
@@ -98148,7 +98148,7 @@
    {
     "role": "Bride",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -98288,7 +98288,7 @@
    {
     "role": "BM",
     "person_id": "P2562",
-    "display": "Hinde Walter née Freiberger",
+    "display": "Hinde Freiberger, married name Walter",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -98361,7 +98361,7 @@
    {
     "role": "Bride",
     "person_id": "P0237",
-    "display": "Shayndel Bodner",
+    "display": "Shayndel Tager, married name Bodner",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -98787,7 +98787,7 @@
    {
     "role": "Bride",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -99356,9 +99356,9 @@
    {
     "role": "BM",
     "person_id": "P0246",
-    "display": "Tyla List née Korzennik",
+    "display": "Tyla Korzennik, married name List",
     "role_label": "Bride's mother",
-    "written_as": "Tyla née Rubel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -99535,7 +99535,7 @@
    {
     "role": "Bride",
     "person_id": "P0722",
-    "display": "Feige Ratz",
+    "display": "Feige Panzer, married name Ratz",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -99569,7 +99569,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Esther née Luft",
     "linked_inline": true
    },
    {
@@ -99643,7 +99643,7 @@
    {
     "role": "Bride",
     "person_id": "P0416",
-    "display": "Itta Bieder",
+    "display": "Itta Reiger, married name Bieder",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -99859,7 +99859,7 @@
    {
     "role": "Bride",
     "person_id": "P0554",
-    "display": "Tyla Landau née Zimmerman",
+    "display": "Tyla Zimmerman, married name Landau",
     "role_label": "Bride",
     "written_as": "Tyla Korzennik née Zimmerman",
     "linked_inline": false
@@ -99970,7 +99970,7 @@
    {
     "role": "Bride",
     "person_id": "P0181",
-    "display": "Gela Kainer née Kajner",
+    "display": "Gela Kajner, married name Kainer",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -100197,7 +100197,7 @@
     "person_id": "P1808",
     "display": "Gittla Kainer",
     "role_label": "Groom's mother",
-    "written_as": "Gittla née Kainer",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -100301,7 +100301,7 @@
     "person_id": "P1808",
     "display": "Gittla Kainer",
     "role_label": "Groom's mother",
-    "written_as": "Gittla née Kainer",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -100391,7 +100391,7 @@
    {
     "role": "Bride",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -100500,9 +100500,9 @@
    {
     "role": "Bride",
     "person_id": "P0651",
-    "display": "Shilamis Unger",
+    "display": "Shilamis Schlenger, married name Unger",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Shilamis Schlanger",
     "linked_inline": true
    },
    {
@@ -100607,9 +100607,9 @@
    {
     "role": "Bride",
     "person_id": "P0869",
-    "display": "Rosa Neuman",
+    "display": "Rosa Wegier, married name Neuman",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Rosa Lustig",
     "linked_inline": true
    },
    {
@@ -100802,7 +100802,7 @@
    {
     "role": "Bride",
     "person_id": "P0209",
-    "display": "Esther Samul",
+    "display": "Esther Kampf, married name Samul",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -101015,7 +101015,7 @@
    {
     "role": "Bride",
     "person_id": "P1019",
-    "display": "Rivka Burstin",
+    "display": "Rivka Plattner, married name Burstin",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -101445,7 +101445,7 @@
    {
     "role": "GM",
     "person_id": "P0325",
-    "display": "Hannah Korzennik",
+    "display": "Hannah Korzennik, married name Schonwetter",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -102170,7 +102170,7 @@
    {
     "role": "Bride",
     "person_id": "P0288",
-    "display": "Hannah Langer",
+    "display": "Hannah Herman, married name Langer",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -102594,7 +102594,7 @@
    {
     "role": "Bride",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -102913,7 +102913,7 @@
     "person_id": "P1127",
     "display": "Deborah Arnold",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Deborah Feier",
     "linked_inline": false
    },
    {
@@ -103465,7 +103465,7 @@
     "person_id": "P1808",
     "display": "Gittla Kainer",
     "role_label": "Groom's mother",
-    "written_as": "Gittla née Kainer",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -103584,7 +103584,7 @@
    {
     "role": "BM",
     "person_id": "P0288",
-    "display": "Hannah Langer",
+    "display": "Hannah Herman, married name Langer",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -104092,7 +104092,7 @@
    {
     "role": "Bride",
     "person_id": "P1231",
-    "display": "Rachel Kaufman",
+    "display": "Rachel Klotz, married name Kaufman",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -104197,7 +104197,7 @@
    {
     "role": "Bride",
     "person_id": "P1014",
-    "display": "Shayndel Horowitz",
+    "display": "Shayndel Klotz, married name Horowitz",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -104303,7 +104303,7 @@
    {
     "role": "Bride",
     "person_id": "P1247",
-    "display": "Gittla Kaufman",
+    "display": "Gittla Thum, married name Kaufman",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -104410,7 +104410,7 @@
    {
     "role": "Bride",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -104656,7 +104656,7 @@
    {
     "role": "BM",
     "person_id": "P0480",
-    "display": "Yerla Kleinman",
+    "display": "Yerla Basler, married name Kleinman",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -104842,7 +104842,7 @@
     "person_id": "P1275",
     "display": "Hinde Walter",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Hinde Steinhorn",
     "linked_inline": true
    },
    {
@@ -104874,7 +104874,7 @@
     "person_id": "P0224",
     "display": "Liba Walter",
     "role_label": "Bride's mother",
-    "written_as": "Liba Walter",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -105718,7 +105718,7 @@
     "person_id": "P0616",
     "display": "Matla Zehngutt",
     "role_label": "Groom's mother",
-    "written_as": null,
+    "written_as": "Matla née Zehnwirth",
     "linked_inline": true
    },
    {
@@ -106049,7 +106049,7 @@
     "person_id": "P1310",
     "display": "Yehudit Schmaja",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Yehudit née Salamon",
     "linked_inline": true
    },
    {
@@ -106155,7 +106155,7 @@
    {
     "role": "BM",
     "person_id": "P0176",
-    "display": "Rondla Turk",
+    "display": "Rondla Turk, married name Schlenger",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": true
@@ -106850,7 +106850,7 @@
    {
     "role": "Bride",
     "person_id": "P0536",
-    "display": "Freida Herman",
+    "display": "Freida Freiberger, married name Herman",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": true
@@ -106957,7 +106957,7 @@
    {
     "role": "Bride",
     "person_id": "P1279",
-    "display": "Pessel Shuster",
+    "display": "Pessel Siegfried, married name Shuster",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -107194,7 +107194,7 @@
     "person_id": "P0298",
     "display": "Esther Orner",
     "role_label": "Groom's mother",
-    "written_as": null,
+    "written_as": "Esther née Luft",
     "linked_inline": false
    },
    {
@@ -107612,7 +107612,7 @@
    {
     "role": "GM",
     "person_id": "P1739",
-    "display": "Itta Sperber",
+    "display": "Itta Rubel, married name Sperber",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": true
@@ -107705,7 +107705,7 @@
    {
     "role": "Bride",
     "person_id": "P2236",
-    "display": "Pessel Faust",
+    "display": "Pessel Faust, married name Plutzer",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -107737,7 +107737,7 @@
    {
     "role": "BM",
     "person_id": "P0184",
-    "display": "Hannah Faust",
+    "display": "Hannah Schilloj, married name Faust",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -107936,7 +107936,7 @@
    {
     "role": "GM",
     "person_id": "P0288",
-    "display": "Hannah Langer",
+    "display": "Hannah Herman, married name Langer",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -108489,7 +108489,7 @@
    {
     "role": "BM",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": true
@@ -108690,7 +108690,7 @@
    {
     "role": "GM",
     "person_id": "P2258",
-    "display": "Sarah Bernknop",
+    "display": "Sarah Bernknop, married name Schneps",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -108925,7 +108925,7 @@
    {
     "role": "BM",
     "person_id": "P1861",
-    "display": "Zelda Berger née Nechemje",
+    "display": "Zelda Nechemje, married name Berger",
     "role_label": "Bride's mother",
     "written_as": "Golda née Nechemje",
     "linked_inline": true
@@ -109028,7 +109028,7 @@
    {
     "role": "BM",
     "person_id": "P0184",
-    "display": "Hannah Faust",
+    "display": "Hannah Schilloj, married name Faust",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -109246,7 +109246,7 @@
     "person_id": "P0066",
     "display": "Reisla Ryf",
     "role_label": "Bride's mother",
-    "written_as": "Reisla née Ryf",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -109973,9 +109973,9 @@
    {
     "role": "GM",
     "person_id": "P0246",
-    "display": "Tyla List née Korzennik",
+    "display": "Tyla Korzennik, married name List",
     "role_label": "Groom's mother",
-    "written_as": "Tyla née Rubel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -110956,7 +110956,7 @@
    {
     "role": "BM",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": true
@@ -111141,7 +111141,7 @@
    {
     "role": "Bride",
     "person_id": "P0663",
-    "display": "Marjem Bier",
+    "display": "Marjem Mahler, married name Bier",
     "role_label": "Bride",
     "written_as": "Miriam Mahler",
     "linked_inline": false
@@ -111594,7 +111594,7 @@
    {
     "role": "GM",
     "person_id": "P2330",
-    "display": "Sirsche Krebs née Zimet",
+    "display": "Sirsche Zimet, married name Krebs",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": true
@@ -111610,7 +111610,7 @@
    {
     "role": "BM",
     "person_id": "P0184",
-    "display": "Hannah Faust",
+    "display": "Hannah Schilloj, married name Faust",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -111723,7 +111723,7 @@
    {
     "role": "BM",
     "person_id": "P0503",
-    "display": "Malka Perla Aron",
+    "display": "Malka Perla Tager, married name Aron",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -111944,7 +111944,7 @@
    {
     "role": "BM",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Bride's mother",
     "written_as": "Chaya Sarah née Ader",
     "linked_inline": true
@@ -112037,9 +112037,9 @@
    {
     "role": "GM",
     "person_id": "P0246",
-    "display": "Tyla List née Korzennik",
+    "display": "Tyla Korzennik, married name List",
     "role_label": "Groom's mother",
-    "written_as": "Tyla née Rubel",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -112603,7 +112603,7 @@
    {
     "role": "BM",
     "person_id": "P1861",
-    "display": "Zelda Berger née Nechemje",
+    "display": "Zelda Nechemje, married name Berger",
     "role_label": "Bride's mother",
     "written_as": "Selda née Nechemje",
     "linked_inline": true
@@ -113253,9 +113253,9 @@
    {
     "role": "BM",
     "person_id": "P0246",
-    "display": "Tyla List née Korzennik",
+    "display": "Tyla Korzennik, married name List",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Tyla née Korzennik",
     "linked_inline": true
    },
    {
@@ -113349,7 +113349,7 @@
    {
     "role": "GM",
     "person_id": "P0722",
-    "display": "Feige Ratz",
+    "display": "Feige Panzer, married name Ratz",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -113473,7 +113473,7 @@
    {
     "role": "BM",
     "person_id": "P1014",
-    "display": "Shayndel Horowitz",
+    "display": "Shayndel Klotz, married name Horowitz",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -114567,7 +114567,7 @@
     "person_id": "P0403",
     "display": "Ruchla Offner",
     "role_label": "Bride's mother",
-    "written_as": "Ruchla née Offner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -114757,7 +114757,7 @@
     "person_id": "P0771",
     "display": "Malka Schlenger",
     "role_label": "Groom's mother",
-    "written_as": "Malka née Schlenger",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -115313,7 +115313,7 @@
    {
     "role": "BM",
     "person_id": "P0698",
-    "display": "Hinde Schuss",
+    "display": "Hinde Rubel, married name Schuss",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -116020,7 +116020,7 @@
     "person_id": "P2457",
     "display": "Perla Matzner",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Perla Brand",
     "linked_inline": true
    },
    {
@@ -116266,7 +116266,7 @@
    {
     "role": "BM",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -117126,7 +117126,7 @@
    {
     "role": "BM",
     "person_id": "P0536",
-    "display": "Freida Herman",
+    "display": "Freida Freiberger, married name Herman",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -117310,7 +117310,7 @@
    {
     "role": "GM",
     "person_id": "P0672",
-    "display": "Tyla Fisch",
+    "display": "Tyla Bieder, married name Fisch",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": true
@@ -117410,7 +117410,7 @@
    {
     "role": "GM",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": true
@@ -117543,7 +117543,7 @@
     "person_id": "P0771",
     "display": "Malka Schlenger",
     "role_label": "Bride's mother",
-    "written_as": "Malka née Schlenger",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -117946,7 +117946,7 @@
     "person_id": "P1307",
     "display": "Esther Necha Schonbach",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Necha Finder",
     "linked_inline": false
    },
    {
@@ -118193,7 +118193,7 @@
    {
     "role": "BM",
     "person_id": "P0899",
-    "display": "Sarah Bieder née Ader",
+    "display": "Sarah Ader, married name Bieder",
     "role_label": "Bride's mother",
     "written_as": "Chaya Sarah née Ader",
     "linked_inline": true
@@ -118522,9 +118522,9 @@
    {
     "role": "BM",
     "person_id": "P0651",
-    "display": "Shilamis Unger",
+    "display": "Shilamis Schlenger, married name Unger",
     "role_label": "Bride's mother",
-    "written_as": "Shilamis née Schlenger",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -118632,7 +118632,7 @@
    {
     "role": "BM",
     "person_id": "P0722",
-    "display": "Feige Ratz",
+    "display": "Feige Panzer, married name Ratz",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -118708,7 +118708,7 @@
     "person_id": "P1435",
     "display": "Hence Mass",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Hence Maas",
     "linked_inline": false
    },
    {
@@ -119145,7 +119145,7 @@
    {
     "role": "BM",
     "person_id": "P0273",
-    "display": "Ruchla Bein",
+    "display": "Ruchla Berger, married name Bein",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": true
@@ -119221,7 +119221,7 @@
     "person_id": "P1392",
     "display": "Shayndel Scheinbach",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Shayndel Finder",
     "linked_inline": false
    },
    {
@@ -119566,7 +119566,7 @@
    {
     "role": "BM",
     "person_id": "P1231",
-    "display": "Rachel Kaufman",
+    "display": "Rachel Klotz, married name Kaufman",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -119772,7 +119772,7 @@
    {
     "role": "BM",
     "person_id": "P0672",
-    "display": "Tyla Fisch",
+    "display": "Tyla Bieder, married name Fisch",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false

@@ -2466,8 +2466,9 @@
  {
   "surname": "Hofjud",
   "fname": "Hofjud",
-  "count": 1,
+  "count": 2,
   "person_ids": [
+   "P1403",
    "P1404"
   ]
  },
@@ -4350,11 +4351,12 @@
  {
   "surname": "Plattner",
   "fname": "Plattner",
-  "count": 10,
+  "count": 11,
   "person_ids": [
    "P0014",
    "P0180",
    "P0181",
+   "P0270",
    "P1019",
    "P1020",
    "P1290",

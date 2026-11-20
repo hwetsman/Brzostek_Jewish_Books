@@ -358,7 +358,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Leuchtag née Leuchtag",
+  "heading_name": "Shayndel Leuchtag, married name Leuchtag",
   "partner_groups": {
    "P0002": "1"
   }
@@ -593,7 +593,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Itta Leuchtag née Hoffmeister",
+  "heading_name": "Itta Hoffmeister, married name Leuchtag",
   "partner_groups": {
    "P0004": "2"
   }
@@ -4663,7 +4663,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Shayndel Leuchtag née Lustgarten",
+  "heading_name": "Shayndel Lustgarten, married name Leuchtag",
   "partner_groups": {
    "P0010": "2"
   }
@@ -7509,9 +7509,9 @@
   "legal_given": "Reisla",
   "common_given": "Reisla",
   "legal_surname": "Steinbach",
-  "common_surname": "Schlenger",
+  "common_surname": "Steinbach",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Schlenger",
   "sex": "F",
   "birth_date": "~1860 (age 42 at death 1902)",
   "death_date": "16 Feb 1902",
@@ -7614,7 +7614,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Reisla Schlenger née Steinbach",
+  "heading_name": "Reisla Steinbach, married name Schlenger",
   "partner_groups": {
    "P0006": "2"
   }
@@ -7776,7 +7776,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Steinbach née Bek",
+  "heading_name": "Freida Bek, married name Steinbach",
   "partner_groups": {
    "P0027": "2"
   }
@@ -8835,9 +8835,9 @@
   "legal_given": "Ruda",
   "common_given": "Ruda",
   "legal_surname": "Bieder",
-  "common_surname": "Schild",
+  "common_surname": "Bieder",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Schild",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -9719,7 +9719,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Kleinman née Grunberger",
+  "heading_name": "Chaya Grunberger, married name Kleinman",
   "partner_groups": {
    "P0008": "1"
   }
@@ -9830,7 +9830,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Russ née Kleinman",
+  "heading_name": "Sarah Kleinman, married name Russ",
   "partner_groups": {
    "P0049": "1"
   }
@@ -9924,7 +9924,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Barber née Kleinman",
+  "heading_name": "Hannah Kleinman, married name Barber",
   "partner_groups": {
    "P0052": "1"
   }
@@ -10227,7 +10227,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Kleinman née Jasner",
+  "heading_name": "Rivka Jasner, married name Kleinman",
   "partner_groups": {
    "P0045": "2"
   }
@@ -10398,7 +10398,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Grunberger",
+  "heading_name": "Rivka Grunberger (married name; birth name not known)",
   "partner_groups": {
    "P0047": "2"
   }
@@ -10653,7 +10653,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Nechama Russ née Goldberg",
+  "heading_name": "Nechama Goldberg, married name Russ",
   "partner_groups": {
    "P0050": "2"
   }
@@ -11082,7 +11082,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Barber née Bitterman",
+  "heading_name": "Rivka Bitterman, married name Barber",
   "partner_groups": {
    "P0053": "2"
   }
@@ -13873,7 +13873,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Czopp née Riw",
+  "heading_name": "Reisla Ryf, married name Czopp",
   "partner_groups": {
    "P0065": "1"
   }
@@ -14062,7 +14062,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hene Ryf née Indyk",
+  "heading_name": "Hene Indyk, married name Ryf",
   "partner_groups": {
    "P0067": "2"
   }
@@ -16099,7 +16099,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Freida Groskopf née Czopp",
+  "heading_name": "Freida Czopp, married name Groskopf",
   "partner_groups": {
    "P0078": "1"
   }
@@ -16251,7 +16251,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Shayndel Czopp née Welisch",
+  "heading_name": "Shayndel Welisch, married name Czopp",
   "partner_groups": {
    "P0076": "2"
   }
@@ -16480,7 +16480,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Serla Groskopf née Welisch",
+  "heading_name": "Serla Welisch, married name Groskopf",
   "partner_groups": {
    "P0079": "2"
   }
@@ -16784,7 +16784,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Machla Rowitz née Towel",
+  "heading_name": "Machla Bodner, married name Rowitz",
   "partner_groups": {
    "P0070": "1"
   }
@@ -17393,7 +17393,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Rowitz née Storch",
+  "heading_name": "Feige Storch, married name Rowitz",
   "partner_groups": {
    "P0091": "2"
   }
@@ -17581,9 +17581,9 @@
   "legal_given": "Necha",
   "common_given": "Necha",
   "legal_surname": "Bodner",
-  "common_surname": "Towel",
+  "common_surname": "Bodner",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Towel",
   "sex": "F",
   "birth_date": null,
   "death_date": "12 Apr 1901",
@@ -17727,7 +17727,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Necha Towel née Bodner",
+  "heading_name": "Necha Bodner, married name Towel",
   "partner_groups": {
    "P0093": "2"
   }
@@ -17835,7 +17835,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Ungarischer née Rebhan",
+  "heading_name": "Sarah Towel, married name Ungarischer",
   "partner_groups": {
    "P0069": "2"
   }
@@ -18132,7 +18132,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Maria Matla Towel née Rebhan",
+  "heading_name": "Maria Matla Rebhan, married name Towel",
   "partner_groups": {
    "P0093": "2"
   }
@@ -18242,7 +18242,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Galizer née Wagschal",
+  "heading_name": "Esther Wagschal, married name Galizer",
   "partner_groups": {
    "P0071": "2"
   }
@@ -19797,7 +19797,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Guttenberg née Bodner",
+  "heading_name": "Hannah Towel, married name Guttenberg",
   "partner_groups": {
    "P0111": "2"
   }
@@ -20677,7 +20677,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Zlata Schonwetter née Wurzel",
+  "heading_name": "Zlata Wurzel, married name Schonwetter",
   "partner_groups": {
    "P0116": "1"
   }
@@ -21156,7 +21156,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hinde Schonwetter née Schonwetter",
+  "heading_name": "Hinde Schonwetter, married name Schonwetter",
   "partner_groups": {
    "P0123": "1"
   }
@@ -21266,7 +21266,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Itta Handler née Schonwetter",
+  "heading_name": "Itta Schonwetter, married name Handler",
   "partner_groups": {
    "P0125": "1"
   }
@@ -21515,7 +21515,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Schonwetter née Amsterdam",
+  "heading_name": "Malka Amsterdam, married name Schonwetter",
   "partner_groups": {
    "P0108": "1"
   }
@@ -21943,7 +21943,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Shayndel Weintraub née Trachman",
+  "heading_name": "Shayndel Trachman, married name Weintraub",
   "partner_groups": {
    "P0329": "1"
   }
@@ -22182,7 +22182,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sprinza Klotz née Bergman",
+  "heading_name": "Sprinza Bergman, married name Klotz",
   "partner_groups": {
    "P0100": "1"
   }
@@ -22275,7 +22275,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Amalia Ratz née Klotz",
+  "heading_name": "Amalia Klotz, married name Ratz",
   "partner_groups": {
    "P2241": "1"
   }
@@ -22449,7 +22449,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Bergman née Kleinman",
+  "heading_name": "Malka Kleinman, married name Bergman",
   "partner_groups": {
    "P0025": "1"
   }
@@ -22712,7 +22712,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rosa Beiles née Roth",
+  "heading_name": "Rosa Roth, married name Beiles",
   "partner_groups": {
    "P0134": "1"
   }
@@ -23028,9 +23028,9 @@
   "legal_given": "Rivka",
   "common_given": "Rivka",
   "legal_surname": "Bodner",
-  "common_surname": "Beer",
+  "common_surname": "Bodner",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Beer",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -23125,7 +23125,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Beer née Bodner",
+  "heading_name": "Rivka Bodner, married name Beer",
   "partner_groups": {
    "P0139": "2"
   }
@@ -23313,7 +23313,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gittla Bodner née Blatt",
+  "heading_name": "Gittla Blatt, married name Bodner",
   "partner_groups": {
    "P0141": "2"
   }
@@ -23570,9 +23570,9 @@
   "legal_given": "Yehudit",
   "common_given": "Yehudit",
   "legal_surname": "Kranz",
-  "common_surname": "Meer",
+  "common_surname": "Wurzel",
   "maiden_surname": "Wurzel",
-  "married_surname": null,
+  "married_surname": "Meer",
   "sex": "F",
   "birth_date": "c. 1869 (age 34 at death 1903)",
   "death_date": "2 Aug 1903",
@@ -23749,7 +23749,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Yehudit Meer née Wurzel",
+  "heading_name": "Yehudit Wurzel, married name Meer",
   "partner_groups": {
    "P0144": "1"
   }
@@ -24020,7 +24020,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Pessel Wurzel née Kranz",
+  "heading_name": "Pessel Kranz, married name Wurzel",
   "partner_groups": {
    "P0146": "2"
   }
@@ -24468,7 +24468,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Zeughauser née Zeughauser",
+  "heading_name": "Rachel Zeughauser, married name Zeughauser",
   "partner_groups": {
    "P0150": "1"
   }
@@ -24675,7 +24675,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Leah Zeughauser née Mahler",
+  "heading_name": "Leah Mahler, married name Zeughauser",
   "partner_groups": {
    "P0152": "2"
   }
@@ -24892,9 +24892,9 @@
   "legal_given": "Sarah",
   "common_given": "Sarah",
   "legal_surname": "Bochner",
-  "common_surname": "Reicher",
+  "common_surname": "Bochner",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Reicher",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -24994,7 +24994,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Reicher née Bochner",
+  "heading_name": "Sarah Bochner, married name Reicher",
   "partner_groups": {
    "P0155": "2"
   }
@@ -25243,7 +25243,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Sarah Sperber née Rothman",
+  "heading_name": "Chaya Sarah Rothman, married name Sperber",
   "partner_groups": {
    "P2232": "1"
   }
@@ -25614,7 +25614,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Freida Rothman née Roth",
+  "heading_name": "Freida Roth, married name Rothman",
   "partner_groups": {
    "P0160": "1"
   }
@@ -25775,7 +25775,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Roth née Fenechel",
+  "heading_name": "Feige Fenechel, married name Roth",
   "partner_groups": {
    "P0136": "2"
   }
@@ -26170,7 +26170,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Sarah Rothman née Thum",
+  "heading_name": "Chaya Sarah Thum, married name Rothman",
   "partner_groups": {
    "P0166": "2"
   }
@@ -26480,7 +26480,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Ruda Lobel née Schlenger",
+  "heading_name": "Ruda Schlenger, married name Lobel",
   "partner_groups": {
    "P0061": "1"
   }
@@ -26838,7 +26838,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rondla Schlenger née Turk",
+  "heading_name": "Rondla Turk, married name Schlenger",
   "partner_groups": {
    "P0175": "1"
   }
@@ -27326,7 +27326,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deborah Licht née Kainer",
+  "heading_name": "Deborah Kainer, married name Licht",
   "partner_groups": {
    "P0178": "1"
   }
@@ -27696,7 +27696,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gela Plattner née Kainer",
+  "heading_name": "Gela Kainer, married name Plattner",
   "partner_groups": {
    "P0180": "1"
   }
@@ -28036,9 +28036,9 @@
   "legal_given": "Hannah",
   "common_given": "Hannah",
   "legal_surname": "Schilloj",
-  "common_surname": "Faust",
+  "common_surname": "Schilloj",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Faust",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -28150,7 +28150,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Faust née Schilloj",
+  "heading_name": "Hannah Schilloj, married name Faust",
   "partner_groups": {
    "P0183": "1"
   }
@@ -28357,7 +28357,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Schilloj née Bloch",
+  "heading_name": "Freida Bloch, married name Schilloj",
   "partner_groups": {
    "P0185": "2"
   }
@@ -29072,7 +29072,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Pencier née Fichner",
+  "heading_name": "Reisla Fichner, married name Pencier",
   "partner_groups": {
    "P0189": "1"
   }
@@ -29439,7 +29439,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mirla Fichner née Rubel",
+  "heading_name": "Mirla Rubel, married name Fichner",
   "partner_groups": {
    "P0191": "2"
   }
@@ -29965,7 +29965,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Korzennik née Malz",
+  "heading_name": "Malka Malz, married name Korzennik",
   "partner_groups": {
    "P0196": "2"
   }
@@ -30379,7 +30379,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Blut née Balsam",
+  "heading_name": "Rachel Balsam, married name Blut",
   "partner_groups": {
    "P0201": "1"
   }
@@ -30675,7 +30675,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Reiss née Lobel",
+  "heading_name": "Shayndel Lobel, married name Reiss",
   "partner_groups": {
    "P0187": "1"
   }
@@ -31004,7 +31004,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Zelda Lobel née Zeughauser",
+  "heading_name": "Zelda Glassner, married name Lobel",
   "partner_groups": {
    "P0205": "1"
   }
@@ -31197,9 +31197,9 @@
   "legal_given": "Esther",
   "common_given": "Esther",
   "legal_surname": "Kampf",
-  "common_surname": "Samul",
+  "common_surname": "Kampf",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Samul",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -31309,7 +31309,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Samul née Kampf",
+  "heading_name": "Esther Kampf, married name Samul",
   "partner_groups": {
    "P0208": "1"
   }
@@ -31506,7 +31506,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Beila Kampf née Neubart",
+  "heading_name": "Beila Neubart, married name Kampf",
   "partner_groups": {
    "P0210": "2"
   }
@@ -31826,7 +31826,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Bloch née Tuchman",
+  "heading_name": "Rachel Tuchman, married name Bloch",
   "partner_groups": {
    "P2565": "2"
   }
@@ -32253,7 +32253,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Siegfried née Bochner",
+  "heading_name": "Feige Bochner, married name Siegfried",
   "partner_groups": {
    "P0218": "1"
   }
@@ -32489,7 +32489,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Bochner née Grabschrift",
+  "heading_name": "Chaya Grabschrift, married name Bochner",
   "partner_groups": {
    "P0220": "2"
   }
@@ -32948,7 +32948,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Liba Steinhorn née Freiberger",
+  "heading_name": "Liba Walter, married name Steinhorn",
   "partner_groups": {
    "P0223": "1"
   }
@@ -33444,7 +33444,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Walter née Rubel",
+  "heading_name": "Chaya Rubel, married name Walter",
   "partner_groups": {
    "P2252": "1"
   }
@@ -33596,7 +33596,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Rubel née Jortner",
+  "heading_name": "Freida Jortner, married name Rubel",
   "partner_groups": {
    "P0233": "2"
   }
@@ -33812,9 +33812,9 @@
   "legal_given": "Shayndel",
   "common_given": "Shayndel",
   "legal_surname": "Tager",
-  "common_surname": "Bodner",
+  "common_surname": "Tager",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Bodner",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -33967,7 +33967,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Bodner née Tager",
+  "heading_name": "Shayndel Tager, married name Bodner",
   "partner_groups": {
    "P0236": "1"
   }
@@ -34175,7 +34175,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Tager née Dankowicz",
+  "heading_name": "Freida Dankowicz, married name Tager",
   "partner_groups": {
    "P0238": "2"
   }
@@ -34248,9 +34248,9 @@
   "legal_given": "Riva",
   "common_given": "Riva",
   "legal_surname": "Bloch",
-  "common_surname": "Gewirtz",
+  "common_surname": "Bloch",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Gewirtz",
   "sex": "F",
   "birth_date": null,
   "death_date": "17 Dec 1894",
@@ -34617,7 +34617,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hene Bloch née Klotz",
+  "heading_name": "Hene Klotz, married name Bloch",
   "partner_groups": {
    "P0242": "1"
   }
@@ -34835,9 +34835,9 @@
   "legal_given": "Tyla",
   "common_given": "Tyla",
   "legal_surname": "Korzennik",
-  "common_surname": "List",
+  "common_surname": "Rubel",
   "maiden_surname": "Korzennik",
-  "married_surname": null,
+  "married_surname": "List",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -34964,7 +34964,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tyla List née Korzennik",
+  "heading_name": "Tyla Rubel, married name List",
   "partner_groups": {
    "P0245": "1"
   }
@@ -35186,7 +35186,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Leah Rubel née Korzennik",
+  "heading_name": "Leah Korzennik, married name Rubel",
   "partner_groups": {
    "P0247": "2"
   }
@@ -35664,7 +35664,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Dacha Tager née Zweig",
+  "heading_name": "Dacha Zweig, married name Tager",
   "partner_groups": {
    "P0250": "1"
   }
@@ -36137,9 +36137,9 @@
   "legal_given": "Hinde",
   "common_given": "Hinde",
   "legal_surname": "Gottlieb",
-  "common_surname": "Guttstein",
+  "common_surname": "Windstroh",
   "maiden_surname": "Gottlieb",
-  "married_surname": null,
+  "married_surname": "Guttstein",
   "sex": "F",
   "birth_date": "c. 1867 (age 40 at death 1907)",
   "death_date": "19 May 1907",
@@ -36294,7 +36294,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hinde Guttstein née Windstroh",
+  "heading_name": "Hinde Windstroh, married name Guttstein",
   "partner_groups": {
    "P0256": "1"
   }
@@ -36502,7 +36502,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Windstroh née Gottlieb",
+  "heading_name": "Chaya Gottlieb, married name Windstroh",
   "partner_groups": {
    "P0258": "2"
   }
@@ -36596,9 +36596,9 @@
   "legal_given": "Shayndel",
   "common_given": "Shayndel",
   "legal_surname": "Sturm",
-  "common_surname": "Bloch",
+  "common_surname": "Sturm",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Bloch",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -36768,7 +36768,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Bloch née Sturm",
+  "heading_name": "Shayndel Sturm, married name Bloch",
   "partner_groups": {
    "P0032": "1"
   }
@@ -37016,7 +37016,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Schifra Sturm née Samul",
+  "heading_name": "Schifra Samul, married name Sturm",
   "partner_groups": {
    "P0262": "2"
   }
@@ -37362,7 +37362,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chana Tesser née Ezra",
+  "heading_name": "Chana Ezra, married name Tesser",
   "partner_groups": {
    "P0265": "1"
   }
@@ -37434,9 +37434,9 @@
   "legal_given": "Rivka",
   "common_given": "Rivka",
   "legal_surname": "Kainer",
-  "common_surname": "Silberman",
+  "common_surname": "Plattner",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Silberman",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -37585,6 +37585,7 @@
    ],
    "surnames": [
     "Kainer",
+    "Plattner",
     "Silberman"
    ],
    "born": null,
@@ -37596,7 +37597,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Silberman née Kainer",
+  "heading_name": "Rivka Plattner, married name Silberman",
   "partner_groups": {
    "P0031": "1"
   }
@@ -37877,9 +37878,9 @@
   "legal_given": "Ruchla",
   "common_given": "Ruchla",
   "legal_surname": "Berger",
-  "common_surname": "Bein",
+  "common_surname": "Berger",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Bein",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -38032,7 +38033,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Ruchla Bein née Berger",
+  "heading_name": "Ruchla Berger, married name Bein",
   "partner_groups": {
    "P0272": "1"
   }
@@ -38263,7 +38264,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Berger",
+  "heading_name": "Rachel Berger (married name; birth name not known)",
   "partner_groups": {
    "P0274": "2"
   }
@@ -38554,7 +38555,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Brucha Kornfeld née Samul",
+  "heading_name": "Brucha Samul, married name Kornfeld",
   "partner_groups": {
    "P0277": "1"
   }
@@ -38811,7 +38812,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Liba Samul née Herman",
+  "heading_name": "Liba Herman, married name Samul",
   "partner_groups": {
    "P0279": "2"
   }
@@ -39019,7 +39020,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Zipporah Jolles née Susskind",
+  "heading_name": "Zipporah Susskind, married name Jolles",
   "partner_groups": {
    "P0282": "1"
   }
@@ -39163,7 +39164,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Susskind née Rosshandler",
+  "heading_name": "Rachel Rosshandler, married name Susskind",
   "partner_groups": {
    "P0284": "2"
   }
@@ -39389,9 +39390,9 @@
   "legal_given": "Hannah",
   "common_given": "Hannah",
   "legal_surname": "Herman",
-  "common_surname": "Langer",
+  "common_surname": "Herman",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Langer",
   "sex": "F",
   "birth_date": "about 1850-1860 (inferred)",
   "death_date": "12 Jun 1921",
@@ -39509,7 +39510,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Langer née Herman",
+  "heading_name": "Hannah Herman, married name Langer",
   "partner_groups": {
    "P0287": "1"
   }
@@ -39698,7 +39699,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Herman",
+  "heading_name": "Malka Herman (married name; birth name not known)",
   "partner_groups": {
    "P0289": "2"
   }
@@ -40235,7 +40236,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Muszkieta Konigsdorf née Liebschutz",
+  "heading_name": "Muszkieta Liebschutz, married name Konigsdorf",
   "partner_groups": {
    "P0292": "1"
   }
@@ -40486,7 +40487,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Liebschutz née Konigsdorf",
+  "heading_name": "Feige Konigsdorf, married name Liebschutz",
   "partner_groups": {
    "P0294": "2"
   }
@@ -40850,7 +40851,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Panzer née Luft",
+  "heading_name": "Esther Orner, married name Panzer",
   "partner_groups": {
    "P0297": "1"
   }
@@ -41152,7 +41153,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hene Orner née Licht",
+  "heading_name": "Hene Licht, married name Orner",
   "partner_groups": {
    "P0299": "1"
   }
@@ -41554,7 +41555,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Golda Rauch née Zanger",
+  "heading_name": "Golda Towel, married name Rauch",
   "partner_groups": {
    "P0302": "1"
   }
@@ -41826,7 +41827,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Towel née Zanger",
+  "heading_name": "Chaya Zanger, married name Towel",
   "partner_groups": {
    "P0304": "2"
   }
@@ -42054,9 +42055,9 @@
   "legal_given": "Hene",
   "common_given": "Hene",
   "legal_surname": "Bakon",
-  "common_surname": "Abrahamowicz",
+  "common_surname": "Freiberger",
   "maiden_surname": "Bakon",
-  "married_surname": null,
+  "married_surname": "Abrahamowicz",
   "sex": "F",
   "birth_date": "c. 1864 (age 72 at death 1936)",
   "death_date": "13 Jul 1936",
@@ -42208,7 +42209,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hene Abrahamowicz née Freiberger",
+  "heading_name": "Hene Freiberger, married name Abrahamowicz",
   "partner_groups": {
    "P0307": "1"
   }
@@ -42617,7 +42618,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Serla Freiberger née Bakon",
+  "heading_name": "Serla Bakon, married name Freiberger",
   "partner_groups": {
    "P0309": "1"
   }
@@ -42807,9 +42808,9 @@
   "legal_given": "Freida",
   "common_given": "Freida",
   "legal_surname": "Schonwetter",
-  "common_surname": "Littman",
+  "common_surname": "Schonwetter",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Littman",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -42921,7 +42922,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Freida Littman née Schonwetter",
+  "heading_name": "Freida Schonwetter, married name Littman",
   "partner_groups": {
    "P0312": "1"
   }
@@ -43126,7 +43127,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Elka Schonwetter",
+  "heading_name": "Elka Schonwetter (married name; birth name not known)",
   "partner_groups": {
    "P0314": "2"
   }
@@ -43711,7 +43712,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Dintenfass née Schonwetter",
+  "heading_name": "Esther Schonwetter, married name Dintenfass",
   "partner_groups": {
    "P0322": "1"
   }
@@ -44080,7 +44081,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Schonwetter née Korzennik",
+  "heading_name": "Hannah Korzennik, married name Schonwetter",
   "partner_groups": {
    "P0324": "2"
   }
@@ -45098,7 +45099,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Panzer née Blatt",
+  "heading_name": "Rachel Blatt, married name Panzer",
   "partner_groups": {
    "P0335": "2"
   }
@@ -45519,7 +45520,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Vitla Kornfeld née Karpf",
+  "heading_name": "Vitla Karpf, married name Kornfeld",
   "partner_groups": {
    "P0338": "1"
   }
@@ -45612,7 +45613,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Beila Rachel Bergman née Orner",
+  "heading_name": "Beila Rachel Orner, married name Bergman",
   "partner_groups": {
    "P2378": "1"
   }
@@ -45744,7 +45745,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Orner née Blasbalg",
+  "heading_name": "Rivka Blasbalg, married name Orner",
   "partner_groups": {
    "P0102": "1"
   }
@@ -45923,7 +45924,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Golda Schonwetter née Wolmuth",
+  "heading_name": "Golda Wolmuth, married name Schonwetter",
   "partner_groups": {
    "P2033": "1"
   }
@@ -46096,7 +46097,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sima Wolmuth née Stecher",
+  "heading_name": "Sima Stecher, married name Wolmuth",
   "partner_groups": {
    "P0349": "2"
   }
@@ -46398,9 +46399,9 @@
   "legal_given": "Rachel",
   "common_given": "Rachel",
   "legal_surname": "Wildstein",
-  "common_surname": "Korzennik",
+  "common_surname": "Wildstein",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Korzennik",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -47075,7 +47076,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Brucha Tager née Goldberg",
+  "heading_name": "Brucha Goldberg, married name Tager",
   "partner_groups": {
    "P0363": "1"
   }
@@ -47444,9 +47445,9 @@
   "legal_given": "Hannah Zipporah",
   "common_given": "Hannah",
   "legal_surname": "Wurzel",
-  "common_surname": "Towel",
+  "common_surname": "Wurzel",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Towel",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -47612,7 +47613,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Towel née Wurzel",
+  "heading_name": "Hannah Wurzel, married name Towel",
   "partner_groups": {
    "P0368": "1"
   }
@@ -47820,7 +47821,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Wurzel née Knispel",
+  "heading_name": "Chaya Knispel, married name Wurzel",
   "partner_groups": {
    "P0370": "2"
   }
@@ -48197,7 +48198,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Fichner née Low",
+  "heading_name": "Feige Low, married name Fichner",
   "partner_groups": {
    "P0373": "1"
   }
@@ -48400,7 +48401,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Low née Malz",
+  "heading_name": "Rivka Malz, married name Low",
   "partner_groups": {
    "P0375": "2"
   }
@@ -48552,9 +48553,9 @@
   "legal_given": "Leah",
   "common_given": "Leah",
   "legal_surname": "Tesser",
-  "common_surname": "Goldfluss",
+  "common_surname": "Tesser",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Goldfluss",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -49352,7 +49353,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tzivia Ritter née Schindel",
+  "heading_name": "Tzivia Schindel, married name Ritter",
   "partner_groups": {
    "P0386": "1"
   }
@@ -49547,7 +49548,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Schindel née Neistater",
+  "heading_name": "Sarah Neistater, married name Schindel",
   "partner_groups": {
    "P0388": "2"
   }
@@ -49755,7 +49756,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Kunstler née Wurzel",
+  "heading_name": "Sarah Wurzel, married name Kunstler",
   "partner_groups": {
    "P0391": "1"
   }
@@ -50258,7 +50259,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Rubel née Walter",
+  "heading_name": "Reisla Walter, married name Rubel",
   "partner_groups": {
    "P0395": "1"
   }
@@ -50742,7 +50743,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Ruchla Diamant née Krautblatt",
+  "heading_name": "Ruchla Offner, married name Diamant",
   "partner_groups": {
    "P0402": "1"
   }
@@ -50969,7 +50970,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Offner née Krautblatt",
+  "heading_name": "Chaya Krautblatt, married name Offner",
   "partner_groups": {
    "P0404": "1"
   }
@@ -51063,7 +51064,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mirla Roth née Pencier",
+  "heading_name": "Mirla Pencier, married name Roth",
   "partner_groups": {
    "P2301": "1"
   }
@@ -51386,9 +51387,9 @@
   "legal_given": "Sara Hene",
   "common_given": "Hene",
   "legal_surname": "Fenechel",
-  "common_surname": "Neuman",
+  "common_surname": "Roth",
   "maiden_surname": "Fenechel",
-  "married_surname": null,
+  "married_surname": "Neuman",
   "sex": "F",
   "birth_date": "c. 1860 (age 42 at death 1902)",
   "death_date": "12 Feb 1902",
@@ -51552,7 +51553,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Hene Neuman née Fenechel",
+  "heading_name": "Hene Roth, married name Neuman",
   "partner_groups": {
    "P0408": "1"
   }
@@ -52199,9 +52200,9 @@
   "legal_given": "Itta",
   "common_given": "Itta",
   "legal_surname": "Reiger",
-  "common_surname": "Bieder",
+  "common_surname": "Reiger",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Bieder",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -52287,7 +52288,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Itta Bieder née Reiger",
+  "heading_name": "Itta Reiger, married name Bieder",
   "partner_groups": {
    "P0415": "1"
   }
@@ -52451,7 +52452,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Perla Reiger née Kapner",
+  "heading_name": "Perla Kapner, married name Reiger",
   "partner_groups": {
    "P0417": "2"
   }
@@ -52606,7 +52607,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Beila Blum née Schlenger",
+  "heading_name": "Beila Schlenger, married name Blum",
   "partner_groups": {
    "P2288": "1"
   }
@@ -52768,7 +52769,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Schlenger née Schlenger",
+  "heading_name": "Malka Schlenger, married name Schlenger",
   "partner_groups": {
    "P0383": "1"
   }
@@ -52969,9 +52970,9 @@
   "legal_given": "Alta Esther",
   "common_given": "Esther",
   "legal_surname": "Fenechel",
-  "common_surname": "Goldberg",
+  "common_surname": "Fenechel",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Goldberg",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -53069,7 +53070,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Goldberg née Fenechel",
+  "heading_name": "Esther Fenechel, married name Goldberg",
   "partner_groups": {
    "P0423": "1"
   }
@@ -53246,7 +53247,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Fenechel née Stein",
+  "heading_name": "Rachel Stein, married name Fenechel",
   "partner_groups": {
    "P0425": "2"
   }
@@ -54041,7 +54042,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hendela Hirsch née Sperber",
+  "heading_name": "Hendela Sperber, married name Hirsch",
   "partner_groups": {
    "P0430": "1"
   }
@@ -54134,7 +54135,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Wachner née Lobel",
+  "heading_name": "Rivka Lobel, married name Wachner",
   "partner_groups": {
    "P2291": "1"
   }
@@ -54249,7 +54250,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Henca Freund née Grabkowicz",
+  "heading_name": "Henca Grabkowicz, married name Freund",
   "partner_groups": {
    "P2363": "1"
   }
@@ -54468,7 +54469,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Grabkowicz née Orner",
+  "heading_name": "Rivka Orner, married name Grabkowicz",
   "partner_groups": {
    "P0434": "1"
   }
@@ -54541,9 +54542,9 @@
   "legal_given": "Pessel",
   "common_given": "Pessel",
   "legal_surname": "Schnöszel",
-  "common_surname": "Turk",
+  "common_surname": "Schnöszel",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Turk",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -54907,9 +54908,9 @@
   "legal_given": "Sarah",
   "common_given": "Sarah",
   "legal_surname": "Krauc",
-  "common_surname": "Wolek",
+  "common_surname": "Krauc",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Wolek",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -55266,7 +55267,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rosa Langer née Rothman",
+  "heading_name": "Rosa Rothman, married name Langer",
   "partner_groups": {
    "P0286": "1"
   }
@@ -55730,7 +55731,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sara Abraham née Halper",
+  "heading_name": "Sara Halper, married name Abraham",
   "partner_groups": {
    "P0450": "1"
   }
@@ -56264,7 +56265,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Maria Zahler née Leibel",
+  "heading_name": "Maria Leibel, married name Zahler",
   "partner_groups": {
    "P0456": "1"
   }
@@ -56426,7 +56427,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Lotta Leibel née Jasmin",
+  "heading_name": "Lotta Jasmin, married name Leibel",
   "partner_groups": {
    "P0458": "2"
   }
@@ -56581,7 +56582,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rosa Unger née Klotz",
+  "heading_name": "Rosa Klotz, married name Unger",
   "partner_groups": {
    "P2262": "1"
   }
@@ -56905,7 +56906,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Leah Amsterdam née Kolber",
+  "heading_name": "Leah Kolber, married name Amsterdam",
   "partner_groups": {
    "P0463": "2"
   }
@@ -57128,7 +57129,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Perla Karpf née Diamant",
+  "heading_name": "Perla Diamant, married name Karpf",
   "partner_groups": {
    "P0055": "1"
   }
@@ -57290,7 +57291,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Diamant née Leber",
+  "heading_name": "Rachel Leber, married name Diamant",
   "partner_groups": {
    "P0467": "2"
   }
@@ -57467,7 +57468,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Malz née Bein",
+  "heading_name": "Rivka Bein, married name Malz",
   "partner_groups": {
    "P2315": "1"
   }
@@ -57716,7 +57717,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Raca Goldberg née Horowitz",
+  "heading_name": "Raca Horowitz, married name Goldberg",
   "partner_groups": {
    "P0472": "2"
   }
@@ -57954,7 +57955,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Yehudit Sturm née Reiss",
+  "heading_name": "Yehudit Reiss, married name Sturm",
   "partner_groups": {
    "P2569": "1"
   }
@@ -58436,7 +58437,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Roth née Kleinman",
+  "heading_name": "Chaya Kleinman, married name Roth",
   "partner_groups": {
    "P0477": "1"
   }
@@ -58626,9 +58627,9 @@
   "legal_given": "Yerla",
   "common_given": "Yerla",
   "legal_surname": "Basler",
-  "common_surname": "Kleinman",
+  "common_surname": "Basler",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Kleinman",
   "sex": "F",
   "birth_date": "c. 1849 (age 80 at death 1929)",
   "death_date": "18 Sep 1929",
@@ -58808,7 +58809,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Yerla Kleinman née Basler",
+  "heading_name": "Yerla Basler, married name Kleinman",
   "partner_groups": {
    "P0479": "1"
   }
@@ -58902,7 +58903,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Unger née Roth",
+  "heading_name": "Sarah Roth, married name Unger",
   "partner_groups": {
    "P2274": "1"
   }
@@ -59000,9 +59001,9 @@
   "legal_given": "Hinde",
   "common_given": "Hinde",
   "legal_surname": "Turk",
-  "common_surname": "Kranz",
+  "common_surname": "Turk",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Kranz",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -60149,7 +60150,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Schwarz née Rubel",
+  "heading_name": "Malka Rubel, married name Schwarz",
   "partner_groups": {
    "P0488": "1"
   }
@@ -60328,7 +60329,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Rubel née Freiberger",
+  "heading_name": "Sarah Freiberger, married name Rubel",
   "partner_groups": {
    "P0395": "2"
   }
@@ -60437,7 +60438,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Baumgarten née Schwarz",
+  "heading_name": "Sarah Schwarz, married name Baumgarten",
   "partner_groups": {
    "P0534": "1"
   }
@@ -60521,9 +60522,9 @@
   "legal_given": "Sofia",
   "common_given": "Sussla",
   "legal_surname": "Finder",
-  "common_surname": "Schaller",
+  "common_surname": "Finder",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Schaller",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -60587,7 +60588,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sussla Schaller née Finder",
+  "heading_name": "Sussla Finder, married name Schaller",
   "partner_groups": {
    "P0492": "1"
   }
@@ -60875,9 +60876,9 @@
   "legal_given": "Reisla",
   "common_given": "Reisla",
   "legal_surname": "Sporn",
-  "common_surname": "Samul",
+  "common_surname": "Sporn",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Samul",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -60970,7 +60971,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Samul née Sporn",
+  "heading_name": "Reisla Sporn, married name Samul",
   "partner_groups": {
    "P0497": "1"
   }
@@ -61147,7 +61148,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Shayndel Sporn",
+  "heading_name": "Shayndel Sporn (married name; birth name not known)",
   "partner_groups": {
    "P0499": "2"
   }
@@ -61531,9 +61532,9 @@
   "legal_given": "Malka Perla",
   "common_given": "Malka Perla",
   "legal_surname": "Tager",
-  "common_surname": "Aron",
+  "common_surname": "Tager",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Aron",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -61744,7 +61745,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Perla Aron née Tager",
+  "heading_name": "Malka Perla Tager, married name Aron",
   "partner_groups": {
    "P0502": "1"
   }
@@ -61838,7 +61839,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Tager née Aron",
+  "heading_name": "Chaya Aron, married name Tager",
   "partner_groups": {
    "P2253": "1"
   }
@@ -62179,9 +62180,9 @@
   "legal_given": "Chaya",
   "common_given": "Chaya",
   "legal_surname": "Blima",
-  "common_surname": "Fenechel",
+  "common_surname": "Blima",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Fenechel",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -62936,7 +62937,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Itta Kichel née Sturm",
+  "heading_name": "Itta Sturm, married name Kichel",
   "partner_groups": {
    "P0513": "1"
   }
@@ -63182,7 +63183,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Golda Sturm née Mandel",
+  "heading_name": "Golda Mandel, married name Sturm",
   "partner_groups": {
    "P0515": "2"
   }
@@ -63275,7 +63276,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Golda Sperber née Kichel",
+  "heading_name": "Golda Kichel, married name Sperber",
   "partner_groups": {
    "P2336": "1"
   }
@@ -63470,7 +63471,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mindla Spett née Dintenfass",
+  "heading_name": "Mindla Dintenfass, married name Spett",
   "partner_groups": {
    "P0518": "1"
   }
@@ -63622,7 +63623,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hence Dintenfass née Bilfeld",
+  "heading_name": "Hence Bilfeld, married name Dintenfass",
   "partner_groups": {
    "P0520": "2"
   }
@@ -63715,7 +63716,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige List née Spett",
+  "heading_name": "Feige Spett, married name List",
   "partner_groups": {
    "P2341": "1"
   }
@@ -64015,9 +64016,9 @@
   "legal_given": "Dobe Feige",
   "common_given": "Feige",
   "legal_surname": "Springer",
-  "common_surname": "Faust",
+  "common_surname": "Springer",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Faust",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -64743,7 +64744,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Yehudit Baumgarten née Hirsch",
+  "heading_name": "Yehudit Hirsch, married name Baumgarten",
   "partner_groups": {
    "P0532": "1"
   }
@@ -64979,9 +64980,9 @@
   "legal_given": "Freida",
   "common_given": "Freida",
   "legal_surname": "Freiberger",
-  "common_surname": "Herman",
+  "common_surname": "Freiberger",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Herman",
   "sex": "F",
   "birth_date": "c. 1868 (age 48 at m-1916-4)",
   "death_date": null,
@@ -65101,7 +65102,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Freida Herman née Freiberger",
+  "heading_name": "Freida Freiberger, married name Herman",
   "partner_groups": {
    "P0535": "1"
   }
@@ -65455,7 +65456,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mindla Sandberg née Schonwetter",
+  "heading_name": "Mindla Schonwetter, married name Sandberg",
   "partner_groups": {
    "P0538": "1"
   }
@@ -65849,7 +65850,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Karpf née Charad",
+  "heading_name": "Sarah Charad, married name Karpf",
   "partner_groups": {
    "P0543": "2"
   }
@@ -65942,7 +65943,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mirla Breindel Lehrhaupt née Kornfeld",
+  "heading_name": "Mirla Breindel Kornfeld, married name Lehrhaupt",
   "partner_groups": {
    "P2389": "1"
   }
@@ -66092,7 +66093,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Dembitzer née Holzer",
+  "heading_name": "Rivka Holzer, married name Dembitzer",
   "partner_groups": {
    "P0546": "1"
   }
@@ -66446,7 +66447,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Bieder née Zeughauser",
+  "heading_name": "Gittla Zeughauser, married name Bieder",
   "partner_groups": {
    "P2312": "1"
   }
@@ -66591,9 +66592,9 @@
   "legal_given": "Tyla",
   "common_given": "Tyla",
   "legal_surname": "Zimmerman",
-  "common_surname": "Landau",
+  "common_surname": "Korzennik",
   "maiden_surname": "Zimmerman",
-  "married_surname": null,
+  "married_surname": "Landau",
   "sex": "F",
   "birth_date": "c. 1869 (age 68y8m at death 1938)",
   "death_date": "8 Feb 1938",
@@ -66738,7 +66739,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tyla Landau née Korzennik",
+  "heading_name": "Tyla Korzennik, married name Landau",
   "partner_groups": {
    "P0553": "1"
   }
@@ -66857,7 +66858,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Korzennik née Zimmerman",
+  "heading_name": "Esther Zimmerman, married name Korzennik",
   "partner_groups": {
    "P0352": "2"
   }
@@ -67063,7 +67064,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Rosenbaum née Wurzel",
+  "heading_name": "Shayndel Wurzel, married name Rosenbaum",
   "partner_groups": {
    "P0505": "1"
   }
@@ -67323,7 +67324,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Amalia Hoffman née Feliks",
+  "heading_name": "Amalia Feliks, married name Hoffman",
   "partner_groups": {
    "P0559": "1"
   }
@@ -67500,7 +67501,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Yetta Feliks née Eisenberg",
+  "heading_name": "Yetta Eisenberg, married name Feliks",
   "partner_groups": {
    "P0561": "2"
   }
@@ -68095,7 +68096,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Miriam Grunberger née Fichner",
+  "heading_name": "Miriam Fichner, married name Grunberger",
   "partner_groups": {
    "P0567": "1"
   }
@@ -68360,7 +68361,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Itta Goldberg née Grossbard",
+  "heading_name": "Itta Grossbard, married name Goldberg",
   "partner_groups": {
    "P0063": "1"
   }
@@ -68527,7 +68528,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Teme Grossbard née Benenstock",
+  "heading_name": "Teme Benenstock, married name Grossbard",
   "partner_groups": {
    "P0572": "2"
   }
@@ -68620,7 +68621,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Kifel née Goldberg",
+  "heading_name": "Reisla Goldberg, married name Kifel",
   "partner_groups": {
    "P2328": "1"
   }
@@ -68864,7 +68865,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Weintraub née List",
+  "heading_name": "Esther List, married name Weintraub",
   "partner_groups": {
    "P0575": "1"
   }
@@ -69070,7 +69071,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige List née Berger",
+  "heading_name": "Feige Berger, married name List",
   "partner_groups": {
    "P0577": "2"
   }
@@ -69425,7 +69426,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rozalia Schonwetter née Laub",
+  "heading_name": "Rozalia Laub, married name Schonwetter",
   "partner_groups": {
    "P0580": "1"
   }
@@ -69618,7 +69619,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Laub née Hajman",
+  "heading_name": "Sarah Haim, married name Laub",
   "partner_groups": {
    "P0582": "2"
   }
@@ -69932,7 +69933,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Matylda Druck née Wrobel",
+  "heading_name": "Matylda Wrobel, married name Druck",
   "partner_groups": {
    "P0586": "1"
   }
@@ -70248,7 +70249,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Wrobel née Schaufel",
+  "heading_name": "Hannah Schaufel, married name Wrobel",
   "partner_groups": {
    "P0588": "1"
   }
@@ -70990,7 +70991,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Schneps née Schneps",
+  "heading_name": "Malka Schneps, married name Schneps",
   "partner_groups": {
    "P0596": "1"
   }
@@ -71192,7 +71193,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Leah Schneps née Schachter",
+  "heading_name": "Sarah Leah Schachter, married name Schneps",
   "partner_groups": {
    "P0598": "2"
   }
@@ -71488,7 +71489,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pessel Rein née Blutman",
+  "heading_name": "Pessel Blutman, married name Rein",
   "partner_groups": {
    "P0602": "1"
   }
@@ -71640,7 +71641,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Blutman née Kaufer",
+  "heading_name": "Freida Kaufer, married name Blutman",
   "partner_groups": {
    "P0604": "2"
   }
@@ -71921,7 +71922,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pessel Klausner née Aron",
+  "heading_name": "Pessel Aron, married name Klausner",
   "partner_groups": {
    "P2333": "1"
   }
@@ -72077,7 +72078,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Miriam Nurnberg née Schwarz",
+  "heading_name": "Miriam Schwarz, married name Nurnberg",
   "partner_groups": {
    "P2350": "1"
   }
@@ -72437,7 +72438,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Matla Wolkenfeld née Zehnwirth",
+  "heading_name": "Matla Zehngutt, married name Wolkenfeld",
   "partner_groups": {
    "P0615": "1"
   }
@@ -72605,7 +72606,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Itta Zehnwirth née Zehngutt",
+  "heading_name": "Itta Zehngutt, married name Zehnwirth",
   "partner_groups": {
    "P0617": "2"
   }
@@ -72926,9 +72927,9 @@
   "legal_given": "Gittla",
   "common_given": "Gittla",
   "legal_surname": "Nechemje",
-  "common_surname": "Altman",
+  "common_surname": "Nechemje",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Altman",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -73076,7 +73077,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Shayndel Nechemje née Rubel",
+  "heading_name": "Shayndel Rubel, married name Nechemje",
   "partner_groups": {
    "P0013": "2"
   }
@@ -73232,7 +73233,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Krebs née Faust",
+  "heading_name": "Rachel Faust, married name Krebs",
   "partner_groups": {
    "P2331": "1"
   }
@@ -73325,7 +73326,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rosa Stern née Licht",
+  "heading_name": "Rosa Licht, married name Stern",
   "partner_groups": {
    "P2469": "1"
   }
@@ -73584,7 +73585,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mirla Brandsdorfer née Weissbard",
+  "heading_name": "Mirla Weissbard, married name Brandsdorfer",
   "partner_groups": {
    "P0630": "2"
   }
@@ -73753,7 +73754,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Schonberg née Weinberg",
+  "heading_name": "Reisla Weinberg, married name Schonberg",
   "partner_groups": {
    "P0633": "1"
   }
@@ -73915,7 +73916,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Weinberg née Klinger",
+  "heading_name": "Feige Klinger, married name Weinberg",
   "partner_groups": {
    "P0635": "2"
   }
@@ -74496,7 +74497,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Sarah Mindla Friedenbach née Freiberger",
+  "heading_name": "Sarah Mindla Freiberger, married name Friedenbach",
   "partner_groups": {
    "P0641": "1"
   }
@@ -75058,7 +75059,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Freida Sperber née Walter",
+  "heading_name": "Freida Walter, married name Sperber",
   "partner_groups": {
    "P0646": "1"
   }
@@ -75389,9 +75390,9 @@
   "legal_given": "Shilamis",
   "common_given": "Shilamis",
   "legal_surname": "Schlenger",
-  "common_surname": "Unger",
+  "common_surname": "Schlenger",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Unger",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -75552,7 +75553,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shilamis Unger née Schlanger",
+  "heading_name": "Shilamis Schlenger, married name Unger",
   "partner_groups": {
    "P0650": "1"
   }
@@ -75779,7 +75780,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Liba Schlenger née Weber",
+  "heading_name": "Liba Weber, married name Schlenger",
   "partner_groups": {
    "P0652": "2"
   }
@@ -76094,7 +76095,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Doba Rudner née Majerhoff",
+  "heading_name": "Doba Majerhoff, married name Rudner",
   "partner_groups": {
    "P0656": "2"
   }
@@ -76520,9 +76521,9 @@
   "legal_given": "Marjem",
   "common_given": "Marjem",
   "legal_surname": "Mahler",
-  "common_surname": "Bier",
+  "common_surname": "Mahler",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Bier",
   "sex": "F",
   "birth_date": "c. 1855 Brzostek (per m-1925-3 source; age 70 at marriage)",
   "death_date": null,
@@ -76632,7 +76633,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Marjem Bier née Mahler",
+  "heading_name": "Marjem Mahler, married name Bier",
   "partner_groups": {
    "P0662": "1"
   }
@@ -77201,9 +77202,9 @@
   "legal_given": "Tyla",
   "common_given": "Tyla",
   "legal_surname": "Bieder",
-  "common_surname": "Fisch",
+  "common_surname": "Bieder",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Fisch",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -77332,7 +77333,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tyla Fisch née Bieder",
+  "heading_name": "Tyla Bieder, married name Fisch",
   "partner_groups": {
    "P0671": "1"
   }
@@ -77457,7 +77458,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Bieder née Rubel",
+  "heading_name": "Feige Rubel, married name Bieder",
   "partner_groups": {
    "P0120": "2"
   }
@@ -77611,9 +77612,9 @@
   "legal_given": "Adela",
   "common_given": "Adela",
   "legal_surname": "Engelhard",
-  "common_surname": "Amsterdam",
+  "common_surname": "Engelhard",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Amsterdam",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -77962,9 +77963,9 @@
   "legal_given": "Hene",
   "common_given": "Hene",
   "legal_surname": "Gewirtz",
-  "common_surname": "Blumenberg",
+  "common_surname": "Gewirtz",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Blumenberg",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -78187,7 +78188,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Beila Gewirtz née Thaler",
+  "heading_name": "Hannah Beila Thaler, married name Gewirtz",
   "partner_groups": {
    "P0683": "2"
   }
@@ -78939,7 +78940,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Amsterdam née Lambek",
+  "heading_name": "Shayndel Lambek, married name Amsterdam",
   "partner_groups": {
    "P0689": "1"
   }
@@ -79181,7 +79182,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Lambek née Kalb",
+  "heading_name": "Hannah Kalb, married name Lambek",
   "partner_groups": {
    "P0691": "2"
   }
@@ -79275,7 +79276,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Gittla Schonwetter née Amsterdam",
+  "heading_name": "Leah Gittla Amsterdam, married name Schonwetter",
   "partner_groups": {
    "P1581": "1"
   }
@@ -79770,9 +79771,9 @@
   "legal_given": "Hinde",
   "common_given": "Hinde",
   "legal_surname": "Rubel",
-  "common_surname": "Schuss",
+  "common_surname": "Rubel",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Schuss",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -79974,7 +79975,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hinde Schuss née Rubel",
+  "heading_name": "Hinde Rubel, married name Schuss",
   "partner_groups": {
    "P0697": "1"
   }
@@ -80151,7 +80152,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Schonwetter née Kornfeld",
+  "heading_name": "Leah Kornfeld, married name Schonwetter",
   "partner_groups": {
    "P0465": "1"
   }
@@ -81035,7 +81036,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Itta Singer née Orner",
+  "heading_name": "Itta Orner, married name Singer",
   "partner_groups": {
    "P0709": "1"
   }
@@ -81488,7 +81489,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Scheier née Schonwetter",
+  "heading_name": "Sarah Schonwetter, married name Scheier",
   "partner_groups": {
    "P0714": "1"
   }
@@ -81936,9 +81937,9 @@
   "legal_given": "Feige",
   "common_given": "Feige",
   "legal_surname": "Panzer",
-  "common_surname": "Ratz",
+  "common_surname": "Panzer",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Ratz",
   "sex": "F",
   "birth_date": "c. 1878 (age 59y11m at death 1938)",
   "death_date": "25 Jan 1938",
@@ -82090,7 +82091,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Feige Ratz née Panzer",
+  "heading_name": "Feige Panzer, married name Ratz",
   "partner_groups": {
    "P0915": "1"
   }
@@ -82327,7 +82328,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gittla Blasbalg née Brand",
+  "heading_name": "Gittla Brand, married name Blasbalg",
   "partner_groups": {
    "P0725": "2"
   }
@@ -83088,7 +83089,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Schilloj née Strumpf",
+  "heading_name": "Reisla Eisen, married name Schilloj",
   "partner_groups": {
    "P0735": "1"
   }
@@ -83265,7 +83266,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hene Eisen née Strumpf",
+  "heading_name": "Hene Strumpf, married name Eisen",
   "partner_groups": {
    "P0737": "2"
   }
@@ -83496,7 +83497,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Keile Kornblutt née Berkelhamer",
+  "heading_name": "Keile Berkelhamer, married name Kornblutt",
   "partner_groups": {
    "P0740": "1"
   }
@@ -83663,7 +83664,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rosa Berkelhamer née Chomont",
+  "heading_name": "Rosa Chomont, married name Berkelhamer",
   "partner_groups": {
    "P0742": "2"
   }
@@ -84007,7 +84008,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Low née Baumgarten",
+  "heading_name": "Esther Baumgarten, married name Low",
   "partner_groups": {
    "P2347": "1"
   }
@@ -84380,7 +84381,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Schlenger née Goldman",
+  "heading_name": "Leah Goldman, married name Schlenger",
   "partner_groups": {
    "P0749": "1"
   }
@@ -84626,7 +84627,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tauba Goldman née Drobner",
+  "heading_name": "Tauba Drobner, married name Goldman",
   "partner_groups": {
    "P0751": "2"
   }
@@ -84719,7 +84720,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tauba Bochner née Schlenger",
+  "heading_name": "Tauba Schlenger, married name Bochner",
   "partner_groups": {
    "P0220": "1"
   }
@@ -84812,7 +84813,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Tal née Licht",
+  "heading_name": "Esther Licht, married name Tal",
   "partner_groups": {
    "P0902": "1"
   }
@@ -85092,7 +85093,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Dintenfass née Schonwetter",
+  "heading_name": "Hannah Schonwetter, married name Dintenfass",
   "partner_groups": {
    "P0733": "1"
   }
@@ -85384,7 +85385,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hence Ezra (also Geler/Geller) née Wurzel",
+  "heading_name": "Hence Wurzel, married name Ezra (also Geler/Geller)",
   "partner_groups": {
    "P0760": "2"
   }
@@ -85562,7 +85563,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rosa Gottlieb née Roth",
+  "heading_name": "Rosa Roth, married name Gottlieb",
   "partner_groups": {
    "P2344": "1"
   }
@@ -85572,9 +85573,9 @@
   "legal_given": "Feige",
   "common_given": "Feige",
   "legal_surname": "Gastwirt",
-  "common_surname": "Bodner",
+  "common_surname": "Gastwirt",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Bodner",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -85881,7 +85882,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Gastwirt née Bornfeld",
+  "heading_name": "Rivka Bornfeld, married name Gastwirt",
   "partner_groups": {
    "P0765": "2"
   }
@@ -86345,7 +86346,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Lobel née Verziger",
+  "heading_name": "Malka Schlenger, married name Lobel",
   "partner_groups": {
    "P0770": "1"
   }
@@ -86465,7 +86466,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Breindel Schlenger née Verziger",
+  "heading_name": "Breindel Verziger, married name Schlenger",
   "partner_groups": {
    "P1065": "2"
   }
@@ -86969,7 +86970,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Kornfeld née Klausner",
+  "heading_name": "Shayndel Klausner, married name Kornfeld",
   "partner_groups": {
    "P0776": "1"
   }
@@ -87229,7 +87230,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Mirla Diller née Klotz",
+  "heading_name": "Leah Mirla Klotz, married name Diller",
   "partner_groups": {
    "P2443": "1"
   }
@@ -87441,7 +87442,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Wiesenfeld née Blut",
+  "heading_name": "Sarah Blut, married name Wiesenfeld",
   "partner_groups": {
    "P0782": "1"
   }
@@ -87596,7 +87597,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Baar née Friedenbach",
+  "heading_name": "Feige Friedenbach, married name Baar",
   "partner_groups": {
    "P2309": "1"
   }
@@ -87892,7 +87893,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Storch née Schlusselberg",
+  "heading_name": "Shayndel Schlusselberg, married name Storch",
   "partner_groups": {
    "P0788": "1"
   }
@@ -88247,7 +88248,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Minnie Katz née Siegfried",
+  "heading_name": "Minnie Siegfried, married name Katz",
   "partner_groups": {
    "P2412": "1"
   }
@@ -88340,7 +88341,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Beila Heringfass née Goldberg",
+  "heading_name": "Beila Goldberg, married name Heringfass",
   "partner_groups": {
    "P2416": "1"
   }
@@ -88830,7 +88831,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Sperber née Klotz",
+  "heading_name": "Feige Klotz, married name Sperber",
   "partner_groups": {
    "P0801": "1"
   }
@@ -89002,7 +89003,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gittla Klotz née Forgacz",
+  "heading_name": "Gittla Forgacz, married name Klotz",
   "partner_groups": {
    "P0803": "2"
   }
@@ -89668,7 +89669,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Scheindel Low née Rein",
+  "heading_name": "Scheindel Rein, married name Low",
   "partner_groups": {
    "P0810": "1"
   }
@@ -89966,7 +89967,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mirla Rein née Korn",
+  "heading_name": "Mirla Korn, married name Rein",
   "partner_groups": {
    "P0812": "1"
   }
@@ -90493,7 +90494,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Schindel née Riner",
+  "heading_name": "Rivka Riner, married name Schindel",
   "partner_groups": {
    "P0820": "1"
   }
@@ -90894,7 +90895,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Wind née Kornfeld",
+  "heading_name": "Hannah Kornfeld, married name Wind",
   "partner_groups": {
    "P2530": "1"
   }
@@ -91049,7 +91050,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deiche Ratz née Kichel",
+  "heading_name": "Deiche Kichel, married name Ratz",
   "partner_groups": {
    "P0916": "1"
   }
@@ -91202,9 +91203,9 @@
   "legal_given": "Sarah",
   "common_given": "Sarah",
   "legal_surname": "Winianer",
-  "common_surname": "Kaller",
+  "common_surname": "Winianer",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Kaller",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -91429,7 +91430,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chava Winianer née Galus",
+  "heading_name": "Chava Galus, married name Winianer",
   "partner_groups": {
    "P0832": "2"
   }
@@ -91851,7 +91852,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Hinde Sperber née Walter",
+  "heading_name": "Hinde Walter, married name Sperber",
   "partner_groups": {
    "P0646": "1"
   }
@@ -91953,7 +91954,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sima Walter née Kleinman",
+  "heading_name": "Sima Kleinman, married name Walter",
   "partner_groups": {
    "P0225": "2"
   }
@@ -92368,7 +92369,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pessel Silberberg née Bloch",
+  "heading_name": "Pessel Bloch, married name Silberberg",
   "partner_groups": {
    "P0841": "1"
   }
@@ -92586,7 +92587,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Trinczer née Lobel",
+  "heading_name": "Reisla Lobel, married name Trinczer",
   "partner_groups": {
    "P2454": "1"
   }
@@ -92803,7 +92804,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Freida Wulkan née Schwarz",
+  "heading_name": "Freida Schwarz, married name Wulkan",
   "partner_groups": {
    "P2503": "1"
   }
@@ -93901,7 +93902,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Miriam Blum née Hirsch",
+  "heading_name": "Miriam Hirsch, married name Blum",
   "partner_groups": {
    "P0860": "1"
   }
@@ -94361,9 +94362,9 @@
   "legal_given": "Rosa",
   "common_given": "Rosa",
   "legal_surname": "Wegier",
-  "common_surname": "Neuman",
+  "common_surname": "Wegier",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Neuman",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -94490,7 +94491,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rosa Neuman née Lustig",
+  "heading_name": "Rosa Wegier, married name Neuman",
   "partner_groups": {
    "P0408": "1"
   }
@@ -95221,7 +95222,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tzilka Dembitzer née Sperber",
+  "heading_name": "Tzilka Sperber, married name Dembitzer",
   "partner_groups": {
    "P0876": "1"
   }
@@ -95368,7 +95369,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Sperber née Tager",
+  "heading_name": "Esther Tager, married name Sperber",
   "partner_groups": {
    "P2571": "2"
   }
@@ -95979,7 +95980,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Bluma Gewirtz née Blatt",
+  "heading_name": "Bluma Blatt, married name Gewirtz",
   "partner_groups": {
    "P2680": "2"
   }
@@ -96471,7 +96472,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Sperber née Wurzel",
+  "heading_name": "Esther Wurzel, married name Sperber",
   "partner_groups": {
    "P0891": "1"
   }
@@ -96688,7 +96689,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Wurzel née Schall",
+  "heading_name": "Feige Schall, married name Wurzel",
   "partner_groups": {
    "P0893": "2"
   }
@@ -96879,9 +96880,9 @@
   "legal_given": "Chaya Sarah",
   "common_given": "Sarah",
   "legal_surname": "Thau",
-  "common_surname": "Bieder",
+  "common_surname": "Ader",
   "maiden_surname": "Ader",
-  "married_surname": null,
+  "married_surname": "Bieder",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -97047,7 +97048,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Thau née Ader",
+  "heading_name": "Sarah Ader, married name Thau",
   "partner_groups": {
    "P0898": "1"
   }
@@ -97259,7 +97260,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Beila Ader née Tratner",
+  "heading_name": "Beila Tratner, married name Ader",
   "partner_groups": {
    "P0900": "2"
   }
@@ -97608,7 +97609,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pina Noth née Braunheim",
+  "heading_name": "Pina Braunheim, married name Noth",
   "partner_groups": {
    "P0903": "1"
   }
@@ -97814,7 +97815,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Shayndel Braunheim née Verziger",
+  "heading_name": "Shayndel Verziger, married name Braunheim",
   "partner_groups": {
    "P0905": "2"
   }
@@ -97990,7 +97991,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Panzer née Beil",
+  "heading_name": "Gittla Beil, married name Panzer",
   "partner_groups": {
    "P2574": "1"
   }
@@ -98172,7 +98173,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Golda Beil née Reck",
+  "heading_name": "Golda Reck, married name Beil",
   "partner_groups": {
    "P0909": "2"
   }
@@ -98577,7 +98578,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rondla Rachel Spinad née Schlenger",
+  "heading_name": "Rondla Rachel Schlenger, married name Spinad",
   "partner_groups": {
    "P2532": "1"
   }
@@ -99021,7 +99022,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Mehr née Schuss",
+  "heading_name": "Feige Schuss, married name Mehr",
   "partner_groups": {
    "P2431": "1"
   }
@@ -99151,9 +99152,9 @@
   "legal_given": "Rivka",
   "common_given": "Rivka",
   "legal_surname": "Lederer",
-  "common_surname": "Reimer",
+  "common_surname": "Lederer",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Reimer",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -99258,7 +99259,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Reimer née Lederer",
+  "heading_name": "Rivka Lederer, married name Reimer",
   "partner_groups": {
    "P0919": "2"
   }
@@ -99435,7 +99436,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Dacha Lederer née Gelb",
+  "heading_name": "Dacha Gelb, married name Lederer",
   "partner_groups": {
    "P0921": "2"
   }
@@ -100034,7 +100035,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Rozner née Just",
+  "heading_name": "Rachel Just, married name Rozner",
   "partner_groups": {
    "P0924": "1"
   }
@@ -100422,7 +100423,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Kurz née Schonberg",
+  "heading_name": "Gittla Schonberg, married name Kurz",
   "partner_groups": {
    "P0912": "1"
   }
@@ -100604,7 +100605,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Schonberg née Leinziger",
+  "heading_name": "Rivka Leinziger, married name Schonberg",
   "partner_groups": {
    "P0930": "2"
   }
@@ -100988,7 +100989,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Ezra née Friedenbach",
+  "heading_name": "Hannah Friedenbach, married name Ezra",
   "partner_groups": {
    "P1583": "1"
   }
@@ -101383,7 +101384,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deborah Storch née Rubin",
+  "heading_name": "Deborah Rubin, married name Storch",
   "partner_groups": {
    "P0937": "1"
   }
@@ -101560,7 +101561,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Sarah Rubin née Lampel",
+  "heading_name": "Chaya Sarah Lampel, married name Rubin",
   "partner_groups": {
    "P0940": "2"
   }
@@ -102581,7 +102582,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Bergman née Nechemje",
+  "heading_name": "Chaya Nechemje, married name Bergman",
   "partner_groups": {
    "P0947": "1"
   }
@@ -102719,7 +102720,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Nechemje née Kleinman",
+  "heading_name": "Rivka Kleinman, married name Nechemje",
   "partner_groups": {
    "P0013": "2"
   }
@@ -103020,7 +103021,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Schonwetter née Bein",
+  "heading_name": "Sarah Bein, married name Schonwetter",
   "partner_groups": {
    "P0115": "1"
   }
@@ -103274,7 +103275,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hene Fisch née Sturm",
+  "heading_name": "Hene Sturm, married name Fisch",
   "partner_groups": {
    "P0957": "1"
   }
@@ -103473,7 +103474,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Sturm née Roth",
+  "heading_name": "Esther Roth, married name Sturm",
   "partner_groups": {
    "P0959": "2"
   }
@@ -103688,9 +103689,9 @@
   "legal_given": "Sarah",
   "common_given": "Sarah",
   "legal_surname": "Joehner",
-  "common_surname": "Berger",
+  "common_surname": "Joehner",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Berger",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -103913,7 +103914,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Perla Joehner née Krombark",
+  "heading_name": "Perla Krombark, married name Joehner",
   "partner_groups": {
    "P0965": "2"
   }
@@ -104070,7 +104071,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sima Kleinman née Sperber",
+  "heading_name": "Sima Sperber, married name Kleinman",
   "partner_groups": {
    "P2423": "1"
   }
@@ -104503,7 +104504,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Reisla Reiss née Kornfeld",
+  "heading_name": "Reisla Kornfeld, married name Reiss",
   "partner_groups": {
    "P0971": "2"
   }
@@ -104950,7 +104951,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Cirla Jachimowicz née Schindel",
+  "heading_name": "Cirla Schindel, married name Jachimowicz",
   "partner_groups": {
    "P2446": "1"
   }
@@ -105501,7 +105502,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Klausner née Kaner",
+  "heading_name": "Feige Kaner, married name Klausner",
   "partner_groups": {
    "P0778": "2"
   }
@@ -106154,7 +106155,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Basia Thum née Noth",
+  "heading_name": "Esther Basia Noth, married name Thum",
   "partner_groups": {
    "P2460": "1"
   }
@@ -107098,7 +107099,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Freiberger née Bakon",
+  "heading_name": "Leah Bakon, married name Freiberger",
   "partner_groups": {
    "P1008": "1"
   }
@@ -107250,7 +107251,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Bakon née Himmelfarb",
+  "heading_name": "Esther Himmelfarb, married name Bakon",
   "partner_groups": {
    "P1010": "2"
   }
@@ -107539,9 +107540,9 @@
   "legal_given": "Shayndel",
   "common_given": "Shayndel",
   "legal_surname": "Klotz",
-  "common_surname": "Horowitz",
+  "common_surname": "Klotz",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Horowitz",
   "sex": "F",
   "birth_date": "8 Apr 1887",
   "death_date": null,
@@ -107682,7 +107683,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Horowitz née Klotz",
+  "heading_name": "Shayndel Klotz, married name Horowitz",
   "partner_groups": {
    "P1013": "1"
   }
@@ -107776,7 +107777,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Gittla Lehrer née Horowitz",
+  "heading_name": "Esther Gittla Horowitz, married name Lehrer",
   "partner_groups": {
    "P2371": "1"
   }
@@ -107968,9 +107969,9 @@
   "legal_given": "Rivka",
   "common_given": "Rivka",
   "legal_surname": "Plattner",
-  "common_surname": "Burstin",
+  "common_surname": "Plattner",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Burstin",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -108072,7 +108073,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Burstin née Plattner",
+  "heading_name": "Rivka Plattner, married name Burstin",
   "partner_groups": {
    "P0998": "1"
   }
@@ -108224,7 +108225,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Plattner née Krebs",
+  "heading_name": "Leah Krebs, married name Plattner",
   "partner_groups": {
    "P0014": "1"
   }
@@ -108496,7 +108497,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Lora Birnbaum née Zahler",
+  "heading_name": "Lora Zahler, married name Birnbaum",
   "partner_groups": {
    "P1022": "1"
   }
@@ -108925,7 +108926,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Schonwetter née Dintenfass",
+  "heading_name": "Rivka Dintenfass, married name Schonwetter",
   "partner_groups": {
    "P1026": "1"
   }
@@ -109266,7 +109267,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Sturm née Leiman",
+  "heading_name": "Leah Leiman, married name Sturm",
   "partner_groups": {
    "P1030": "1"
   }
@@ -109448,7 +109449,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Shayndel Leiman née Denn",
+  "heading_name": "Shayndel Denn, married name Leiman",
   "partner_groups": {
    "P1032": "2"
   }
@@ -109660,7 +109661,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Orner née Turner",
+  "heading_name": "Gittla Turner, married name Orner",
   "partner_groups": {
    "P1035": "1"
   }
@@ -109812,7 +109813,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Turner née Zahler",
+  "heading_name": "Feige Zahler, married name Turner",
   "partner_groups": {
    "P1037": "2"
   }
@@ -110603,7 +110604,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Rubel née Fisch",
+  "heading_name": "Rivka Fisch, married name Rubel",
   "partner_groups": {
    "P2693": "1"
   }
@@ -110846,7 +110847,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Aidla Fisch née Schonwetter",
+  "heading_name": "Aidla Schonwetter, married name Fisch",
   "partner_groups": {
    "P1048": "2"
   }
@@ -111320,7 +111321,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deborah Bochner née Rein",
+  "heading_name": "Deborah Rein, married name Bochner",
   "partner_groups": {
    "P1053": "1"
   }
@@ -111427,7 +111428,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Sarno née Bochner",
+  "heading_name": "Rivka Bochner, married name Sarno",
   "partner_groups": {
    "P2357": "1"
   }
@@ -112265,7 +112266,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Yehudit Tugendhoft née Lobel",
+  "heading_name": "Yehudit Lobel, married name Tugendhoft",
   "partner_groups": {
    "P2491": "1"
   }
@@ -112358,7 +112359,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tauba Neubart née Weintraub",
+  "heading_name": "Tauba Weintraub, married name Neubart",
   "partner_groups": {
    "P2398": "1"
   }
@@ -112933,7 +112934,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Beila Furst née Schonwald",
+  "heading_name": "Beila Schonwald, married name Furst",
   "partner_groups": {
    "P1074": "1"
   }
@@ -113085,7 +113086,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Alta Schonwald née Braun",
+  "heading_name": "Alta Braun, married name Schonwald",
   "partner_groups": {
    "P1076": "2"
   }
@@ -113333,7 +113334,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Gittla Steiner née Hirsch",
+  "heading_name": "Gittla Hirsch, married name Steiner",
   "partner_groups": {
    "P1082": "1"
   }
@@ -113951,7 +113952,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Weinberger née Sperber",
+  "heading_name": "Leah Sperber, married name Weinberger",
   "partner_groups": {
    "P2463": "1"
   }
@@ -114716,7 +114717,7 @@
    "death_date_text": "1942 at Bełżec extermination camp (per Yad Vashem record 880812)"
   },
   "unions": [],
-  "heading_name": "Pessel Wolf née Licht",
+  "heading_name": "Pessel Licht, married name Wolf",
   "partner_groups": {
    "P1093": "1"
   }
@@ -114871,7 +114872,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rondla Rachel Dintenfass née Lobel",
+  "heading_name": "Rondla Rachel Lobel, married name Dintenfass",
   "partner_groups": {
    "P0983": "1"
   }
@@ -115206,7 +115207,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Kornreich née Rothman",
+  "heading_name": "Feige Rothman, married name Kornreich",
   "partner_groups": {
    "P1097": "1"
   }
@@ -115300,7 +115301,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deborah Fisch née Kornreich",
+  "heading_name": "Deborah Kornreich, married name Fisch",
   "partner_groups": {
    "P1101": "1"
   }
@@ -115393,7 +115394,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Resla Lobel née Reiss",
+  "heading_name": "Resla Reiss, married name Lobel",
   "partner_groups": {
    "P2413": "1"
   }
@@ -115578,7 +115579,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Spiera née Baumgarten",
+  "heading_name": "Rivka Baumgarten, married name Spiera",
   "partner_groups": {
    "P2560": "1"
   }
@@ -115917,7 +115918,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Bina Wolkenfeld née Silberstein",
+  "heading_name": "Bina Silberstein, married name Wolkenfeld",
   "partner_groups": {
    "P0056": "1"
   }
@@ -116011,7 +116012,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Rokach née Wolkenfeld",
+  "heading_name": "Shayndel Wolkenfeld, married name Rokach",
   "partner_groups": {
    "P2401": "1"
   }
@@ -116191,7 +116192,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Lobel née Diamant",
+  "heading_name": "Rachel Diamant, married name Lobel",
   "partner_groups": {
    "P0981": "1"
   }
@@ -116373,7 +116374,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Diamant née Heffner",
+  "heading_name": "Chaya Heffner, married name Diamant",
   "partner_groups": {
    "P1110": "2"
   }
@@ -116763,7 +116764,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Reisla Wrobel née Zeisler",
+  "heading_name": "Reisla Zeisler, married name Wrobel",
   "partner_groups": {
    "P2185": "1"
   }
@@ -117246,7 +117247,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Bauernfreund née Korzennik",
+  "heading_name": "Chaya Korzennik, married name Bauernfreund",
   "partner_groups": {
    "P1121": "1"
   }
@@ -117672,7 +117673,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deborah Guttstein née Feier",
+  "heading_name": "Deborah Arnold, married name Guttstein",
   "partner_groups": {
    "P0256": "1"
   }
@@ -117858,7 +117859,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Arnold née Feier",
+  "heading_name": "Hannah Feier, married name Arnold",
   "partner_groups": {
    "P1128": "2"
   }
@@ -118838,7 +118839,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Zeller née Storch",
+  "heading_name": "Chaya Storch, married name Zeller",
   "partner_groups": {
    "P1140": "1"
   }
@@ -118973,7 +118974,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Maria Storch née Sperber",
+  "heading_name": "Maria Sperber, married name Storch",
   "partner_groups": {
    "P0033": "1"
   }
@@ -119268,7 +119269,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Necha Rothman née Diamant",
+  "heading_name": "Necha Diamant, married name Rothman",
   "partner_groups": {
    "P1144": "1"
   }
@@ -120131,7 +120132,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tzirla Klein née Fichner",
+  "heading_name": "Tzirla Fichner, married name Klein",
   "partner_groups": {
    "P2558": "1"
   }
@@ -120558,7 +120559,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hene Stadtfeld née Herman",
+  "heading_name": "Hene Herman, married name Stadtfeld",
   "partner_groups": {
    "P2486": "1"
   }
@@ -121008,7 +121009,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Malka Braunheim née Nechemje",
+  "heading_name": "Malka Nechemje, married name Braunheim",
   "partner_groups": {
    "P1170": "1"
   }
@@ -121199,7 +121200,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Nechemje née Leiman",
+  "heading_name": "Sarah Leiman, married name Nechemje",
   "partner_groups": {
    "P1172": "2"
   }
@@ -121763,7 +121764,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sussla Kirsch née Unger",
+  "heading_name": "Sussla Unger, married name Kirsch",
   "partner_groups": {
    "P1180": "1"
   }
@@ -121953,7 +121954,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Sarah Unger née Roth",
+  "heading_name": "Chaya Sarah Roth, married name Unger",
   "partner_groups": {
    "P1182": "2"
   }
@@ -122205,7 +122206,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Felsen née Rubel",
+  "heading_name": "Feige Rubel, married name Felsen",
   "partner_groups": {
    "P1185": "1"
   }
@@ -122521,7 +122522,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Frommer née Wrobel",
+  "heading_name": "Rachel Wrobel, married name Frommer",
   "partner_groups": {
    "P1131": "1"
   }
@@ -122741,9 +122742,9 @@
   "legal_given": "Chaya",
   "common_given": "Chaya",
   "legal_surname": "Tager",
-  "common_surname": "Katz",
+  "common_surname": "Tager",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Katz",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -123053,7 +123054,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Zahler née Bieder",
+  "heading_name": "Leah Bieder, married name Zahler",
   "partner_groups": {
    "P2514": "1"
   }
@@ -123146,7 +123147,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Amalia Korn née Bein",
+  "heading_name": "Amalia Bein, married name Korn",
   "partner_groups": {
    "P2535": "1"
   }
@@ -123239,7 +123240,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Kolber née Storch",
+  "heading_name": "Hannah Storch, married name Kolber",
   "partner_groups": {
    "P2472": "1"
   }
@@ -123436,7 +123437,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Serla Low née Kichel",
+  "heading_name": "Serla Kichel, married name Low",
   "partner_groups": {
    "P0810": "1"
   }
@@ -123895,7 +123896,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Reiss née Mantel",
+  "heading_name": "Chaya Mantel, married name Reiss",
   "partner_groups": {
    "P2570": "1"
   }
@@ -124091,7 +124092,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Mantel née Reiss",
+  "heading_name": "Malka Reiss, married name Mantel",
   "partner_groups": {
    "P1209": "2"
   }
@@ -124254,7 +124255,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Liba Kornfeld née Jortner",
+  "heading_name": "Liba Jortner, married name Kornfeld",
   "partner_groups": {
    "P2692": "1"
   }
@@ -124431,7 +124432,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mirla Jortner née Littman",
+  "heading_name": "Mirla Littman, married name Jortner",
   "partner_groups": {
    "P1213": "2"
   }
@@ -124826,7 +124827,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sussla Altholz née Dintenfass",
+  "heading_name": "Sussla Dintenfass, married name Altholz",
   "partner_groups": {
    "P1218": "1"
   }
@@ -125267,7 +125268,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Elka Kurzer née Rej",
+  "heading_name": "Elka Rej, married name Kurzer",
   "partner_groups": {
    "P1224": "2"
   }
@@ -125695,9 +125696,9 @@
   "legal_given": "Rachel",
   "common_given": "Rachel",
   "legal_surname": "Klotz",
-  "common_surname": "Kaufman",
+  "common_surname": "Klotz",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Kaufman",
   "sex": "F",
   "birth_date": "17 Mar 1886",
   "death_date": null,
@@ -125807,7 +125808,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Kaufman née Klotz",
+  "heading_name": "Rachel Klotz, married name Kaufman",
   "partner_groups": {
    "P1230": "1"
   }
@@ -125901,7 +125902,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Silber née Kaufman",
+  "heading_name": "Esther Kaufman, married name Silber",
   "partner_groups": {
    "P2550": "1"
   }
@@ -126531,7 +126532,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Reiss née Derschowitz",
+  "heading_name": "Esther Derschowitz, married name Reiss",
   "partner_groups": {
    "P1240": "2"
   }
@@ -126795,7 +126796,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rosa Stierer née Hirsch",
+  "heading_name": "Rosa Hirsch, married name Stierer",
   "partner_groups": {
    "P1243": "1"
   }
@@ -127014,9 +127015,9 @@
   "legal_given": "Gittla",
   "common_given": "Gittla",
   "legal_surname": "Thum",
-  "common_surname": "Kaufman",
+  "common_surname": "Thum",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Kaufman",
   "sex": "F",
   "birth_date": "9 May 1880",
   "death_date": null,
@@ -127145,7 +127146,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Kaufman née Thum",
+  "heading_name": "Gittla Thum, married name Kaufman",
   "partner_groups": {
    "P1246": "1"
   }
@@ -127263,7 +127264,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mindla Thum née Grabkowicz",
+  "heading_name": "Mindla Grabkowicz, married name Thum",
   "partner_groups": {
    "P0022": "2"
   }
@@ -127417,9 +127418,9 @@
   "legal_given": "Gittla",
   "common_given": "Gittla",
   "legal_surname": "Licht",
-  "common_surname": "Unger",
+  "common_surname": "Licht",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Unger",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -128324,7 +128325,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Feigenbaum née Goldberg",
+  "heading_name": "Malka Goldberg, married name Feigenbaum",
   "partner_groups": {
    "P1258": "1"
   }
@@ -128912,7 +128913,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Salpeter née Karpf",
+  "heading_name": "Reisla Karpf, married name Salpeter",
   "partner_groups": {
    "P1267": "1"
   }
@@ -129425,7 +129426,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hinde Feig née Steinhorn",
+  "heading_name": "Hinde Walter, married name Feig",
   "partner_groups": {
    "P1276": "1"
   }
@@ -129692,9 +129693,9 @@
   "legal_given": "Pessel",
   "common_given": "Pessel",
   "legal_surname": "Siegfried",
-  "common_surname": "Shuster",
+  "common_surname": "Siegfried",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Shuster",
   "sex": "F",
   "birth_date": "c. 1878 (age 38 at m-1916-5)",
   "death_date": null,
@@ -129780,7 +129781,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pessel Shuster née Siegfried",
+  "heading_name": "Pessel Siegfried, married name Shuster",
   "partner_groups": {
    "P1278": "1"
   }
@@ -129990,7 +129991,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Leah Siegfried née Bodner",
+  "heading_name": "Leah Bodner, married name Siegfried",
   "partner_groups": {
    "P1280": "2"
   }
@@ -130340,7 +130341,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Aidla Kampf née Sperber",
+  "heading_name": "Aidla Sperber, married name Kampf",
   "partner_groups": {
    "P1285": "1"
   }
@@ -130711,7 +130712,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Goldman née Plattner",
+  "heading_name": "Gittla Plattner, married name Goldman",
   "partner_groups": {
    "P1289": "1"
   }
@@ -130804,7 +130805,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Alta Leah Roth née Goldman",
+  "heading_name": "Alta Leah Goldman, married name Roth",
   "partner_groups": {
    "P1069": "1"
   }
@@ -131219,7 +131220,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Itta Wolf née Burstiner",
+  "heading_name": "Itta Burstiner, married name Wolf",
   "partner_groups": {
    "P1297": "2"
   }
@@ -131736,7 +131737,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Schonbach née Traum",
+  "heading_name": "Sarah Traum, married name Schonbach",
   "partner_groups": {
    "P1305": "2"
   }
@@ -131830,7 +131831,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Necha Springer née Finder",
+  "heading_name": "Esther Necha Schonbach, married name Springer",
   "partner_groups": {
    "P2506": "1"
   }
@@ -131941,7 +131942,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Rivka Welisch née Leiman",
+  "heading_name": "Rivka Leiman, married name Welisch",
   "partner_groups": {
    "P2198": "1"
   }
@@ -132109,7 +132110,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Yehudit Leiman née Salamon",
+  "heading_name": "Yehudit Schmaja, married name Leiman",
   "partner_groups": {
    "P1309": "2"
   }
@@ -132477,7 +132478,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Rivka Schneps née Waldman",
+  "heading_name": "Rivka Waldman, married name Schneps",
   "partner_groups": {
    "P2259": "1"
   }
@@ -132665,7 +132666,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gittla Waldman née Herz",
+  "heading_name": "Gittla Herz, married name Waldman",
   "partner_groups": {
    "P1315": "2"
   }
@@ -132987,7 +132988,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Teitelbaum née Birn",
+  "heading_name": "Gittla Birn, married name Teitelbaum",
   "partner_groups": {
    "P1319": "1"
   }
@@ -133124,7 +133125,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Beila Birn née Sperber",
+  "heading_name": "Beila Sperber, married name Birn",
   "partner_groups": {
    "P1063": "1"
   }
@@ -134287,7 +134288,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Walter née Kleinman",
+  "heading_name": "Hannah Kleinman, married name Walter",
   "partner_groups": {
    "P1336": "1"
   }
@@ -135307,7 +135308,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Beila Leah Schlein née Mass",
+  "heading_name": "Beila Leah Mass, married name Schlein",
   "partner_groups": {
    "P1354": "2"
   }
@@ -135695,7 +135696,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Kornfeld née Zahler",
+  "heading_name": "Sarah Zahler, married name Kornfeld",
   "partner_groups": {
    "P0338": "2"
   }
@@ -135884,7 +135885,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Scharf née Kornfeld",
+  "heading_name": "Reisla Kornfeld, married name Scharf",
   "partner_groups": {
    "P1361": "1"
   }
@@ -136466,7 +136467,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sasha Gluckman née Schiff",
+  "heading_name": "Sasha Schiff, married name Gluckman",
   "partner_groups": {
    "P1372": "1"
   }
@@ -136651,7 +136652,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Fanny Schiff née Richter",
+  "heading_name": "Fanny Richter, married name Schiff",
   "partner_groups": {
    "P1374": "2"
   }
@@ -136991,9 +136992,9 @@
   "legal_given": "Sarah",
   "common_given": "Sarah",
   "legal_surname": "Stener",
-  "common_surname": "Fruhman",
+  "common_surname": "Stener",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Fruhman",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -137075,7 +137076,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Fruhman née Stener",
+  "heading_name": "Sarah Stener, married name Fruhman",
   "partner_groups": {
    "P1379": "1"
   }
@@ -137620,7 +137621,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Serla Goldstein née Silberstein",
+  "heading_name": "Serla Silberstein, married name Goldstein",
   "partner_groups": {
    "P2195": "2"
   }
@@ -137839,7 +137840,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Szyjowicz née Finder",
+  "heading_name": "Shayndel Scheinbach, married name Szyjowicz",
   "partner_groups": {
    "P2538": "1"
   }
@@ -138027,7 +138028,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mindla Schiff née Miltau [or Miltan]",
+  "heading_name": "Mindla Miltau [or Miltan], married name Schiff",
   "partner_groups": {
    "P1377": "1"
   }
@@ -138561,9 +138562,9 @@
   "legal_given": "Sarah Genendel",
   "common_given": "Sarah Genendel",
   "legal_surname": "Finberg",
-  "common_surname": "Finberg",
+  "common_surname": "Hofjud",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Finberg",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -138616,6 +138617,7 @@
    ],
    "surnames": [
     "Finberg",
+    "Hofjud",
     "Landau"
    ],
    "born": null,
@@ -138627,7 +138629,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Genendel Finberg",
+  "heading_name": "Sarah Genendel Hofjud, married name Finberg",
   "partner_groups": {
    "P1402": "1"
   }
@@ -139063,7 +139065,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Serla Sturm née Heffner",
+  "heading_name": "Serla Heffner, married name Sturm",
   "partner_groups": {
    "P1516": "1"
   }
@@ -139385,7 +139387,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Zipporah Wrobel née Birn",
+  "heading_name": "Zipporah Birn, married name Wrobel",
   "partner_groups": {
    "P1412": "1"
   }
@@ -140010,7 +140012,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Kornfeld née Komito",
+  "heading_name": "Leah Komito, married name Kornfeld",
   "partner_groups": {
    "P1325": "1"
   }
@@ -140172,7 +140174,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Komito née Honig",
+  "heading_name": "Chaya Honig, married name Komito",
   "partner_groups": {
    "P1422": "2"
   }
@@ -141016,7 +141018,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hence Anker née Maas",
+  "heading_name": "Hence Mass, married name Anker",
   "partner_groups": {
    "P2526": "1"
   }
@@ -141244,7 +141246,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Feit née Gerstler",
+  "heading_name": "Hannah Gerstler, married name Feit",
   "partner_groups": {
    "P1437": "2"
   }
@@ -141524,7 +141526,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Itta Schneyer née Dintenfass",
+  "heading_name": "Itta Dintenfass, married name Schneyer",
   "partner_groups": {
    "P1440": "1"
   }
@@ -141941,7 +141943,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Beila Brand née Zahler",
+  "heading_name": "Beila Zahler, married name Brand",
   "partner_groups": {
    "P1445": "1"
   }
@@ -143032,7 +143034,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Malz née Teitelbaum",
+  "heading_name": "Malka Teitelbaum, married name Malz",
   "partner_groups": {
    "P1460": "1"
   }
@@ -144049,7 +144051,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Berger née Friedman",
+  "heading_name": "Gittla Friedman, married name Berger",
   "partner_groups": {
    "P1474": "1"
   }
@@ -144364,7 +144366,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Mirla Glassner née Lehrer",
+  "heading_name": "Mirla Lehrer, married name Glassner",
   "partner_groups": {
    "P2404": "1"
   }
@@ -145833,7 +145835,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Alter née Schonwetter",
+  "heading_name": "Esther Schonwetter, married name Alter",
   "partner_groups": {
    "P1493": "1"
   }
@@ -146435,7 +146437,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Tesser née Friedenbach",
+  "heading_name": "Rachel Friedenbach, married name Tesser",
   "partner_groups": {
    "P2217": "1"
   }
@@ -146566,7 +146568,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Shayndel Bergman née Nechemje",
+  "heading_name": "Shayndel Nechemje, married name Bergman",
   "partner_groups": {
    "P0947": "1"
   }
@@ -146728,7 +146730,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Nechemje née Thum",
+  "heading_name": "Rachel Thum, married name Nechemje",
   "partner_groups": {
    "P1505": "2"
   }
@@ -146909,7 +146911,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deborah Guttstein née Kempler",
+  "heading_name": "Deborah Kempler, married name Guttstein",
   "partner_groups": {
    "P0256": "1"
   }
@@ -147077,7 +147079,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Fradla Kempler née Zimerspitz",
+  "heading_name": "Fradla Zimerspitz, married name Kempler",
   "partner_groups": {
    "P1510": "2"
   }
@@ -148372,7 +148374,7 @@
    "death_date_text": "deceased before m-1917-4 (18 Dec 1917)"
   },
   "unions": [],
-  "heading_name": "Bessel Bloch née Turk",
+  "heading_name": "Bessel Turk, married name Bloch",
   "partner_groups": {
    "P0032": "1"
   }
@@ -148510,7 +148512,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Welisch née Bloch",
+  "heading_name": "Leah Bloch, married name Welisch",
   "partner_groups": {
    "P0213": "1"
   }
@@ -148781,7 +148783,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Licht née Bodner",
+  "heading_name": "Sarah Bodner, married name Licht",
   "partner_groups": {
    "P1538": "1"
   }
@@ -149020,7 +149022,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Panzer née Ruber",
+  "heading_name": "Chaya Ruber, married name Panzer",
   "partner_groups": {
    "P1541": "1"
   }
@@ -149232,7 +149234,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Kirsch née Zahler",
+  "heading_name": "Shayndel Zahler, married name Kirsch",
   "partner_groups": {
    "P1544": "1"
   }
@@ -149535,7 +149537,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Kornfeld née Zahler",
+  "heading_name": "Feige Zahler, married name Kornfeld",
   "partner_groups": {
    "P1550": "1"
   }
@@ -149680,7 +149682,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deborah Kornreich née Bieder",
+  "heading_name": "Deborah Bieder, married name Kornreich",
   "partner_groups": {
    "P2141": "1"
   }
@@ -149838,7 +149840,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Zahler née Grabschrift",
+  "heading_name": "Sarah Grabschrift, married name Zahler",
   "partner_groups": {
    "P0356": "1"
   }
@@ -150050,7 +150052,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Wetzler née Konigsdorf",
+  "heading_name": "Malka Konigsdorf, married name Wetzler",
   "partner_groups": {
    "P1559": "1"
   }
@@ -150261,7 +150263,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Kolber",
+  "heading_name": "Feige Kolber (married name; birth name not known)",
   "partner_groups": {
    "P1562": "1"
   }
@@ -150659,7 +150661,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Rivka Bier née Klein",
+  "heading_name": "Chaya Rivka Klein, married name Bier",
   "partner_groups": {
    "P1570": "1"
   }
@@ -151073,7 +151075,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Henryka Finder née Kornhauser",
+  "heading_name": "Henryka Kornhauser, married name Finder",
   "partner_groups": {
    "P0494": "1"
   }
@@ -151979,7 +151981,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Korn",
+  "heading_name": "Hannah Korn (married name; birth name not known)",
   "partner_groups": {
    "P1587": "2"
   }
@@ -152687,7 +152689,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Reisla Cenzak née Orner",
+  "heading_name": "Reisla Orner, married name Cenzak",
   "partner_groups": {
    "P1602": "2"
   }
@@ -153555,7 +153557,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Aidla Silberman née Rubel",
+  "heading_name": "Aidla Rubel, married name Silberman",
   "partner_groups": {
    "P0254": "2"
   }
@@ -153723,7 +153725,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Kornfeld née Thum",
+  "heading_name": "Hannah Thum, married name Kornfeld",
   "partner_groups": {
    "P2018": "2"
   }
@@ -153833,7 +153835,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mindla Weintraub née Bodner",
+  "heading_name": "Mindla Bodner, married name Weintraub",
   "partner_groups": {
    "P2007": "2"
   }
@@ -154534,7 +154536,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Glassner née Brandsdorfer",
+  "heading_name": "Leah Brandsdorfer, married name Glassner",
   "partner_groups": {
    "P0628": "1"
   }
@@ -155466,7 +155468,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Leah Towel née Samul",
+  "heading_name": "Leah Samul, married name Towel",
   "partner_groups": {
    "P1660": "2"
   }
@@ -156377,7 +156379,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Korzennik née Herman",
+  "heading_name": "Rachel Herman, married name Korzennik",
   "partner_groups": {
    "P0352": "1"
   }
@@ -156538,7 +156540,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Herman",
+  "heading_name": "Chaya Herman (married name; birth name not known)",
   "partner_groups": {
    "P1680": "2"
   }
@@ -157052,7 +157054,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mindla Kornfeld née Korzennik",
+  "heading_name": "Mindla Korzennik, married name Kornfeld",
   "partner_groups": {
    "P1688": "2"
   }
@@ -157151,7 +157153,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Schindla Wolkenfeld née Wagschal",
+  "heading_name": "Schindla Wagschal, married name Wolkenfeld",
   "partner_groups": {
    "P0016": "2"
   }
@@ -157378,7 +157380,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rosa Fisch née Last",
+  "heading_name": "Rosa Last, married name Fisch",
   "partner_groups": {
    "P2063": "2"
   }
@@ -159512,9 +159514,9 @@
   "legal_given": "Itta",
   "common_given": "Itta",
   "legal_surname": "Rubel",
-  "common_surname": "Sperber",
+  "common_surname": "Rubel",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Sperber",
   "sex": "F",
   "birth_date": "c. 1851 (age 60 at death 1911)",
   "death_date": "16 Feb 1911",
@@ -159600,7 +159602,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Itta Sperber née Rubel",
+  "heading_name": "Itta Rubel, married name Sperber",
   "partner_groups": {
    "P1547": "2"
   }
@@ -160303,9 +160305,9 @@
   "legal_given": "Etla",
   "common_given": "Etla",
   "legal_surname": "Senft",
-  "common_surname": "Senft",
+  "common_surname": "Bergman",
   "maiden_surname": "Bergman",
-  "married_surname": null,
+  "married_surname": "Senft",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -160402,7 +160404,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Etla Senft née Bergman",
+  "heading_name": "Etla Bergman, married name Senft",
   "partner_groups": {
    "P1756": "2"
   }
@@ -160495,7 +160497,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Bluma Citronenbaum née Senft",
+  "heading_name": "Bluma Senft, married name Citronenbaum",
   "partner_groups": {
    "P2047": "1"
   }
@@ -160796,7 +160798,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Yenta Birn",
+  "heading_name": "Yenta Birn (married name; birth name not known)",
   "partner_groups": {
    "P1769": "2"
   }
@@ -161472,7 +161474,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Friedenbach",
+  "heading_name": "Rivka Friedenbach (married name; birth name not known)",
   "partner_groups": {
    "P1781": "2"
   }
@@ -161965,7 +161967,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Matla Glassner",
+  "heading_name": "Matla Glassner (married name; birth name not known)",
   "partner_groups": {
    "P1731": "2"
   }
@@ -162465,7 +162467,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Birnbaum née Plattner",
+  "heading_name": "Gittla Kainer, married name Birnbaum",
   "partner_groups": {
    "P1042": "1"
   }
@@ -162990,7 +162992,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Riva Noth",
+  "heading_name": "Chaya Riva Noth (married name; birth name not known)",
   "partner_groups": {
    "P1595": "2"
   }
@@ -163803,7 +163805,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Beila Bodner née Langer",
+  "heading_name": "Beila Langer, married name Bodner",
   "partner_groups": {
    "P1834": "1"
   }
@@ -164899,7 +164901,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Zelda Berger née Nechemje",
+  "heading_name": "Zelda Nechemje, married name Berger",
   "partner_groups": {
    "P2733": "2"
   }
@@ -165195,7 +165197,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Freida Gruber née Neubart",
+  "heading_name": "Freida Neubart, married name Gruber",
   "partner_groups": {
    "P1855": "1"
   }
@@ -165643,7 +165645,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Pencier née Seidn",
+  "heading_name": "Sarah Seidn, married name Pencier",
   "partner_groups": {
    "P1872": "2"
   }
@@ -166701,7 +166703,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka March",
+  "heading_name": "Malka March (married name; birth name not known)",
   "partner_groups": {
    "P1487": "2"
   }
@@ -166920,7 +166922,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Korn",
+  "heading_name": "Chaya Korn (married name; birth name not known)",
   "partner_groups": {
    "P0038": "2"
   }
@@ -167003,7 +167005,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mindla Guttenberg",
+  "heading_name": "Mindla Guttenberg (married name; birth name not known)",
   "partner_groups": {
    "P0111": "2"
   }
@@ -167171,7 +167173,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mirla Klotz née Hiller",
+  "heading_name": "Mirla Hiller, married name Klotz",
   "partner_groups": {
    "P1904": "2"
   }
@@ -167462,7 +167464,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sima Stempel née Liebschutz",
+  "heading_name": "Sima Liebschutz, married name Stempel",
   "partner_groups": {
    "P1906": "1"
   }
@@ -167614,7 +167616,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Pessel Faust née Gidon",
+  "heading_name": "Pessel Gidon, married name Faust",
   "partner_groups": {
    "P1910": "2"
   }
@@ -167844,7 +167846,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Shayndel Staub née Frankel",
+  "heading_name": "Shayndel Frankel, married name Staub",
   "partner_groups": {
    "P1913": "2"
   }
@@ -167922,7 +167924,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Offner née Staub",
+  "heading_name": "Rivka Staub, married name Offner",
   "partner_groups": {
    "P1912": "1"
   }
@@ -168142,7 +168144,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Breidla Baumgarten née Fessel",
+  "heading_name": "Breidla Fessel, married name Baumgarten",
   "partner_groups": {
    "P1917": "2"
   }
@@ -168219,7 +168221,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Serla Kichel née Waks",
+  "heading_name": "Serla Waks, married name Kichel",
   "partner_groups": {
    "P2567": "2"
   }
@@ -168510,7 +168512,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Perla Rieger née Silberman",
+  "heading_name": "Perla Silberman, married name Rieger",
   "partner_groups": {
    "P1920": "1"
   }
@@ -168739,7 +168741,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Ruchla Kurz née Spett",
+  "heading_name": "Ruchla Spett, married name Kurz",
   "partner_groups": {
    "P1925": "2"
   }
@@ -168817,7 +168819,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Milka Kurz née Finder",
+  "heading_name": "Milka Finder, married name Kurz",
   "partner_groups": {
    "P1924": "1"
   }
@@ -168969,7 +168971,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tauba Schaufel née Reissner",
+  "heading_name": "Tauba Reissner, married name Schaufel",
   "partner_groups": {
    "P1928": "2"
   }
@@ -169046,7 +169048,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Ryza Klotz née Taud",
+  "heading_name": "Ryza Taud, married name Klotz",
   "partner_groups": {
    "P1904": "2"
   }
@@ -169343,7 +169345,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Grabkowicz née Weisenberg",
+  "heading_name": "Sarah Weisenberg, married name Grabkowicz",
   "partner_groups": {
    "P1671": "2"
   }
@@ -169421,7 +169423,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Meite Wurst née Grabkowicz",
+  "heading_name": "Meite Grabkowicz, married name Wurst",
   "partner_groups": {
    "P1932": "1"
   }
@@ -169977,7 +169979,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Druck née Freidman",
+  "heading_name": "Rivka Freidman, married name Druck",
   "partner_groups": {
    "P1944": "2"
   }
@@ -170129,7 +170131,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Goldberg née Spitz",
+  "heading_name": "Freida Spitz, married name Goldberg",
   "partner_groups": {
    "P1946": "2"
   }
@@ -170404,7 +170406,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Teme Fisch née Forgacz",
+  "heading_name": "Teme Forgacz, married name Fisch",
   "partner_groups": {
    "P2582": "2"
   }
@@ -170633,7 +170635,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Rinder née Feld",
+  "heading_name": "Esther Feld, married name Rinder",
   "partner_groups": {
    "P1958": "2"
   }
@@ -170712,7 +170714,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Rinder née Konigsdorf",
+  "heading_name": "Leah Sperber, married name Rinder",
   "partner_groups": {
    "P1957": "1"
   }
@@ -170865,7 +170867,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Silberbartz née Poper",
+  "heading_name": "Sarah Silberberg, married name Silberbartz",
   "partner_groups": {
    "P1961": "2"
   }
@@ -171017,7 +171019,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Krebs née Berger",
+  "heading_name": "Sarah Berger, married name Krebs",
   "partner_groups": {
    "P1963": "2"
   }
@@ -171094,7 +171096,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Yocheved Littman née Atlas",
+  "heading_name": "Yocheved Atlas, married name Littman",
   "partner_groups": {
    "P2713": "2"
   }
@@ -171246,7 +171248,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Golda Aron née Goldberg",
+  "heading_name": "Golda Goldberg, married name Aron",
   "partner_groups": {
    "P1966": "2"
   }
@@ -171323,7 +171325,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Yehudit Samul née Sturm",
+  "heading_name": "Yehudit Sturm, married name Samul",
   "partner_groups": {
    "P2686": "2"
   }
@@ -171557,7 +171559,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Barth née Sturm",
+  "heading_name": "Rachel Sturm, married name Barth",
   "partner_groups": {
    "P1970": "2"
   }
@@ -171635,7 +171637,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mirla Samul née Barth",
+  "heading_name": "Mirla Barth, married name Samul",
   "partner_groups": {
    "P1969": "1"
   }
@@ -171711,7 +171713,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Bluma Grunberger",
+  "heading_name": "Bluma Grunberger (married name; birth name not known)",
   "partner_groups": {
    "P2736": "2"
   }
@@ -171863,7 +171865,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Schneps née Miller",
+  "heading_name": "Rachel Miller, married name Schneps",
   "partner_groups": {
    "P1974": "2"
   }
@@ -172014,7 +172016,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Yehudit Lobel",
+  "heading_name": "Yehudit Lobel (married name; birth name not known)",
   "partner_groups": {
    "P1977": "2"
   }
@@ -172165,7 +172167,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Miriam Glassner",
+  "heading_name": "Miriam Glassner (married name; birth name not known)",
   "partner_groups": {
    "P1979": "2"
   }
@@ -172382,7 +172384,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Birnbaum née Konig",
+  "heading_name": "Sarah Konig, married name Birnbaum",
   "partner_groups": {
    "P1983": "2"
   }
@@ -172535,7 +172537,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tyla Korzennik",
+  "heading_name": "Tyla Korzennik (married name; birth name not known)",
   "partner_groups": {
    "P1985": "2"
   }
@@ -172687,7 +172689,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Serla Bieder née Krebs",
+  "heading_name": "Serla Krebs, married name Bieder",
   "partner_groups": {
    "P1987": "2"
   }
@@ -172792,7 +172794,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Necha Bloch née Bieder",
+  "heading_name": "Necha Bieder, married name Bloch",
   "partner_groups": {
    "P2566": "1"
   }
@@ -172870,7 +172872,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Miriam Szkolnik née Herman",
+  "heading_name": "Miriam Herman, married name Szkolnik",
   "partner_groups": {
    "P1662": "1"
   }
@@ -173021,7 +173023,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Szkolnik",
+  "heading_name": "Rivka Szkolnik (married name; birth name not known)",
   "partner_groups": {
    "P1991": "2"
   }
@@ -173279,7 +173281,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sprinza Bergman née Towel",
+  "heading_name": "Sprinza Towel, married name Bergman",
   "partner_groups": {
    "P1993": "2"
   }
@@ -173508,7 +173510,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Dembitzer née Gruber",
+  "heading_name": "Hannah Gruber, married name Dembitzer",
   "partner_groups": {
    "P1996": "2"
   }
@@ -173660,7 +173662,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Leah Storch née Buchholz",
+  "heading_name": "Leah Buchholz, married name Storch",
   "partner_groups": {
    "P1998": "2"
   }
@@ -173738,7 +173740,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Dembitzer née Storch",
+  "heading_name": "Rivka Storch, married name Dembitzer",
   "partner_groups": {
    "P1995": "1"
   }
@@ -173889,7 +173891,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tzilka Sperber",
+  "heading_name": "Tzilka Sperber (married name; birth name not known)",
   "partner_groups": {
    "P2001": "2"
   }
@@ -174041,7 +174043,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Necha Offner née Meth",
+  "heading_name": "Necha Meth, married name Offner",
   "partner_groups": {
    "P2003": "2"
   }
@@ -174193,7 +174195,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Krautblatt née Salamon",
+  "heading_name": "Sarah Salamon, married name Krautblatt",
   "partner_groups": {
    "P2005": "2"
   }
@@ -174640,7 +174642,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Beila Roth née Schiff",
+  "heading_name": "Beila Schiff, married name Roth",
   "partner_groups": {
    "P2009": "1"
   }
@@ -175088,7 +175090,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Rivka Bika née Kleinman",
+  "heading_name": "Chaya Rivka Kleinman, married name Bika",
   "partner_groups": {
    "P2020": "2"
   }
@@ -175166,7 +175168,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hinde Panzer née Bika",
+  "heading_name": "Hinde Bika, married name Panzer",
   "partner_groups": {
    "P2573": "1"
   }
@@ -175242,7 +175244,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Matla Galizer née Padower",
+  "heading_name": "Matla Padower, married name Galizer",
   "partner_groups": {
    "P2025": "2"
   }
@@ -175469,7 +175471,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Shayndel Teitelbaum née Wagschal",
+  "heading_name": "Shayndel Wagschal, married name Teitelbaum",
   "partner_groups": {
    "P2026": "2"
   }
@@ -175547,7 +175549,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hene Galizer née Teitelbaum",
+  "heading_name": "Hene Teitelbaum, married name Galizer",
   "partner_groups": {
    "P0071": "1"
   }
@@ -175777,7 +175779,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rosa Schonwetter née Salamon",
+  "heading_name": "Rosa Salamon, married name Schonwetter",
   "partner_groups": {
    "P2031": "2"
   }
@@ -176043,7 +176045,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Abrahamowicz née Wites",
+  "heading_name": "Hannah Wites, married name Abrahamowicz",
   "partner_groups": {
    "P2035": "2"
   }
@@ -176195,7 +176197,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Freiberger née Fornat",
+  "heading_name": "Freida Fornat, married name Freiberger",
   "partner_groups": {
    "P2037": "2"
   }
@@ -176413,7 +176415,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Matla Meer née Friedman",
+  "heading_name": "Matla Friedman, married name Meer",
   "partner_groups": {
    "P2695": "2"
   }
@@ -176565,7 +176567,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Citronenbaum née Tensserblau",
+  "heading_name": "Esther Tensserblau, married name Citronenbaum",
   "partner_groups": {
    "P2045": "2"
   }
@@ -176719,7 +176721,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Hirsch née Stecher",
+  "heading_name": "Rivka Stecher, married name Hirsch",
   "partner_groups": {
    "P1811": "2"
   }
@@ -176808,7 +176810,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Sperber née Blatt",
+  "heading_name": "Hannah Blatt, married name Sperber",
   "partner_groups": {
    "P2571": "2"
   }
@@ -176960,7 +176962,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gela Schuss née Goldberg",
+  "heading_name": "Gela Goldberg, married name Schuss",
   "partner_groups": {
    "P2053": "2"
   }
@@ -177248,7 +177250,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gittla Blum née Hacke",
+  "heading_name": "Gittla Hacke, married name Blum",
   "partner_groups": {
    "P2702": "2"
   }
@@ -177536,7 +177538,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Eiga Rubel née Panzer",
+  "heading_name": "Eiga Panzer, married name Rubel",
   "partner_groups": {
    "P1605": "2"
   }
@@ -177687,7 +177689,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Golda Glassner née Winter",
+  "heading_name": "Golda Winter, married name Glassner",
   "partner_groups": {
    "P2066": "2"
   }
@@ -177916,7 +177918,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Esther Kollender née Feilgut",
+  "heading_name": "Hannah Esther Feilgut, married name Kollender",
   "partner_groups": {
    "P2069": "2"
   }
@@ -177995,7 +177997,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Matla Glassner née Kollender",
+  "heading_name": "Matla Kollender, married name Glassner",
   "partner_groups": {
    "P2068": "1"
   }
@@ -178245,7 +178247,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Konigsdorf",
+  "heading_name": "Hannah Konigsdorf (married name; birth name not known)",
   "partner_groups": {
    "P2073": "2"
   }
@@ -178350,7 +178352,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Sperber née Konigsdorf",
+  "heading_name": "Feige Konigsdorf, married name Sperber",
   "partner_groups": {
    "P2072": "1"
   }
@@ -178579,7 +178581,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sima Esther Wild née Braun",
+  "heading_name": "Sima Esther Braun, married name Wild",
   "partner_groups": {
    "P2077": "2"
   }
@@ -178872,7 +178874,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Witla Holloschutz née Karpf",
+  "heading_name": "Witla Karpf, married name Holloschutz",
   "partner_groups": {
    "P2079": "1"
   }
@@ -179024,7 +179026,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Beila Ratz née Mandel",
+  "heading_name": "Feige Beila Mandel, married name Ratz",
   "partner_groups": {
    "P2083": "2"
   }
@@ -179176,7 +179178,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Yehudit Landau née Nusbaum",
+  "heading_name": "Yehudit Nusbaum, married name Landau",
   "partner_groups": {
    "P2085": "2"
   }
@@ -179464,7 +179466,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rosa Gleicher née Lippel",
+  "heading_name": "Rosa Lippel, married name Gleicher",
   "partner_groups": {
    "P2089": "2"
   }
@@ -179542,7 +179544,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Meer née Gleicher",
+  "heading_name": "Rachel Gleicher, married name Meer",
   "partner_groups": {
    "P0144": "1"
   }
@@ -179771,7 +179773,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sofya Kampf née Wolberg",
+  "heading_name": "Sofya Wolberg, married name Kampf",
   "partner_groups": {
    "P2094": "2"
   }
@@ -179849,7 +179851,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mirla Birnbaum née Kampf",
+  "heading_name": "Mirla Kampf, married name Birnbaum",
   "partner_groups": {
    "P2093": "1"
   }
@@ -180212,7 +180214,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Burstin née Krebs",
+  "heading_name": "Chaya Krebs, married name Burstin",
   "partner_groups": {
    "P2105": "2"
   }
@@ -180488,7 +180490,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Kreindel Propker née Wrobel",
+  "heading_name": "Kreindel Wrobel, married name Propker",
   "partner_groups": {
    "P2111": "2"
   }
@@ -180640,7 +180642,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mindla Lichtman née Szerlag",
+  "heading_name": "Mindla Szerlag, married name Lichtman",
   "partner_groups": {
    "P2113": "2"
   }
@@ -180795,7 +180797,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Lichtman née Lobel",
+  "heading_name": "Hannah Lobel, married name Lichtman",
   "partner_groups": {
    "P2115": "1"
   }
@@ -180947,7 +180949,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Wenig née Mozes",
+  "heading_name": "Rivka Mozes, married name Wenig",
   "partner_groups": {
    "P2117": "2"
   }
@@ -181102,7 +181104,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Genendel Wenig née Karpf",
+  "heading_name": "Genendel Karpf, married name Wenig",
   "partner_groups": {
    "P2119": "1"
   }
@@ -181254,7 +181256,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hendela Frommer née Sauerhaft",
+  "heading_name": "Hendela Sauerhaft, married name Frommer",
   "partner_groups": {
    "P2121": "2"
   }
@@ -181406,7 +181408,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Dara Bauernfreund née Singer",
+  "heading_name": "Dara Singer, married name Bauernfreund",
   "partner_groups": {
    "P2123": "2"
   }
@@ -181557,7 +181559,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gela Langer",
+  "heading_name": "Gela Langer (married name; birth name not known)",
   "partner_groups": {
    "P2125": "2"
   }
@@ -181709,7 +181711,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Pessel Fass née Luskind",
+  "heading_name": "Pessel Luskind, married name Fass",
   "partner_groups": {
    "P2127": "2"
   }
@@ -181937,7 +181939,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Feld",
+  "heading_name": "Freida Feld (married name; birth name not known)",
   "partner_groups": {
    "P2130": "2"
   }
@@ -182015,7 +182017,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Fass née Feld",
+  "heading_name": "Esther Feld, married name Fass",
   "partner_groups": {
    "P2129": "1"
   }
@@ -182166,7 +182168,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Reiner",
+  "heading_name": "Sarah Reiner (married name; birth name not known)",
   "partner_groups": {
    "P2133": "2"
   }
@@ -182394,7 +182396,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Schachter",
+  "heading_name": "Esther Schachter (married name; birth name not known)",
   "partner_groups": {
    "P2136": "2"
   }
@@ -182472,7 +182474,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sprinza Reiner née Schachter",
+  "heading_name": "Sprinza Schachter, married name Reiner",
   "partner_groups": {
    "P2135": "1"
   }
@@ -182624,7 +182626,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Leah Wolf née Wulkan",
+  "heading_name": "Leah Wulkan, married name Wolf",
   "partner_groups": {
    "P2139": "2"
   }
@@ -182862,7 +182864,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Keila Felsen née Ingwer",
+  "heading_name": "Keila Ingwer, married name Felsen",
   "partner_groups": {
    "P2142": "2"
   }
@@ -183014,7 +183016,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Altholz née Wistreich",
+  "heading_name": "Freida Wistreich, married name Altholz",
   "partner_groups": {
    "P2144": "2"
   }
@@ -183176,7 +183178,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Eva Low née Rieger",
+  "heading_name": "Eva Rieger, married name Low",
   "partner_groups": {
    "P2146": "2"
   }
@@ -183468,7 +183470,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Birnbaum née Konigsdorf",
+  "heading_name": "Feige Konigsdorf, married name Birnbaum",
   "partner_groups": {
    "P2150": "1"
   }
@@ -183835,7 +183837,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Hoffing née Bloch",
+  "heading_name": "Malka Bloch, married name Hoffing",
   "partner_groups": {
    "P2155": "1"
   }
@@ -183987,7 +183989,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Steiner née Grosman",
+  "heading_name": "Esther Grosman, married name Steiner",
   "partner_groups": {
    "P2157": "2"
   }
@@ -184138,7 +184140,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Stierer née Herbstman",
+  "heading_name": "Feige Herbstman, married name Stierer",
   "partner_groups": {
    "P2159": "2"
   }
@@ -184289,7 +184291,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Kaufman née Schmalzer",
+  "heading_name": "Malka Schmalzer, married name Kaufman",
   "partner_groups": {
    "P2161": "2"
   }
@@ -184440,7 +184442,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Horowitz née Tyder",
+  "heading_name": "Malka Tyder, married name Horowitz",
   "partner_groups": {
    "P2163": "2"
   }
@@ -184591,7 +184593,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Kaufman née Schachner",
+  "heading_name": "Feige Schachner, married name Kaufman",
   "partner_groups": {
    "P2165": "2"
   }
@@ -184668,7 +184670,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Kleinman née Thum",
+  "heading_name": "Sarah Thum, married name Kleinman",
   "partner_groups": {
    "P1821": "2"
   }
@@ -184820,7 +184822,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Basler née Birn",
+  "heading_name": "Chaya Birn, married name Basler",
   "partner_groups": {
    "P2168": "2"
   }
@@ -184972,7 +184974,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Mahrer née Siegfried",
+  "heading_name": "Rivka Siegfried, married name Mahrer",
   "partner_groups": {
    "P2170": "2"
   }
@@ -185127,7 +185129,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pessel Mahrer née Rosenbaum",
+  "heading_name": "Pessel Rosenbaum, married name Mahrer",
   "partner_groups": {
    "P2172": "1"
   }
@@ -185279,7 +185281,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Walter née Steinhorn",
+  "heading_name": "Malka Steinhorn, married name Walter",
   "partner_groups": {
    "P2174": "2"
   }
@@ -185572,7 +185574,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Offner née Faber",
+  "heading_name": "Gittla Faber, married name Offner",
   "partner_groups": {
    "P2178": "1"
   }
@@ -185860,7 +185862,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Beila Kranzler née Manz",
+  "heading_name": "Beila Manz, married name Kranzler",
   "partner_groups": {
    "P2182": "2"
   }
@@ -185938,7 +185940,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Amsterdam née Kranzler",
+  "heading_name": "Feige Kranzler, married name Amsterdam",
   "partner_groups": {
    "P0917": "1"
   }
@@ -186102,7 +186104,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Mirla Zeisler née Klausner",
+  "heading_name": "Mirla Klausner, married name Zeisler",
   "partner_groups": {
    "P1117": "2"
   }
@@ -186198,7 +186200,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Neubart née Rothman",
+  "heading_name": "Rachel Rothman, married name Neubart",
   "partner_groups": {
    "P2190": "1"
   }
@@ -186350,7 +186352,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Frymeta Neubart née Bigaer",
+  "heading_name": "Frymeta Bigaer, married name Neubart",
   "partner_groups": {
    "P2188": "2"
   }
@@ -186579,7 +186581,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Scharf née Wolkenfeld",
+  "heading_name": "Malka Wolkenfeld, married name Scharf",
   "partner_groups": {
    "P2191": "2"
   }
@@ -186752,7 +186754,7 @@
    "P1388": "2",
    "P2194": "2"
   },
-  "heading_name": "Miriam Yocheved Schneyer née Goldstein"
+  "heading_name": "Miriam Yocheved Goldstein, married name Schneyer"
  },
  {
   "id": "P2198",
@@ -186904,7 +186906,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Bergman née Schlenger",
+  "heading_name": "Leah Schlenger, married name Bergman",
   "partner_groups": {
    "P2200": "1"
   }
@@ -187133,7 +187135,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Hannah Brand née Offen",
+  "heading_name": "Malka Hannah Offen, married name Brand",
   "partner_groups": {
    "P2201": "2"
   }
@@ -187288,7 +187290,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hinde Bergman née Klotz",
+  "heading_name": "Hinde Klotz, married name Bergman",
   "partner_groups": {
    "P2203": "1"
   }
@@ -187366,7 +187368,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Weller née Kleinman",
+  "heading_name": "Feige Kleinman, married name Weller",
   "partner_groups": {
    "P2208": "1"
   }
@@ -187518,7 +187520,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rosa Weller née Haber",
+  "heading_name": "Rosa Haber, married name Weller",
   "partner_groups": {
    "P2206": "2"
   }
@@ -187782,7 +187784,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Herman née Friedman",
+  "heading_name": "Chaya Friedman, married name Herman",
   "partner_groups": {
    "P2209": "2"
   }
@@ -187860,7 +187862,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Miriam Weintraub née Herman",
+  "heading_name": "Miriam Herman, married name Weintraub",
   "partner_groups": {
    "P0329": "1"
   }
@@ -188574,7 +188576,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Miriam Panzer née Mass",
+  "heading_name": "Miriam Mass, married name Panzer",
   "partner_groups": {
    "P1271": "1"
   }
@@ -188986,7 +188988,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Amalia Finder née Schonbach",
+  "heading_name": "Amalia Schonbach, married name Finder",
   "partner_groups": {
    "P2224": "1"
   }
@@ -189202,7 +189204,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Bluma Bloch née Grunspan",
+  "heading_name": "Bluma Grunspan, married name Bloch",
   "partner_groups": {
    "P2228": "1"
   }
@@ -189632,7 +189634,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pessel Plutzer née Faust",
+  "heading_name": "Pessel Faust, married name Plutzer",
   "partner_groups": {
    "P2235": "1"
   }
@@ -189710,7 +189712,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feitsche Lobel née Licht",
+  "heading_name": "Feitsche Licht, married name Lobel",
   "partner_groups": {
    "P2238": "1"
   }
@@ -189939,7 +189941,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Alta Ratz née Scheinbach",
+  "heading_name": "Alta Scheinbach, married name Ratz",
   "partner_groups": {
    "P2239": "2"
   }
@@ -190168,7 +190170,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Cerla Grzyb née Jochanowich",
+  "heading_name": "Cerla Jochanowich, married name Grzyb",
   "partner_groups": {
    "P2242": "2"
   }
@@ -190323,7 +190325,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Miriam Grzyb née Berger",
+  "heading_name": "Miriam Berger, married name Grzyb",
   "partner_groups": {
    "P2244": "1"
   }
@@ -190615,7 +190617,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Heffner née Zeughauser",
+  "heading_name": "Rivka Zeughauser, married name Heffner",
   "partner_groups": {
    "P2248": "1"
   }
@@ -191214,7 +191216,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Schneps née Bernknop",
+  "heading_name": "Sarah Bernknop, married name Schneps",
   "partner_groups": {
    "P0596": "2"
   }
@@ -191656,7 +191658,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Miriam Berger née List",
+  "heading_name": "Miriam List, married name Berger",
   "partner_groups": {
    "P2264": "2"
   }
@@ -191864,7 +191866,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Berger née Berger",
+  "heading_name": "Esther Berger, married name Berger",
   "partner_groups": {
    "P2266": "1"
   }
@@ -192155,7 +192157,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Feige Rosen née Faust",
+  "heading_name": "Feige Faust, married name Rosen",
   "partner_groups": {
    "P2272": "1"
   }
@@ -192310,7 +192312,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mirla Reich née Fichner",
+  "heading_name": "Mirla Fichner, married name Reich",
   "partner_groups": {
    "P2277": "1"
   }
@@ -192603,7 +192605,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Mantel née Freiberger",
+  "heading_name": "Rivka Freiberger, married name Mantel",
   "partner_groups": {
    "P2280": "1"
   }
@@ -192756,7 +192758,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Itta Oling née Kukuk",
+  "heading_name": "Itta Kukuk, married name Oling",
   "partner_groups": {
    "P2282": "2"
   }
@@ -192916,7 +192918,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Oling née Konigsdorf",
+  "heading_name": "Rivka Konigsdorf, married name Oling",
   "partner_groups": {
    "P2284": "1"
   }
@@ -193068,7 +193070,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Yehudit Blum née Feit",
+  "heading_name": "Yehudit Feit, married name Blum",
   "partner_groups": {
    "P2286": "2"
   }
@@ -193297,7 +193299,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Deborah Wachner née Schwarzman",
+  "heading_name": "Deborah Schwarzman, married name Wachner",
   "partner_groups": {
    "P2289": "2"
   }
@@ -193618,7 +193620,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Miriam Bigaer née Elfenbein",
+  "heading_name": "Miriam Elfenbein, married name Bigaer",
   "partner_groups": {
    "P2293": "2"
   }
@@ -193696,7 +193698,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chawa List née Bigaer",
+  "heading_name": "Chawa Bigaer, married name List",
   "partner_groups": {
    "P2292": "1"
   }
@@ -193930,7 +193932,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hene Sperber née Eder",
+  "heading_name": "Hene Eder, married name Sperber",
   "partner_groups": {
    "P2297": "2"
   }
@@ -194008,7 +194010,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Maria Birn née Sperber",
+  "heading_name": "Maria Sperber, married name Birn",
   "partner_groups": {
    "P2296": "1"
   }
@@ -194299,7 +194301,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Sturm née Fenechel",
+  "heading_name": "Sarah Fenechel, married name Sturm",
   "partner_groups": {
    "P2302": "2"
   }
@@ -194451,7 +194453,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Golda Baar née Salamon",
+  "heading_name": "Golda Salamon, married name Baar",
   "partner_groups": {
    "P2304": "2"
   }
@@ -194603,7 +194605,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Reisla Bierman née Tornschreiber",
+  "heading_name": "Reisla Tornschreiber, married name Bierman",
   "partner_groups": {
    "P2306": "2"
   }
@@ -194696,7 +194698,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Necha Baar née Bierman",
+  "heading_name": "Necha Bierman, married name Baar",
   "partner_groups": {
    "P1895": "1"
   }
@@ -194925,7 +194927,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Bieder née Diamant",
+  "heading_name": "Freida Diamant, married name Bieder",
   "partner_groups": {
    "P2310": "2"
   }
@@ -195154,7 +195156,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Malz née Frauenblau",
+  "heading_name": "Sarah Frauenblau, married name Malz",
   "partner_groups": {
    "P2313": "2"
   }
@@ -195383,7 +195385,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Steinberger née Degen",
+  "heading_name": "Freida Degen, married name Steinberger",
   "partner_groups": {
    "P2316": "2"
   }
@@ -195537,7 +195539,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Reisla Podhorzer née Fenster",
+  "heading_name": "Reisla Fenster, married name Podhorzer",
   "partner_groups": {
    "P1868": "2"
   }
@@ -195615,7 +195617,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hinde Steinberger née Podhorzer",
+  "heading_name": "Hinde Podhorzer, married name Steinberger",
   "partner_groups": {
    "P2318": "1"
   }
@@ -195903,7 +195905,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Perla Bochner née Furst",
+  "heading_name": "Esther Perla Furst, married name Bochner",
   "partner_groups": {
    "P2324": "2"
   }
@@ -196055,7 +196057,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Kifel née Szydlowska",
+  "heading_name": "Sarah Szydlowska, married name Kifel",
   "partner_groups": {
    "P2326": "2"
   }
@@ -196284,7 +196286,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sirsche Krebs née Zimet",
+  "heading_name": "Sirsche Zimet, married name Krebs",
   "partner_groups": {
    "P2329": "2"
   }
@@ -196667,7 +196669,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Esther Struck née Tropp",
+  "heading_name": "Esther Tropp, married name Struck",
   "partner_groups": {
    "P2337": "2"
   }
@@ -196822,7 +196824,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Eida Struck née Thau",
+  "heading_name": "Eida Thau, married name Struck",
   "partner_groups": {
    "P2339": "1"
   }
@@ -197265,7 +197267,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Eva Low née Kraut",
+  "heading_name": "Eva Kraut, married name Low",
   "partner_groups": {
    "P2345": "2"
   }
@@ -197494,7 +197496,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Reisla Nurnberg née Weinberg",
+  "heading_name": "Reisla Weinberg, married name Nurnberg",
   "partner_groups": {
    "P2348": "2"
   }
@@ -197723,7 +197725,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gittla Spizer née Bruder",
+  "heading_name": "Gittla Bruder, married name Spizer",
   "partner_groups": {
    "P2351": "2"
   }
@@ -197878,7 +197880,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Spizer née Berger",
+  "heading_name": "Rivka Berger, married name Spizer",
   "partner_groups": {
    "P2353": "1"
   }
@@ -198030,7 +198032,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Zipporah Sarno née Spira",
+  "heading_name": "Zipporah Spira, married name Sarno",
   "partner_groups": {
    "P2355": "2"
   }
@@ -198337,7 +198339,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Baron née Birnbaum",
+  "heading_name": "Chaya Birnbaum, married name Baron",
   "partner_groups": {
    "P2359": "2"
   }
@@ -198415,7 +198417,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hinde Riva Amsterdam née Baron",
+  "heading_name": "Hinde Riva Baron, married name Amsterdam",
   "partner_groups": {
    "P2358": "1"
   }
@@ -198715,7 +198717,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Rossner née Fleischer",
+  "heading_name": "Rachel Fleischer, married name Rossner",
   "partner_groups": {
    "P2364": "2"
   }
@@ -198793,7 +198795,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tauba Orner née Rossner",
+  "heading_name": "Tauba Rossner, married name Orner",
   "partner_groups": {
    "P1039": "1"
   }
@@ -198948,7 +198950,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Panzer née List",
+  "heading_name": "Hannah List, married name Panzer",
   "partner_groups": {
    "P2367": "1"
   }
@@ -199100,7 +199102,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Dobe Lehrer née Landau",
+  "heading_name": "Dobe Landau, married name Lehrer",
   "partner_groups": {
    "P2369": "2"
   }
@@ -199329,7 +199331,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Leah Goldfarb née Meller",
+  "heading_name": "Leah Meller, married name Goldfarb",
   "partner_groups": {
    "P2372": "2"
   }
@@ -199484,7 +199486,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mindla Goldfarb née Rubel",
+  "heading_name": "Mindla Rubel, married name Goldfarb",
   "partner_groups": {
    "P2374": "1"
   }
@@ -199636,7 +199638,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sprinza Bergman née Guttman",
+  "heading_name": "Sprinza Guttman, married name Bergman",
   "partner_groups": {
    "P2376": "2"
   }
@@ -199865,7 +199867,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Nusbaum née Weinman",
+  "heading_name": "Hannah Weinman, married name Nusbaum",
   "partner_groups": {
    "P2379": "2"
   }
@@ -200020,7 +200022,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Freida Nusbaum née Licht",
+  "heading_name": "Freida Licht, married name Nusbaum",
   "partner_groups": {
    "P2381": "1"
   }
@@ -200172,7 +200174,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gittla Engel née Eisenberg",
+  "heading_name": "Gittla Eisenberg, married name Engel",
   "partner_groups": {
    "P2383": "2"
   }
@@ -200327,7 +200329,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Engel née Licht",
+  "heading_name": "Rivka Licht, married name Engel",
   "partner_groups": {
    "P2385": "1"
   }
@@ -200479,7 +200481,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Keila Lehrhaupt née Schnikler",
+  "heading_name": "Keila Schnikler, married name Lehrhaupt",
   "partner_groups": {
    "P2387": "2"
   }
@@ -200977,7 +200979,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Freida Parnes née Lieber",
+  "heading_name": "Freida Lieber, married name Parnes",
   "partner_groups": {
    "P2392": "1"
   }
@@ -201129,7 +201131,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Deborah Neubart née Weintraub",
+  "heading_name": "Deborah Weintraub, married name Neubart",
   "partner_groups": {
    "P2396": "2"
   }
@@ -201357,7 +201359,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Rokach",
+  "heading_name": "Malka Rokach (married name; birth name not known)",
   "partner_groups": {
    "P2399": "2"
   }
@@ -201938,7 +201940,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Diamant née Diamant",
+  "heading_name": "Leah Diamant, married name Diamant",
   "partner_groups": {
    "P2407": "1"
   }
@@ -202305,7 +202307,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tzifra Heringfass née Laufer",
+  "heading_name": "Tzifra Laufer, married name Heringfass",
   "partner_groups": {
    "P2414": "2"
   }
@@ -202544,7 +202546,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Kasten née Stark",
+  "heading_name": "Hannah Stark, married name Kasten",
   "partner_groups": {
    "P2417": "2"
   }
@@ -202699,7 +202701,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pessel Kasten née Karpf",
+  "heading_name": "Pessel Karpf, married name Kasten",
   "partner_groups": {
    "P2419": "1"
   }
@@ -202851,7 +202853,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Kleinman née Stern",
+  "heading_name": "Rachel Stern, married name Kleinman",
   "partner_groups": {
    "P2421": "2"
   }
@@ -203081,7 +203083,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Kolber née Rosenhan",
+  "heading_name": "Rivka Rosenhan, married name Kolber",
   "partner_groups": {
    "P2424": "2"
   }
@@ -203297,7 +203299,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Kolber née Herman",
+  "heading_name": "Rivka Herman, married name Kolber",
   "partner_groups": {
    "P2426": "1"
   }
@@ -203662,7 +203664,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Reisla Hollander née Mongel",
+  "heading_name": "Reisla Mongel, married name Hollander",
   "partner_groups": {
    "P2432": "2"
   }
@@ -203817,7 +203819,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Hollander née Roth",
+  "heading_name": "Hannah Roth, married name Hollander",
   "partner_groups": {
    "P2434": "1"
   }
@@ -204182,7 +204184,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Feige Rivka Kahana née Dawid",
+  "heading_name": "Feige Rivka Dawid, married name Kahana",
   "partner_groups": {
    "P2439": "2"
   }
@@ -204260,7 +204262,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Baum née Kahana",
+  "heading_name": "Reisla Kahana, married name Baum",
   "partner_groups": {
    "P2438": "1"
   }
@@ -204763,7 +204765,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Rubin née Weisman",
+  "heading_name": "Chaya Weisman, married name Rubin",
   "partner_groups": {
    "P2447": "2"
   }
@@ -204992,7 +204994,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Jana Kleinhandler née Koplik",
+  "heading_name": "Jana Koplik, married name Kleinhandler",
   "partner_groups": {
    "P2450": "2"
   }
@@ -205070,7 +205072,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Amalia Rubin née Kleinhandler",
+  "heading_name": "Amalia Kleinhandler, married name Rubin",
   "partner_groups": {
    "P2449": "1"
   }
@@ -205360,7 +205362,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Riza Matzner née Kanarek",
+  "heading_name": "Riza Kanarek, married name Matzner",
   "partner_groups": {
    "P2455": "2"
   }
@@ -205439,7 +205441,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Perla Licht née Brand",
+  "heading_name": "Perla Matzner, married name Licht",
   "partner_groups": {
    "P0177": "1"
   }
@@ -205591,7 +205593,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tyla Thum née Mehr",
+  "heading_name": "Tyla Mehr, married name Thum",
   "partner_groups": {
    "P2458": "2"
   }
@@ -205820,7 +205822,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Zipporah Weinberger née Katz",
+  "heading_name": "Zipporah Katz, married name Weinberger",
   "partner_groups": {
    "P2461": "2"
   }
@@ -206048,7 +206050,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Dina Silber",
+  "heading_name": "Dina Silber (married name; birth name not known)",
   "partner_groups": {
    "P2464": "2"
   }
@@ -206130,7 +206132,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Licht née Silber",
+  "heading_name": "Hannah Silber, married name Licht",
   "partner_groups": {
    "P0410": "1"
   }
@@ -206282,7 +206284,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Itta Stern née Matzner",
+  "heading_name": "Itta Matzner, married name Stern",
   "partner_groups": {
    "P2467": "2"
   }
@@ -206588,7 +206590,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Bluma Seeman née Rosenberg",
+  "heading_name": "Bluma Rosenberg, married name Seeman",
   "partner_groups": {
    "P2473": "2"
   }
@@ -206838,7 +206840,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Miriam Zehnwirth née Adler",
+  "heading_name": "Miriam Adler, married name Zehnwirth",
   "partner_groups": {
    "P2476": "2"
   }
@@ -206916,7 +206918,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Rivka Seeman née Zehnwirth",
+  "heading_name": "Sarah Rivka Zehnwirth, married name Seeman",
   "partner_groups": {
    "P2475": "1"
   }
@@ -207082,7 +207084,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Spira née Berger",
+  "heading_name": "Hannah Berger, married name Spira",
   "partner_groups": {
    "P2479": "2"
   }
@@ -207298,7 +207300,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Tauba Spira née Spiera",
+  "heading_name": "Tauba Spiera, married name Spira",
   "partner_groups": {
    "P2481": "1"
   }
@@ -207450,7 +207452,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Perla Stadtfeld née Schuman",
+  "heading_name": "Perla Schuman, married name Stadtfeld",
   "partner_groups": {
    "P2484": "2"
   }
@@ -207668,7 +207670,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Malka Goldman née Steinbok",
+  "heading_name": "Malka Steinbok, married name Goldman",
   "partner_groups": {
    "P1289": "1"
   }
@@ -207820,7 +207822,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sheba Tugendhoft née Feit",
+  "heading_name": "Sheba Feit, married name Tugendhoft",
   "partner_groups": {
    "P2489": "2"
   }
@@ -208049,7 +208051,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Elka Greisman née Karpf",
+  "heading_name": "Elka Karpf, married name Greisman",
   "partner_groups": {
    "P2492": "2"
   }
@@ -208278,7 +208280,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Beila Malka Ehrenfreund née Kornreich",
+  "heading_name": "Beila Malka Kornreich, married name Ehrenfreund",
   "partner_groups": {
    "P2495": "2"
   }
@@ -208356,7 +208358,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Greisman née Ehrenfreund",
+  "heading_name": "Gittla Ehrenfreund, married name Greisman",
   "partner_groups": {
    "P2494": "1"
   }
@@ -208508,7 +208510,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Steinbrecher née Gutwein",
+  "heading_name": "Sarah Gutwein, married name Steinbrecher",
   "partner_groups": {
    "P2498": "2"
   }
@@ -208678,7 +208680,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Mirla Steinbrecher née Rubel",
+  "heading_name": "Mirla Rubel, married name Steinbrecher",
   "partner_groups": {
    "P2500": "1"
   }
@@ -208969,7 +208971,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Chaya Springer née Spierer",
+  "heading_name": "Chaya Spierer, married name Springer",
   "partner_groups": {
    "P2504": "2"
   }
@@ -209198,7 +209200,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Deborah Diamant née Katz",
+  "heading_name": "Deborah Katz, married name Diamant",
   "partner_groups": {
    "P2508": "2"
   }
@@ -209353,7 +209355,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Diamant née Licht",
+  "heading_name": "Leah Licht, married name Diamant",
   "partner_groups": {
    "P2510": "1"
   }
@@ -209505,7 +209507,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hannah Sarah Zahler née Pasner",
+  "heading_name": "Hannah Sarah Pasner, married name Zahler",
   "partner_groups": {
    "P2512": "2"
   }
@@ -209734,7 +209736,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Golda Hecht née Rauchwerg",
+  "heading_name": "Golda Rauchwerg, married name Hecht",
   "partner_groups": {
    "P2515": "2"
   }
@@ -209889,7 +209891,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Hecht née Spira",
+  "heading_name": "Shayndel Spira, married name Hecht",
   "partner_groups": {
    "P2517": "1"
   }
@@ -210041,7 +210043,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Beila Welkes née Kornhauser",
+  "heading_name": "Beila Kornhauser, married name Welkes",
   "partner_groups": {
    "P2519": "2"
   }
@@ -210196,7 +210198,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Welkes née Unger",
+  "heading_name": "Leah Unger, married name Welkes",
   "partner_groups": {
    "P2521": "1"
   }
@@ -210274,7 +210276,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sarah Pencier née Ratz",
+  "heading_name": "Sarah Ratz, married name Pencier",
   "partner_groups": {
    "P1323": "1"
   }
@@ -210426,7 +210428,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Anker née Schancer",
+  "heading_name": "Rivka Schancer, married name Anker",
   "partner_groups": {
    "P2524": "2"
   }
@@ -210931,7 +210933,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gittla Korn née Arwaschel",
+  "heading_name": "Gittla Arwaschel, married name Korn",
   "partner_groups": {
    "P2533": "2"
   }
@@ -211160,7 +211162,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Leah Szyjowicz née Trom",
+  "heading_name": "Leah Trom, married name Szyjowicz",
   "partner_groups": {
    "P2536": "2"
   }
@@ -211389,7 +211391,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Breindel Mahler née Gewirtz",
+  "heading_name": "Breindel Gewirtz, married name Mahler",
   "partner_groups": {
    "P2540": "2"
   }
@@ -211618,7 +211620,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tauba Felsen née Schnek",
+  "heading_name": "Tauba Schnek, married name Felsen",
   "partner_groups": {
    "P2543": "2"
   }
@@ -211696,7 +211698,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Mahler née Felsen",
+  "heading_name": "Chaya Felsen, married name Mahler",
   "partner_groups": {
    "P2542": "1"
   }
@@ -211848,7 +211850,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Kressla Silber née Fertig",
+  "heading_name": "Kressla Fertig, married name Silber",
   "partner_groups": {
    "P2548": "2"
   }
@@ -212148,7 +212150,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Itta Zehnwirth née Mastbaum",
+  "heading_name": "Itta Mastbaum, married name Zehnwirth",
   "partner_groups": {
    "P2551": "1"
   }
@@ -212300,7 +212302,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tziva Kleinman née Friedman",
+  "heading_name": "Tziva Friedman, married name Kleinman",
   "partner_groups": {
    "P2554": "2"
   }
@@ -212455,7 +212457,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Leah Kleinman née Fisch",
+  "heading_name": "Leah Fisch, married name Kleinman",
   "partner_groups": {
    "P2556": "1"
   }
@@ -212747,7 +212749,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rachel Bein née Meer",
+  "heading_name": "Rachel Meer, married name Bein",
   "partner_groups": {
    "P2099": "2"
   }
@@ -212903,7 +212905,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hinde Walter née Freiberger",
+  "heading_name": "Hinde Freiberger, married name Walter",
   "partner_groups": {
    "P0225": "2"
   }
@@ -213081,7 +213083,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Fichner née Korzennik",
+  "heading_name": "Chaya Korzennik, married name Fichner",
   "partner_groups": {
    "P0194": "1"
   }
@@ -213157,7 +213159,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Chaya Goldman née Rubel",
+  "heading_name": "Chaya Rubel, married name Goldman",
   "partner_groups": {
    "P0231": "1"
   }
@@ -214666,7 +214668,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Gittla Welisch née Bloch",
+  "heading_name": "Shayndel Gittla Bloch, married name Welisch",
   "partner_groups": {
    "P0213": "1"
   }
@@ -214833,7 +214835,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Schlenger née Steinheim",
+  "heading_name": "Rivka Steinheim, married name Schlenger",
   "partner_groups": {
    "P2580": "2"
   }
@@ -216133,7 +216135,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Tauba Schwarz née Schiffmann",
+  "heading_name": "Tauba Schiffmann, married name Schwarz",
   "partner_groups": {
    "P2676": "2"
   }
@@ -216468,9 +216470,9 @@
   "legal_given": "Sarah",
   "common_given": "Sarah",
   "legal_surname": "Wolf",
-  "common_surname": "Boyer",
+  "common_surname": "Wolf",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Boyer",
   "sex": "F",
   "birth_date": "22 Nov 1910 Niepolomice (per 1941 Krakow ghetto ID card)",
   "death_date": null,
@@ -217322,7 +217324,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Steinhorn née Menendorf",
+  "heading_name": "Rivka Menendorf, married name Steinhorn",
   "partner_groups": {
    "P2055": "2"
   }
@@ -217549,7 +217551,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Shayndel Wild née List",
+  "heading_name": "Shayndel List, married name Wild",
   "partner_groups": {
    "P2076": "1"
   }
@@ -218548,7 +218550,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Selda Blut",
+  "heading_name": "Selda Blut (married name; birth name not known)",
   "partner_groups": {
    "P2726": "2"
   }
@@ -218699,7 +218701,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sussla Balsam",
+  "heading_name": "Sussla Balsam (married name; birth name not known)",
   "partner_groups": {
    "P2728": "2"
   }
@@ -218893,7 +218895,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Bodner née Tratner",
+  "heading_name": "Rivka Tratner, married name Bodner",
   "partner_groups": {
    "P2152": "2"
   }
@@ -219059,7 +219061,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Gittla Roth née Herman",
+  "heading_name": "Gittla Herman, married name Roth",
   "partner_groups": {
    "P2013": "1"
   }
@@ -219136,7 +219138,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Laja Friedman née Berger",
+  "heading_name": "Laja Berger, married name Friedman",
   "partner_groups": {
    "P1476": "2"
   }
@@ -219288,7 +219290,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Shayndel Handler née Trachman",
+  "heading_name": "Shayndel Trachman, married name Handler",
   "partner_groups": {
    "P0126": "2"
   }
