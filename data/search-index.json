@@ -726,11 +726,11 @@
    "id": "P0041",
    "type": "person",
    "display": "Sarah Kleinman, married name Russ",
-   "other_names": "Sarah Kleinman; Sarah née Kleinman; Grunberger; Kleinman; Russ",
+   "other_names": "Sarah Kleinman; Sarah née Kleinman; Kleinman; Russ",
    "subtitle": "born 1882; daughter of Marcus Kleinman",
    "legal_given": "Sarah",
    "common_given": "Sarah",
-   "legal_surname": "Grunberger",
+   "legal_surname": "Kleinman",
    "common_surname": "Kleinman",
    "maiden_surname": "",
    "father_name": "Marcus Kleinman",
@@ -739,7 +739,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "490000 586600 596795 490000 586600 596795 600000 940000"
+   "phonetic": "490000 586600 490000 586600 600000 940000"
   },
   {
    "id": "P0042",
@@ -783,11 +783,11 @@
    "id": "P0044",
    "type": "person",
    "display": "Berel Kleinman",
-   "other_names": "Berel Kleinman; Grunberger; Kleinman",
+   "other_names": "Berel Kleinman; Kleinman",
    "subtitle": "1892–1910; son of Marcus Kleinman",
    "legal_given": "Berel",
    "common_given": "Berel",
-   "legal_surname": "Grunberger",
+   "legal_surname": "Kleinman",
    "common_surname": "Kleinman",
    "maiden_surname": "",
    "father_name": "Marcus Kleinman",
@@ -796,7 +796,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "586600 596795 798000 586600 596795 798000"
+   "phonetic": "586600 798000 586600 798000"
   },
   {
    "id": "P0045",
