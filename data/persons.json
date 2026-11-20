@@ -4499,7 +4499,7 @@
   "birth_date": null,
   "death_date": "before 30 May 1912 (called \"the late\" in d-1912-7)",
   "marriage_dates": null,
-  "occupations": "merchant (1898 m-1898-4); former merchant in Brzostek (per d-1912-7 narrative naming his son's parents)",
+  "occupations": "merchant (1898 m-1898-4); former merchant in Brzostek (from d-1912-7 narrative naming his son's parents)",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -5772,7 +5772,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "1914 (per d-1914-5)",
+  "death_date": "1914 (from d-1914-5)",
   "marriage_dates": null,
   "occupations": "rabbi",
   "residences": "Brzostek",
@@ -7631,7 +7631,7 @@
   "birth_date": null,
   "death_date": "before 7 Mar 1895 (called \"the late\" in b-1895-5)",
   "marriage_dates": null,
-  "occupations": "grain dealer (deceased per b-1895-5); tenant of the mill (per b-1899-3 narrative — anachronistic: actually deceased)",
+  "occupations": "grain dealer (deceased from b-1895-5); tenant of the mill (from b-1899-3 narrative — anachronistic: actually deceased)",
   "residences": "Nowy Sacz",
   "status": null,
   "birth_legitimacy": null,
@@ -14377,7 +14377,7 @@
   "birth_date": "c. 1869 (age 50 at death 1919)",
   "death_date": "28 Feb 1919",
   "marriage_dates": "14 Jan 1898 in Brzostek (civil)",
-  "occupations": "dealer; industrialist; owner of mixed goods shop (per b-1911-20)",
+  "occupations": "dealer; industrialist; owner of mixed goods shop (from b-1911-20)",
   "residences": "Nawsie Brzosteckie",
   "status": "M",
   "birth_legitimacy": null,
@@ -16031,7 +16031,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "13 May 1892 (per m-1922-2 Notes; predates book)",
+  "birth_date": "13 May 1892 (from m-1922-2 Notes; predates book)",
   "death_date": null,
   "marriage_dates": "1922-04 in Brzostek (civil)",
   "occupations": null,
@@ -16089,9 +16089,9 @@
      "spouse_id": "P0078"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1892",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "13 May 1892 (from m-1922-2 Notes; predates book)",
    "death_date_text": null
   },
   "unions": [],
@@ -16261,7 +16261,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "22 April 1899 (per m-1922-2 Notes)",
+  "birth_date": "22 April 1899 (from m-1922-2 Notes)",
   "death_date": null,
   "marriage_dates": "1922-04 in Brzostek (civil)",
   "occupations": "without profession",
@@ -16319,9 +16319,9 @@
      "spouse_id": "P0075"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1899",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "22 April 1899 (from m-1922-2 Notes)",
    "death_date_text": null
   },
   "unions": [],
@@ -21077,7 +21077,7 @@
   "death_date": null,
   "marriage_dates": "1924-03-25 in Zawadka Brzostecka (civil)",
   "occupations": null,
-  "residences": "Brzostek (house 126; b-1896-28 records 1266 — likely scribal typo)",
+  "residences": "Brzostek (house 126; b-1896-28 records 1266 — probably scribal typo)",
   "status": "M",
   "birth_legitimacy": "Legitimate (b-1896-28)",
   "marital_status_at_marriage": "Single (m-1924-2)",
@@ -21276,7 +21276,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "21 Nov 1891 (per m-1924-2 Notes)",
+  "birth_date": "21 Nov 1891 (from m-1924-2 Notes)",
   "death_date": null,
   "marriage_dates": "1924-03-25 in Zawadka Brzostecka (civil)",
   "occupations": null,
@@ -21334,9 +21334,9 @@
      "spouse_id": "P0121"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1891",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "21 Nov 1891 (from m-1924-2 Notes)",
    "death_date_text": null
   },
   "unions": [],
@@ -24031,7 +24031,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": "22 Apr 1894",
-  "death_date": "6 Oct 1894 (per b-1894-9 Notes)",
+  "death_date": "6 Oct 1894 (from b-1894-9 Notes)",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Januszkowice (house 23)",
@@ -28861,7 +28861,7 @@
   "death_date": null,
   "marriage_dates": "18 Dec 1901 in Brzostek (civil)",
   "occupations": null,
-  "residences": "Blaszkowa (birthplace per m-1901-19); Brzostek (post-marriage)",
+  "residences": "Blaszkowa (birthplace from m-1901-19); Brzostek (post-marriage)",
   "status": null,
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1901-19)",
@@ -29269,7 +29269,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 15 Jun 1894 (per b-1894-18 narrative; deceased before her grandson Simon Pencier was born)",
+  "death_date": "before 15 Jun 1894 (from b-1894-18 narrative; deceased before her grandson Simon Pencier was born)",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -29424,9 +29424,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1894",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 15 Jun 1894 (from b-1894-18 narrative; deceased before her grandson Simon Pencier was born)"
   },
   "unions": [
    {
@@ -29729,7 +29729,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 11 Jun 1901 (per b-1901-19 \"the late\")",
+  "death_date": "before 11 Jun 1901 (from b-1901-19 \"the late\")",
   "marriage_dates": null,
   "occupations": "owner of farm land",
   "residences": "Czermna",
@@ -29818,9 +29818,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1901",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 11 Jun 1901 (from b-1901-19 \"the late\")"
   },
   "unions": [
    {
@@ -30391,7 +30391,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": "9 Jul 1894",
-  "death_date": "2 Jan 1895 (per b-1894-21 Notes)",
+  "death_date": "2 Jan 1895 (from b-1894-21 Notes)",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Januszkowice",
@@ -33366,7 +33366,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "21 Apr 1889 Brzostek (per m-1919-8 source notes ✓; age 30 at marriage)",
+  "birth_date": "21 Apr 1889 Brzostek (from m-1919-8 source notes ✓; age 30 at marriage)",
   "death_date": null,
   "marriage_dates": "1919-12-14 in Brzostek (civil)",
   "occupations": null,
@@ -33435,9 +33435,9 @@
      "spouse_id": "P2252"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1889",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "21 Apr 1889 Brzostek (from m-1919-8 source notes ✓; age 30 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -36306,7 +36306,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 12 Jan 1904 (per b-1904-2 \"the late\")",
+  "death_date": "before 12 Jan 1904 (from b-1904-2 \"the late\")",
   "marriage_dates": null,
   "occupations": "owner of agricultural land",
   "residences": "Gawlow near Bochnia",
@@ -36383,9 +36383,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1904",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 12 Jan 1904 (from b-1904-2 \"the late\")"
   },
   "unions": [
    {
@@ -36780,7 +36780,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 18 May 1902 (per b-1902-19 \"the late\")",
+  "death_date": "before 18 May 1902 (from b-1902-19 \"the late\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -36867,9 +36867,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1902",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 18 May 1902 (from b-1902-19 \"the late\")"
   },
   "unions": [
    {
@@ -38337,7 +38337,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1861 (per d-1894-9 age 33)",
+  "birth_date": "c. 1861 (from d-1894-9 age 33)",
   "death_date": "2 Oct 1894",
   "marriage_dates": "4 Sep 1891 in Kamienica Gorna (civil)",
   "occupations": "trader; dealer",
@@ -38412,9 +38412,9 @@
     "age": "33 years"
    },
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1861",
    "death_year": "1894",
-   "birth_date_text": null,
+   "birth_date_text": "c. 1861 (from d-1894-9 age 33)",
    "death_date_text": null
   },
   "unions": [],
@@ -38431,11 +38431,11 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1869 (per d-1917-4 age 48; born in Kamienica Gorna implied by parents' residence there)",
+  "birth_date": "c. 1869 (from d-1917-4 age 48; born in Kamienica Gorna implied by parents' residence there)",
   "death_date": "14 Mar 1917",
   "marriage_dates": "1st: 4 Sep 1891 in Kamienica Gorna (civil, to Abraham Kornfeld P0277, widowed 2 Oct 1894); 2nd: not civilly registered (Status N relationship with Leib Tager P0250, joint children 1904-1911)",
   "occupations": null,
-  "residences": "Kamienica Gorna (origin); Brzostek (with Abraham Kornfeld 1891-1894); Klecie (with Leib Tager 1904+; per b-1904-21 etc.)",
+  "residences": "Kamienica Gorna (origin); Brzostek (with Abraham Kornfeld 1891-1894); Klecie (with Leib Tager 1904+; from b-1904-21 etc.)",
   "status": "W (per d-1917-4 marital_status='W'; Vienna saw her as Abraham's widow because the Tager relationship was Status N)",
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -38546,9 +38546,9 @@
     "age": "48 years"
    },
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1869",
    "death_year": "1917",
-   "birth_date_text": null,
+   "birth_date_text": "c. 1869 (from d-1917-4 age 48; born in Kamienica Gorna implied by parents' residence there)",
    "death_date_text": null
   },
   "unions": [],
@@ -39391,7 +39391,7 @@
   "maiden_surname": null,
   "married_surname": "Langer",
   "sex": "F",
-  "birth_date": "about 1850-1860 (inferred)",
+  "birth_date": "about 1850-1860 (estimated)",
   "death_date": "12 Jun 1921",
   "marriage_dates": "1907-06-27 in Brzostek (civil)",
   "occupations": null,
@@ -39501,9 +39501,9 @@
      "spouse_id": "P0287"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1850",
    "death_year": "1921",
-   "birth_date_text": null,
+   "birth_date_text": "about 1850-1860 (estimated)",
    "death_date_text": null
   },
   "unions": [],
@@ -39616,7 +39616,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "deceased before 17 May 1895 (per b-1895-13 MGM unmarked, but m-1900-17 BM-deceased)",
+  "death_date": "deceased before 17 May 1895 (from b-1895-13 MGM unmarked, but m-1900-17 BM-deceased)",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Kamienica Gorna",
@@ -39684,9 +39684,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1895",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "deceased before 17 May 1895 (from b-1895-13 MGM unmarked, but m-1900-17 BM-deceased)"
   },
   "unions": [
    {
@@ -40248,10 +40248,10 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 27 Apr 1922 (per d-1922-3 'the late')",
+  "death_date": "before 27 Apr 1922 (from d-1922-3 'the late')",
   "marriage_dates": null,
   "occupations": "unemployed",
-  "residences": "Tarnow; Przemysl (per b-1900-4)",
+  "residences": "Tarnow; Przemysl (from b-1900-4)",
   "status": "W",
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -40349,9 +40349,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1922",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 27 Apr 1922 (from d-1922-3 'the late')"
   },
   "unions": [
    {
@@ -40375,7 +40375,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 22 Feb 1902 (per b-1902-12 \"the late\")",
+  "death_date": "before 22 Feb 1902 (from b-1902-12 \"the late\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -40472,9 +40472,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1902",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 22 Feb 1902 (from b-1902-12 \"the late\")"
   },
   "unions": [
    {
@@ -40560,7 +40560,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1843 (per d-1936-2 age 93 at death)",
+  "birth_date": "c. 1843 (from d-1936-2 age 93 at death)",
   "death_date": "2 Nov 1936",
   "marriage_dates": "7 Dec 1873 in Brzostek (ritual; not civil)",
   "occupations": "butcher in Brzostek",
@@ -40688,9 +40688,9 @@
     "age": "93 years"
    },
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1843",
    "death_year": "1936",
-   "birth_date_text": null,
+   "birth_date_text": "c. 1843 (from d-1936-2 age 93 at death)",
    "death_date_text": null
   },
   "unions": [],
@@ -40862,7 +40862,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1823 (per d-1913-1 age 90)",
+  "birth_date": "c. 1823 (from d-1913-1 age 90)",
   "death_date": "18 Feb 1913",
   "marriage_dates": null,
   "occupations": "baker in Brzostek",
@@ -40990,9 +40990,9 @@
     "age": "90 years"
    },
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1823",
    "death_year": "1913",
-   "birth_date_text": null,
+   "birth_date_text": "c. 1823 (from d-1913-1 age 90)",
    "death_date_text": null
   },
   "unions": [],
@@ -41010,7 +41010,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 14 Jan 1904 (per b-1904-3 \"the late\")",
+  "death_date": "before 14 Jan 1904 (from b-1904-3 \"the late\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -41145,9 +41145,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1904",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 14 Jan 1904 (from b-1904-3 \"the late\")"
   },
   "unions": [],
   "heading_name": "Hene Licht, married name Orner",
@@ -43045,7 +43045,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 12 Feb 1905 (per b-1905-16 \"the late\")",
+  "death_date": "before 12 Feb 1905 (from b-1905-16 \"the late\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -43112,9 +43112,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1905",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 12 Feb 1905 (from b-1905-16 \"the late\")"
   },
   "unions": [
    {
@@ -44691,7 +44691,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 13 May 1907 (per b-1907-13 \"the late\")",
+  "death_date": "before 13 May 1907 (from b-1907-13 \"the late\")",
   "marriage_dates": null,
   "occupations": "dealer in cattle",
   "residences": "Szebnie",
@@ -44773,9 +44773,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1907",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 13 May 1907 (from b-1907-13 \"the late\")"
   },
   "unions": [],
   "partner_groups": {
@@ -44930,7 +44930,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 16 Jul 1895 (per b-1895-22 'former butcher Brzostek, deceased')",
+  "death_date": "before 16 Jul 1895 (from b-1895-22 'former butcher Brzostek, deceased')",
   "marriage_dates": null,
   "occupations": "butcher in Brzostek",
   "residences": "Brzostek",
@@ -44991,9 +44991,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1895",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 16 Jul 1895 (from b-1895-22 'former butcher Brzostek, deceased')"
   },
   "unions": [
    {
@@ -45017,7 +45017,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 22 Oct 1905 (per d-1905-19 'son of the deceased Leib and Rachel Panzer')",
+  "death_date": "before 22 Oct 1905 (from d-1905-19 'son of the deceased Leib and Rachel Panzer')",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -45084,9 +45084,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1905",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 22 Oct 1905 (from d-1905-19 'son of the deceased Leib and Rachel Panzer')"
   },
   "unions": [
    {
@@ -45196,7 +45196,7 @@
   "birth_date": "c. 1857 (age 67 at death 1924)",
   "death_date": "24 Mar 1924",
   "marriage_dates": "13 Jun 1893 in Brzostek (civil, to Vitla Karpf — 2nd wife). Earlier ritual marriage to Sarah Zahler (1st wife) not civilly registered.",
-  "occupations": "dealer in grain, hides, and cattle (1895); cattle dealer / grain dealer (1898-1912 across multiple records); farmer (per d-1924-1)",
+  "occupations": "dealer in grain, hides, and cattle (1895); cattle dealer / grain dealer (1898-1912 across multiple records); farmer (from d-1924-1)",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -45387,7 +45387,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1870-1875 (inferred — first child Abraham b. 1895)",
+  "birth_date": "c. 1870-1875 (estimated — first child Abraham b. 1895)",
   "death_date": null,
   "marriage_dates": "13 Jun 1893 in Brzostek (civil)",
   "occupations": null,
@@ -45511,9 +45511,9 @@
    "born": null,
    "died": null,
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1870",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1870-1875 (estimated — first child Abraham b. 1895)",
    "death_date_text": null
   },
   "unions": [],
@@ -50474,7 +50474,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Bukowa (house 13, per b-1896-14)",
+  "residences": "Bukowa (house 13, from b-1896-14)",
   "status": "S",
   "birth_legitimacy": "Registered illegitimate (b-1896-14); legitimized by the parents' marriage: Legitimized by marriage 6 Feb 1905 Correction 2026-04-22: MGM_Maiden_Su",
   "marital_status_at_marriage": null,
@@ -50644,7 +50644,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1870-1875 (inferred — first documented child Moses Berchiel born 1896)",
+  "birth_date": "c. 1870-1875 (estimated — first documented child Moses Berchiel born 1896)",
   "death_date": null,
   "marriage_dates": "6 Feb 1905 in Frysztak (civil)",
   "occupations": null,
@@ -50732,9 +50732,9 @@
    "born": null,
    "died": null,
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1870",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1870-1875 (estimated — first documented child Moses Berchiel born 1896)",
    "death_date_text": null
   },
   "unions": [],
@@ -50753,7 +50753,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "between 29 Nov 1912 and 23 May 1916 (per b-1912-27 alive, b-1916-7 deceased; no linked death record)",
+  "death_date": "between 29 Nov 1912 and 23 May 1916 (from b-1912-27 alive, b-1916-7 deceased; no linked death record)",
   "marriage_dates": "26 Oct 1900 in Brzostek (civil)",
   "occupations": "tenant of the farm/manor in Bukowa (1895-1900); owner of farm (1911); farmer (1912)",
   "residences": "Bukowa",
@@ -50844,9 +50844,9 @@
     }
    ],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1912",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "between 29 Nov 1912 and 23 May 1916 (from b-1912-27 alive, b-1916-7 deceased; no linked death record)"
   },
   "unions": [],
   "partner_groups": {
@@ -51074,7 +51074,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": "11 Apr 1896",
-  "death_date": "30 Jul 1913 (per Notes)",
+  "death_date": "30 Jul 1913 (d-1913-7)",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Januszkowice",
@@ -51545,7 +51545,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "22 Apr 1896 (per source notes ✓)",
+  "birth_date": "22 Apr 1896 (✓)",
   "death_date": null,
   "marriage_dates": "1934-02-18 in Brzostek (civil)",
   "occupations": "merchant; Merchant, Clerk (per IRO card 1948)",
@@ -56779,7 +56779,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 27 Aug 1904 (per m-1904-5 GM-deceased + m-1906-10 BM-deceased)",
+  "death_date": "before 27 Aug 1904 (from m-1904-5 GM-deceased + m-1906-10 BM-deceased)",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -56868,9 +56868,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1904",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 27 Aug 1904 (from m-1904-5 GM-deceased + m-1906-10 BM-deceased)"
   },
   "unions": [
    {
@@ -60139,7 +60139,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 31 Aug 1902 (per b-1902-23 \"the late\")",
+  "death_date": "before 31 Aug 1902 (from b-1902-23 \"the late\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Brzostek",
@@ -60291,9 +60291,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1902",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 31 Aug 1902 (from b-1902-23 \"the late\")"
   },
   "unions": [
    {
@@ -68729,7 +68729,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1861 Brzeziny (per m-1901-12 source: age 40 at marriage)",
+  "birth_date": "c. 1861 Brzeziny (from m-1901-12 source: age 40 at marriage)",
   "death_date": null,
   "marriage_dates": "24 Oct 1901 in Brzostek (civil); per m-1901-12",
   "occupations": null,
@@ -68832,9 +68832,9 @@
      "spouse_id": "P0575"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1861",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1861 Brzeziny (from m-1901-12 source: age 40 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -70298,7 +70298,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": "2 May 1898",
-  "death_date": "Stillborn (buried 2 May 1898 per d-1898-4)",
+  "death_date": "Stillborn (buried 2 May 1898 from d-1898-4)",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Brzostek",
@@ -72587,7 +72587,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "1899 per b-1899-2 (exact day not parsed); previous \"5 May 1911\" was wrong — that birth date came from a different record/child",
+  "birth_date": "1899 from b-1899-2 (exact day not parsed); previous \"5 May 1911\" was wrong — that birth date came from a different record/child",
   "death_date": "28 Jul 1919",
   "marriage_dates": null,
   "occupations": null,
@@ -74149,7 +74149,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "20 Feb 1906 (per b-1916-19 narrative)",
+  "death_date": "20 Feb 1906 (from b-1916-19 narrative)",
   "marriage_dates": "3 Apr 1898 in Blaszkowa (civil)",
   "occupations": "a land holding farmer in Baczalka",
   "residences": "Baczalka",
@@ -76380,7 +76380,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1855 Skolyszyn (per source — age 70 at marriage; d-1938-8 noted age 73 at death = b.1865 — age discrepancies between records)",
+  "birth_date": "c. 1855 Skolyszyn (age 70 at marriage; d-1938-8 noted age 73 at death = b.1865 — age discrepancies between records)",
   "death_date": "21 Dec 1938",
   "marriage_dates": "1925-02-22 in Brzostek (civil)",
   "occupations": "unemployed in Brzostek",
@@ -76474,9 +76474,9 @@
      "spouse_id": "P0663"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1855",
    "death_year": "1938",
-   "birth_date_text": null,
+   "birth_date_text": "c. 1855 Skolyszyn (age 70 at marriage; d-1938-8 noted age 73 at death = b.1865 — age discrepancies between records)",
    "death_date_text": null
   },
   "unions": [],
@@ -76493,7 +76493,7 @@
   "maiden_surname": null,
   "married_surname": "Bier",
   "sex": "F",
-  "birth_date": "c. 1855 Brzostek (per m-1925-3 source; age 70 at marriage)",
+  "birth_date": "c. 1855 Brzostek (from m-1925-3 source; age 70 at marriage)",
   "death_date": null,
   "marriage_dates": "1925-02-22 in Brzostek (civil)",
   "occupations": null,
@@ -76595,9 +76595,9 @@
      "spouse_id": "P0662"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1855",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1855 Brzostek (from m-1925-3 source; age 70 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -78440,7 +78440,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1873 in Rzochow (Mielec district) — per m-1904-5 age 31y at marriage",
+  "birth_date": "c. 1873 in Rzochow (Mielec district) — from m-1904-5 age 31y at marriage",
   "death_date": null,
   "marriage_dates": "27 Aug 1904 in Brzostek (civil)",
   "occupations": "tenant of the manor in Blaszkowa",
@@ -78678,9 +78678,9 @@
      "spouse_id": "P0690"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1873",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1873 in Rzochow (Mielec district) — from m-1904-5 age 31y at marriage",
    "death_date_text": null
   },
   "unions": [],
@@ -80712,7 +80712,7 @@
   "death_date": null,
   "marriage_dates": "21 Dec 1899 in Brzostek (civil) — m-1899-3",
   "occupations": "leather dealer in Brzostek",
-  "residences": "Debica (birthplace per m-1899-3); Brzostek (post-marriage)",
+  "residences": "Debica (birthplace from m-1899-3); Brzostek (post-marriage)",
   "status": null,
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1899-3)",
@@ -82456,7 +82456,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": "9 Aug 1900",
-  "death_date": "25 Jul 1900 (per d-1900-14)",
+  "death_date": "25 Jul 1900 (from d-1900-14)",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Januszkowice (house 16)",
@@ -84485,7 +84485,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 3 Oct 1904 (per b-1904-25 \"the late\")",
+  "death_date": "before 3 Oct 1904 (from b-1904-25 \"the late\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -84582,9 +84582,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1904",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 3 Oct 1904 (from b-1904-25 \"the late\")"
   },
   "unions": [
    {
@@ -84918,7 +84918,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "30 Jan 1901 Siedliska (per b-1901-3)",
+  "birth_date": "30 Jan 1901 Siedliska (from b-1901-3)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -86952,9 +86952,9 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "between 1 Apr 1901 (alive at m-1901-7) and 1 Apr 1907 (deceased per b-1907-8 'the late')",
+  "death_date": "between 1 Apr 1901 (alive at m-1901-7) and 1 Apr 1907 (deceased from b-1907-8 'the late')",
   "marriage_dates": null,
-  "occupations": "unemployed (per m-1901-7); industrialist in Mielec (per b-1907-8 'former')",
+  "occupations": "unemployed (from m-1901-7); industrialist in Mielec (from b-1907-8 'former')",
   "residences": "Mielec",
   "status": "M",
   "birth_legitimacy": null,
@@ -87021,9 +87021,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1901",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "between 1 Apr 1901 (alive at m-1901-7) and 1 Apr 1907 (deceased from b-1907-8 'the late')"
   },
   "unions": [
    {
@@ -87046,7 +87046,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "25 May 1901 in Wola Brzostecka (per b-1901-14)",
+  "birth_date": "25 May 1901 in Wola Brzostecka (from b-1901-14)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -87875,7 +87875,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 8 Sep 1902 (per b-1902-25 \"the late\")",
+  "death_date": "before 8 Sep 1902 (from b-1902-25 \"the late\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Bochnia",
@@ -87935,9 +87935,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1902",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 8 Sep 1902 (from b-1902-25 \"the late\")"
   },
   "unions": []
  },
@@ -89799,7 +89799,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "died 1917 (per d-1917-11 — needs verification)",
+  "death_date": "died 1917 (from d-1917-11 — needs verification)",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -93180,7 +93180,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "5 Nov 1902 (per b-1902-30 source)",
+  "birth_date": "5 Nov 1902 (from b-1902-30 source)",
   "death_date": "22 Nov 1902",
   "marriage_dates": null,
   "occupations": null,
@@ -101926,7 +101926,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "31 Dec 1878 (per m-1917-3 source notes; age 39 at marriage)",
+  "birth_date": "31 Dec 1878 (m-1917-3; age 39 at marriage)",
   "death_date": null,
   "marriage_dates": "13 November 1902 in Brzostek; 13 Nov 1902 in Brzostek (civil); 1917-09-02 in Brzostek (civil)",
   "occupations": "leather and hide dealer in Brzostek; owner of a cloth-goods stall/business (1906–1916)",
@@ -102186,9 +102186,9 @@
      "spouse_id": "P1504"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1878",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "31 Dec 1878 (m-1917-3; age 39 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -102565,7 +102565,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": "c. 1863 (age 42 at death 1905)",
-  "death_date": "before 4 Mar 1906 (per b-1906-7 \"the late\")",
+  "death_date": "before 4 Mar 1906 (from b-1906-7 \"the late\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -104383,7 +104383,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1840 (age 64 at death 1904 per d-1904-2)",
+  "birth_date": "c. 1840 (age 64 at death 1904 from d-1904-2)",
   "death_date": "26 Jan 1904",
   "marriage_dates": null,
   "occupations": "egg dealer",
@@ -104459,9 +104459,9 @@
     "age": "64 years"
    },
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1840",
    "death_year": "1904",
-   "birth_date_text": null,
+   "birth_date_text": "c. 1840 (age 64 at death 1904 from d-1904-2)",
    "death_date_text": null
   },
   "unions": [
@@ -105388,7 +105388,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 1 Apr 1901 (BM-deceased per m-1901-7)",
+  "death_date": "before 1 Apr 1901 (BM-deceased from m-1901-7)",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Mielec",
@@ -105458,9 +105458,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1901",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 1 Apr 1901 (BM-deceased from m-1901-7)"
   },
   "unions": [
    {
@@ -109340,7 +109340,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 29 May 1912 (per b-1912-12 \"the late\")",
+  "death_date": "before 29 May 1912 (from b-1912-12 \"the late\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -109405,9 +109405,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1912",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 29 May 1912 (from b-1912-12 \"the late\")"
   },
   "unions": [
    {
@@ -110586,7 +110586,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 1 Oct 1917 (per b-1917-16 \"the late\")",
+  "death_date": "before 1 Oct 1917 (from b-1917-16 \"the late\")",
   "marriage_dates": null,
   "occupations": "owner of landed estate in Toki near Zmigrod",
   "residences": "Toki near Zmigrod",
@@ -110670,9 +110670,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1917",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 1 Oct 1917 (from b-1917-16 \"the late\")"
   },
   "unions": [
    {
@@ -114850,10 +114850,10 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. Jul 1881 in Brzostek (per m-1907-11 age 26y3m) — full sibling of P1555 Sarah b. 1876",
+  "birth_date": "c. Jul 1881 in Brzostek (from m-1907-11, age 26y3m); full sibling of Sarah, b. 1876",
   "death_date": null,
   "marriage_dates": "27 Oct 1907 in Brzostek (civil)",
-  "occupations": "master shoemaker (per m-1907-11, b-1907-33, b-1909-17, b-1911-11, b-1915-2); shoemaker (per b-1913-2, b-1913-3, b-1917-11)",
+  "occupations": "master shoemaker (from m-1907-11, b-1907-33, b-1909-17, b-1911-11, b-1915-2); shoemaker (from b-1913-2, b-1913-3, b-1917-11)",
   "residences": "Brzostek (birthplace; house 174 in 1907-1913); Gorzejowa (1915 b-1915-2); Siedliska (1917 b-1917-11)",
   "status": "M",
   "birth_legitimacy": null,
@@ -115000,9 +115000,9 @@
      "spouse_id": "P1098"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1881",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. Jul 1881 in Brzostek (from m-1907-11, age 26y3m); full sibling of Sarah, b. 1876",
    "death_date_text": null
   },
   "unions": [],
@@ -115019,7 +115019,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. Sep 1886 (age 21y1m at m-1907-11; born Gorzejowa per m-1907-11 B_Birthplace)",
+  "birth_date": "c. Sep 1886 (age 21y1m at m-1907-11; born Gorzejowa from m-1907-11 B_Birthplace)",
   "death_date": null,
   "marriage_dates": "27 Oct 1907 in Brzostek (civil)",
   "occupations": null,
@@ -115165,9 +115165,9 @@
      "spouse_id": "P1097"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1886",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. Sep 1886 (age 21y1m at m-1907-11; born Gorzejowa from m-1907-11 B_Birthplace)",
    "death_date_text": null
   },
   "unions": [],
@@ -115185,7 +115185,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "18 Oct 1907 in Brzostek house 174 (per b-1907-33)",
+  "birth_date": "18 Oct 1907 in Brzostek house 174 (from b-1907-33)",
   "death_date": null,
   "marriage_dates": "27 Jan 1935 in Brzostek (civil)",
   "occupations": null,
@@ -115748,7 +115748,7 @@
   "death_date": null,
   "marriage_dates": "1913-02-23 in Brzostek (civil)",
   "occupations": null,
-  "residences": "Radziechow (mother's residence per b-1913-4 onwards)",
+  "residences": "Radziechow (mother's residence from b-1913-4 onwards)",
   "status": "N",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1913-2)",
@@ -122303,7 +122303,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "27 Jun 1909 in Brzostek (per b-1909-17)",
+  "birth_date": "27 Jun 1909 in Brzostek (from b-1909-17)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -124408,7 +124408,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Brzostek (house 166 per b-1909-32)",
+  "residences": "Brzostek (house 166 from b-1909-32)",
   "status": "S",
   "birth_legitimacy": "Legitimate (b-1909-32)",
   "marital_status_at_marriage": null,
@@ -128637,7 +128637,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Brzostek (house 64 per b-1911-1)",
+  "residences": "Brzostek (house 64 from b-1911-1)",
   "status": "S",
   "birth_legitimacy": "Legitimate (b-1911-1)",
   "marital_status_at_marriage": null,
@@ -129005,7 +129005,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "1887 (per m-1917-1 source notes; age 30 at m-1917-1)",
+  "birth_date": "1887 (m-1917-1; age 30 at m-1917-1)",
   "death_date": null,
   "marriage_dates": "1917-03-04 in Brzostek (civil)",
   "occupations": "butcher",
@@ -129160,9 +129160,9 @@
      "spouse_id": "P2219"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1887",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "1887 (m-1917-1; age 30 at m-1917-1)",
    "death_date_text": null
   },
   "unions": [],
@@ -130775,7 +130775,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "5 Jul 1911 in Brzostek house 174 (per b-1911-11)",
+  "birth_date": "5 Jul 1911 in Brzostek house 174 (from b-1911-11)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -133308,7 +133308,7 @@
   "birth_date": "c. 1885 or earlier (adult industrialist by b-1911-25 Dec 1911; no own birth record attested)",
   "death_date": null,
   "marriage_dates": "9 May 1913 (location ambiguous in source: 'Brzostek' per b-1913-24 Notes vs 'Mielec' per b-1916-8 Notes — same date but conflicting place)",
-  "occupations": "industrialist (per b-1911-25 1911); dealer (per b-1913-24, b-1916-8); merchant (per d-1916-18, d-1916-12)",
+  "occupations": "industrialist (from b-1911-25 1911); dealer (from b-1913-24, b-1916-8); merchant (from d-1916-18, d-1916-12)",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -135584,7 +135584,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 13 Jun 1893 (per Fishel's civil remarriage to Vitla on that date, per Notes consistently in b-1895-23, b-1898-4, b-1899-41, b-1902-9, b-1904-36). Source records describe her as 'the late' / 'deceased' in m-1912-1 and b-1912-25 prose.",
+  "death_date": "before 13 Jun 1893, when Fishel remarried Vitla civilly (noted in b-1895-23, b-1898-4, b-1899-41, b-1902-9, b-1904-36); called 'the late' in m-1912-1 and b-1912-25",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -135639,9 +135639,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1893",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 13 Jun 1893, when Fishel remarried Vitla civilly (noted in b-1895-23, b-1898-4, b-1899-41, b-1902-9, b-1904-36); called 'the late' in m-1912-1 and b-1912-25"
   },
   "unions": [
    {
@@ -135982,7 +135982,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Bukowa (house 75, per b-1912-27)",
+  "residences": "Bukowa (house 75, from b-1912-27)",
   "status": "S",
   "birth_legitimacy": "Legitimate (b-1912-27)",
   "marital_status_at_marriage": null,
@@ -136106,7 +136106,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Brzostek (house 64 per b-1912-29)",
+  "residences": "Brzostek (house 64 from b-1912-29)",
   "status": "S",
   "birth_legitimacy": "Legitimate (b-1912-29)",
   "marital_status_at_marriage": null,
@@ -137377,7 +137377,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "20 Mar 1913 in Brzostek house 174 (per b-1913-2) — TWIN of P1387 Wigdor",
+  "birth_date": "20 Mar 1913 in Brzostek house 174 (from b-1913-2); twin of Wigdor",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -137439,7 +137439,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "20 Mar 1913 in Brzostek house 174 (per b-1913-3) — TWIN of P1386 Chiel",
+  "birth_date": "20 Mar 1913 in Brzostek house 174 (from b-1913-3); twin of Chiel",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -140137,7 +140137,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "6 Dec 1913 in Brzostek (per b-1913-24)",
+  "birth_date": "6 Dec 1913 in Brzostek (from b-1913-24)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -141698,11 +141698,11 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "5 Mar 1890 in Dąbrowa Tarnowska (per m-1913-7)",
+  "birth_date": "5 Mar 1890 in Dąbrowa Tarnowska (from m-1913-7)",
   "death_date": null,
   "marriage_dates": "17 Aug 1913 in Brzostek (civil)",
-  "occupations": "merchant (per b-1914-14)",
-  "residences": "Dąbrowa Tarnowska (birthplace); Hagen, Westphalia (per b-1914-14)",
+  "occupations": "merchant (from b-1914-14)",
+  "residences": "Dąbrowa Tarnowska (birthplace); Hagen, Westphalia (from b-1914-14)",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1913-7)",
@@ -141785,9 +141785,9 @@
      "spouse_id": "P1446"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1890",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "5 Mar 1890 in Dąbrowa Tarnowska (from m-1913-7)",
    "death_date_text": null
   },
   "unions": [],
@@ -142714,7 +142714,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "9 Jan 1915 in Gorzejowa house 82 (per b-1915-2)",
+  "birth_date": "9 Jan 1915 in Gorzejowa house 82 (from b-1915-2)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -144693,7 +144693,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Bukowa (house 98, per b-1916-7)",
+  "residences": "Bukowa (house 98, from b-1916-7)",
   "status": "S",
   "birth_legitimacy": "Legitimate (b-1916-7)",
   "marital_status_at_marriage": null,
@@ -146395,7 +146395,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "30 May 1896 (per m-1917-3 source notes; age 21 at marriage)",
+  "birth_date": "30 May 1896 (m-1917-3; age 21 at marriage)",
   "death_date": "18 Feb 1935",
   "marriage_dates": "1917-09-02 in Brzostek (civil)",
   "occupations": null,
@@ -146498,9 +146498,9 @@
      "spouse_id": "P0947"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1896",
    "death_year": "1935",
-   "birth_date_text": null,
+   "birth_date_text": "30 May 1896 (m-1917-3; age 21 at marriage)",
    "death_date_text": null
   },
   "unions": [
@@ -147834,7 +147834,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "24 May 1917 in Siedliska house 12 (per b-1917-11)",
+  "birth_date": "24 May 1917 in Siedliska house 12 (from b-1917-11)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -149256,7 +149256,7 @@
   "birth_date": "c. 1843 (age 59 at death 1902)",
   "death_date": "28 Nov 1902",
   "marriage_dates": null,
-  "occupations": "glassmaker (per m-1919-1); craftsman (per d-1902-15)",
+  "occupations": "glassmaker (from m-1919-1); craftsman (from d-1902-15)",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -149348,7 +149348,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Brzostek (house 51, per b-1876-146)",
+  "residences": "Brzostek (house 51, from b-1876-146)",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -149422,7 +149422,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Brzostek (per b-1876-146)",
+  "residences": "Brzostek (from b-1876-146)",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -149494,7 +149494,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "13 Sep 1876 in Brzostek (house 51, per b-1876-146)",
+  "birth_date": "13 Sep 1876 in Brzostek (house 51, from b-1876-146)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -149639,7 +149639,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "6 Nov 1876 in Brzostek (house 42, per b-1876-147)",
+  "birth_date": "6 Nov 1876 in Brzostek (house 42, from b-1876-147)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -151633,7 +151633,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Brzostek (likely; possibly Biecz or Rzepiennik before family settled)",
+  "residences": "Brzostek (probably; possibly Biecz or Rzepiennik before family settled)",
   "status": "S",
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -156838,11 +156838,11 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1827 (per d-1909-5 age 82)",
-  "death_date": "14 Sep 1909 in Brzostek house 69 (per d-1909-5)",
+  "birth_date": "c. 1827 (from d-1909-5 age 82)",
+  "death_date": "14 Sep 1909 in Brzostek house 69 (from d-1909-5)",
   "marriage_dates": null,
-  "occupations": "unemployed (per d-1909-5; ritual husband of Mindla per d-1904-10)",
-  "residences": "Brzostek (house 69 per d-1909-5)",
+  "occupations": "unemployed (from d-1909-5; ritual husband of Mindla from d-1904-10)",
+  "residences": "Brzostek (house 69 from d-1909-5)",
   "status": "M (ritual)",
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -156899,9 +156899,9 @@
     "age": "82 years"
    },
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1827",
    "death_year": "1909",
-   "birth_date_text": null,
+   "birth_date_text": "c. 1827 (from d-1909-5 age 82)",
    "death_date_text": null
   },
   "unions": [
@@ -160170,9 +160170,9 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 1902 (per m-1902-3 'the late')",
+  "death_date": "before 1902 (from m-1902-3 'the late')",
   "marriage_dates": null,
-  "occupations": "trader in Brzostek; former innkeeper in Sedziszow Malopolski (per m-1902-3)",
+  "occupations": "trader in Brzostek; former innkeeper in Sedziszow Malopolski (from m-1902-3)",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -160224,9 +160224,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1902",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 1902 (from m-1902-3 'the late')"
   },
   "unions": [
    {
@@ -160252,7 +160252,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "trader in Brzostek (per d-1914-1)",
+  "occupations": "trader in Brzostek (from d-1914-1)",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -160821,7 +160821,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 1915 (likely)",
+  "death_date": "before 1915 (probably)",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Ostzawa (Stanislawow district)",
@@ -160870,9 +160870,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1915",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 1915 (probably)"
   },
   "unions": [],
   "partner_groups": {
@@ -161497,7 +161497,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. Mar 1915 (inferred only — no birth record; from age 1y6m at d-1916-12 death 8 Sep 1916)",
+  "birth_date": "c. Mar 1915 (estimated only — no birth record; from age 1y6m at d-1916-12 death 8 Sep 1916)",
   "death_date": "8 Sep 1916",
   "marriage_dates": null,
   "occupations": null,
@@ -161549,9 +161549,9 @@
     "age": "1 year 6 months"
    },
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1915",
    "death_year": "1916",
-   "birth_date_text": null,
+   "birth_date_text": "c. Mar 1915 (estimated only — no birth record; from age 1y6m at d-1916-12 death 8 Sep 1916)",
    "death_date_text": null
   },
   "unions": []
@@ -162559,7 +162559,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "deceased before m-1902-4 (per source GF-deceased)",
+  "death_date": "deceased before m-1902-4 (GF-deceased)",
   "marriage_dates": null,
   "occupations": "innkeeper",
   "residences": "Bistuszowy near Ryglice",
@@ -162613,9 +162613,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1902",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "deceased before m-1902-4 (GF-deceased)"
   },
   "unions": [
    {
@@ -164438,10 +164438,10 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1854 (per m-1920-2 source notes; age 66 at marriage; d-1925-1 noted age 76 b.~1849 — 5y discrepancy, m-1920-2 likely more accurate)",
+  "birth_date": "c. 1854 (m-1920-2; age 66 at marriage; d-1925-1 noted age 76 b.~1849 — 5y discrepancy, m-1920-2 probably more accurate)",
   "death_date": "3 Apr 1925",
   "marriage_dates": "1920-12-28 in Brzostek (civil)",
-  "occupations": "farmer; industrialist (per b-1911-4)",
+  "occupations": "farmer; industrialist (from b-1911-4)",
   "residences": "Baczalka (house 40)",
   "status": "M",
   "birth_legitimacy": null,
@@ -164521,9 +164521,9 @@
      "spouse_id": "P1867"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1854",
    "death_year": "1925",
-   "birth_date_text": null,
+   "birth_date_text": "c. 1854 (m-1920-2; age 66 at marriage; d-1925-1 noted age 76 b.~1849 — 5y discrepancy, m-1920-2 probably more accurate)",
    "death_date_text": null
   },
   "unions": [],
@@ -166461,7 +166461,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "24 Jun 1874 Rudki (per m-1924-4 source notes; age 54 at marriage; later d-1933-4 noted age 62 b.~1871 — 3y discrepancy)",
+  "birth_date": "24 Jun 1874 Rudki (m-1924-4; age 54 at marriage; later d-1933-4 noted age 62 b.~1871 — 3y discrepancy)",
   "death_date": "4 Dec 1933",
   "marriage_dates": "1924-04-06 in Brzostek (civil)",
   "occupations": "owner of a dairy",
@@ -166543,9 +166543,9 @@
      "spouse_id": "P2308"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1874",
    "death_year": "1933",
-   "birth_date_text": null,
+   "birth_date_text": "24 Jun 1874 Rudki (m-1924-4; age 54 at marriage; later d-1933-4 noted age 62 b.~1871 — 3y discrepancy)",
    "death_date_text": null
   },
   "unions": [],
@@ -167573,7 +167573,7 @@
   "death_date": null,
   "marriage_dates": "9 Jan 1895 in Bukowa (civil)",
   "occupations": null,
-  "residences": "Bukowa (house 19, per m-1895-1)",
+  "residences": "Bukowa (house 19, from m-1895-1)",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1895-1)",
@@ -172641,7 +172641,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1847 (per m-1900-16 age 53)",
+  "birth_date": "c. 1847 (from m-1900-16 age 53)",
   "death_date": null,
   "marriage_dates": "24 Oct 1900 in Brzostek (civil)",
   "occupations": null,
@@ -172726,9 +172726,9 @@
      "spouse_id": "P2566"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1847",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1847 (from m-1900-16 age 53)",
    "death_date_text": null
   },
   "unions": [],
@@ -174814,7 +174814,7 @@
   "birth_date": null,
   "death_date": "before 1 Jan 1897 (per Hannah's Marital_Status='W' at her d-1897-2; described as deceased GF in m-1901-7)",
   "marriage_dates": null,
-  "occupations": "innkeeper in Wola Brzostecka (per m-1901-7 'former')",
+  "occupations": "innkeeper in Wola Brzostecka (from m-1901-7 'former')",
   "residences": "Wola Brzostecka",
   "status": "M",
   "birth_legitimacy": null,
@@ -182575,10 +182575,10 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "not directly attested (alive 1907 'without profession' per m-1907-11; must have been adult by 1876 b-1876-147 → b. ~1850 or earlier)",
+  "birth_date": "not directly attested (alive 1907 'without profession' from m-1907-11; must have been adult by 1876 b-1876-147 → b. ~1850 or earlier)",
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "without profession (per m-1907-11)",
+  "occupations": "without profession (from m-1907-11)",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -182642,9 +182642,9 @@
    "born": null,
    "died": null,
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1907",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "not directly attested (alive 1907 'without profession' from m-1907-11; must have been adult by 1876 b-1876-147 → b. ~1850 or earlier)",
    "death_date_text": null
   },
   "unions": [],
@@ -185366,7 +185366,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "13 Apr 1882 in Bukowa (per m-1911-2 Notes)",
+  "birth_date": "13 Apr 1882 in Bukowa (from m-1911-2 Notes)",
   "death_date": null,
   "marriage_dates": "20 Aug 1911 in Brzostek (civil)",
   "occupations": "without profession",
@@ -185424,9 +185424,9 @@
      "spouse_id": "P2179"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1882",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "13 Apr 1882 in Bukowa (from m-1911-2 Notes)",
    "death_date_text": null
   },
   "unions": [],
@@ -185443,7 +185443,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "14 Oct 1885 in Siedliszowice (per m-1911-2 Notes)",
+  "birth_date": "14 Oct 1885 in Siedliszowice (from m-1911-2 Notes)",
   "death_date": null,
   "marriage_dates": "20 Aug 1911 in Brzostek (civil)",
   "occupations": null,
@@ -185502,9 +185502,9 @@
      "spouse_id": "P2178"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1885",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "14 Oct 1885 in Siedliszowice (from m-1911-2 Notes)",
    "death_date_text": null
   },
   "unions": [],
@@ -187006,11 +187006,11 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1865 (inferred — son Mordechi born 1890)",
+  "birth_date": "c. 1865 (estimated — son Mordechi born 1890)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Dąbrowa Tarnowska (per m-1913-7 husband's residence)",
+  "residences": "Dąbrowa Tarnowska (from m-1913-7 husband's residence)",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -187056,9 +187056,9 @@
    "born": null,
    "died": null,
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1865",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1865 (estimated — son Mordechi born 1890)",
    "death_date_text": null
   },
   "unions": [
@@ -188315,7 +188315,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "16 May 1890 (per m-1917-1 source notes)",
+  "birth_date": "16 May 1890 (from m-1917-1 source notes)",
   "death_date": null,
   "marriage_dates": "1917-03-04 in Brzostek (civil)",
   "occupations": null,
@@ -188505,9 +188505,9 @@
      "spouse_id": "P1271"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1890",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "16 May 1890 (from m-1917-1 source notes)",
    "death_date_text": null
   },
   "unions": [],
@@ -188661,10 +188661,10 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "4 Sep 1864 (per m-1917-2 source notes; age 53 at marriage)",
+  "birth_date": "4 Sep 1864 (m-1917-2; age 53 at marriage)",
   "death_date": null,
   "marriage_dates": "1917-04-19 in Brzostek (civil)",
-  "occupations": "sheet metal worker; tinsmith (per b-1912-26)",
+  "occupations": "sheet metal worker; tinsmith (from b-1912-26)",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -188745,9 +188745,9 @@
      "spouse_id": "P2227"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1864",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "4 Sep 1864 (m-1917-2; age 53 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -188764,7 +188764,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "30 Jan 1883 (per m-1917-2 source notes; age 34 at marriage)",
+  "birth_date": "30 Jan 1883 (m-1917-2; age 34 at marriage)",
   "death_date": null,
   "marriage_dates": "1917-04-19 in Brzostek (civil)",
   "occupations": null,
@@ -188895,9 +188895,9 @@
      "spouse_id": "P2224"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1883",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "30 Jan 1883 (m-1917-2; age 34 at marriage)",
    "death_date_text": null
   },
   "unions": [
@@ -188937,7 +188937,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "7 Mar 1881 (per m-1917-4 source notes; age 36 at marriage)",
+  "birth_date": "7 Mar 1881 (m-1917-4; age 36 at marriage)",
   "death_date": null,
   "marriage_dates": "1917-12-18 in Brzostek (civil)",
   "occupations": "tailor",
@@ -188995,9 +188995,9 @@
      "spouse_id": "P2230"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1881",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "7 Mar 1881 (m-1917-4; age 36 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -189075,7 +189075,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "2 Jun 1882 (per m-1917-4 source notes; age 35 at marriage)",
+  "birth_date": "2 Jun 1882 (m-1917-4; age 35 at marriage)",
   "death_date": null,
   "marriage_dates": "1917-12-18 in Brzostek (civil)",
   "occupations": null,
@@ -189133,9 +189133,9 @@
      "spouse_id": "P2228"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1882",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "2 Jun 1882 (m-1917-4; age 35 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -189153,7 +189153,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "16 Mar 1889 (per m-1919-1)",
+  "birth_date": "16 Mar 1889 (from m-1919-1)",
   "death_date": null,
   "marriage_dates": "1919-05-01 in Gorzejowa (civil)",
   "occupations": "painter",
@@ -189232,9 +189232,9 @@
      "spouse_id": "P0159"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1889",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "16 Mar 1889 (from m-1919-1)",
    "death_date_text": null
   },
   "unions": [],
@@ -189890,7 +189890,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "13 Sep 1893 (per m-1919-5 source notes; age 26 at marriage)",
+  "birth_date": "13 Sep 1893 (m-1919-5; age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1919-09-14 in Brzostek (civil)",
   "occupations": "no profession",
@@ -189948,9 +189948,9 @@
      "spouse_id": "P0130"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1893",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "13 Sep 1893 (m-1919-5; age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -190119,7 +190119,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "25 Dec 1884 (per m-1919-6 source notes; age 34 at marriage)",
+  "birth_date": "25 Dec 1884 (m-1919-6; age 34 at marriage)",
   "death_date": null,
   "marriage_dates": "1919-09-18 in Baczalka (civil)",
   "occupations": "without profession",
@@ -190177,9 +190177,9 @@
      "spouse_id": "P2245"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1884",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "25 Dec 1884 (m-1919-6; age 34 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -190196,7 +190196,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "23 Jun 1895 Nawsie Wielski (per m-1919-6 source notes; age 24 at marriage)",
+  "birth_date": "23 Jun 1895 Nawsie Wielski (m-1919-6; age 24 at marriage)",
   "death_date": null,
   "marriage_dates": "1919-09-18 in Baczalka (civil)",
   "occupations": null,
@@ -190254,9 +190254,9 @@
      "spouse_id": "P2244"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1895",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "23 Jun 1895 Nawsie Wielski (m-1919-6; age 24 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -190410,7 +190410,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "7 Feb 1890 (per m-1919-7 source notes; age 29 at marriage)",
+  "birth_date": "7 Feb 1890 (m-1919-7; age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1919-09-22 in Januszkowice (civil)",
   "occupations": "freelance tailor",
@@ -190469,9 +190469,9 @@
      "spouse_id": "P2249"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1890",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "7 Feb 1890 (m-1919-7; age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -190488,7 +190488,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "25 Jun 1892 Januszkowice (per m-1919-7 source notes; age 27 at marriage)",
+  "birth_date": "25 Jun 1892 Januszkowice (m-1919-7; age 27 at marriage)",
   "death_date": null,
   "marriage_dates": "1919-09-22 in Januszkowice (civil)",
   "occupations": null,
@@ -190546,9 +190546,9 @@
      "spouse_id": "P2248"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1892",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "25 Jun 1892 Januszkowice (m-1919-7; age 27 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -190702,7 +190702,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "8 Jun 1890 Jodlowa (per m-1919-8 source notes; age 29 at marriage)",
+  "birth_date": "8 Jun 1890 Jodlowa (m-1919-8; age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1919-12-14 in Brzostek (civil)",
   "occupations": "merchant",
@@ -190786,9 +190786,9 @@
      "spouse_id": "P0232"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1890",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "8 Jun 1890 Jodlowa (m-1919-8; age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -190805,7 +190805,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "21 Apr 1893 Klecie (per m-1920-1 source notes; age 26 at marriage)",
+  "birth_date": "21 Apr 1893 Klecie (m-1920-1; age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1920-01-09 in Brzostek (civil)",
   "occupations": "merchant",
@@ -190863,9 +190863,9 @@
      "spouse_id": "P0504"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1893",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "21 Apr 1893 Klecie (m-1920-1; age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -192106,7 +192106,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "23 Feb 1896 Frysztak (per m-1922-1 source notes; age 26 at marriage)",
+  "birth_date": "23 Feb 1896 Frysztak (m-1922-1; age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1922-03 in Opacionka (civil)",
   "occupations": null,
@@ -192164,9 +192164,9 @@
      "spouse_id": "P0481"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1896",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "23 Feb 1896 Frysztak (m-1922-1; age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -192322,7 +192322,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "4 Oct 1894 (per m-1922-4 source notes; age 28 at marriage)",
+  "birth_date": "4 Oct 1894 (m-1922-4; age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1922-06-03 in Brzostek (civil)",
   "occupations": "merchant",
@@ -192380,9 +192380,9 @@
      "spouse_id": "P2275"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1894",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "4 Oct 1894 (m-1922-4; age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -192399,7 +192399,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "11 Jan 1898 (per m-1922-5 source notes; age 24 at marriage)",
+  "birth_date": "11 Jan 1898 (m-1922-5; age 24 at marriage)",
   "death_date": null,
   "marriage_dates": "1922-09-01 in Brzostek (civil)",
   "occupations": null,
@@ -192457,9 +192457,9 @@
      "spouse_id": "P2281"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1898",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "11 Jan 1898 (m-1922-5; age 24 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -192707,7 +192707,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1896 (per source notes; age 26 at marriage)",
+  "birth_date": "c. 1896 (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1922-09-07 in Brzostek (civil)",
   "occupations": null,
@@ -192770,9 +192770,9 @@
      "spouse_id": "P2285"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1896",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1896 (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -192789,7 +192789,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "6 Sep 1891 Brzostek (per m-1922-6 source notes; age 31 at marriage)",
+  "birth_date": "6 Sep 1891 Brzostek (m-1922-6; age 31 at marriage)",
   "death_date": null,
   "marriage_dates": "1922-09-07 in Brzostek (civil)",
   "occupations": null,
@@ -192847,9 +192847,9 @@
      "spouse_id": "P2284"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1891",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "6 Sep 1891 Brzostek (m-1922-6; age 31 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -193019,7 +193019,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "20 Aug 1895 (per source notes; age 27 at marriage)",
+  "birth_date": "20 Aug 1895 (age 27 at marriage)",
   "death_date": null,
   "marriage_dates": "1922-09-15 in Brzostek (civil)",
   "occupations": null,
@@ -193077,9 +193077,9 @@
      "spouse_id": "P0420"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1895",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "20 Aug 1895 (age 27 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -193248,7 +193248,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "7 Feb 1895 (per source notes; age 28 at marriage)",
+  "birth_date": "7 Feb 1895 (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1923-08 in Brzostek (civil)",
   "occupations": null,
@@ -193306,9 +193306,9 @@
      "spouse_id": "P0432"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1895",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "7 Feb 1895 (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -193569,7 +193569,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "13 Jan 1895 (per source notes; age 28 at marriage)",
+  "birth_date": "13 Jan 1895 (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1923-08 in Brzostek (civil)",
   "occupations": null,
@@ -193627,9 +193627,9 @@
      "spouse_id": "P2292"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1895",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "13 Jan 1895 (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -193647,7 +193647,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "21 Jan 1890 (per source notes; age 33 at marriage)",
+  "birth_date": "21 Jan 1890 (age 33 at marriage)",
   "death_date": null,
   "marriage_dates": "1923-12 in Brzostek (civil)",
   "occupations": "owner of the real estate",
@@ -193710,9 +193710,9 @@
      "spouse_id": "P2299"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1890",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "21 Jan 1890 (age 33 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -193881,7 +193881,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "13 Dec 1891 (per source notes; age 32 at marriage)",
+  "birth_date": "13 Dec 1891 (age 32 at marriage)",
   "death_date": null,
   "marriage_dates": "1923-12 in Brzostek (civil)",
   "occupations": null,
@@ -193939,9 +193939,9 @@
      "spouse_id": "P2296"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1891",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "13 Dec 1891 (age 32 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -194020,7 +194020,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "8 Jul 1900 Wadowice Gorne near Radomysl Wielki (per source notes; age 24 at marriage)",
+  "birth_date": "8 Jul 1900 Wadowice Gorne near Radomysl Wielki (age 24 at marriage)",
   "death_date": null,
   "marriage_dates": "1924-03-25 in Brzostek (civil)",
   "occupations": null,
@@ -194079,9 +194079,9 @@
      "spouse_id": "P0406"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1900",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "8 Jul 1900 Wadowice Gorne near Radomysl Wielki (age 24 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -194647,7 +194647,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "10 Feb 1901 (per m-1924-5 source notes; age 23 at marriage)",
+  "birth_date": "10 Feb 1901 (m-1924-5; age 23 at marriage)",
   "death_date": null,
   "marriage_dates": "1924-04-11 in Nawsie Brzosteckie (civil)",
   "occupations": null,
@@ -194705,9 +194705,9 @@
      "spouse_id": "P0785"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1901",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "10 Feb 1901 (m-1924-5; age 23 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -194876,7 +194876,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "18 Apr 1898 Grybow (per source notes; age 26 at marriage)",
+  "birth_date": "18 Apr 1898 Grybow (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1924-09-17 in Januszkowice (civil)",
   "occupations": "tanner",
@@ -194934,9 +194934,9 @@
      "spouse_id": "P0552"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1898",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "18 Apr 1898 Grybow (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -195105,7 +195105,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "7 Sep 1896 (per source notes; age 29 at marriage)",
+  "birth_date": "7 Sep 1896 (age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1925-01-01 in Brzostek (civil)",
   "occupations": null,
@@ -195163,9 +195163,9 @@
      "spouse_id": "P0470"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1896",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "7 Sep 1896 (age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -195334,7 +195334,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "10 Sep 1896 Glinik Gorny (per source notes; age 24 at marriage; 1925-1896=29 — source age 24 inconsistent, source notes likely correct on year/birth, age field error)",
+  "birth_date": "10 Sep 1896 Glinik Gorny (age 24 at marriage; 1925-1896=29 — source age 24 inconsistent, source notes probably correct on year/birth, age field error)",
   "death_date": null,
   "marriage_dates": "1925-01-13 in Brzostek (civil)",
   "occupations": null,
@@ -195392,9 +195392,9 @@
      "spouse_id": "P2321"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1896",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "10 Sep 1896 Glinik Gorny (age 24 at marriage; 1925-1896=29 — source age 24 inconsistent, source notes probably correct on year/birth, age field error)",
    "death_date_text": null
   },
   "unions": [],
@@ -195488,7 +195488,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "6 Sep 1904 Pawlosiow near Jaroslaw (per source; age 21 at marriage; 1925-1904=21 ✓)",
+  "birth_date": "6 Sep 1904 Pawlosiow near Jaroslaw (age 21 at marriage)",
   "death_date": null,
   "marriage_dates": "1925-01-13 in Brzostek (civil)",
   "occupations": null,
@@ -195546,9 +195546,9 @@
      "spouse_id": "P2318"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1904",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "6 Sep 1904 Pawlosiow near Jaroslaw (age 21 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -196006,7 +196006,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "23 Dec 1900 (per source notes; age 25 at marriage; calc 24, source 25 — close)",
+  "birth_date": "23 Dec 1900 (age 25 at marriage, source 25 — close)",
   "death_date": null,
   "marriage_dates": "1925-07-29 in Brzostek (civil)",
   "occupations": null,
@@ -196064,9 +196064,9 @@
      "spouse_id": "P0574"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1900",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "23 Dec 1900 (age 25 at marriage, source 25 — close)",
    "death_date_text": null
   },
   "unions": [],
@@ -196235,7 +196235,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1893 (per source notes; age 32 at marriage)",
+  "birth_date": "c. 1893 (age 32 at marriage)",
   "death_date": null,
   "marriage_dates": "1925-10-20 in Brzostek (civil)",
   "occupations": null,
@@ -196293,9 +196293,9 @@
      "spouse_id": "P0626"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1893",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1893 (age 32 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -196312,7 +196312,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "6 Mar 1899 Mielec (per source notes; age 27 at marriage)",
+  "birth_date": "6 Mar 1899 Mielec (age 27 at marriage)",
   "death_date": null,
   "marriage_dates": "1926-01-02 in Brzostek (civil)",
   "occupations": null,
@@ -196372,9 +196372,9 @@
      "spouse_id": "P0609"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1899",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "6 Mar 1899 Mielec (age 27 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -196391,7 +196391,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "8 Dec 1899 Frysztak (per source notes; age 27 at marriage; calc 26, source 27 — close)",
+  "birth_date": "8 Dec 1899 Frysztak (age 27 at marriage, source 27 — close)",
   "death_date": null,
   "marriage_dates": "1926-01-20 in Brzostek (civil)",
   "occupations": "miller",
@@ -196449,9 +196449,9 @@
      "spouse_id": "P0517"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1899",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "8 Dec 1899 Frysztak (age 27 at marriage, source 27 — close)",
    "death_date_text": null
   },
   "unions": [],
@@ -196620,7 +196620,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "2 Apr 1898 (per source notes; age 28 at marriage)",
+  "birth_date": "2 Apr 1898 (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1926-10-01 in Brzostek (civil)",
   "occupations": "farmer",
@@ -196678,9 +196678,9 @@
      "spouse_id": "P2340"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1898",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "2 Apr 1898 (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -196697,7 +196697,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "25 Jul 1902 (per source notes; age 24 at marriage)",
+  "birth_date": "25 Jul 1902 (age 24 at marriage)",
   "death_date": null,
   "marriage_dates": "1926-10-01 in Brzostek (civil)",
   "occupations": null,
@@ -196755,9 +196755,9 @@
      "spouse_id": "P2339"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1902",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "25 Jul 1902 (age 24 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -196775,7 +196775,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "21 Aug 1903 (per source notes; age 23 at marriage)",
+  "birth_date": "21 Aug 1903 (age 23 at marriage)",
   "death_date": null,
   "marriage_dates": "1926-10-02 in Brzostek (civil)",
   "occupations": "merchant",
@@ -196833,9 +196833,9 @@
      "spouse_id": "P0522"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "21 Aug 1903 (age 23 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -196988,7 +196988,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "3 Jul 1900 Bobowa (per source notes; age 26 at marriage)",
+  "birth_date": "3 Jul 1900 Bobowa (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1926-12-22 in Opacionka (civil)",
   "occupations": null,
@@ -197047,9 +197047,9 @@
      "spouse_id": "P0763"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1900",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "3 Jul 1900 Bobowa (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -197218,7 +197218,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "16 Oct 1896 Wandsbek (per source notes; age 28 at marriage; calc 30, source 28 — close)",
+  "birth_date": "16 Oct 1896 Wandsbek (age 28 at marriage, source 28 — close)",
   "death_date": null,
   "marriage_dates": "1927-01 in Brzostek (civil)",
   "occupations": "teacher of religion",
@@ -197276,9 +197276,9 @@
      "spouse_id": "P0748"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1896",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "16 Oct 1896 Wandsbek (age 28 at marriage, source 28 — close)",
    "death_date_text": null
   },
   "unions": [],
@@ -197676,7 +197676,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "11 Dec 1899 (per source notes; age 28 at marriage; calc 27)",
+  "birth_date": "11 Dec 1899 (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1927-01-14 in Grudna Gorna (civil)",
   "occupations": "butcher",
@@ -197734,9 +197734,9 @@
      "spouse_id": "P2354"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1899",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "11 Dec 1899 (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -197753,7 +197753,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "12 Dec 1899 Brzeziny (per source notes; age 28 at marriage)",
+  "birth_date": "12 Dec 1899 Brzeziny (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1927-01-14 in Grudna Gorna (civil)",
   "occupations": null,
@@ -197811,9 +197811,9 @@
      "spouse_id": "P2353"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1899",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "12 Dec 1899 Brzeziny (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -197983,7 +197983,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "20 Mar 1905 Warsaw (per source notes; age 22 at marriage)",
+  "birth_date": "20 Mar 1905 Warsaw (age 22 at marriage)",
   "death_date": null,
   "marriage_dates": "1927-04-01 in Brzostek (civil)",
   "occupations": "religion teacher",
@@ -198041,9 +198041,9 @@
      "spouse_id": "P1055"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1905",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "20 Mar 1905 Warsaw (age 22 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -198060,7 +198060,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "20 Dec 1897 (per source notes; age 30 at marriage; calc 29 — close)",
+  "birth_date": "20 Dec 1897 (age 30 at marriage — close)",
   "death_date": null,
   "marriage_dates": "1927-06-20 in Brzostek (civil)",
   "occupations": "merchant",
@@ -198119,9 +198119,9 @@
      "spouse_id": "P2361"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1897",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "20 Dec 1897 (age 30 at marriage — close)",
    "death_date_text": null
   },
   "unions": [],
@@ -198290,7 +198290,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "12 Mar 1903 (per source notes; age 24 at marriage)",
+  "birth_date": "12 Mar 1903 (age 24 at marriage)",
   "death_date": null,
   "marriage_dates": "1927-06-20 in Brzostek (civil)",
   "occupations": null,
@@ -198348,9 +198348,9 @@
      "spouse_id": "P2358"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "12 Mar 1903 (age 24 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -198429,7 +198429,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "9 Nov 1902 (per source notes; age 25 at marriage)",
+  "birth_date": "9 Nov 1902 (age 25 at marriage)",
   "death_date": null,
   "marriage_dates": "1927-06-21 in Brzostek (civil)",
   "occupations": "merchant",
@@ -198497,9 +198497,9 @@
      "spouse_id": "P0433"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1902",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "9 Nov 1902 (age 25 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -198668,7 +198668,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "14 Jun 1894 Tarnow (per source notes; age 33 at marriage)",
+  "birth_date": "14 Jun 1894 Tarnow (age 33 at marriage)",
   "death_date": null,
   "marriage_dates": "1927-08-15 in Brzostek (civil)",
   "occupations": null,
@@ -198726,9 +198726,9 @@
      "spouse_id": "P1039"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1894",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "14 Jun 1894 Tarnow (age 33 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -198746,7 +198746,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. Apr 1902 (per source notes; age 26 at marriage)",
+  "birth_date": "c. Apr 1902 (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1928-03-22 in Brzostek (civil)",
   "occupations": "butcher",
@@ -198804,9 +198804,9 @@
      "spouse_id": "P2368"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1902",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. Apr 1902 (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -198823,7 +198823,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. Feb 1901 (per source notes; age 27 at marriage)",
+  "birth_date": "c. Feb 1901 (age 27 at marriage)",
   "death_date": null,
   "marriage_dates": "1928-03-22 in Brzostek (civil)",
   "occupations": null,
@@ -198881,9 +198881,9 @@
      "spouse_id": "P2367"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1901",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. Feb 1901 (age 27 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -199053,7 +199053,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "14 Jun 1904 (per source notes; age 24 at marriage)",
+  "birth_date": "14 Jun 1904 (age 24 at marriage)",
   "death_date": null,
   "marriage_dates": "1928-06-19 in Brzostek (civil)",
   "occupations": null,
@@ -199111,9 +199111,9 @@
      "spouse_id": "P1015"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1904",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "14 Jun 1904 (age 24 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -199282,7 +199282,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "18 Feb 1899 Wielopole (per source notes; age 29 at marriage)",
+  "birth_date": "18 Feb 1899 Wielopole (age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1928-07-25 in Brzostek (civil)",
   "occupations": null,
@@ -199340,9 +199340,9 @@
      "spouse_id": "P2375"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1899",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "18 Feb 1899 Wielopole (age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -199359,7 +199359,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "21 Dec 1893 Brzostek (per source notes; age 35 at marriage)",
+  "birth_date": "21 Dec 1893 Brzostek (age 35 at marriage)",
   "death_date": null,
   "marriage_dates": "1928-07-25 in Brzostek (civil)",
   "occupations": null,
@@ -199417,9 +199417,9 @@
      "spouse_id": "P2374"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1893",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "21 Dec 1893 Brzostek (age 35 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -199589,7 +199589,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "14 Feb 1899 Gorlice (per source notes; age 29 at marriage)",
+  "birth_date": "14 Feb 1899 Gorlice (age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1928-08-19 in Brzostek (civil)",
   "occupations": null,
@@ -199647,9 +199647,9 @@
      "spouse_id": "P0342"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1899",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "14 Feb 1899 Gorlice (age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -199818,7 +199818,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "11 Dec 1895 Bazanowka (per source notes; age 34 at marriage)",
+  "birth_date": "11 Dec 1895 Bazanowka (age 34 at marriage)",
   "death_date": null,
   "marriage_dates": "1929-01-15 in Brzostek (civil)",
   "occupations": "merchant",
@@ -199876,9 +199876,9 @@
      "spouse_id": "P2382"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1895",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "11 Dec 1895 Bazanowka (age 34 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -199895,7 +199895,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "22 Apr 1892 (per source notes; age 37 at marriage)",
+  "birth_date": "22 Apr 1892 (age 37 at marriage)",
   "death_date": null,
   "marriage_dates": "1929-01-15 in Brzostek (civil)",
   "occupations": null,
@@ -199953,9 +199953,9 @@
      "spouse_id": "P2381"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1892",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "22 Apr 1892 (age 37 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -200125,7 +200125,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1893 Nowy Zmigrod (per source notes; age 36 at marriage)",
+  "birth_date": "c. 1893 Nowy Zmigrod (age 36 at marriage)",
   "death_date": null,
   "marriage_dates": "1929-05-15 in Brzostek (civil)",
   "occupations": null,
@@ -200183,9 +200183,9 @@
      "spouse_id": "P2386"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1893",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1893 Nowy Zmigrod (age 36 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -200202,7 +200202,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "28 Apr 1890 Brzostek (per source notes; age 39 at marriage)",
+  "birth_date": "28 Apr 1890 Brzostek (age 39 at marriage)",
   "death_date": null,
   "marriage_dates": "1929-05-15 in Brzostek (civil)",
   "occupations": null,
@@ -200260,9 +200260,9 @@
      "spouse_id": "P2385"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1890",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "28 Apr 1890 Brzostek (age 39 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -200432,7 +200432,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "20 Mar 1902 Gorzyce near Debowiec (per source notes; age 27 at marriage)",
+  "birth_date": "20 Mar 1902 Gorzyce near Debowiec (age 27 at marriage)",
   "death_date": null,
   "marriage_dates": "1929-07-09 in Brzostek (civil)",
   "occupations": "merchant",
@@ -200490,9 +200490,9 @@
      "spouse_id": "P0545"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1902",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "20 Mar 1902 Gorzyce near Debowiec (age 27 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -200645,7 +200645,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "10 Nov 1902 Korczyna (per source notes; age 27 at marriage)",
+  "birth_date": "10 Nov 1902 Korczyna (age 27 at marriage)",
   "death_date": null,
   "marriage_dates": "1929-10-03 in Brzostek (civil)",
   "occupations": "cantor in Brzostek (1934-1938)",
@@ -200833,9 +200833,9 @@
      "spouse_id": "P2395"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1902",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "10 Nov 1902 Korczyna (age 27 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -200852,7 +200852,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1904 Jasienica Rosielna (per source; age 25 at marriage)",
+  "birth_date": "c. 1904 Jasienica Rosielna (age 25 at marriage)",
   "death_date": null,
   "marriage_dates": "1929-10-03 in Brzostek (civil)",
   "occupations": null,
@@ -200911,9 +200911,9 @@
      "spouse_id": "P2392"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1904",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1904 Jasienica Rosielna (age 25 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -201083,7 +201083,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "3 Nov 1901 Huta Gogolowska (per source notes; age 28 at marriage)",
+  "birth_date": "3 Nov 1901 Huta Gogolowska (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1929-12-29 in Grudna Gorna (civil)",
   "occupations": "farmer",
@@ -201141,9 +201141,9 @@
      "spouse_id": "P1067"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1901",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "3 Nov 1901 Huta Gogolowska (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -201311,7 +201311,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1903 Magierow (per source notes; age 27 at marriage; documents from Magierow)",
+  "birth_date": "c. 1903 Magierow (age 27 at marriage; documents from Magierow)",
   "death_date": null,
   "marriage_dates": "1930-01-08 in Brzostek (civil)",
   "occupations": null,
@@ -201369,9 +201369,9 @@
      "spouse_id": "P1107"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1903 Magierow (age 27 at marriage; documents from Magierow)",
    "death_date_text": null
   },
   "unions": [],
@@ -201524,7 +201524,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1872 Zalubincze near Nowy Sacz (per source notes; age 58 at marriage; certs Nowy Sacz 1895)",
+  "birth_date": "c. 1872 Zalubincze near Nowy Sacz (age 58 at marriage; certs Nowy Sacz 1895)",
   "death_date": null,
   "marriage_dates": "1930-04-04 in Brzostek (civil)",
   "occupations": "laborer",
@@ -201590,9 +201590,9 @@
      "spouse_id": "P1479"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1872",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1872 Zalubincze near Nowy Sacz (age 58 at marriage; certs Nowy Sacz 1895)",
    "death_date_text": null
   },
   "unions": [],
@@ -201736,7 +201736,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "9 Oct 1906 Grodzisko (per source notes; age 23y5m at marriage). Lezajsk 1/9/1913 birth record",
+  "birth_date": "9 Oct 1906 Grodzisko (age 23y5m at marriage). Lezajsk 1/9/1913 birth record",
   "death_date": null,
   "marriage_dates": "1930-04-06 in Bukowa (civil)",
   "occupations": null,
@@ -201794,9 +201794,9 @@
      "spouse_id": "P2410"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1906",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "9 Oct 1906 Grodzisko (age 23y5m at marriage). Lezajsk 1/9/1913 birth record",
    "death_date_text": null
   },
   "unions": [],
@@ -201813,7 +201813,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "13 Jan 1908 (per m-1930-3 source notes; Frysztak certificate 17 Feb 1929)",
+  "birth_date": "13 Jan 1908 (m-1930-3; Frysztak certificate 17 Feb 1929)",
   "death_date": null,
   "marriage_dates": "6 Apr 1930 in Bukowa (civil)",
   "occupations": null,
@@ -201872,9 +201872,9 @@
      "spouse_id": "P2407"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1908",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "13 Jan 1908 (m-1930-3; Frysztak certificate 17 Feb 1929)",
    "death_date_text": null
   },
   "unions": [],
@@ -201953,7 +201953,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1904 Debica (per source notes; age 26 at marriage)",
+  "birth_date": "c. 1904 Debica (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1930-06-17 in Brzostek (civil)",
   "occupations": null,
@@ -202011,9 +202011,9 @@
      "spouse_id": "P0794"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1904",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1904 Debica (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -202030,7 +202030,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "21 Dec 1899 Debica (per source notes; age 30 at marriage)",
+  "birth_date": "21 Dec 1899 Debica (age 30 at marriage)",
   "death_date": null,
   "marriage_dates": "1930-07-11 in Opacionka (civil)",
   "occupations": "merchant",
@@ -202088,9 +202088,9 @@
      "spouse_id": "P1100"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1899",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "21 Dec 1899 Debica (age 30 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -202259,7 +202259,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "21 May 1908 Tarnobrzeg (per source notes; age 22 at marriage)",
+  "birth_date": "21 May 1908 Tarnobrzeg (age 22 at marriage)",
   "death_date": null,
   "marriage_dates": "1930-11-15 in Brzostek (civil)",
   "occupations": null,
@@ -202327,9 +202327,9 @@
      "spouse_id": "P0795"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1908",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "21 May 1908 Tarnobrzeg (age 22 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -202498,7 +202498,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "4 Oct 1902 Halicz (per source notes; age 29 at marriage)",
+  "birth_date": "4 Oct 1902 Halicz (age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-02-09 in Brzostek (civil)",
   "occupations": null,
@@ -202556,9 +202556,9 @@
      "spouse_id": "P2420"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1902",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "4 Oct 1902 Halicz (age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -202575,7 +202575,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "13 Sep 1903 (per source notes; age 28 at marriage)",
+  "birth_date": "13 Sep 1903 (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-02-09 in Brzostek (civil)",
   "occupations": null,
@@ -202633,9 +202633,9 @@
      "spouse_id": "P2419"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "13 Sep 1903 (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -202805,7 +202805,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "22 Mar 1908 (per source notes; age 26 at marriage; calc 23 — discrepancy)",
+  "birth_date": "22 Mar 1908 (age 26 at marriage — discrepancy)",
   "death_date": null,
   "marriage_dates": "1932-04-02 in Kamienica Dolna (civil)",
   "occupations": "merchant",
@@ -202863,9 +202863,9 @@
      "spouse_id": "P0968"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1908",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "22 Mar 1908 (age 26 at marriage — discrepancy)",
    "death_date_text": null
   },
   "unions": [],
@@ -203035,7 +203035,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "15 Aug 1905 Zmigrod (per source notes; age 26 at marriage)",
+  "birth_date": "15 Aug 1905 Zmigrod (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-04-03 in Opacionka (civil)",
   "occupations": null,
@@ -203093,9 +203093,9 @@
      "spouse_id": "P2428"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1905",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "15 Aug 1905 Zmigrod (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -203173,7 +203173,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "3 Jan 1907 (per source notes; age 25 at marriage)",
+  "birth_date": "3 Jan 1907 (age 25 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-04-03 in Opacionka (civil)",
   "occupations": null,
@@ -203231,9 +203231,9 @@
      "spouse_id": "P2426"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1907",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "3 Jan 1907 (age 25 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -203387,7 +203387,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "1 Jun 1903 (per source notes; age 28 at marriage)",
+  "birth_date": "1 Jun 1903 (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-04-14 in Brzostek (civil)",
   "occupations": "merchant",
@@ -203445,9 +203445,9 @@
      "spouse_id": "P0918"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "1 Jun 1903 (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -203616,7 +203616,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "15 May 1898 Chelmiec near Nowy Sacz (per source notes; age 33 at marriage)",
+  "birth_date": "15 May 1898 Chelmiec near Nowy Sacz (age 33 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-04-16 in Opacionka (civil)",
   "occupations": null,
@@ -203674,9 +203674,9 @@
      "spouse_id": "P2435"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1898",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "15 May 1898 Chelmiec near Nowy Sacz (age 33 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -203693,7 +203693,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "8 Feb 1903 (per source notes; age 29 at marriage)",
+  "birth_date": "8 Feb 1903 (age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-04-16 in Opacionka (civil)",
   "occupations": null,
@@ -203751,9 +203751,9 @@
      "spouse_id": "P2434"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "8 Feb 1903 (age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -203907,7 +203907,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "15 Jun 1899 Pstragowka near Wielopole Skrzynskie (per source notes; age 33 at marriage)",
+  "birth_date": "15 Jun 1899 Pstragowka near Wielopole Skrzynskie (age 33 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-07-10 in Brzostek (civil)",
   "occupations": "farmer",
@@ -203965,9 +203965,9 @@
      "spouse_id": "P2441"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1899",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "15 Jun 1899 Pstragowka near Wielopole Skrzynskie (age 33 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -204136,7 +204136,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "22 Feb 1904 Medrzechow near Dabrowa Tarnowska (per source notes; age 28 at marriage)",
+  "birth_date": "22 Feb 1904 Medrzechow near Dabrowa Tarnowska (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-07-10 in Brzostek (civil)",
   "occupations": null,
@@ -204194,9 +204194,9 @@
      "spouse_id": "P2438"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1904",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "22 Feb 1904 Medrzechow near Dabrowa Tarnowska (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -204275,7 +204275,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "22 Jan 1906 Przeworsk (per source notes; age 26 at marriage)",
+  "birth_date": "22 Jan 1906 Przeworsk (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-10-02 in Brzostek (civil)",
   "occupations": null,
@@ -204333,9 +204333,9 @@
      "spouse_id": "P0780"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1906",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "22 Jan 1906 Przeworsk (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -204488,7 +204488,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "11 Dec 1902 (per source notes; age 29 at marriage)",
+  "birth_date": "11 Dec 1902 (age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1932-10-06 in Baczal (civil)",
   "occupations": null,
@@ -204546,9 +204546,9 @@
      "spouse_id": "P0978"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1902",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "11 Dec 1902 (age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -204717,7 +204717,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "25 Mar 1907 Tarnow (per source notes; age 25 at marriage)",
+  "birth_date": "25 Mar 1907 Tarnow (age 25 at marriage)",
   "death_date": null,
   "marriage_dates": "1933-02-28 in Brzostek (civil)",
   "occupations": null,
@@ -204775,9 +204775,9 @@
      "spouse_id": "P2452"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1907",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "25 Mar 1907 Tarnow (age 25 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -204946,7 +204946,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "10 Oct 1898 Tarnow (per source notes; age 34 at marriage)",
+  "birth_date": "10 Oct 1898 Tarnow (age 34 at marriage)",
   "death_date": null,
   "marriage_dates": "1933-02-28 in Brzostek (civil)",
   "occupations": null,
@@ -205004,9 +205004,9 @@
      "spouse_id": "P2449"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1898",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "10 Oct 1898 Tarnow (age 34 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -205085,7 +205085,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "13 Mar 1903 Krosno (per source notes; age 29 at marriage)",
+  "birth_date": "13 Mar 1903 Krosno (age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1933-02-29 in Brzostek (civil)",
   "occupations": "merchant",
@@ -205143,9 +205143,9 @@
      "spouse_id": "P0845"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "13 Mar 1903 Krosno (age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -205314,7 +205314,7 @@
   "maiden_surname": null,
   "married_surname": "Brand, later Licht",
   "sex": "F",
-  "birth_date": "22 Mar 1903 (per source notes; age 30 at marriage)",
+  "birth_date": "22 Mar 1903 (age 30 at marriage)",
   "death_date": null,
   "marriage_dates": "1933-06-28 in Brzostek (civil)",
   "occupations": null,
@@ -205374,9 +205374,9 @@
      "spouse_id": "P0177"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "22 Mar 1903 (age 30 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -205546,7 +205546,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "28 Jul 1906 (per source notes; age 27 at marriage)",
+  "birth_date": "28 Jul 1906 (age 27 at marriage)",
   "death_date": null,
   "marriage_dates": "1933-08-06 in Brzostek (civil)",
   "occupations": "tailor",
@@ -205604,9 +205604,9 @@
      "spouse_id": "P0995"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1906",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "28 Jul 1906 (age 27 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -205775,7 +205775,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "26 Jan 1908 Korczyna (per source notes; age 26 at marriage)",
+  "birth_date": "26 Jan 1908 Korczyna (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1934-02-17 in Brzostek (civil)",
   "occupations": "merchant",
@@ -205833,9 +205833,9 @@
      "spouse_id": "P1085"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1908",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "26 Jan 1908 Korczyna (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -206003,7 +206003,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "10 Sep 1905 (per source notes; age 28 at marriage)",
+  "birth_date": "10 Sep 1905 (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1934-02-18 in Brzostek (civil)",
   "occupations": null,
@@ -206065,9 +206065,9 @@
      "spouse_id": "P0410"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1905",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "10 Sep 1905 (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -206237,7 +206237,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "27 Oct 1903 Bochnia (per source notes; age 30 at marriage)",
+  "birth_date": "27 Oct 1903 Bochnia (age 30 at marriage)",
   "death_date": null,
   "marriage_dates": "1934-02-21 in Brzostek (civil)",
   "occupations": null,
@@ -206295,9 +206295,9 @@
      "spouse_id": "P0627"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "27 Oct 1903 Bochnia (age 30 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -206314,7 +206314,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "25 Feb 1896 Biecz (per source notes; age 37 at marriage)",
+  "birth_date": "25 Feb 1896 Biecz (age 37 at marriage)",
   "death_date": null,
   "marriage_dates": "24 Aug 1934 in Brzostek (civil)",
   "occupations": null,
@@ -206373,9 +206373,9 @@
      "spouse_id": "P1199"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1896",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "25 Feb 1896 Biecz (age 37 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -206544,7 +206544,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "12 Sep 1912 (per source notes; age 21 at marriage)",
+  "birth_date": "12 Sep 1912 (age 21 at marriage)",
   "death_date": null,
   "marriage_dates": "1934-01-25 in Brzostek (civil)",
   "occupations": null,
@@ -206602,9 +206602,9 @@
      "spouse_id": "P2478"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1912",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "12 Sep 1912 (age 21 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -206794,7 +206794,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "2 Aug 1907 Pilzno (per source notes; age 26 at marriage)",
+  "birth_date": "2 Aug 1907 Pilzno (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1934-01-25 in Brzostek (civil)",
   "occupations": null,
@@ -206852,9 +206852,9 @@
      "spouse_id": "P2475"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1907",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "2 Aug 1907 Pilzno (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -207038,7 +207038,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "10 Jun 1906 Maly near Ropczyce (per source notes; age 28 at marriage)",
+  "birth_date": "10 Jun 1906 Maly near Ropczyce (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1934-12-25 in Brzostek (civil)",
   "occupations": null,
@@ -207096,9 +207096,9 @@
      "spouse_id": "P2483"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1906",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "10 Jun 1906 Maly near Ropczyce (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -207176,7 +207176,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "8 May 1908 Maly near Ropczyce (per source notes; age 26 at marriage)",
+  "birth_date": "8 May 1908 Maly near Ropczyce (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1934-12-25 in Brzostek (civil)",
   "occupations": null,
@@ -207234,9 +207234,9 @@
      "spouse_id": "P2481"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1908",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "8 May 1908 Maly near Ropczyce (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -207406,7 +207406,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "1 Jan 1894 Osiek Jasielski (per source notes; age 40 at marriage)",
+  "birth_date": "1 Jan 1894 Osiek Jasielski (age 40 at marriage)",
   "death_date": null,
   "marriage_dates": "1934-12-23 in Blaszkowa (civil)",
   "occupations": "trader",
@@ -207464,9 +207464,9 @@
      "spouse_id": "P1166"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1894",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "1 Jan 1894 Osiek Jasielski (age 40 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -207544,7 +207544,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "11 Oct 1893 Lezajsk (per source notes; age 41 at marriage)",
+  "birth_date": "11 Oct 1893 Lezajsk (age 41 at marriage)",
   "death_date": null,
   "marriage_dates": "1935-01-16 in Brzostek (civil)",
   "occupations": null,
@@ -207604,9 +207604,9 @@
      "spouse_id": "P1289"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1893",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "11 Oct 1893 Lezajsk (age 41 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -207776,7 +207776,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "22 Dec 1903 Ulanow (per source notes; age 31 at marriage)",
+  "birth_date": "22 Dec 1903 Ulanow (age 31 at marriage)",
   "death_date": null,
   "marriage_dates": "1935-10-01 in Januszkowice (civil)",
   "occupations": null,
@@ -207834,9 +207834,9 @@
      "spouse_id": "P1066"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "22 Dec 1903 Ulanow (age 31 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -208005,7 +208005,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "25 Jan 1909 Rozwadow (per source notes; age 26 at marriage)",
+  "birth_date": "25 Jan 1909 Rozwadow (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1935-12-08 in Brzostek (civil)",
   "occupations": null,
@@ -208063,9 +208063,9 @@
      "spouse_id": "P2497"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1909",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "25 Jan 1909 Rozwadow (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -208157,7 +208157,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "est. ~1880-1890 (inferred from daughter Gittla's birth 29 Jul 1911; not source-attested)",
+  "birth_date": "est. ~1880-1890 (estimated from daughter Gittla's birth 29 Jul 1911; not source-attested)",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -208207,9 +208207,9 @@
    "born": null,
    "died": null,
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1880",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "est. ~1880-1890 (estimated from daughter Gittla's birth 29 Jul 1911; not source-attested)",
    "death_date_text": null
   },
   "unions": [
@@ -208234,7 +208234,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "29 Jul 1911 Ulaszowice near Jaslo (per source notes; age 24 at marriage)",
+  "birth_date": "29 Jul 1911 Ulaszowice near Jaslo (age 24 at marriage)",
   "death_date": null,
   "marriage_dates": "1935-12-08 in Brzostek (civil)",
   "occupations": null,
@@ -208292,9 +208292,9 @@
      "spouse_id": "P2494"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1911",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "29 Jul 1911 Ulaszowice near Jaslo (age 24 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -208464,7 +208464,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "19 Feb 1905 Frysztak (per source notes; age 30 at marriage)",
+  "birth_date": "19 Feb 1905 Frysztak (age 30 at marriage)",
   "death_date": null,
   "marriage_dates": "1936-01-16 in Brzostek (civil)",
   "occupations": null,
@@ -208522,9 +208522,9 @@
      "spouse_id": "P2501"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1905",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "19 Feb 1905 Frysztak (age 30 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -208541,7 +208541,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "9 Mar 1896 Brzostek (per source notes; b-1896-10 likely original birth ref; age 39 at marriage)",
+  "birth_date": "9 Mar 1896 Brzostek (b-1896-10 probably original birth ref; age 39 at marriage)",
   "death_date": null,
   "marriage_dates": "1936-01-16 in Brzostek (civil)",
   "occupations": null,
@@ -208696,7 +208696,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "4 May 1909 Oswiecim (per source notes; age 26 at marriage)",
+  "birth_date": "4 May 1909 Oswiecim (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1936-01-25 in Brzostek (civil)",
   "occupations": null,
@@ -208754,9 +208754,9 @@
      "spouse_id": "P0848"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1909",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "4 May 1909 Oswiecim (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -208925,7 +208925,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "16 Dec 1905 Brzyszczki near Jaslo (per source notes; age 30 at marriage)",
+  "birth_date": "16 Dec 1905 Brzyszczki near Jaslo (age 30 at marriage)",
   "death_date": null,
   "marriage_dates": "1936-03-01 in Brzostek (civil)",
   "occupations": "merchant",
@@ -208983,9 +208983,9 @@
      "spouse_id": "P1307"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1905",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "16 Dec 1905 Brzyszczki near Jaslo (age 30 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -209154,7 +209154,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "15 Jan 1911 (per source notes; age 25 at marriage)",
+  "birth_date": "15 Jan 1911 (age 25 at marriage)",
   "death_date": null,
   "marriage_dates": "1936-03-06 in Brzostek (civil)",
   "occupations": null,
@@ -209212,9 +209212,9 @@
      "spouse_id": "P2511"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1911",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "15 Jan 1911 (age 25 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -209231,7 +209231,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "25 Oct 1903 Brzostek (per source notes; age 32 at marriage)",
+  "birth_date": "25 Oct 1903 Brzostek (age 32 at marriage)",
   "death_date": null,
   "marriage_dates": "1936-03-06 in Brzostek (civil)",
   "occupations": null,
@@ -209289,9 +209289,9 @@
      "spouse_id": "P2510"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "25 Oct 1903 Brzostek (age 32 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -209461,7 +209461,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "7 May 1905 Jedlicze (per source notes; age 30 at marriage)",
+  "birth_date": "7 May 1905 Jedlicze (age 30 at marriage)",
   "death_date": null,
   "marriage_dates": "1936-03-06 in Brzostek (civil)",
   "occupations": "merchant",
@@ -209519,9 +209519,9 @@
      "spouse_id": "P1197"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1905",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "7 May 1905 Jedlicze (age 30 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -209690,7 +209690,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "12 Aug 1912 (per source notes; age 24 at marriage)",
+  "birth_date": "12 Aug 1912 (age 24 at marriage)",
   "death_date": null,
   "marriage_dates": "1937-02-10 in Brzostek (civil)",
   "occupations": null,
@@ -209748,9 +209748,9 @@
      "spouse_id": "P2518"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1912",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "12 Aug 1912 (age 24 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -209767,7 +209767,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "17 Oct 1909 Maly near Ropczyce (per source notes; age 27 at marriage)",
+  "birth_date": "17 Oct 1909 Maly near Ropczyce (age 27 at marriage)",
   "death_date": null,
   "marriage_dates": "1937-02-10 in Brzostek (civil)",
   "occupations": null,
@@ -209825,9 +209825,9 @@
      "spouse_id": "P2517"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1909",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "17 Oct 1909 Maly near Ropczyce (age 27 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -209997,7 +209997,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "18 Dec 1906 Skorodne near Lutowiska (per source notes; age 30 at marriage)",
+  "birth_date": "18 Dec 1906 Skorodne near Lutowiska (age 30 at marriage)",
   "death_date": null,
   "marriage_dates": "1937-04-09 in Brzostek (civil)",
   "occupations": null,
@@ -210055,9 +210055,9 @@
      "spouse_id": "P2522"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1906",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "18 Dec 1906 Skorodne near Lutowiska (age 30 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -210074,7 +210074,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "25 Oct 1901 (per source notes; age 35 at marriage)",
+  "birth_date": "25 Oct 1901 (age 35 at marriage)",
   "death_date": null,
   "marriage_dates": "1937-04-09 in Brzostek (civil)",
   "occupations": null,
@@ -210132,9 +210132,9 @@
      "spouse_id": "P2521"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1901",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "25 Oct 1901 (age 35 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -210152,7 +210152,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "10 Oct 1907 Tyczyn (per source notes; age 29 at marriage)",
+  "birth_date": "10 Oct 1907 Tyczyn (age 29 at marriage)",
   "death_date": null,
   "marriage_dates": "1937-05-06 in Brzostek (civil)",
   "occupations": null,
@@ -210210,9 +210210,9 @@
      "spouse_id": "P1323"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1907",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "10 Oct 1907 Tyczyn (age 29 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -210382,7 +210382,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "10 Sep 1915 Krakow (per source notes; age 21 at marriage)",
+  "birth_date": "10 Sep 1915 Krakow (age 21 at marriage)",
   "death_date": null,
   "marriage_dates": "1937-06-26 in Brzostek (civil)",
   "occupations": null,
@@ -210440,9 +210440,9 @@
      "spouse_id": "P1435"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1915",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "10 Sep 1915 Krakow (age 21 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -210520,7 +210520,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "29 Nov 1902 Dabrowa Tarnowska (per source notes; age 34 at marriage)",
+  "birth_date": "29 Nov 1902 Dabrowa Tarnowska (age 34 at marriage)",
   "death_date": null,
   "marriage_dates": "1937-07-06 in Brzostek (civil)",
   "occupations": null,
@@ -210578,9 +210578,9 @@
      "spouse_id": "P0826"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1902",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "29 Nov 1902 Dabrowa Tarnowska (age 34 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -210658,7 +210658,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "20 Jul 1909 Rudnik (per source notes; age 28 at marriage)",
+  "birth_date": "20 Jul 1909 Rudnik (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1937-10-03 in Brzostek (civil)",
   "occupations": null,
@@ -210716,9 +210716,9 @@
      "spouse_id": "P0914"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1909",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "20 Jul 1909 Rudnik (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -210887,7 +210887,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "7 Mar 1901 (per source notes; age 36 at marriage)",
+  "birth_date": "7 Mar 1901 (age 36 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-02-01 in Brzostek (civil)",
   "occupations": null,
@@ -210945,9 +210945,9 @@
      "spouse_id": "P1198"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1901",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "7 Mar 1901 (age 36 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -211116,7 +211116,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1912 (per source notes; age 26 at marriage)",
+  "birth_date": "c. 1912 (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-02-10 in Brzostek (civil)",
   "occupations": "butcher",
@@ -211174,9 +211174,9 @@
      "spouse_id": "P1392"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1912",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1912 (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -211345,7 +211345,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "2 Dec 1916 Jaslo (per source notes; age 21 at marriage)",
+  "birth_date": "2 Dec 1916 Jaslo (age 21 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-03-14 in Brzostek (civil)",
   "occupations": null,
@@ -211403,9 +211403,9 @@
      "spouse_id": "P2545"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1916",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "2 Dec 1916 Jaslo (age 21 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -211574,7 +211574,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "1 Aug 1909 Pysznica near Ulanow (per source notes; age 28 at marriage)",
+  "birth_date": "1 Aug 1909 Pysznica near Ulanow (age 28 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-03-14 in Brzostek (civil)",
   "occupations": null,
@@ -211632,9 +211632,9 @@
      "spouse_id": "P2542"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1909",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "1 Aug 1909 Pysznica near Ulanow (age 28 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -211804,7 +211804,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "9 Dec 1913 (per source notes; age 24 at marriage)",
+  "birth_date": "9 Dec 1913 (age 24 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-05-20 in Brzostek (civil)",
   "occupations": null,
@@ -211862,9 +211862,9 @@
      "spouse_id": "P1232"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1913",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "9 Dec 1913 (age 24 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -211881,7 +211881,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "5 May 1911 Pilzno (per source notes; age 27 at marriage)",
+  "birth_date": "5 May 1911 Pilzno (age 27 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-07-06 in Brzostek (civil)",
   "occupations": null,
@@ -211939,9 +211939,9 @@
      "spouse_id": "P2553"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1911",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "5 May 1911 Pilzno (age 27 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -212026,7 +212026,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "25 May 1912 (per source notes; age 26 at marriage)",
+  "birth_date": "25 May 1912 (age 26 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-07-06 in Brzostek (civil)",
   "occupations": null,
@@ -212084,9 +212084,9 @@
      "spouse_id": "P2551"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1912",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "25 May 1912 (age 26 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -212256,7 +212256,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "3 Feb 1908 Olpiny (per source notes; age 30 at marriage)",
+  "birth_date": "3 Feb 1908 Olpiny (age 30 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-07-07 in Brzostek (civil)",
   "occupations": "glazier",
@@ -212314,9 +212314,9 @@
      "spouse_id": "P2557"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1908",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "3 Feb 1908 Olpiny (age 30 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -212333,7 +212333,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "11 Mar 1903 Brzostek (per source notes; age 35 at marriage)",
+  "birth_date": "11 Mar 1903 Brzostek (age 35 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-07-07 in Brzostek (civil)",
   "occupations": null,
@@ -212391,9 +212391,9 @@
      "spouse_id": "P2556"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "11 Mar 1903 Brzostek (age 35 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -212411,7 +212411,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1903 (per source notes; age 35 at marriage)",
+  "birth_date": "c. 1903 (age 35 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-08-02 in Brzostek (civil)",
   "occupations": "farmer",
@@ -212469,9 +212469,9 @@
      "spouse_id": "P1157"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1903",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1903 (age 35 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -212549,7 +212549,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "9 Jun 1906 (per source notes; age 32 at marriage)",
+  "birth_date": "9 Jun 1906 (age 32 at marriage)",
   "death_date": null,
   "marriage_dates": "1938-12-23 in Brzostek (civil)",
   "occupations": "merchant",
@@ -212607,9 +212607,9 @@
      "spouse_id": "P1102"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1906",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "9 Jun 1906 (age 32 at marriage)",
    "death_date_text": null
   },
   "unions": [],
@@ -213114,10 +213114,10 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "deceased before 1900 (per m-1900-16 GF-deceased; reportedly former brewer in Nawsie Brzosteckie per d-1914-10)",
+  "death_date": "deceased before 1900 (from m-1900-16 GF-deceased; reportedly former brewer in Nawsie Brzosteckie from d-1914-10)",
   "marriage_dates": null,
-  "occupations": "brewer (per d-1914-10); industrialist (per m-1900-16); unemployed in some records",
-  "residences": "Nawsie Brzosteckie (per d-1914-10); Brzostek (per m-1900-16)",
+  "occupations": "brewer (from d-1914-10); industrialist (from m-1900-16); unemployed in some records",
+  "residences": "Nawsie Brzosteckie (from d-1914-10); Brzostek (from m-1900-16)",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -213194,9 +213194,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1900",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "deceased before 1900 (from m-1900-16 GF-deceased; reportedly former brewer in Nawsie Brzosteckie from d-1914-10)"
   },
   "unions": [
    {
@@ -213222,7 +213222,7 @@
   "birth_date": "c. 1844 (age 70 at death 1914)",
   "death_date": "10 Aug 1914",
   "marriage_dates": "civilly married per m-1900-16 (age 54 at marriage)",
-  "occupations": "unemployed in Brzostek (per d-1914-10)",
+  "occupations": "unemployed in Brzostek (from d-1914-10)",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -213672,7 +213672,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 18 May 1904 (per b-1904-12 \"the late\")",
+  "death_date": "before 18 May 1904 (from b-1904-12 \"the late\")",
   "marriage_dates": null,
   "occupations": "innkeeper / tavern keeper / lessee of propination",
   "residences": "Siedliska",
@@ -213781,9 +213781,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1904",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 18 May 1904 (from b-1904-12 \"the late\")"
   },
   "unions": [
    {
@@ -214622,7 +214622,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "deceased before 1903 (per m-1903-3 GF-deceased)",
+  "death_date": "deceased before 1903 (from m-1903-3 GF-deceased)",
   "marriage_dates": null,
   "occupations": "leaseholder of alcohol distillation plant",
   "residences": "Godokowice",
@@ -214676,9 +214676,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1903",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "deceased before 1903 (from m-1903-3 GF-deceased)"
   },
   "unions": [
    {
@@ -214702,7 +214702,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "deceased before 1903 (per m-1903-3 GM-deceased; \"blessed\" in source)",
+  "death_date": "deceased before 1903 (from m-1903-3 GM-deceased; \"blessed\" in source)",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -214762,9 +214762,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1903",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "deceased before 1903 (from m-1903-3 GM-deceased; \"blessed\" in source)"
   },
   "unions": [
    {
@@ -214927,7 +214927,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "deceased before 30 Oct 1901 (per m-1901-13 GM-deceased)",
+  "death_date": "deceased before 30 Oct 1901 (from m-1901-13 GM-deceased)",
   "marriage_dates": null,
   "occupations": null,
   "residences": "Jezupol (with husband Elias)",
@@ -214986,9 +214986,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1901",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "deceased before 30 Oct 1901 (from m-1901-13 GM-deceased)"
   },
   "unions": [],
   "partner_groups": {
@@ -216159,7 +216159,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 18 Feb 1913 (per d-1913-1 'late')",
+  "death_date": "before 18 Feb 1913 (from d-1913-1 'late')",
   "marriage_dates": null,
   "occupations": "baker in Brzostek",
   "residences": "Brzostek",
@@ -216208,9 +216208,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1913",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 18 Feb 1913 (from d-1913-1 'late')"
   },
   "unions": [],
   "partner_groups": {
@@ -216462,7 +216462,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "2 Dec 1914 Krakow per 1941 Krakow ghetto ID card; OR 1920 (place: Krakow) per Yad Vashem testimony 880808 by sister Sarah filed 1957. 6-year discrepancy unresolved — contemporary 1941 card vs. retrospective sister testimony. the curator's hypothesis: the Nazi ID-card date may be in error.",
+  "birth_date": "2 Dec 1914, Krakow, on her 1941 Krakow ghetto ID card; 1920, Krakow, in the Yad Vashem testimony (no. 880808) her sister Sarah filed in 1957. The six-year difference is unresolved; the ID-card date may be in error.",
   "death_date": "1942 at 'Machna-Raboz' (Yad Vashem testimony 880808). The site is unidentified. 'Machna' may be Hebrew מחנה (camp) or Yiddish מאַשין (machine, i.e., a workshop / industrial forced-labor site). Leave category open. Age at death given as 22 on testimony (consistent with 1920 birth on the same form, inconsistent with 1914 birth on 1941 Krakow ghetto ID card).",
   "marriage_dates": null,
   "occupations": null,
@@ -216491,9 +216491,9 @@
    "born": null,
    "died": null,
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1914",
    "death_year": "1942",
-   "birth_date_text": null,
+   "birth_date_text": "2 Dec 1914, Krakow, on her 1941 Krakow ghetto ID card; 1920, Krakow, in the Yad Vashem testimony (no. 880808) her sister Sarah filed in 1957. The six-year difference is unresolved; the ID-card date may be in error.",
    "death_date_text": "1942 at 'Machna-Raboz' (Yad Vashem testimony 880808). The site is unidentified. 'Machna' may be Hebrew מחנה (camp) or Yiddish מאַשין (machine, i.e., a workshop / industrial forced-labor site). Leave category open. Age at death given as 22 on testimony (consistent with 1920 birth on the same form, inconsistent with 1914 birth on 1941 Krakow ghetto ID card)."
   },
   "unions": []
@@ -216568,7 +216568,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. 1880 or earlier (inferred — adult witness in 1906; married Jan 1909)",
+  "birth_date": "c. 1880 or earlier (estimated — adult witness in 1906; married Jan 1909)",
   "death_date": null,
   "marriage_dates": "25 Jan 1909 in Jaslo (civil)",
   "occupations": "private citizen (1906); industrialist / grain dealer / merchant in Brzostek (1909-1912)",
@@ -216672,9 +216672,9 @@
    "born": null,
    "died": null,
    "marriages": [],
-   "birth_year": null,
+   "birth_year": "1880",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1880 or earlier (estimated — adult witness in 1906; married Jan 1909)",
    "death_date_text": null
   },
   "unions": [],
@@ -216691,7 +216691,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
-  "birth_date": "c. Nov 1878 in Brzostek (per m-1903-5 source: groom age 24y9m at 21 Aug 1903)",
+  "birth_date": "c. Nov 1878 in Brzostek (from m-1903-5 source: groom age 24y9m at 21 Aug 1903)",
   "death_date": null,
   "marriage_dates": "21 Aug 1903 in Brzostek (civil)",
   "occupations": "egg dealer / freight hauler / industrialist (Brzostek)",
@@ -216840,9 +216840,9 @@
      "spouse_id": "P1047"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1878",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. Nov 1878 in Brzostek (from m-1903-5 source: groom age 24y9m at 21 Aug 1903)",
    "death_date_text": null
   },
   "unions": [],
@@ -216860,7 +216860,7 @@
   "married_surname": null,
   "sex": "M",
   "birth_date": "before c. 1823 (must be old enough to father Aba b. ~1823)",
-  "death_date": "before 18 Feb 1913 (per d-1913-1 'son of the late Hersch and Esther Orner')",
+  "death_date": "before 18 Feb 1913 (from d-1913-1 'son of the late Hersch and Esther Orner')",
   "marriage_dates": null,
   "occupations": "baker in Brzostek",
   "residences": "Brzostek",
@@ -216909,9 +216909,9 @@
    "died": null,
    "marriages": [],
    "birth_year": "1823",
-   "death_year": null,
+   "death_year": "1913",
    "birth_date_text": "before c. 1823 (must be old enough to father Aba b. ~1823)",
-   "death_date_text": null
+   "death_date_text": "before 18 Feb 1913 (from d-1913-1 'son of the late Hersch and Esther Orner')"
   },
   "unions": [],
   "partner_groups": {
@@ -217506,7 +217506,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "before 20 Nov 1901 (per m-1901-14 \"blessed Gitli Ruck\")",
+  "death_date": "before 20 Nov 1901 (from m-1901-14 \"blessed Gitli Ruck\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -217551,9 +217551,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1901",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "before 20 Nov 1901 (from m-1901-14 \"blessed Gitli Ruck\")"
   },
   "unions": []
  },
@@ -218169,7 +218169,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": "deceased before 1905 (per d-1905-16 \"the deceased Rafael and Liba Reiss\")",
+  "death_date": "deceased before 1905 (from d-1905-16 \"the deceased Rafael and Liba Reiss\")",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -218218,9 +218218,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": null,
+   "death_year": "1905",
    "birth_date_text": null,
-   "death_date_text": null
+   "death_date_text": "deceased before 1905 (from d-1905-16 \"the deceased Rafael and Liba Reiss\")"
   },
   "unions": [],
   "partner_groups": {
