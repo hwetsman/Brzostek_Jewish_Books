@@ -289,11 +289,11 @@
    "id": "P0017",
    "type": "person",
    "display": "Gittla Leuchtag",
-   "other_names": "Gittla (no surname written; child's birth entry); Leuchtag",
+   "other_names": "Gittla (no surname written; child's birth entry); Gewelter; Leuchtag",
    "subtitle": "born 1897; daughter of Chaskel Leuchtag",
    "legal_given": "Gittla",
    "common_given": "Gittla",
-   "legal_surname": "Leuchtag",
+   "legal_surname": "Gewelter",
    "common_surname": "Leuchtag",
    "maiden_surname": "",
    "father_name": "Chaskel Leuchtag",
@@ -302,7 +302,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "538000 843500 853500 063900 483400 496000 538000 583400 600000 793000 793600 843500 853500"
+   "phonetic": "538000 578390 843500 853500 063900 483400 496000 538000 578390 583400 600000 793000 793600 843500 853500"
   },
   {
    "id": "P0018",
@@ -2436,11 +2436,11 @@
    "id": "P0138",
    "type": "person",
    "display": "Miriam Beer",
-   "other_names": "Miriam (no surname written; child's birth entry); Beer",
+   "other_names": "Miriam (no surname written; child's birth entry); Beer; Bodner",
    "subtitle": "born 1894; daughter of Isaac Beer",
    "legal_given": "Miriam",
    "common_given": "Miriam",
-   "legal_surname": "Beer",
+   "legal_surname": "Bodner",
    "common_surname": "Beer",
    "maiden_surname": "",
    "father_name": "Isaac Beer",
@@ -2449,7 +2449,7 @@
    "residences": "Brzostek (house 111)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "696000 790000 063900 483400 496000 583400 600000 696000 790000 793000 793600"
+   "phonetic": "696000 736900 790000 063900 483400 496000 583400 600000 696000 736900 790000 793000 793600"
   },
   {
    "id": "P0139",
@@ -2911,11 +2911,11 @@
    "id": "P0163",
    "type": "person",
    "display": "Chaya Sarah Turk",
-   "other_names": "Chaya Sarah (no surname written; child's birth entry); Turk",
+   "other_names": "Chaya Sarah (no surname written; child's birth entry); Rothman; Turk",
    "subtitle": "born 1894; daughter of Marcus Turk",
    "legal_given": "Chaya Sarah",
    "common_given": "Chaya Sarah",
-   "legal_surname": "Turk",
+   "legal_surname": "Rothman",
    "common_surname": "Turk",
    "maiden_surname": "",
    "father_name": "Marcus Turk",
@@ -2924,7 +2924,7 @@
    "residences": "Gorzejowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "395000 410000 490000 510000 063900 395000 410000 483400 490000 496000 510000 583400 600000 793000 793600"
+   "phonetic": "395000 410000 490000 510000 936000 063900 395000 410000 483400 490000 496000 510000 583400 600000 793000 793600 936000"
   },
   {
    "id": "P0164",
@@ -11879,11 +11879,11 @@
    "id": "P0674",
    "type": "person",
    "display": "Miriam Fisch",
-   "other_names": "Miriam (no surname written; child's birth entry); Fisch",
+   "other_names": "Miriam (no surname written; child's birth entry); Bieder; Fisch",
    "subtitle": "born 1899; daughter of Chaim Fisch",
    "legal_given": "Miriam",
    "common_given": "Miriam",
-   "legal_surname": "Fisch",
+   "legal_surname": "Bieder",
    "common_surname": "Fisch",
    "maiden_surname": "",
    "father_name": "Mayer Chaim Fisch",
@@ -11892,7 +11892,7 @@
    "residences": "Brzostek (house 15)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "696000 740000 063900 483400 496000 583400 600000 696000 740000 793000 793600"
+   "phonetic": "696000 739000 740000 063900 483400 496000 583400 600000 696000 739000 740000 793000 793600"
   },
   {
    "id": "P0675",
@@ -12563,11 +12563,11 @@
    "id": "P0711",
    "type": "person",
    "display": "Hence Singer",
-   "other_names": "Hence (no surname written; child's birth entry); Singer",
+   "other_names": "Hence (no surname written; child's birth entry); Jortner; Singer",
    "subtitle": "born 1900; daughter of Elias Singer",
    "legal_given": "Hence",
    "common_given": "Hence",
-   "legal_surname": "Singer",
+   "legal_surname": "Jortner",
    "common_surname": "Singer",
    "maiden_surname": "",
    "father_name": "Elias Singer",
@@ -12576,7 +12576,7 @@
    "residences": "Brzostek (house 52)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "465900 564000 565000 063900 465900 483400 496000 564000 565000 583400 600000 793000 793600"
+   "phonetic": "193690 465900 493690 564000 565000 063900 193690 465900 483400 493690 496000 564000 565000 583400 600000 793000 793600"
   },
   {
    "id": "P0712",
@@ -12662,7 +12662,7 @@
    "subtitle": "born 1900; daughter of Nathan Scheier",
    "legal_given": "Yehudit",
    "common_given": "Yehudit",
-   "legal_surname": "Scheier",
+   "legal_surname": "Zimmerman",
    "common_surname": "Scheier",
    "maiden_surname": "",
    "father_name": "Nathan Zimmerman/Scheier",
@@ -12671,7 +12671,7 @@
    "residences": "Zawadka Brzostecka (house 23)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "153000 419000 063900 153000 419000 469600 483400 496000 583400 600000 793000 793600"
+   "phonetic": "153000 419000 469600 063900 153000 419000 469600 483400 496000 583400 600000 793000 793600"
   },
   {
    "id": "P0717",
@@ -14600,7 +14600,7 @@
    "subtitle": "1902–1920; daughter of Akiva Schindel",
    "legal_given": "Sima",
    "common_given": "Sima",
-   "legal_surname": "Schindel",
+   "legal_surname": "Neubart",
    "common_surname": "Schindel",
    "maiden_surname": "",
    "father_name": "Akiva Neubart/Schindel",
@@ -14609,7 +14609,7 @@
    "residences": "Baczalka (house 10)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "460000 463800 063900 460000 463800 483400 496000 583400 600000 679300 793000 793600"
+   "phonetic": "460000 463800 679300 063900 460000 463800 483400 496000 583400 600000 679300 793000 793600"
   },
   {
    "id": "P0825",
@@ -14828,7 +14828,7 @@
    "subtitle": "born 1902; daughter of Nathan Scheier",
    "legal_given": "Hannah",
    "common_given": "Hannah",
-   "legal_surname": "Scheier",
+   "legal_surname": "Zimmerman",
    "common_surname": "Scheier",
    "maiden_surname": "",
    "father_name": "Nathan Zimmerman/Scheier",
@@ -14837,7 +14837,7 @@
    "residences": "Zawadka Brzostecka (house 23)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "419000 560000 063900 419000 469600 483400 496000 560000 583400 600000 793000 793600"
+   "phonetic": "419000 469600 560000 063900 419000 469600 483400 496000 560000 583400 600000 793000 793600"
   },
   {
    "id": "P0837",
@@ -22599,7 +22599,7 @@
    "subtitle": "born 1910; son of Hersch Low",
    "legal_given": "Syne",
    "common_given": "Syne",
-   "legal_surname": "Low",
+   "legal_surname": "Rieger",
    "common_surname": "Low",
    "maiden_surname": "",
    "father_name": "Israel Hersch Rieger/Low",
@@ -22608,7 +22608,7 @@
    "residences": "Brzostek (house 26)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "460000 870000 063900 460000 483400 496000 583400 600000 793000 793600 870000 959000"
+   "phonetic": "460000 870000 959000 063900 460000 483400 496000 583400 600000 793000 793600 870000 959000"
   },
   {
    "id": "P1260",
@@ -24157,7 +24157,7 @@
    "subtitle": "born 1912; son of Hersch Low",
    "legal_given": "Moses Samuel",
    "common_given": "Moses Samuel",
-   "legal_surname": "Low",
+   "legal_surname": "Rieger",
    "common_surname": "Low",
    "maiden_surname": "",
    "father_name": "Israel Hersch Rieger/Low",
@@ -24166,7 +24166,7 @@
    "residences": "Brzostek (house 26)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "468000 640000 870000 063900 468000 483400 496000 583400 600000 640000 793000 793600 870000 959000"
+   "phonetic": "468000 640000 870000 959000 063900 468000 483400 496000 583400 600000 640000 793000 793600 870000 959000"
   },
   {
    "id": "P1349",
@@ -25658,7 +25658,7 @@
    "subtitle": "born 1914; son of Hersch Low",
    "legal_given": "Joseph",
    "common_given": "Joseph",
-   "legal_surname": "Low",
+   "legal_surname": "Rieger",
    "common_surname": "Low",
    "maiden_surname": "",
    "father_name": "Israel Hersch Rieger/Low",
@@ -25667,7 +25667,7 @@
    "residences": "Brzostek (house 28)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "147000 470000 870000 063900 147000 470000 483400 496000 583400 600000 793000 793600 870000 959000"
+   "phonetic": "147000 470000 870000 959000 063900 147000 470000 483400 496000 583400 600000 793000 793600 870000 959000"
   },
   {
    "id": "P1434",
@@ -26243,11 +26243,11 @@
    "id": "P1464",
    "type": "person",
    "display": "Rachel Malz",
-   "other_names": "Rachel (no surname written; child's birth entry); Rachel Malz; Malz",
+   "other_names": "Rachel (no surname written; child's birth entry); Rachel Malz; Malz; Wallech",
    "subtitle": "1915–1915; daughter of Wigidor Malz",
    "legal_given": "Rachel",
    "common_given": "Rachel",
-   "legal_surname": "Malz",
+   "legal_surname": "Wallech",
    "common_surname": "Malz",
    "maiden_surname": "",
    "father_name": "Chaim Wigidor Malz",
@@ -26256,7 +26256,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "684000 948000 958000 063900 483400 496000 583400 600000 684000 793000 793600 948000 958000"
+   "phonetic": "684000 784000 785000 948000 958000 063900 483400 496000 583400 600000 684000 784000 785000 793000 793600 948000 958000"
   },
   {
    "id": "P1465",
@@ -28238,11 +28238,11 @@
    "id": "P1580",
    "type": "person",
    "display": "Dina Turk",
-   "other_names": "Dina (no surname written; child's birth entry); Turk",
+   "other_names": "Dina (no surname written; child's birth entry); Rothman; Turk",
    "subtitle": "born 1875; daughter of Marcus Turk",
    "legal_given": "Dina",
    "common_given": "Dina",
-   "legal_surname": "Turk",
+   "legal_surname": "Rothman",
    "common_surname": "Turk",
    "maiden_surname": "",
    "father_name": "Marcus Turk (1875)",
@@ -28251,7 +28251,7 @@
    "residences": "Gorzejowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "360000 395000 063900 360000 395000 483400 496000 583400 600000 793000 793600"
+   "phonetic": "360000 395000 936000 063900 360000 395000 483400 496000 583400 600000 793000 793600 936000"
   },
   {
    "id": "P1581",
@@ -43780,11 +43780,11 @@
    "id": "P2568",
    "type": "person",
    "display": "Joseph Kichel",
-   "other_names": "Joseph (no surname written; child's birth entry); Kichel",
+   "other_names": "Joseph (no surname written; child's birth entry); Kichel; Sturm",
    "subtitle": "born 1895; son of Leser Kichel",
    "legal_given": "Joseph",
    "common_given": "Joseph",
-   "legal_surname": "Kichel",
+   "legal_surname": "Sturm",
    "common_surname": "Kichel",
    "maiden_surname": "",
    "father_name": "Leiser Kichel",
@@ -43793,7 +43793,7 @@
    "residences": "Brzostek (house 55)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "147000 470000 548000 580000 063900 147000 470000 483400 496000 548000 580000 583400 600000 793000 793600"
+   "phonetic": "147000 296000 470000 548000 580000 063900 147000 296000 470000 483400 496000 548000 580000 583400 600000 793000 793600"
   },
   {
    "id": "P2569",

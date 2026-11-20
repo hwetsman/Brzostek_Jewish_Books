@@ -471,7 +471,7 @@
  {
   "surname": "Bieder",
   "fname": "Bieder",
-  "count": 32,
+  "count": 33,
   "person_ids": [
    "P0034",
    "P0035",
@@ -483,6 +483,7 @@
    "P0416",
    "P0672",
    "P0673",
+   "P0674",
    "P0899",
    "P1090",
    "P1091",
@@ -783,7 +784,7 @@
  {
   "surname": "Bodner",
   "fname": "Bodner",
-  "count": 43,
+  "count": 44,
   "person_ids": [
    "P0083",
    "P0084",
@@ -793,6 +794,7 @@
    "P0112",
    "P0113",
    "P0114",
+   "P0138",
    "P0140",
    "P0141",
    "P0142",
@@ -1851,8 +1853,9 @@
  {
   "surname": "Gewelter",
   "fname": "Gewelter",
-  "count": 3,
+  "count": 4,
   "person_ids": [
+   "P0017",
    "P0018",
    "P0019",
    "P0020"
@@ -2623,10 +2626,11 @@
  {
   "surname": "Jortner",
   "fname": "Jortner",
-  "count": 6,
+  "count": 7,
   "person_ids": [
    "P0234",
    "P0709",
+   "P0711",
    "P1212",
    "P1213",
    "P1214",
@@ -4803,11 +4807,12 @@
  {
   "surname": "Rothman",
   "fname": "Rothman",
-  "count": 17,
+  "count": 19,
   "person_ids": [
    "P0159",
    "P0160",
    "P0161",
+   "P0163",
    "P0165",
    "P0166",
    "P0167",
@@ -4821,6 +4826,7 @@
    "P1350",
    "P1471",
    "P1579",
+   "P1580",
    "P2187"
   ]
  },
@@ -6133,7 +6139,7 @@
  {
   "surname": "Sturm",
   "fname": "Sturm",
-  "count": 32,
+  "count": 33,
   "person_ids": [
    "P0260",
    "P0261",
@@ -6166,6 +6172,7 @@
    "P1971",
    "P2302",
    "P2303",
+   "P2568",
    "P2569"
   ]
  },
@@ -6701,10 +6708,11 @@
  {
   "surname": "Wallech",
   "fname": "Wallech",
-  "count": 3,
+  "count": 4,
   "person_ids": [
    "P1460",
    "P1461",
+   "P1464",
    "P1522"
   ]
  },

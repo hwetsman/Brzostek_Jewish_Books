@@ -6622,7 +6622,7 @@
   "id": "P0017",
   "legal_given": "Gittla",
   "common_given": "Gittla",
-  "legal_surname": "Leuchtag",
+  "legal_surname": "Gewelter",
   "common_surname": "Leuchtag",
   "maiden_surname": null,
   "married_surname": null,
@@ -6663,6 +6663,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Gewelter",
     "Leuchtag"
    ],
    "born": {
@@ -22863,7 +22864,7 @@
   "id": "P0138",
   "legal_given": "Miriam",
   "common_given": "Miriam",
-  "legal_surname": "Beer",
+  "legal_surname": "Bodner",
   "common_surname": "Beer",
   "maiden_surname": null,
   "married_surname": null,
@@ -22904,7 +22905,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Beer"
+    "Beer",
+    "Bodner"
    ],
    "born": {
     "rid": "b-1894-7",
@@ -25782,7 +25784,7 @@
   "id": "P0163",
   "legal_given": "Chaya Sarah",
   "common_given": "Chaya Sarah",
-  "legal_surname": "Turk",
+  "legal_surname": "Rothman",
   "common_surname": "Turk",
   "maiden_surname": null,
   "married_surname": null,
@@ -25823,6 +25825,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Rothman",
     "Turk"
    ],
    "born": {
@@ -77463,7 +77466,7 @@
   "id": "P0674",
   "legal_given": "Miriam",
   "common_given": "Miriam",
-  "legal_surname": "Fisch",
+  "legal_surname": "Bieder",
   "common_surname": "Fisch",
   "maiden_surname": null,
   "married_surname": null,
@@ -77504,6 +77507,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Bieder",
     "Fisch"
    ],
    "born": {
@@ -81040,7 +81044,7 @@
   "id": "P0711",
   "legal_given": "Hence",
   "common_given": "Hence",
-  "legal_surname": "Singer",
+  "legal_surname": "Jortner",
   "common_surname": "Singer",
   "maiden_surname": null,
   "married_surname": null,
@@ -81081,6 +81085,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Jortner",
     "Singer"
    ],
    "born": {
@@ -81492,7 +81497,7 @@
   "id": "P0716",
   "legal_given": "Yehudit",
   "common_given": "Yehudit",
-  "legal_surname": "Scheier",
+  "legal_surname": "Zimmerman",
   "common_surname": "Scheier",
   "maiden_surname": null,
   "married_surname": null,
@@ -90659,7 +90664,7 @@
   "id": "P0824",
   "legal_given": "Sima",
   "common_given": "Sima",
-  "legal_surname": "Schindel",
+  "legal_surname": "Neubart",
   "common_surname": "Schindel",
   "maiden_surname": null,
   "married_surname": null,
@@ -91558,7 +91563,7 @@
   "id": "P0836",
   "legal_given": "Hannah",
   "common_given": "Hannah",
-  "legal_surname": "Scheier",
+  "legal_surname": "Zimmerman",
   "common_surname": "Scheier",
   "maiden_surname": null,
   "married_surname": null,
@@ -128114,7 +128119,7 @@
   "id": "P1259",
   "legal_given": "Syne",
   "common_given": "Syne",
-  "legal_surname": "Low",
+  "legal_surname": "Rieger",
   "common_surname": "Low",
   "maiden_surname": null,
   "married_surname": null,
@@ -134871,7 +134876,7 @@
   "id": "P1348",
   "legal_given": "Moses Samuel",
   "common_given": "Moses Samuel",
-  "legal_surname": "Low",
+  "legal_surname": "Rieger",
   "common_surname": "Low",
   "maiden_surname": null,
   "married_surname": null,
@@ -140803,7 +140808,7 @@
   "id": "P1433",
   "legal_given": "Joseph",
   "common_given": "Joseph",
-  "legal_surname": "Low",
+  "legal_surname": "Rieger",
   "common_surname": "Low",
   "maiden_surname": null,
   "married_surname": null,
@@ -143182,7 +143187,7 @@
   "id": "P1464",
   "legal_given": "Rachel",
   "common_given": "Rachel",
-  "legal_surname": "Malz",
+  "legal_surname": "Wallech",
   "common_surname": "Malz",
   "maiden_surname": null,
   "married_surname": null,
@@ -143239,7 +143244,8 @@
     }
    ],
    "surnames": [
-    "Malz"
+    "Malz",
+    "Wallech"
    ],
    "born": {
     "rid": "b-1915-3",
@@ -151302,7 +151308,7 @@
   "id": "P1580",
   "legal_given": "Dina",
   "common_given": "Dina",
-  "legal_surname": "Turk",
+  "legal_surname": "Rothman",
   "common_surname": "Turk",
   "maiden_surname": null,
   "married_surname": null,
@@ -151343,6 +151349,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Rothman",
     "Turk"
    ],
    "born": {
@@ -213463,7 +213470,7 @@
   "id": "P2568",
   "legal_given": "Joseph",
   "common_given": "Joseph",
-  "legal_surname": "Kichel",
+  "legal_surname": "Sturm",
   "common_surname": "Kichel",
   "maiden_surname": null,
   "married_surname": null,
@@ -213504,7 +213511,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Kichel"
+    "Kichel",
+    "Sturm"
    ],
    "born": {
     "rid": "b-1895-25",
