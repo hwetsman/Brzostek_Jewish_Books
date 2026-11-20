@@ -10668,7 +10668,7 @@
   "birth_date": "~1900 (age 27 at marriage 1927)",
   "death_date": null,
   "marriage_dates": "1927-10-02 in Brzostek (civil)",
-  "occupations": "unemployed; butcher, then cantor, in Brzostek (1932-1938)",
+  "occupations": "unemployed (1927); cantor in Brzostek (1932–1935, 1937–1938), written as butcher in 1936",
   "residences": "Upper Szczawnica (origin)",
   "status": "M",
   "birth_legitimacy": null,
@@ -21462,7 +21462,7 @@
     {
      "rid": "b-1894-34",
      "role": "Mother",
-     "text": "Malka, daughter of Naftali Amsterdam, tenant of the manor in Rzochow, and Leah nee Kolber"
+     "text": "Malka, daughter of Naftali Amsterdam, tenant of the manor in Rejowiec near Mielec, and Leah nee Kolber"
     },
     {
      "rid": "b-1898-32",
@@ -38515,7 +38515,7 @@
     {
      "rid": "b-1904-21",
      "role": "Mother",
-     "text": "Brucha, daughter of Naftali Samul, holder of the alcohol monopoly in Kamienica Gorna, and the late Freida nee Herman"
+     "text": "Brucha, daughter of Naftali Samul, tobacconist in Kamienica Gorna, and the late Freida nee Herman"
     },
     {
      "rid": "b-1905-32",
@@ -42582,7 +42582,7 @@
     {
      "rid": "m-1901-18",
      "role": "Bride",
-     "text": "Serla Bakon, born in Podgrodzie, residing in Blaszkowa without employment, daughter of the blessed Israel Hilel Bakon, former brewer in Siedliska, Imperial-Royal Starostwo Mielec, and Sary Mindli, called Mindli, Bakon"
+     "text": "Serla Bakon, born in Podgrodzie, residing in Blaszkowa without employment, daughter of the blessed Israel Hilel Bakon, former brewer in Siedliszczany, Imperial-Royal Starostwo Mielec, and Sary Mindli, called Mindli, Bakon"
     },
     {
      "rid": "d-1932-6",
@@ -56656,8 +56656,8 @@
   "birth_date": null,
   "death_date": "12 May 1911",
   "marriage_dates": null,
-  "occupations": "tenant of the manor in Rzochow; unemployed",
-  "residences": "Rzochow",
+  "occupations": "tenant of the manor in Rejowiec near Mielec; unemployed",
+  "residences": "Rejowiec near Mielec",
   "status": "W",
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -83900,7 +83900,7 @@
   "death_date": null,
   "marriage_dates": "1927-01 in Brzostek (civil)",
   "occupations": null,
-  "residences": "Brzostek (house 86)",
+  "residences": "Brzostek (house 50)",
   "status": "M",
   "birth_legitimacy": "Legitimate (b-1900-29)",
   "marital_status_at_marriage": "Single (m-1927-1)",
@@ -93183,7 +93183,7 @@
   "birth_date": "5 Nov 1902 (per b-1902-30 source)",
   "death_date": "22 Nov 1902",
   "marriage_dates": null,
-  "occupations": "owner of a cloth store",
+  "occupations": null,
   "residences": "Brzostek (house 50)",
   "status": "S",
   "birth_legitimacy": "Legitimate (b-1902-3)",
@@ -97034,8 +97034,8 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Czermna",
-  "residences": "Czermna",
+  "occupations": "innkeeper in Czermna; tavern keeper in Brzostek (1914)",
+  "residences": "Czermna; Brzostek",
   "status": null,
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -101929,7 +101929,7 @@
   "birth_date": "31 Dec 1878 (per m-1917-3 source notes; age 39 at marriage)",
   "death_date": null,
   "marriage_dates": "13 November 1902 in Brzostek; 13 Nov 1902 in Brzostek (civil); 1917-09-02 in Brzostek (civil)",
-  "occupations": "leather dealer in Brzostek",
+  "occupations": "leather and hide dealer in Brzostek; owner of a cloth-goods stall/business (1906–1916)",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -102139,7 +102139,7 @@
     {
      "rid": "b-1906-7",
      "role": "Father",
-     "text": "Jacob Bergman, haberdashery goods stall owner in Brzostek"
+     "text": "Jacob Bergman, owner of a cloth-goods stall in Brzostek"
     },
     {
      "rid": "b-1908-3",
@@ -116974,7 +116974,7 @@
   "death_date": null,
   "marriage_dates": "1907-03-21 in Brzostek (civil)",
   "occupations": "operator of Jewish schools in Opacionka",
-  "residences": "Opacionka",
+  "residences": "Opacionka; Brzostek (house 131, 1911)",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1907-4)",
@@ -124593,8 +124593,8 @@
   "birth_date": "~1882-10",
   "death_date": null,
   "marriage_dates": "1908-12-30 in Blaszkowa (civil)",
-  "occupations": "farmer in Chlebno near Krosno",
-  "residences": "Chlebno near Krosno",
+  "occupations": "farmer in Chlebna near Krosno",
+  "residences": "Chlebna near Krosno",
   "status": "M",
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1908-3)",
@@ -131442,7 +131442,7 @@
   "death_date": "9 Oct 1916",
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Opacionka (house 131)",
+  "residences": "Brzostek (house 131)",
   "status": "S",
   "birth_legitimacy": "Legitimate (b-1911-18)",
   "marital_status_at_marriage": null,
@@ -176150,7 +176150,7 @@
   "death_date": "deceased before 1901",
   "marriage_dates": null,
   "occupations": "brewer",
-  "residences": "Siedliska",
+  "residences": "Siedleszczany",
   "status": null,
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -194406,7 +194406,7 @@
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
-  "residences": "Baranowka near Sanbor",
+  "residences": null,
   "status": null,
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
@@ -205309,10 +205309,10 @@
   "id": "P2457",
   "legal_given": "Perla",
   "common_given": "Perla",
-  "legal_surname": "Matzner",
+  "legal_surname": "Brand",
   "common_surname": "Matzner",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Brand, later Licht",
   "sex": "F",
   "birth_date": "22 Mar 1903 (per source notes; age 30 at marriage)",
   "death_date": null,
@@ -205361,6 +205361,7 @@
    ],
    "surnames": [
     "Brand",
+    "Brand, later Licht",
     "Matzner"
    ],
    "born": null,

@@ -7238,22 +7238,17 @@
    "town": "Rzochow",
    "lat": 50.244143,
    "lon": 21.490035,
-   "events": 4,
+   "events": 2,
    "buildings": 0,
-   "year_min": 1894,
+   "year_min": 1904,
    "year_max": 1906,
    "top_surnames": [
-    [
-     "Schonwetter",
-     2
-    ],
     [
      "Amsterdam",
      2
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 2,
     "Groom birthplace": 1,
     "Bride birthplace": 1
    },
@@ -7261,10 +7256,10 @@
     "birth_naming": 0,
     "death": 0,
     "marriage_spouse": 2,
-    "remote_relative": 2
+    "remote_relative": 0
    },
    "top_buildings": [],
-   "town_only_events": 4,
+   "town_only_events": 2,
    "notes": ""
   },
   {
@@ -7404,34 +7399,39 @@
    "town": "Siedleszczany",
    "lat": 50.511092,
    "lon": 21.595363,
-   "events": 1,
+   "events": 2,
    "buildings": 0,
-   "year_min": 1906,
+   "year_min": 1901,
    "year_max": 1906,
    "top_surnames": [
     [
      "Freiberger",
      1
+    ],
+    [
+     "Bakon",
+     1
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 1
+    "MGF_Residence": 1,
+    "BF_Residence": 1
    },
    "categories": {
     "birth_naming": 0,
     "death": 0,
     "marriage_spouse": 0,
-    "remote_relative": 1
+    "remote_relative": 2
    },
    "top_buildings": [],
-   "town_only_events": 1,
+   "town_only_events": 2,
    "notes": "Editorial note: added per b-1906-12 Notes 'Marriage in Siedliszczany near Baranow' — sołectwo of Gmina Baranów Sandomierski (Tarnobrzeg County). Curator transcription 'Siedliszczany' (extra 'i') normalizes to canonical 'Siedleszczany'."
   },
   {
    "town": "Siedliska",
    "lat": 49.913891,
    "lon": 21.414602,
-   "events": 62,
+   "events": 61,
    "buildings": 5,
    "year_min": 1895,
    "year_max": 1925,
@@ -7469,14 +7469,14 @@
     "MGF_Residence": 6,
     "Groom birthplace": 3,
     "Bride birthplace": 6,
-    "BF_Residence": 6,
+    "BF_Residence": 5,
     "GF_Residence": 1
    },
    "categories": {
     "birth_naming": 21,
     "death": 5,
     "marriage_spouse": 9,
-    "remote_relative": 27
+    "remote_relative": 26
    },
    "top_buildings": [
     {
@@ -7552,7 +7552,7 @@
      "year_max": 1909
     }
    ],
-   "town_only_events": 36,
+   "town_only_events": 35,
    "notes": "Siedliska-Bogusz, just N of Zawadka Brzostecka"
   },
   {
@@ -9545,7 +9545,8 @@
  ],
  "towns_without_pins": [
   "Bagienica",
-  "Okolice, Dąbrowa district"
+  "Okolice, Dąbrowa district",
+  "Rejowiec near Mielec"
  ],
  "towns_without_pins_with_refs": [
   {
@@ -9562,10 +9563,18 @@
     "b-1917-18"
    ],
    "ref_count": 2
+  },
+  {
+   "town": "Rejowiec near Mielec",
+   "refs": [
+    "b-1894-34",
+    "b-1897-1"
+   ],
+   "ref_count": 2
   }
  ],
  "totals": {
   "towns_on_map": 238,
-  "towns_in_corpus": 240
+  "towns_in_corpus": 241
  }
 }

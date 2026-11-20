@@ -7994,7 +7994,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Leah Gittla Kolber",
-   "residences": "Rzochow",
+   "residences": "Rejowiec near Mielec",
    "birth_date": "",
    "death_date": "",
    "phonetic": "064393 673800 064393 673800"
@@ -13238,7 +13238,7 @@
    "father_name": "Shaya Baumgarten",
    "mother_name": "Yehudit Baumgarten née Hirsch",
    "spouse_names": "Pinkus Low",
-   "residences": "Brzostek (house 86)",
+   "residences": "Brzostek (house 50)",
    "birth_date": "",
    "death_date": "",
    "phonetic": "043590 765936 043590 063900 483400 496000 583400 600000 765936 793000 793600"
@@ -15974,7 +15974,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Hannah Beila Ader née Tratner",
-   "residences": "Czermna",
+   "residences": "Czermna; Brzostek",
    "birth_date": "",
    "death_date": "",
    "phonetic": "039000 480000 580000 039000 480000 580000"
@@ -20097,7 +20097,7 @@
    "father_name": "Moses Bauernfreund",
    "mother_name": "Dara Bauernfreund",
    "spouse_names": "Chaya Bauernfreund née Korzennik",
-   "residences": "Opacionka",
+   "residences": "Opacionka; Brzostek (house 131, 1911)",
    "birth_date": "",
    "death_date": "",
    "phonetic": "460000 796796 460000 796796"
@@ -21845,7 +21845,7 @@
    "father_name": "Hersch Altholz",
    "mother_name": "Freida Altholz née Wistreich",
    "spouse_names": "Hence Sussla Altholz née Dintenfass",
-   "residences": "Chlebno near Krosno",
+   "residences": "Chlebna near Krosno",
    "birth_date": "",
    "death_date": "",
    "phonetic": "083840 373000 743940 743950 083840 373000 743940 743950"
@@ -23384,7 +23384,7 @@
    "father_name": "Simon Bauernfreund",
    "mother_name": "Chaya Bauernfreund née Korzennik",
    "spouse_names": "",
-   "residences": "Opacionka (house 131)",
+   "residences": "Brzostek (house 131)",
    "birth_date": "",
    "death_date": "",
    "phonetic": "043590 796796 043590 063900 483400 496000 583400 600000 793000 793600 796796"
@@ -34613,7 +34613,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Sarah Mindla Bakon",
-   "residences": "Siedliska",
+   "residences": "Siedleszczany",
    "birth_date": "",
    "death_date": "",
    "phonetic": "049800 580000 756000 049800 580000 756000"
@@ -39116,7 +39116,7 @@
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Reisla Bierman née Tornschreiber",
-   "residences": "Baranowka near Sanbor",
+   "residences": "",
    "birth_date": "",
    "death_date": "",
    "phonetic": "147000 157000 457000 470000 796000 147000 157000 457000 470000 796000"
@@ -41823,11 +41823,11 @@
    "id": "P2457",
    "type": "person",
    "display": "Perla Matzner, married name Licht",
-   "other_names": "Perla Brand; Brand; Matzner",
+   "other_names": "Perla Brand; Brand; Brand, later Licht; Matzner",
    "subtitle": "daughter of David Matzner",
    "legal_given": "Perla",
    "common_given": "Perla",
-   "legal_surname": "Matzner",
+   "legal_surname": "Brand",
    "common_surname": "Matzner",
    "maiden_surname": "",
    "father_name": "David Matzner",
@@ -41836,7 +41836,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "646900 798000 646900 796300 798000"
+   "phonetic": "646900 796300 798000 646900 796300 798000 839000 843000 853000"
   },
   {
    "id": "P2458",
@@ -45630,7 +45630,7 @@
    "year": 1894,
    "number": "34",
    "summary": "Birth 34/1894: Joseph",
-   "prose": "Joseph Male Illegitimate 23 Dec 1894 Zawadka Brzostecka, house 50 30 Dec 1894 Zawadka Brzostecka, house 50 Solomon Schonwetter, industrialist in Zawadka Brzostecka Malka, daughter of Naftali Amsterdam, tenant of the manor in Rzochow, and Leah nee Kolber Jochene Nechemje, cloth merchant in Brzostek, witness. Samuel Bieder, stallholder of spice stall in Brzostek, witness. Marcus Kleinman The undersigned acknowledges paternity: Salamon Schönwetter [signature]. Below the entry: Closed and signed by the undersigned as of 31 Dec 1894. Aba Wróbl [signature], Jewish registrar in Brzostek.",
+   "prose": "Joseph Male Illegitimate 23 Dec 1894 Zawadka Brzostecka, house 50 30 Dec 1894 Zawadka Brzostecka, house 50 Solomon Schonwetter, industrialist in Zawadka Brzostecka Malka, daughter of Naftali Amsterdam, tenant of the manor in Rejowiec near Mielec, and Leah nee Kolber Jochene Nechemje, cloth merchant in Brzostek, witness. Samuel Bieder, stallholder of spice stall in Brzostek, witness. Marcus Kleinman The undersigned acknowledges paternity: Salamon Schönwetter [signature]. Below the entry: Closed and signed by the undersigned as of 31 Dec 1894. Aba Wróbl [signature], Jewish registrar in Brzostek.",
    "people": "Joseph Schonwetter; Solomon Schonwetter; Malka Amsterdam; Naftali Amsterdam; Leah Kolber; Jochene Nechemje; Samuel Bieder; Marcus Kleinman",
    "phonetic": "064393 146000 147000 156000 456000 460000 467390 468000 470000 486000 586600 587900 646100 646400 656100 656400 673800 685000 694000 695400 739000 800000"
   },
@@ -46609,7 +46609,7 @@
    "year": 1897,
    "number": "1",
    "summary": "Birth 1/1897: Abraham",
-   "prose": "Abraham Male Illegitimate 16 Jan 1897 Brzostek, house 47 23 Jan 1897 Brzostek Solomon Schonwetter, tenant of land in Brzostek Malka, daughter of Naftali Amsterdam, tenant of the manor in Rzochow, and Leah nee Kolber Solomon Karpf, tenant of the estates in Zawadka Brzostecka, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman The undersigned acknowledges paternity: Salamon Schönwetter [signature]. Jochene Nechemje [signature], witness.",
+   "prose": "Abraham Male Illegitimate 16 Jan 1897 Brzostek, house 47 23 Jan 1897 Brzostek Solomon Schonwetter, tenant of land in Brzostek Malka, daughter of Naftali Amsterdam, tenant of the manor in Rejowiec near Mielec, and Leah nee Kolber Solomon Karpf, tenant of the estates in Zawadka Brzostecka, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman The undersigned acknowledges paternity: Salamon Schönwetter [signature]. Jochene Nechemje [signature], witness.",
    "people": "Abraham Schonwetter; Solomon Schonwetter; Malka Amsterdam; Naftali Amsterdam; Leah Kolber; Solomon Karpf; Jochene Nechemje; Marcus Kleinman",
    "phonetic": "064393 079560 146000 156000 456000 460000 467390 486000 586600 587900 597000 646100 646400 656100 656400 673800 685000 694000 695400 800000"
   },
@@ -49139,7 +49139,7 @@
    "year": 1904,
    "number": "21",
    "summary": "Birth 21/1904: Freida Liba",
-   "prose": "Freida Liba Female Illegitimate 15 Jul 1904 Klecie, house 16 20 Jul 1904 Brzostek, house 149 Leib Tager, innkeeper in Klecie Brucha, daughter of Naftali Samul, holder of the alcohol monopoly in Kamienica Gorna, and the late Freida nee Herman Jochene Nechemje, cloth merchant in Brzostek, witness. Zalel Lobel, dealer in iron goods in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Acknowledges paternity: Leib Tager [signature]. Salamon Kornfeld, industrialist in Brzostek [signature], witness.",
+   "prose": "Freida Liba Female Illegitimate 15 Jul 1904 Klecie, house 16 20 Jul 1904 Brzostek, house 149 Leib Tager, innkeeper in Klecie Brucha, daughter of Naftali Samul, tobacconist in Kamienica Gorna, and the late Freida nee Herman Jochene Nechemje, cloth merchant in Brzostek, witness. Zalel Lobel, dealer in iron goods in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Acknowledges paternity: Leib Tager [signature]. Salamon Kornfeld, industrialist in Brzostek [signature], witness.",
    "people": "Freida Liba Tager; Leib Tager; Brucha Samul; Naftali Samul; Liba Herman; Jochene Nechemje; Zalel Lobel; Marcus Kleinman",
    "phonetic": "146000 156000 359000 456000 460000 468000 480000 586600 596000 646100 646400 656100 656400 673800 694000 695400 793000 794000 795000 870000 878000"
   },
@@ -49579,7 +49579,7 @@
    "year": 1905,
    "number": "24",
    "summary": "Birth 24/1905: Joel",
-   "prose": "Joel Male Legitimate 29 Aug 1905 Blaszkowa, house 59 5 Sep 1905 Blaszkowa, house 59 Mendel Dintenfass tenant of the manor in Blaszkowa Esther, daughter of Leib Schonwetter, without employment in Zawadka Brzostecka, and the late Hannah nee Korzennik Abraham Amsterdam, horse dealer in Brzostek, witness. Moses Klotz spice stallholder in Brzostek, witness. Marcus Kleinman, circumciser in Brzostek Marriage performed in Zawadka Brzostecka 8 Feb 1882",
+   "prose": "Joel Male Legitimate 29 Aug 1905 Blaszkowa, house 59 5 Sep 1905 Blaszkowa, house 59 Mendel Dintenfass tenant of the manor in Blaszkowa Esther, daughter of Leib Schonwetter, without employment in Zawadka Brzostecka, and the late Hannah nee Korzennik Abraham Amsterdam, horse dealer in Brzostek, witness. Moses Klotz, owner of a mixed-goods stall in Brzostek, witness. Marcus Kleinman, circumciser in Brzostek Marriage performed in Zawadka Brzostecka 8 Feb 1882",
    "people": "Joel Dintenfass; Mendel Dintenfass; Esther Schonwetter; Leib Schonwetter; Hannah Korzennik, married name Schonwetter; Abraham Amsterdam; Moses Klotz; Marcus Kleinman",
    "phonetic": "043590 064393 079560 180000 363674 467390 480000 546500 560000 584000 586600 594650 600000 638000 640000 693000 694000 695400 870000"
   },
@@ -49755,7 +49755,7 @@
    "year": 1906,
    "number": "7",
    "summary": "Birth 7/1906: Chune",
-   "prose": "Chune Male Legitimate 4 March 1906 Brzostek, house 79 11 March 1906 Brzostek, house 79 Jacob Bergman, haberdashery goods stall owner in Brzostek Chaya, daughter of Jochene Nechemje, industrialist in Brzostek, and the late Yehudit Rivka, called Rivka, nee Kleinman Elias Singer, hide merchant in Brzostek, witness; Fizel Schonwetter, landed estate owner in Brzostek, witness Marcus Kleinman, circumciser in Brzostek Jozefa Lisowa, midwife in Brzostek Marriage in Brzostek on 13 Nov 1902. Marriage register Vol. II No. 117/18, pos. 8 from 1902",
+   "prose": "Chune Male Legitimate 4 March 1906 Brzostek, house 79 11 March 1906 Brzostek, house 79 Jacob Bergman, owner of a cloth-goods stall in Brzostek Chaya, daughter of Jochene Nechemje, industrialist in Brzostek, and the late Yehudit Rivka, called Rivka, nee Kleinman Elias Singer, hide merchant in Brzostek, witness; Fizel Schonwetter, landed estate owner in Brzostek, witness Marcus Kleinman, circumciser in Brzostek Jozefa Lisowa, midwife in Brzostek Marriage in Brzostek on 13 Nov 1902. Marriage register Vol. II No. 117/18, pos. 8 from 1902",
    "people": "Chune Bergman; Jacob Bergman; Chaya Nechemje; Jochene Nechemje; Rivka Kleinman; Elias Singer; Fishel Schonwetter; Marcus Kleinman",
    "phonetic": "084000 146000 147000 156000 157000 410000 456000 457000 460000 465900 467390 470000 510000 560000 586600 646100 646400 656100 656400 694000 695400 748000 795600 975000"
   },
@@ -58863,7 +58863,7 @@
    "year": 1901,
    "number": "18",
    "summary": "Marriage 18/1901: Isaac Freiberger & Serla Bakon",
-   "prose": "11 December 1901 Brzostek Abraham Izaak, called Izaak, Freiberger, born and residing in Błaszkowa, innkeeper, son of the late Leiser Freiberger, a former innkeeper in Błaszkowa, and Freida, nee Fornal Serla Bakon, born in Podgrodzie, residing in Blaszkowa without employment, daughter of the blessed Israel Hilel Bakon, former brewer in Siedliska, Imperial-Royal Starostwo Mielec, and Sary Mindli, called Mindli, Bakon Judah Leib Wolkenfeld Markus Kleinman, Schächter in Brzostek, witness. Chaim Galizer (Schächter) in Brzostek [a second signature 'Markus Kleinman' below is struck through], witness. Remarks: The capacity for the marriage contracted alongside rests on [the registrar's] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate.",
+   "prose": "11 December 1901 Brzostek Abraham Izaak, called Izaak, Freiberger, born and residing in Błaszkowa, innkeeper, son of the late Leiser Freiberger, a former innkeeper in Błaszkowa, and Freida, nee Fornal Serla Bakon, born in Podgrodzie, residing in Blaszkowa without employment, daughter of the blessed Israel Hilel Bakon, former brewer in Siedliszczany, Imperial-Royal Starostwo Mielec, and Sary Mindli, called Mindli, Bakon Judah Leib Wolkenfeld Markus Kleinman, Schächter in Brzostek, witness. Chaim Galizer (Schächter) in Brzostek [a second signature 'Markus Kleinman' below is struck through], witness. Remarks: The capacity for the marriage contracted alongside rests on [the registrar's] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate.",
    "people": "Isaac Freiberger; Serla Bakon; Leiser Freiberger; Freida Fornat; Israel Hillel Bakon; Mindla Bakon; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
    "phonetic": "040000 045000 049800 130000 430000 460000 498000 560000 580000 584900 586600 638000 694000 695400 756000 785678 793000 796300 797959 849000 870000"
   },
@@ -60776,10 +60776,10 @@
    "book": "marriage",
    "year": 1933,
    "number": "3",
-   "summary": "Marriage 3/1933: Solomon Licht & Perla Matzner",
+   "summary": "Marriage 3/1933: Solomon Licht & Perla Matzner, married name Brand, later Licht",
    "prose": "28 June 1933 Brzostek Salamon Licht,born and lives in Brzostek, no profession, son of deceased Lazar Licht, owner of realestate in Brzostek and Debor ne Plattner Perla Brand, daughter of Dawid Matzner, Merchant in Rudnik and Rizy nee Kanarek Chaim Wolkenfeld Lipa Rosner, schames in Brzostek, witness. Abraham Barber, cantor in Brzostek, witness. groom 1 jun1894, bride 22 march 1903. Remarks: Documents of the groom: this registry's own birth book, vol. III, p. 25, no. 16. Documents of the bride: birth certificate dated Ulanów, 2 Jun 1933, according to the birth register there, vol. VIII, p. 195, no. 23; certificate of residence dated Brzostek, 17 Jun[?] 1933; divorce by the District Court in Nisko of 28 Apr 1931, ref. no. Nc 40/31.",
-   "people": "Solomon Licht; Perla Matzner; Lazar Licht; Deborah Plattner; David Matzner; Riza Kanarek; Lipa Rozner; Sucher Barber; Chaim Wolkenfeld",
-   "phonetic": "373000 379000 459000 460000 486000 490000 560000 569500 646900 783690 785678 797900 798000 843000 849000 853000 870000 940000 946900"
+   "people": "Solomon Licht; Perla Matzner, married name Brand, later Licht; Lazar Licht; Deborah Plattner; David Matzner; Riza Kanarek; Lipa Rozner; Sucher Barber; Chaim Wolkenfeld",
+   "phonetic": "373000 379000 459000 460000 486000 490000 560000 569500 600000 646900 693000 783690 785678 796300 797900 798000 839000 843000 849000 853000 870000 940000 946900"
   },
   {
    "id": "m-1933-4",

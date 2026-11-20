@@ -18603,6 +18603,21 @@
    "year_max": 1930
   },
   {
+   "town": "Rejowiec near Mielec",
+   "events": 2,
+   "surnames": [
+    [
+     "Schonwetter",
+     2
+    ]
+   ],
+   "events_by_kind": {
+    "MGF_Residence": 2
+   },
+   "year_min": 1894,
+   "year_max": 1897
+  },
+  {
    "town": "Ropczyce",
    "events": 15,
    "surnames": [
@@ -18951,23 +18966,18 @@
   },
   {
    "town": "Rzochow",
-   "events": 4,
+   "events": 2,
    "surnames": [
-    [
-     "Schonwetter",
-     2
-    ],
     [
      "Amsterdam",
      2
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 2,
     "Groom birthplace": 1,
     "Bride birthplace": 1
    },
-   "year_min": 1894,
+   "year_min": 1904,
    "year_max": 1906
   },
   {
@@ -19057,22 +19067,27 @@
   },
   {
    "town": "Siedleszczany",
-   "events": 1,
+   "events": 2,
    "surnames": [
     [
      "Freiberger",
      1
+    ],
+    [
+     "Bakon",
+     1
     ]
    ],
    "events_by_kind": {
-    "MGF_Residence": 1
+    "MGF_Residence": 1,
+    "BF_Residence": 1
    },
-   "year_min": 1906,
+   "year_min": 1901,
    "year_max": 1906
   },
   {
    "town": "Siedliska",
-   "events": 36,
+   "events": 35,
    "surnames": [
     [
      "Sperber",
@@ -19105,10 +19120,6 @@
     [
      "Kornreich",
      1
-    ],
-    [
-     "Bakon",
-     1
     ]
    ],
    "events_by_kind": {
@@ -19116,7 +19127,7 @@
     "MGF_Residence": 6,
     "Groom birthplace": 3,
     "Bride birthplace": 6,
-    "BF_Residence": 6,
+    "BF_Residence": 5,
     "GF_Residence": 1
    },
    "year_min": 1895,
@@ -21632,7 +21643,6 @@
    "m-1900-20",
    "m-1901-5",
    "m-1901-14",
-   "m-1901-18",
    "m-1906-3",
    "m-1906-7",
    "m-1906-12",
@@ -21922,11 +21932,9 @@
    "m-1904-4",
    "m-1928-5"
   ],
-  "Rzochow": [
+  "Rejowiec near Mielec": [
    "b-1894-34",
-   "b-1897-1",
-   "m-1904-5",
-   "m-1906-10"
+   "b-1897-1"
   ],
   "Gawlow": [
    "b-1895-1",
@@ -22306,7 +22314,8 @@
    "m-1898-1"
   ],
   "Siedleszczany": [
-   "b-1906-12"
+   "b-1906-12",
+   "m-1901-18"
   ],
   "Koln Germany": [
    "b-1906-17",
@@ -22594,6 +22603,10 @@
   ],
   "Vienna (staying there at present)": [
    "m-1904-3"
+  ],
+  "Rzochow": [
+   "m-1904-5",
+   "m-1906-10"
   ],
   "Gora Ropczycka near Ropczyce": [
    "m-1905-2"
