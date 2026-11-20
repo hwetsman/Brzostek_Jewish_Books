@@ -194616,7 +194616,7 @@
   "maiden_surname": "Bierman",
   "married_surname": null,
   "sex": "F",
-  "birth_date": "c. 1870 Baranowka near Sanbor (per source; age 54 at marriage; source notes \"bride 1874\" = 50, but age field 54 = 1870; ambiguity)",
+  "birth_date": "c. 1870, Barańczyce near Sambor (age 54 at m-1924-4; a note on the record gives 1874)",
   "death_date": null,
   "marriage_dates": "1924-04-06 in Brzostek (civil)",
   "occupations": null,
@@ -194689,9 +194689,9 @@
      "spouse_id": "P1895"
     }
    ],
-   "birth_year": null,
+   "birth_year": "1870",
    "death_year": null,
-   "birth_date_text": null,
+   "birth_date_text": "c. 1870, Barańczyce near Sambor (age 54 at m-1924-4; a note on the record gives 1874)",
    "death_date_text": null
   },
   "unions": [],
