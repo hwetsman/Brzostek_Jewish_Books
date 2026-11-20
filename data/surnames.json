@@ -1337,9 +1337,10 @@
  {
   "surname": "Feig",
   "fname": "Feig",
-  "count": 2,
+  "count": 3,
   "person_ids": [
    "P1276",
+   "P1277",
    "P2180"
   ]
  },
@@ -3882,10 +3883,11 @@
  {
   "surname": "March",
   "fname": "March",
-  "count": 2,
+  "count": 3,
   "person_ids": [
    "P1487",
-   "P1896"
+   "P1896",
+   "P2395"
   ]
  },
  {
@@ -4246,7 +4248,7 @@
  {
   "surname": "Panzer",
   "fname": "Panzer",
-  "count": 35,
+  "count": 36,
   "person_ids": [
    "P0296",
    "P0297",
@@ -4267,6 +4269,7 @@
    "P1271",
    "P1329",
    "P1356",
+   "P1435",
    "P1482",
    "P1541",
    "P1542",
@@ -4339,9 +4342,10 @@
  {
   "surname": "Plattner",
   "fname": "Plattner",
-  "count": 11,
+  "count": 12,
   "person_ids": [
    "P0014",
+   "P0179",
    "P0180",
    "P0181",
    "P0270",
@@ -6011,7 +6015,7 @@
  {
   "surname": "Steinhorn",
   "fname": "Steinhorn",
-  "count": 16,
+  "count": 15,
   "person_ids": [
    "P0222",
    "P0223",
@@ -6022,7 +6026,6 @@
    "P0847",
    "P1062",
    "P1275",
-   "P1277",
    "P1704",
    "P1705",
    "P1706",
@@ -6696,7 +6699,7 @@
  {
   "surname": "Walter",
   "fname": "Walter",
-  "count": 25,
+  "count": 24,
   "person_ids": [
    "P0224",
    "P0225",
@@ -6708,7 +6711,6 @@
    "P0840",
    "P0968",
    "P1085",
-   "P1275",
    "P1277",
    "P1335",
    "P1336",
@@ -7233,9 +7235,8 @@
  {
   "surname": "Zehngutt",
   "fname": "Zehngutt",
-  "count": 2,
+  "count": 1,
   "person_ids": [
-   "P0616",
    "P0618"
   ]
  },

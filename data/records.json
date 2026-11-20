@@ -1503,9 +1503,9 @@
    {
     "role": "Mother",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -8913,9 +8913,9 @@
    {
     "role": "Mother",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -18210,9 +18210,9 @@
    {
     "role": "Mother",
     "person_id": "P0616",
-    "display": "Matla Zehngutt",
+    "display": "Matla Zehnwirth",
     "role_label": "Mother",
-    "written_as": "Matla née Zehnwirth",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -18229,7 +18229,7 @@
     "display": "Itta Zehngutt",
     "role_label": "Mother's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -18262,7 +18262,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0615.html\" data-pid=\"P0615\">Meilech Wolkenfeld</a> unemployed in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0616.html\" data-pid=\"P0616\">Matla</a>, daughter of <a href=\"../person/P0617.html\" data-pid=\"P0617\">Leser Zehnwirth</a> in Bobowa and Ettla nee Zehngutt",
+   "Mother (prose)": "<a href=\"../person/P0616.html\" data-pid=\"P0616\">Matla</a>, daughter of <a href=\"../person/P0617.html\" data-pid=\"P0617\">Leser Zehnwirth</a> in Bobowa and Ettla nee <a href=\"../person/P0618.html\" data-pid=\"P0618\">Zehngutt</a>",
    "Witnesses (prose)": "<a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeepter in Brzostek, witness. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Josefa Lizowa midwife in Brzostek",
@@ -18512,9 +18512,9 @@
    {
     "role": "Mother",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -18598,7 +18598,7 @@
    {
     "role": "Child",
     "person_id": "P1642",
-    "display": "Mirla Brandsdorfer",
+    "display": "Mirla Glassner",
     "role_label": "Child",
     "written_as": "Golda Mirla",
     "linked_inline": false
@@ -25034,9 +25034,9 @@
    {
     "role": "Mother",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -44123,9 +44123,9 @@
    {
     "role": "MGM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -49318,9 +49318,9 @@
    {
     "role": "MGM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -52651,9 +52651,9 @@
    {
     "role": "MGM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -54075,7 +54075,7 @@
    {
     "role": "Child",
     "person_id": "P1277",
-    "display": "Rivka Steinhorn",
+    "display": "Rivka Feig",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -54091,9 +54091,9 @@
    {
     "role": "Mother",
     "person_id": "P1275",
-    "display": "Hinde Walter",
+    "display": "Hinde Steinhorn",
     "role_label": "Mother",
-    "written_as": "Hinde née Steinhorn",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -55412,7 +55412,7 @@
    {
     "role": "Child",
     "person_id": "P1307",
-    "display": "Esther Necha Schonbach",
+    "display": "Esther Necha Finder",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -56168,7 +56168,7 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother",
     "written_as": "Marianna Mass",
     "linked_inline": true
@@ -58132,9 +58132,9 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother",
-    "written_as": "Miriam née Schlein",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -59854,7 +59854,7 @@
    {
     "role": "Child",
     "person_id": "P1392",
-    "display": "Shayndel Scheinbach",
+    "display": "Shayndel Finder",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": true
@@ -62545,7 +62545,7 @@
    {
     "role": "Child",
     "person_id": "P1435",
-    "display": "Hence Mass",
+    "display": "Hence Panzer",
     "role_label": "Child",
     "written_as": "Hencie",
     "linked_inline": false
@@ -62561,9 +62561,9 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Miriam Mass",
     "linked_inline": true
    },
    {
@@ -65498,9 +65498,9 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Miriam Mass",
     "linked_inline": true
    },
    {
@@ -68120,9 +68120,9 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Miriam Mass",
     "linked_inline": true
    },
    {
@@ -68210,9 +68210,9 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Miriam Mass",
     "linked_inline": true
    },
    {
@@ -72273,9 +72273,9 @@
    {
     "role": "Decedent",
     "person_id": "P1642",
-    "display": "Mirla Brandsdorfer",
+    "display": "Mirla Glassner",
     "role_label": "The deceased",
-    "written_as": null,
+    "written_as": "Mirla Brandsdorfer",
     "linked_inline": true
    },
    {
@@ -79786,9 +79786,9 @@
    {
     "role": "Spouse",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Spouse of the deceased",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": false
    }
   ],
@@ -80776,9 +80776,9 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother of the deceased",
-    "written_as": "Miriam née Schlein",
+    "written_as": null,
     "linked_inline": true
    }
   ],
@@ -83661,7 +83661,7 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -83715,7 +83715,7 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -83993,9 +83993,9 @@
    {
     "role": "Mother",
     "person_id": "P1808",
-    "display": "Gittla Kainer",
+    "display": "Gittla Plattner",
     "role_label": "Mother of the deceased",
-    "written_as": null,
+    "written_as": "Gittla née Kainer",
     "linked_inline": true
    }
   ],
@@ -84530,9 +84530,9 @@
    {
     "role": "Mother",
     "person_id": "P0616",
-    "display": "Matla Zehngutt",
+    "display": "Matla Zehnwirth",
     "role_label": "Mother of the deceased",
-    "written_as": "Matla née Zehnwirth",
+    "written_as": null,
     "linked_inline": true
    }
   ],
@@ -84793,9 +84793,9 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother of the deceased",
-    "written_as": null,
+    "written_as": "Miriam née Mass",
     "linked_inline": true
    }
   ],
@@ -85377,7 +85377,7 @@
    {
     "role": "Mother",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -87633,9 +87633,9 @@
    {
     "role": "Decedent",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "The deceased",
-    "written_as": null,
+    "written_as": "Deborah Licht née Kainer",
     "linked_inline": true
    }
   ],
@@ -94563,7 +94563,7 @@
    {
     "role": "Bride",
     "person_id": "P1808",
-    "display": "Gittla Kainer",
+    "display": "Gittla Plattner",
     "role_label": "Bride",
     "written_as": "Gittla Plattner née Kainer",
     "linked_inline": true
@@ -96534,9 +96534,9 @@
    {
     "role": "Bride",
     "person_id": "P0616",
-    "display": "Matla Zehngutt",
+    "display": "Matla Zehnwirth",
     "role_label": "Bride",
-    "written_as": "Matla Zehnwirth",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -100188,9 +100188,9 @@
    {
     "role": "GM",
     "person_id": "P1808",
-    "display": "Gittla Kainer",
+    "display": "Gittla Plattner",
     "role_label": "Groom's mother",
-    "written_as": null,
+    "written_as": "Gittla née Kainer",
     "linked_inline": true
    },
    {
@@ -100292,9 +100292,9 @@
    {
     "role": "GM",
     "person_id": "P1808",
-    "display": "Gittla Kainer",
+    "display": "Gittla Plattner",
     "role_label": "Groom's mother",
-    "written_as": null,
+    "written_as": "Gittla née Kainer",
     "linked_inline": true
    },
    {
@@ -102725,9 +102725,9 @@
    {
     "role": "BM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -103456,9 +103456,9 @@
    {
     "role": "GM",
     "person_id": "P1808",
-    "display": "Gittla Kainer",
+    "display": "Gittla Plattner",
     "role_label": "Groom's mother",
-    "written_as": null,
+    "written_as": "Gittla née Kainer",
     "linked_inline": true
    },
    {
@@ -104833,9 +104833,9 @@
    {
     "role": "Bride",
     "person_id": "P1275",
-    "display": "Hinde Walter",
+    "display": "Hinde Steinhorn",
     "role_label": "Bride",
-    "written_as": "Hinde Steinhorn",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -104901,7 +104901,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P1276.html\" data-pid=\"P1276\">Abraham Feig</a>, cattle dealer born in Laskówka Odporyszewska, residing in Błażkowa, son of Mordko Feig and <a href=\"../person/P2181.html\" data-pid=\"P2181\">Amalia Dekel</a>, industrialists residing in Tarnów",
-   "Bride (prose)": "<a href=\"../person/P1275.html\" data-pid=\"P1275\">Hinde Steinhorn</a>, born in Błaszkowa, daughter of Jozef Steinhorn and Chaja <a href=\"../person/P0224.html\" data-pid=\"P0224\">Liba</a>, called <a href=\"../person/P0224.html\" data-pid=\"P0224\">Liba</a>, Walter, industrialists in Błaszkowa",
+   "Bride (prose)": "<a href=\"../person/P1275.html\" data-pid=\"P1275\">Hinde Steinhorn</a>, born in Błaszkowa, daughter of Jozef Steinhorn and Chaja <a href=\"../person/P0224.html\" data-pid=\"P0224\">Liba</a>, called <a href=\"../person/P0224.html\" data-pid=\"P0224\">Liba</a>, <a href=\"../person/P0224.html\" data-pid=\"P0224\">Walter</a>, industrialists in Błaszkowa",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0322.html\" data-pid=\"P0322\">Mendel Dintenfass</a>, leaseholder of the manor farm in Błażkowa. <a href=\"../person/P1008.html\" data-pid=\"P1008\">Salamon Freiberger</a>, industrialist in Dzbany[?], witness.",
    "Notes": "groom born 5 oct 1878 and bride 7 dec 1887. Remarks: Birth certificate for the groom of the registry district in Dąbrowa, vol. IV, p. 117, no. 133; certificate of the Imperial-Royal District Office (Starostwo) in Tarnów of 16 Feb 1905, ref. no. 58, of release from military obligation. For the bride, this registry&#x27;s own book attests, vol. II, p. 105, no. 30; the banns announced; the notice of the rabbinate."
@@ -105709,9 +105709,9 @@
    {
     "role": "GM",
     "person_id": "P0616",
-    "display": "Matla Zehngutt",
+    "display": "Matla Zehnwirth",
     "role_label": "Groom's mother",
-    "written_as": "Matla née Zehnwirth",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -107169,9 +107169,9 @@
    {
     "role": "Bride",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Miriam Mass",
     "linked_inline": false
    },
    {
@@ -107839,9 +107839,9 @@
    {
     "role": "BM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": false
    },
    {
@@ -113792,9 +113792,9 @@
    {
     "role": "BM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -113900,9 +113900,9 @@
    {
     "role": "BM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -114087,9 +114087,9 @@
    {
     "role": "Bride",
     "person_id": "P2395",
-    "display": "Freida Lieber",
+    "display": "Freida March",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Freida Lieber",
     "linked_inline": true
    },
    {
@@ -116027,9 +116027,9 @@
    {
     "role": "GM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Groom's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -116464,9 +116464,9 @@
    {
     "role": "GM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Groom's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -116589,9 +116589,9 @@
    {
     "role": "BM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -117419,9 +117419,9 @@
    {
     "role": "BM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -117937,9 +117937,9 @@
    {
     "role": "Bride",
     "person_id": "P1307",
-    "display": "Esther Necha Schonbach",
+    "display": "Esther Necha Finder",
     "role_label": "Bride",
-    "written_as": "Necha Finder",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -118078,9 +118078,9 @@
    {
     "role": "BM",
     "person_id": "P0179",
-    "display": "Deborah Kainer",
+    "display": "Deborah Plattner",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Deborah née Kainer",
     "linked_inline": true
    },
    {
@@ -118699,7 +118699,7 @@
    {
     "role": "Bride",
     "person_id": "P1435",
-    "display": "Hence Mass",
+    "display": "Hence Panzer",
     "role_label": "Bride",
     "written_as": "Hence Maas",
     "linked_inline": false
@@ -118723,7 +118723,7 @@
    {
     "role": "BM",
     "person_id": "P2219",
-    "display": "Miriam Mass",
+    "display": "Miriam Schlein",
     "role_label": "Bride's mother",
     "written_as": "Miriam Maas",
     "linked_inline": false
@@ -119212,9 +119212,9 @@
    {
     "role": "Bride",
     "person_id": "P1392",
-    "display": "Shayndel Scheinbach",
+    "display": "Shayndel Finder",
     "role_label": "Bride",
-    "written_as": "Shayndel Finder",
+    "written_as": null,
     "linked_inline": false
    },
    {

@@ -3138,13 +3138,13 @@
   {
    "id": "P0179",
    "type": "person",
-   "display": "Deborah Kainer, married name Licht",
-   "other_names": "Deborah née Kainer; Deborah Licht née Kainer; Kainer; Licht",
+   "display": "Deborah Plattner, married name Licht",
+   "other_names": "Deborah née Kainer; Deborah Licht née Kainer; Kainer; Licht; Plattner",
    "subtitle": "1859–1927; daughter of Reuben Plattner",
    "legal_given": "Deborah",
    "common_given": "Deborah",
    "legal_surname": "Kainer",
-   "common_surname": "Kainer",
+   "common_surname": "Plattner",
    "maiden_surname": "",
    "father_name": "Reuben Plattner",
    "mother_name": "Gela Plattner née Kainer",
@@ -3152,7 +3152,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "379000 569000 379000 569000 600000 843000 853000"
+   "phonetic": "379000 569000 783690 379000 569000 600000 783690 843000 853000"
   },
   {
    "id": "P0180",
@@ -10833,13 +10833,13 @@
   {
    "id": "P0616",
    "type": "person",
-   "display": "Matla Zehngutt, married name Wolkenfeld",
-   "other_names": "Matla née Zehnwirth; Matla Zehnwirth; Wolkenfeld; Zehngutt; Zehnwirth",
+   "display": "Matla Zehnwirth, married name Wolkenfeld",
+   "other_names": "Matla née Zehnwirth; Matla Zehnwirth; Wolkenfeld; Zehnwirth",
    "subtitle": "daughter of Leser Zehnwirth",
    "legal_given": "Matla",
    "common_given": "Matla",
    "legal_surname": "Zehnwirth",
-   "common_surname": "Zehngutt",
+   "common_surname": "Zehnwirth",
    "maiden_surname": "",
    "father_name": "Leiser Zehnwirth",
    "mother_name": "Itta Zehnwirth née Zehngutt",
@@ -10847,7 +10847,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "465300 467930 638000 465300 467930 600000 638000 785678"
+   "phonetic": "467930 638000 467930 600000 638000 785678"
   },
   {
    "id": "P0617",
@@ -22879,13 +22879,13 @@
   {
    "id": "P1275",
    "type": "person",
-   "display": "Hinde Walter, married name Feig",
-   "other_names": "Hinde née Steinhorn; Hinde Steinhorn; Feik; Steinhorn; Walter",
+   "display": "Hinde Steinhorn, married name Feig",
+   "other_names": "Hinde née Steinhorn; Hinde Steinhorn; Feik; Steinhorn",
    "subtitle": "born 1887; daughter of Joseph Steinhorn",
    "legal_given": "Hinde",
    "common_given": "Hinde",
    "legal_surname": "Steinhorn",
-   "common_surname": "Walter",
+   "common_surname": "Steinhorn",
    "maiden_surname": "",
    "father_name": "Joseph Steinhorn",
    "mother_name": "Chaya Steinhorn née Walter",
@@ -22893,7 +22893,7 @@
    "residences": "Blaszkowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "265960 563000 783900 265960 563000 600000 750000 783900"
+   "phonetic": "265960 563000 265960 563000 600000 750000"
   },
   {
    "id": "P1276",
@@ -22917,13 +22917,13 @@
   {
    "id": "P1277",
    "type": "person",
-   "display": "Rivka Steinhorn",
-   "other_names": "Rivka (no surname written; child's birth entry); Feik; Steinhorn; Walter",
+   "display": "Rivka Feig",
+   "other_names": "Rivka (no surname written; child's birth entry); Feig; Feik; Walter",
    "subtitle": "born 1911; daughter of Abraham Feig",
    "legal_given": "Rivka",
    "common_given": "Rivka",
    "legal_surname": "Walter",
-   "common_surname": "Steinhorn",
+   "common_surname": "Feig",
    "maiden_surname": "",
    "father_name": "Abraham Feig",
    "mother_name": "Hinde Steinhorn née Walter",
@@ -22931,7 +22931,7 @@
    "residences": "Blaszkowa (house 329)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "265960 783900 975000 063900 265960 483400 496000 583400 600000 750000 783900 793000 793600 975000"
+   "phonetic": "750000 783900 975000 063900 483400 496000 583400 600000 750000 783900 793000 793600 975000"
   },
   {
    "id": "P1278",
@@ -23430,13 +23430,13 @@
   {
    "id": "P1307",
    "type": "person",
-   "display": "Esther Necha Schonbach, married name Springer",
+   "display": "Esther Necha Finder, married name Springer",
    "other_names": "Esther Necha (no surname written; child's birth entry); Necha Finder; Finder; Schonbach",
    "subtitle": "born 1911; daughter of Leib Finder",
    "legal_given": "Esther Necha",
    "common_given": "Esther Necha",
    "legal_surname": "Schonbach",
-   "common_surname": "Schonbach",
+   "common_surname": "Finder",
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "Amalia Schonbach",
@@ -23444,7 +23444,7 @@
    "residences": "Opacionka (house 11)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "043590 467400 467500 640000 650000 043590 063900 467400 467500 483400 496000 583400 600000 640000 650000 763900 793000 793600"
+   "phonetic": "043590 467400 467500 640000 650000 763900 043590 063900 467400 467500 483400 496000 583400 600000 640000 650000 763900 793000 793600"
   },
   {
    "id": "P1308",
@@ -24874,13 +24874,13 @@
   {
    "id": "P1392",
    "type": "person",
-   "display": "Shayndel Scheinbach, married name Szyjowicz",
+   "display": "Shayndel Finder, married name Szyjowicz",
    "other_names": "Shayndel (no surname written; child's birth entry); Shayndel Finder; Finder; Scheinbach",
    "subtitle": "born 1913; daughter of Leib Finder",
    "legal_given": "Shayndel",
    "common_given": "Shayndel",
    "legal_surname": "Scheinbach",
-   "common_surname": "Scheinbach",
+   "common_surname": "Finder",
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "Malka Schonbach",
@@ -24888,7 +24888,7 @@
    "residences": "Brzostek (house 212)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "463800 467400 467500 063900 463800 467400 467500 483400 496000 583400 600000 763900 793000 793600"
+   "phonetic": "463800 467400 467500 763900 063900 463800 467400 467500 483400 496000 583400 600000 763900 793000 793600"
   },
   {
    "id": "P1393",
@@ -25691,13 +25691,13 @@
   {
    "id": "P1435",
    "type": "person",
-   "display": "Hence Mass, married name Anker",
-   "other_names": "Hencie (no surname written; child's birth entry); Hence Maas; Maas; Mass",
+   "display": "Hence Panzer, married name Anker",
+   "other_names": "Hencie (no surname written; child's birth entry); Hence Maas; Maas; Mass; Panzer",
    "subtitle": "born 1914; daughter of Chaim Panzer",
    "legal_given": "Hence",
    "common_given": "Hence",
    "legal_surname": "Mass",
-   "common_surname": "Mass",
+   "common_surname": "Panzer",
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "Miriam Mass",
@@ -25705,7 +25705,7 @@
    "residences": "Brzostek (house 65)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "564000 565000 640000 063900 483400 496000 564000 565000 583400 600000 640000 793000 793600"
+   "phonetic": "564000 565000 640000 764900 063900 483400 496000 564000 565000 583400 600000 640000 764900 793000 793600"
   },
   {
    "id": "P1436",
@@ -29073,13 +29073,13 @@
   {
    "id": "P1642",
    "type": "person",
-   "display": "Mirla Brandsdorfer",
+   "display": "Mirla Glassner",
    "other_names": "Golda Mirla (no surname written; child's birth entry); Mirla Brandsdorfer; Brandsdorfer; Glassner",
    "subtitle": "1899–1900; daughter of Aba Glassner",
    "legal_given": "Golda Mirla",
    "common_given": "Mirla",
    "legal_surname": "Brandsdorfer",
-   "common_surname": "Brandsdorfer",
+   "common_surname": "Glassner",
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "Leah Brandsdorfer",
@@ -29087,7 +29087,7 @@
    "residences": "Blaszkowa (house 149)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "583000 698000 796343 063900 483400 496000 583000 583400 584690 600000 698000 793000 793600 796343"
+   "phonetic": "583000 584690 698000 796343 063900 483400 496000 583000 583400 584690 600000 698000 793000 793600 796343"
   },
   {
    "id": "P1645",
@@ -31125,13 +31125,13 @@
   {
    "id": "P1808",
    "type": "person",
-   "display": "Gittla Kainer, married name Birnbaum",
+   "display": "Gittla Plattner, married name Birnbaum",
    "other_names": "Gittla Plattner née Kainer; Gittla née Kainer; Birnbaum; Kainer; Plattner",
    "subtitle": "daughter of Reuben Plattner",
    "legal_given": "Gittla",
    "common_given": "Gittla",
    "legal_surname": "Kainer",
-   "common_surname": "Kainer",
+   "common_surname": "Plattner",
    "maiden_surname": "",
    "father_name": "Reuben Plattner",
    "mother_name": "Gela Plattner née Kainer",
@@ -31139,7 +31139,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "538000 569000 538000 569000 600000 783690 796760"
+   "phonetic": "538000 569000 783690 538000 569000 600000 783690 796760"
   },
   {
    "id": "P1809",
@@ -37642,13 +37642,13 @@
   {
    "id": "P2219",
    "type": "person",
-   "display": "Miriam Mass, married name Panzer",
+   "display": "Miriam Schlein, married name Panzer",
    "other_names": "Marianna Mass; Miriam née Schlein; Miriam Mass; Miriam Panzer; Miriam née Mass; Miriam Maas; Maas; Mass; Orner; Panzer; Schlein",
    "subtitle": "daughter of Isaac Schlein",
    "legal_given": "Miriam",
    "common_given": "Miriam",
    "legal_surname": "Mass",
-   "common_surname": "Mass",
+   "common_surname": "Schlein",
    "maiden_surname": "",
    "father_name": "Isaac Schlein",
    "mother_name": "Beila Leah Mass",
@@ -37656,7 +37656,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "640000 696000 096900 486000 600000 640000 696000 764900"
+   "phonetic": "486000 640000 696000 096900 486000 600000 640000 696000 764900"
   },
   {
    "id": "P2222",
@@ -40682,13 +40682,13 @@
   {
    "id": "P2395",
    "type": "person",
-   "display": "Freida Lieber, married name Parnes",
-   "other_names": "Freida Lieber; Lieber",
+   "display": "Freida March, married name Parnes",
+   "other_names": "Freida Lieber; Lieber; March",
    "subtitle": "daughter of Hersch March",
    "legal_given": "Freida",
    "common_given": "Freida",
    "legal_surname": "Lieber",
-   "common_surname": "Lieber",
+   "common_surname": "March",
    "maiden_surname": "",
    "father_name": "Hersch March",
    "mother_name": "Malka Lieber",
@@ -40696,7 +40696,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "793000 879000 793000 879000"
+   "phonetic": "694000 695000 793000 879000 694000 695000 793000 879000"
   },
   {
    "id": "P2396",
@@ -45433,7 +45433,7 @@
    "number": "16",
    "summary": "Birth 16/1894: Solomon",
    "prose": "Solomon Male Legitimate 1 Jun 1894 Brzostek, house 9 8 Jun 1894 Brzostek, house 149 Lazar Licht, cloth merchant in Brzostek Deborah, daughter of Reuben Plattner, stallholder of clothgoods in Brzostek, and Gela nee Keiner Jochene Nechemje, cloth merchant in Brzostek, witness. Samuel Bieder, stallholder of spice stall in Brzostek, witness. Marcus Kleinman Maria Przybyło, midwife in Brzostek marriage recorded in Brzostek 25 Oct 1880",
-   "people": "Solomon Licht; Lazar Licht; Deborah Kainer; Reuben Plattner; Gela Kajner, married name Kainer; Jochene Nechemje; Samuel Bieder; Marcus Kleinman",
+   "people": "Solomon Licht; Lazar Licht; Deborah Plattner; Reuben Plattner; Gela Kajner, married name Kainer; Jochene Nechemje; Samuel Bieder; Marcus Kleinman",
    "phonetic": "146000 156000 379000 456000 460000 468000 486000 569000 580000 586600 600000 646100 646400 656100 656400 693000 694000 695400 739000 783690 843000 849000 853000 976000"
   },
   {
@@ -46335,7 +46335,7 @@
    "number": "17",
    "summary": "Birth 17/1896: Ephraim",
    "prose": "Ephraim Male Legitimate 22 Apr 1896 Brzostek, house 9 29 Apr 1896 Brzostek, house 149 Lazar Licht, cloth merchant in Brzostek Deborah, daughter of Reuben Plattner, stallholder of clothgoods in Brzostek, and Gela nee Kajner Hersch Schlenger, shopkeeper of colonial goods in Brzostek, witness. Joseph Bergman, baker in Brzostek, witness. Marcus Kleinman Marriage performed in Brzostek 25 Oct 1880",
-   "people": "Ephraim Licht; Lazar Licht; Deborah Kainer; Reuben Plattner; Gela Kajner, married name Kainer; Hersch Schlenger; Joseph Bergman; Marcus Kleinman",
+   "people": "Ephraim Licht; Lazar Licht; Deborah Plattner; Reuben Plattner; Gela Kajner, married name Kainer; Hersch Schlenger; Joseph Bergman; Marcus Kleinman",
    "phonetic": "079600 147000 379000 470000 486590 540000 545000 569000 580000 586600 594000 594500 600000 693000 694000 695400 783690 795600 843000 849000 853000 976000"
   },
   {
@@ -47391,7 +47391,7 @@
    "number": "2",
    "summary": "Birth 2/1899: Simon",
    "prose": "Simon Male Illegitimate 11 Jan 1899 Brzostek, house 162 18 Jan 1899 Brzostek, house 149 Meilech Wolkenfeld unemployed in Brzostek Matla, daughter of Leser Zehnwirth in Bobowa and Ettla nee Zehngutt Nechemje Storch, innkeepter in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Acknowledges paternity: Meilech Wolkenfeld [signature]. Markus Kleinman [signature], witness.",
-   "people": "Simon Wolkenfeld; Meilech Wolkenfeld; Matla Zehngutt; Leser Zehnwirth; Itta Zehngutt; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
+   "people": "Simon Wolkenfeld; Meilech Wolkenfeld; Matla Zehnwirth; Leser Zehnwirth; Itta Zehngutt; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
    "phonetic": "030000 146000 156000 294000 295000 456000 460000 465300 467930 586600 638000 646100 646400 656100 656400 684000 685000 694000 695400 785678 849000"
   },
   {
@@ -47424,7 +47424,7 @@
    "number": "5",
    "summary": "Birth 5/1899: Rosa",
    "prose": "Rosa Female Legitimate 18 Jan 1899 Brzostek, house 9 21 Jan 1899 Brzostek, house 149 Lazar Licht, cloth merchant in Brzostek Deborah, daughter of Reuben Plattner, stallholder of clothgoods in Brzostek, and Gela nee Kliner Nechemje Storch, innkeepter in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 25 Oct 1880",
-   "people": "Rosa Licht; Lazar Licht; Deborah Kainer; Reuben Plattner; Gela Kajner, married name Kainer; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
+   "people": "Rosa Licht; Lazar Licht; Deborah Plattner; Reuben Plattner; Gela Kajner, married name Kainer; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
    "phonetic": "146000 156000 294000 295000 379000 456000 460000 569000 580000 586600 600000 646100 646400 656100 656400 693000 694000 695400 783690 843000 849000 853000 940000 976000"
   },
   {
@@ -47435,7 +47435,7 @@
    "number": "6",
    "summary": "Birth 6/1899: Golda Mirla",
    "prose": "Golda Mirla Female Illegitimate 1 Feb 1899 Blaszkowa, house 149 2 Feb 1899 Brzostek, house 149 Aba Glassner, owner of a mixed good shop in Blaszkowa Leah, daughter of Treitel Brandsdorfer, industrialist in Brzostek, and Mirla nee Weissbard Nechemje Storch, innkeepter in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Acknowledges paternity: Abe Glasner [signature]. Markus Kleinman [signature], witness.",
-   "people": "Mirla Brandsdorfer; Aba Glassner; Leah Brandsdorfer; Treitel Brandsdorfer; Mirla Weissbard; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
+   "people": "Mirla Glassner; Aba Glassner; Leah Brandsdorfer; Treitel Brandsdorfer; Mirla Weissbard; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
    "phonetic": "070000 146000 156000 294000 295000 393800 456000 460000 584690 586600 646100 646400 656100 656400 694000 695400 698000 747930 796343 800000"
   },
   {
@@ -48172,7 +48172,7 @@
    "number": "31",
    "summary": "Birth 31/1900: Esther",
    "prose": "Esther Female Legitimate 1900 Brzostek 1900 Lazar Licht Deborah nee Kainer Pursuant to the instruction of the Governor's Office in Lwow dated 22 April 1921, file no. 50179, and of the District Office in Pilzno dated 20 April 1921, file no. 6348/4, the following is additionally entered: Esther, the legitimate daughter of Lazar Licht and Deborah nee Kainer, born in Brzostek in the year 1900. The marriage record of this child's parents is recorded in the Israelite metrical district in Brzostek for the year 1880, Volume II, page 9, entry no. 2. Brzostek 9May21 \"Wilhelm Zahler\", keeper of the Israelite vital records. Beside the entry: I certify that the extract agrees with the original register. Pilzno, 14 Nov[?] 1938. Head of the District Office (Starostwo Powiatowe) [signature] Skurcz[?]; stamp: Starostwo, Pilzno.",
-   "people": "Esther Licht; Lazar Licht; Deborah Kainer; Reuben Plattner; Gela Kajner, married name Kainer",
+   "people": "Esther Licht; Lazar Licht; Deborah Plattner; Reuben Plattner; Gela Kajner, married name Kainer",
    "phonetic": "043590 379000 569000 580000 600000 693000 783690 843000 849000 853000 976000"
   },
   {
@@ -50339,8 +50339,8 @@
    "number": "31",
    "summary": "Birth 31/1907: Reuben",
    "prose": "Reuben Male Legitimate 12 September 1907 Brzostek, house 9 19 September 1907 Brzostek, house 9 Mordechi Heschel Wolf, called Heschel, without occupation in Brzostek Pessel, daughter of Lazar Licht, owner of cloth goods trade in Brzostek, and Deborah nee Plattner Elias Bergman, owner of cloth goods stall in Brzostek, witness. Chaskel Goldberg, innkeeper in Brzostek Marcus Kleinman, circumciser Josefa Lisowa Marriage in Brzostek 30 June 1907. Vol II p.151/2 entry 10",
-   "people": "Reuben Wolf; Hersch Wolf; Pessel Licht; Lazar Licht; Deborah Kainer; Elias Bergman; Chaskel Goldberg; Marcus Kleinman",
-   "phonetic": "084000 379000 458000 540000 545000 545800 569000 583795 586600 594000 594500 694000 695400 748000 787000 795600 843000 849000 853000 976000"
+   "people": "Reuben Wolf; Hersch Wolf; Pessel Licht; Lazar Licht; Deborah Plattner; Elias Bergman; Chaskel Goldberg; Marcus Kleinman",
+   "phonetic": "084000 379000 458000 540000 545000 545800 583795 586600 594000 594500 694000 695400 748000 783690 787000 795600 843000 849000 853000 976000"
   },
   {
    "id": "b-1907-32",
@@ -50944,8 +50944,8 @@
    "number": "16",
    "summary": "Birth 16/1909: Nissen Leib",
    "prose": "Nissen Leib Male Legitimate 5 June 1909 Brzostek, house 93 12 June 1909 Brzostek, house 93 Mordechi Heschel Wolf, called Heschel, industrialist in Brzostek Pessel, daughter of Lazar Licht, owner of a textile goods shop in Brzostek, and Deborah nee Plattner Nechemje Storch, innkeeper in Brzostek, witness. Abraham Plattner, dealer Marcus Kleinman Josefa Lisowa Marriage concluded in Brzostek on 30 Jun 1907.",
-   "people": "Nissen Leib Wolf; Hersch Wolf; Pessel Licht; Lazar Licht; Deborah Kainer; Nechemje Storch; Abraham Plattner; Marcus Kleinman",
-   "phonetic": "079560 294000 295000 379000 540000 545000 569000 586600 594000 594500 646000 646100 646400 656100 656400 694000 695400 748000 783690 787000 843000 849000 853000 870000"
+   "people": "Nissen Leib Wolf; Hersch Wolf; Pessel Licht; Lazar Licht; Deborah Plattner; Nechemje Storch; Abraham Plattner; Marcus Kleinman",
+   "phonetic": "079560 294000 295000 379000 540000 545000 586600 594000 594500 646000 646100 646400 656100 656400 694000 695400 748000 783690 787000 843000 849000 853000 870000"
   },
   {
    "id": "b-1909-17",
@@ -51318,8 +51318,8 @@
    "number": "17",
    "summary": "Birth 17/1910: Esther",
    "prose": "Esther Female Illegitimate 15 July 1910 Brzostek, house 93 16 July 1910 Brzostek, house 149 Hersch Unger, without occupation in Brzostek Gittla, daughter of Lazar Licht, owner of cloth business in Brzostek, and Deborah nee Plattner Pinkus Kurz, industrialist in Brzostek, witness. Menashe Schlanger, owner of iron business in Brzostek, witness Marcus Kleinman, name-giver Josefa Lisowa Hersch Unger acknowledges paternity. Pinkus Kurz, industrialist in Brzostek, witness.",
-   "people": "Esther Unger; Hersch Unger; Gittla Licht, married name Unger; Lazar Licht; Deborah Kainer; Pinkus Kurz; Menashe Schlenger; Marcus Kleinman",
-   "phonetic": "043590 065900 379000 486590 538000 540000 545000 569000 586600 594000 594500 600000 640000 693000 694000 695400 765400 843000 849000 853000"
+   "people": "Esther Unger; Hersch Unger; Gittla Licht, married name Unger; Lazar Licht; Deborah Plattner; Pinkus Kurz; Menashe Schlenger; Marcus Kleinman",
+   "phonetic": "043590 065900 379000 486590 538000 540000 545000 586600 594000 594500 600000 640000 693000 694000 695400 765400 783690 843000 849000 853000"
   },
   {
    "id": "b-1910-18",
@@ -51483,7 +51483,7 @@
    "number": "5",
    "summary": "Birth 5/1911: Rivka",
    "prose": "Rivka Female Illegitimate 15 March 1911 Blaszkowa, house 329 18 March 1911 Brzostek, house 149 Aba Feik Hinde, daughter of Joseph Steinhorn, industrialist in Blaszkowa, and Chaya nee Walter J Feigenbaum, egg dealer in Brzostek, witness. Isaac Rowitz, owner of a mixed goods stall in Nawsie Brzosteckie, witness. Marcus Kleinman, name-giver in Brzostek Aba Feik acknowledges paternity. \"Chaskel Goldberg\", witness.",
-   "people": "Rivka Steinhorn; Abraham Feig; Hinde Walter; Joseph Steinhorn; Liba Walter; Jonas Feigenbaum; Isaac Rowitz; Marcus Kleinman",
+   "people": "Rivka Feig; Abraham Feig; Hinde Steinhorn; Joseph Steinhorn; Liba Walter; Jonas Feigenbaum; Isaac Rowitz; Marcus Kleinman",
    "phonetic": "040000 045000 079560 147000 164000 265960 464000 470000 563000 586600 694000 695400 750000 756760 783900 870000 974000 975000"
   },
   {
@@ -51637,8 +51637,8 @@
    "number": "19",
    "summary": "Birth 19/1911: Esther Necha",
    "prose": "Esther Necha Female Illegitimate 16 Sep 1911 Brzostek, house 11 24 Sep 1911 Brzostek, house 149 Amalia, daughter of Mendel Schonbach, servant of the synagogue in Sanok, and Sarah nee Traum Hersch Bronstein, butcher in Brzostek, witness. Wolf Kornfeld, industrialist in Brzostek, witness. Marcus Kleinman, name-giver in Brzostek Josefa Lisowa, midwife in Brzostek",
-   "people": "Esther Necha Schonbach; Amalia Schonbach; Mendel Schonbach; Sarah Traum; Hersch Braunheim; Wolf Kornfeld; Marcus Kleinman",
-   "phonetic": "043590 068000 396000 467400 467500 490000 540000 545000 586600 594000 594500 596783 638000 640000 650000 694000 695400 787000 796560"
+   "people": "Esther Necha Finder; Amalia Schonbach; Mendel Schonbach; Sarah Traum; Hersch Braunheim; Wolf Kornfeld; Marcus Kleinman",
+   "phonetic": "043590 068000 396000 467400 467500 490000 540000 545000 586600 594000 594500 596783 638000 640000 650000 694000 695400 763900 787000 796560"
   },
   {
    "id": "b-1911-20",
@@ -51725,8 +51725,8 @@
    "number": "27",
    "summary": "Birth 27/1911: Mayer",
    "prose": "Mayer Male Illegitimate 1911 Chaim Panzer Marianna Mass Marginal note. Illegitimate birth. Father acknowledges paternity. Legitimized 4 Mar 1917, father Chaim Panzer married the mother, marriage register Volume III, page 8 1/2, item 1",
-   "people": "Mayer Panzer; Chaim Panzer; Miriam Mass",
-   "phonetic": "460000 560000 619000 640000 696000 764900"
+   "people": "Mayer Panzer; Chaim Panzer; Miriam Schlein",
+   "phonetic": "460000 486000 560000 619000 696000 764900"
   },
   {
    "id": "b-1912-1",
@@ -51956,7 +51956,7 @@
    "number": "21",
    "summary": "Birth 21/1912: Moses",
    "prose": "Moses Male Illegitimate 8 Oct 1912 Brzostek, house 65 15 Oct 1912 Brzostek, house 65 Chaim Orner, who used the last name Panzer, butcher in Brzostek Miriam, daughter of Isaac Schlein, owner of mixed goods stall in Sokolow, and his wife Beila Leah nee Mass Israel Kornreich, shoemaker in Brzostek, witness. Moses Panzer, butcher in Brzostek, witness. Marcus Kleinman, circumciser in Brzostek Josefa Lisowa, midwife in Brzostek Paternity acknowledged by Chaim Panzer. Witness Israel Kornreich.",
-   "people": "Moses Panzer; Chaim Panzer; Miriam Mass; Isaac Schlein; Beila Leah Mass; Israel Kornreich; Moses Panzer; Marcus Kleinman",
+   "people": "Moses Panzer; Chaim Panzer; Miriam Schlein; Isaac Schlein; Beila Leah Mass; Israel Kornreich; Moses Panzer; Marcus Kleinman",
    "phonetic": "040000 045000 049800 460000 486000 560000 586600 596940 596950 640000 694000 695400 696000 764900 780000 800000"
   },
   {
@@ -52154,8 +52154,8 @@
    "number": "6",
    "summary": "Birth 6/1913: Shayndel",
    "prose": "Shayndel Female Illegitimate 6 May 1913 Brzostek, house 212 10 May 1913 Brzostek, house 52 Malie Scheinbach, without occupation in Brzostek, daughter of Mendel Scheinbach, manual laborer from Posada Olchowska, and Sarah nee Traum Jonas Feigenbaum, dealer in Brzostek, witness. Leib Faust, leather dealer in Brzostek, witness. Marcus Kleinman, name-giver in Brzostek Josefa Lisowa, midwife in Brzostek",
-   "people": "Shayndel Scheinbach; Amalia Schonbach; Mendel Schonbach; Sarah Traum; Jonas Feigenbaum; Leib Faust; Marcus Kleinman",
-   "phonetic": "068000 164000 396000 463800 464000 467400 467500 490000 586600 638000 694000 695400 743000 756760 870000"
+   "people": "Shayndel Finder; Amalia Schonbach; Mendel Schonbach; Sarah Traum; Jonas Feigenbaum; Leib Faust; Marcus Kleinman",
+   "phonetic": "068000 164000 396000 463800 464000 467400 467500 490000 586600 638000 694000 695400 743000 756760 763900 870000"
   },
   {
    "id": "b-1913-7",
@@ -52462,8 +52462,8 @@
    "number": "9",
    "summary": "Birth 9/1914: Hencie",
    "prose": "Hencie Female Illegitimate 24 Mar 1914 Brzostek, house 65 28 Mar 1914 Brzostek, house 65 Miriam, illegitimate daughter of Beila Leah Mass, unemployed in Sokolow Kelman Storch, merchant in Brzostek. Hersch Sperber, glazier in Brzostek, witness. Marcus Kleinman, name-giver Josefa Lisowa",
-   "people": "Hence Mass; Chaim Panzer; Miriam Mass; Beila Leah Mass; Kelman Storch; Hersch Sperber; Marcus Kleinman",
-   "phonetic": "294000 295000 460000 479790 540000 545000 560000 564000 565000 586000 586600 594000 594500 640000 694000 695400 696000 764900 780000 800000"
+   "people": "Hence Panzer; Chaim Panzer; Miriam Schlein; Beila Leah Mass; Kelman Storch; Hersch Sperber; Marcus Kleinman",
+   "phonetic": "294000 295000 460000 479790 486000 540000 545000 560000 564000 565000 586000 586600 594000 594500 640000 694000 695400 696000 764900 780000 800000"
   },
   {
    "id": "b-1914-10",
@@ -52803,7 +52803,7 @@
    "number": "4",
    "summary": "Birth 4/1916: Aba",
    "prose": "Aba Male Illegitimate 2 April 1916 Brzostek, house 8 9 April 1916 Brzostek, house 8 None Miriam, illegitimate daughter of Beila Leah Mass, without profession, in Brzostek Solomon Karpf, timber dealer in Brzostek, witness. Leib Orner, merchant in Brzostek, witness. Marcus Kleinman Josefa Lisowa",
-   "people": "Aba Panzer; Chaim Panzer; Miriam Mass; Beila Leah Mass; Solomon Karpf; Leib Orner; Marcus Kleinman",
+   "people": "Aba Panzer; Chaim Panzer; Miriam Schlein; Beila Leah Mass; Solomon Karpf; Leib Orner; Marcus Kleinman",
    "phonetic": "070000 096900 460000 486000 560000 586600 597000 640000 694000 695400 696000 764900 780000 800000 870000"
   },
   {
@@ -53122,8 +53122,8 @@
    "number": "12",
    "summary": "Birth 12/1917: Hersch",
    "prose": "Hersch Male Legitimate 26 June 1917 Brzostek 3 July 1917 Brzostek Chaim Panzer, butcher in Brzostek Miriam, illegitimate daughter of Beila Leah Mass, called Leah, in Sokolow Hersch March, cantor in Brzostek, witness. Hersch Bieder, schames in Brzostek, witness. Marcus Kleinman Josefa Lisowa Marriage performed in Brzostek 4 Mar 1917. Child died 18 Jul 1917",
-   "people": "Hersch Panzer; Chaim Panzer; Miriam Mass; Beila Leah Mass; Hersch March; Hersch Bieder; Marcus Kleinman",
-   "phonetic": "460000 540000 545000 560000 586600 594000 594500 640000 694000 695000 695400 696000 739000 764900 780000 800000"
+   "people": "Hersch Panzer; Chaim Panzer; Miriam Schlein; Beila Leah Mass; Hersch March; Hersch Bieder; Marcus Kleinman",
+   "phonetic": "460000 486000 540000 545000 560000 586600 594000 594500 640000 694000 695000 695400 696000 739000 764900 780000 800000"
   },
   {
    "id": "b-1917-13",
@@ -53133,8 +53133,8 @@
    "number": "13",
    "summary": "Birth 13/1917: Marcus",
    "prose": "Marcus Male Legitimate 26 June 1917 Brzostek 3 July 1917 Brzostek Chaim Panzer, butcher in Brzostek Miriam, illegitimate daughter of Beila Leah Mass, called Leah, in Sokolow Hersch Bieder, schames in Brzostek, witness. Hersch March, cantor in Brzostek, witness. Marcus Kleinman Josefa Lisowa Marriage performed in Brzostek 4 Mar 1917. Child died 23 Jul 1917",
-   "people": "Marcus Panzer; Chaim Panzer; Miriam Mass; Beila Leah Mass; Hersch Bieder; Hersch March; Marcus Kleinman",
-   "phonetic": "460000 540000 545000 560000 586600 594000 594500 640000 694000 695000 695400 696000 739000 764900 780000 800000"
+   "people": "Marcus Panzer; Chaim Panzer; Miriam Schlein; Beila Leah Mass; Hersch Bieder; Hersch March; Marcus Kleinman",
+   "phonetic": "460000 486000 540000 545000 560000 586600 594000 594500 640000 694000 695000 695400 696000 739000 764900 780000 800000"
   },
   {
    "id": "b-1917-14",
@@ -53989,10 +53989,10 @@
    "book": "death",
    "year": 1900,
    "number": "4",
-   "summary": "Death 4/1900: Mirla Brandsdorfer",
+   "summary": "Death 4/1900: Mirla Glassner",
    "prose": "8 Mar 1900 1900 Blaszkowa 10 Mar 1900 Brzostek Golda Mirla Brandsdorfer, called Mirla, daughter of Leah Brandsdorfer, without employment in Blaszkowa Blaszkowa, house 149 Female 1 year 1 month Single Throat infection Throat infection daughter of",
-   "people": "Mirla Brandsdorfer; Leah Brandsdorfer",
-   "phonetic": "698000 796343 800000"
+   "people": "Mirla Glassner; Leah Brandsdorfer",
+   "phonetic": "584690 698000 796343 800000"
   },
   {
    "id": "d-1900-5",
@@ -55685,8 +55685,8 @@
    "number": "2",
    "summary": "Death 2/1912: Lazar Licht",
    "prose": "8 Apr 1912 Brzostek 9 Apr 1912 Brzostek Lazar Licht, merchant in Brzostek, son of the late Ephraim Licht, former baker in Brzostek and the late Sarah nee Bodner Brzostek, house 93 Male 54 years Married merchant Brzostek tumour of the intestines and stomach, natural death Cancer of the Intestines and Stomach son of",
-   "people": "Lazar Licht; Ephraim Licht; Sarah Licht; Deborah Kainer",
-   "phonetic": "079600 379000 490000 569000 843000 849000 853000"
+   "people": "Lazar Licht; Ephraim Licht; Sarah Licht; Deborah Plattner",
+   "phonetic": "079600 379000 490000 783690 843000 849000 853000"
   },
   {
    "id": "d-1912-3",
@@ -55894,8 +55894,8 @@
    "number": "9",
    "summary": "Death 9/1913: Moses Panzer",
    "prose": "7 Sep 1913 Brzostek 8 Sep 1913 Brzostek Moses Panzer, son of Chaim Panzer, butcher in Brzostek, and Miriam nee Schlein Brzostek, house 65 Male 11 months Single pneumonia Pneumonia son of Entered in the birth register vol. III p. 189 no. 21",
-   "people": "Moses Panzer; Chaim Panzer; Miriam Mass",
-   "phonetic": "460000 560000 640000 696000 764900"
+   "people": "Moses Panzer; Chaim Panzer; Miriam Schlein",
+   "phonetic": "460000 486000 560000 640000 696000 764900"
   },
   {
    "id": "d-1913-10",
@@ -56510,8 +56510,8 @@
    "number": "9",
    "summary": "Death 9/1917: Hersch Panzer",
    "prose": "18 Jul 1917 Brzostek 20 Jul 1917 Brzostek Hersch Panzer, son of Chaim and Miriam Panzer, butcher in Brzostek Brzostek, house 8 Male 3 weeks Single lack of vital strength Failure to Thrive son of Noted in the birth register, vol. IV, p. 24, no. 12",
-   "people": "Hersch Panzer; Chaim Panzer; Miriam Mass",
-   "phonetic": "460000 540000 545000 560000 594000 594500 640000 696000 764900"
+   "people": "Hersch Panzer; Chaim Panzer; Miriam Schlein",
+   "phonetic": "460000 486000 540000 545000 560000 594000 594500 696000 764900"
   },
   {
    "id": "d-1917-10",
@@ -56521,8 +56521,8 @@
    "number": "10",
    "summary": "Death 10/1917: Marcus Panzer",
    "prose": "23 Jul 1917 Brzostek 25 Jul 1917 Brzostek Marcus Panzer, son of Chaim and Miriam Panzer, butcher in Brzostek Brzostek, house 8 Male 4 weeks Single lack of vital strength Failure to Thrive son of Noted in the birth register, vol. IV, p. 25, no. 13",
-   "people": "Marcus Panzer; Chaim Panzer; Miriam Mass",
-   "phonetic": "460000 560000 640000 694000 695400 696000 764900"
+   "people": "Marcus Panzer; Chaim Panzer; Miriam Schlein",
+   "phonetic": "460000 486000 560000 694000 695400 696000 764900"
   },
   {
    "id": "d-1917-11",
@@ -56576,8 +56576,8 @@
    "number": "4",
    "summary": "Death 4/1918: Sima Birnbaum",
    "prose": "29 Sep 1918 Brzostek 1 Oct 1918 Brzostek Sima Birnbaum, daughter of Kelman Birnbaum, merchant in Brzostek and Gittla nee Plattner Brzostek Female 30 years Single nephritis Nephritis daughter of Noted in the birth register, vol. II, p. 227, no. 19",
-   "people": "Sima Birnbaum; Kelman Birnbaum; Gittla Kainer",
-   "phonetic": "460000 538000 569000 586000 796760"
+   "people": "Sima Birnbaum; Kelman Birnbaum; Gittla Plattner",
+   "phonetic": "460000 538000 586000 783690 796760"
   },
   {
    "id": "d-1918-5",
@@ -56686,8 +56686,8 @@
    "number": "5",
    "summary": "Death 5/1919: Simon Wolkenfeld",
    "prose": "28 July 1919 Brzostek 30 Jul 1919 Brzostek Simon Wolkenfeld, unemployed, single, son of the late Meilech Wolkenfeld, rabbi in Brzostek and Matla nee Zehnwirth Brzostek Male 21 years Single unemployed TB Tuberculosis son of Noted in the birth register, vol. III, p. 69, no. 2",
-   "people": "Simon Wolkenfeld; Meilech Wolkenfeld; Matla Zehngutt",
-   "phonetic": "460000 465300 638000 684000 685000 785678"
+   "people": "Simon Wolkenfeld; Meilech Wolkenfeld; Matla Zehnwirth",
+   "phonetic": "460000 467930 638000 684000 685000 785678"
   },
   {
    "id": "d-1919-6",
@@ -56741,8 +56741,8 @@
    "number": "4",
    "summary": "Death 4/1920: Feige Panzer",
    "prose": "21 Apr 1920 Brzostek 23 Apr 1920 Brzostek Feige Panzer, daughter of Chaim Panzer, butcher in Brzostek, and Miriam nee Mass Brzostek, house 8 Female about 15 days Single Pneumonia Pneumonia daughter of Noted in the birth register, vol. IV, p. 37",
-   "people": "Feige Panzer; Chaim Panzer; Miriam Mass",
-   "phonetic": "460000 560000 640000 696000 750000 764900"
+   "people": "Feige Panzer; Chaim Panzer; Miriam Schlein",
+   "phonetic": "460000 486000 560000 696000 750000 764900"
   },
   {
    "id": "d-1920-5",
@@ -56862,8 +56862,8 @@
    "number": "5",
    "summary": "Death 5/1921: Yetta Panzer",
    "prose": "4 Aug 1921 Brzostek 6 Aug 1921 Brzostek Yetta Panzer, daughter of Chaim and Miriam Panzer, butchers in Brzostek Brzostek, house 8 Female about 9 days Single lack of strength of life Failure to Thrive daughter of Noted in the birth register, vol. IV, p. 44, no. 11",
-   "people": "Yetta Panzer; Chaim Panzer; Miriam Mass",
-   "phonetic": "130000 460000 560000 640000 696000 764900"
+   "people": "Yetta Panzer; Chaim Panzer; Miriam Schlein",
+   "phonetic": "130000 460000 486000 560000 696000 764900"
   },
   {
    "id": "d-1921-6",
@@ -57410,10 +57410,10 @@
    "book": "death",
    "year": 1927,
    "number": "3",
-   "summary": "Death 3/1927: Deborah Kainer",
+   "summary": "Death 3/1927: Deborah Plattner",
    "prose": "13 Jun 1927 Brzostek 15 Jun 1927 Brzostek Deborah Licht owner of real estate in Brzostek Brzostek Female 68 years Widowed owner of real estate Brzostek Pulmonary TB Tuberculosis",
-   "people": "Deborah Kainer",
-   "phonetic": "379000 569000"
+   "people": "Deborah Plattner",
+   "phonetic": "379000 783690"
   },
   {
    "id": "d-1927-4",
@@ -58565,9 +58565,9 @@
    "book": "marriage",
    "year": 1900,
    "number": "13",
-   "summary": "Marriage 13/1900: Kelman Birnbaum & Gittla Kainer",
+   "summary": "Marriage 13/1900: Kelman Birnbaum & Gittla Plattner",
    "prose": "8 August 1900 Brzostek Kelman Birnbaum, born in Sędziszów, an innkeeper living in Brzostek, son of Mojżesz Birnbaum, a former industrialist in Sędziszów, and Sara nee König. Gittla Kajner, also called Plattner, daughter of the alleged father Rubin Plattner, a stallkeeper in dry goods in Brzostek, and Gela née Kajner, the bride having been born in Brzostek Judah Leib Wolkenfeld Markus Kleinman, ritual slaughterer (Schächter) in Brzostek, witness. Chaim Galizer, ritual slaughterer (Schächter) in Brzostek, witness. Remarks: Birth certificate for the groom dated Sędziszów, 21 Jun 1896, ref. no. 43, vol. II, fol. 82; assessment of the military tax by the Imperial-Royal District Office (Starostwo) in Ropczyce, of 6 Jul 1894, ref. no. 9692. For the bride, [the registrar's] own knowledge, under § 82 [sic] of the register instructions; and the banns announced three times.",
-   "people": "Kelman Birnbaum; Gittla Kainer; Moses Birnbaum; Sarah Konig; Reuben Plattner; Gela Kajner, married name Kainer; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
+   "people": "Kelman Birnbaum; Gittla Plattner; Moses Birnbaum; Sarah Konig; Reuben Plattner; Gela Kajner, married name Kainer; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
    "phonetic": "130000 430000 460000 490000 538000 560000 565000 569000 580000 584900 586000 586600 600000 640000 693000 694000 695400 783690 785678 796760 870000 976000"
   },
   {
@@ -58774,9 +58774,9 @@
    "book": "marriage",
    "year": 1901,
    "number": "10",
-   "summary": "Marriage 10/1901: Meilech Wolkenfeld & Matla Zehngutt",
+   "summary": "Marriage 10/1901: Meilech Wolkenfeld & Matla Zehnwirth",
    "prose": "7 May 1901 Brzostek Meilech Wolkenfeld, originally from Sokołów, Imperial-Royal, Kolbuszowa County, residing in Brzostek, unemployed, son of Juda Leib, called Leib, Wolkenfeld, rabbi in Brzostek, and Scheindli, nee Wagschal Matla Zehnwirth, born in Bobowa, Imperial-Royal Grybow district, unemployed, residing in Brzostek, daughter of Leser Zehnwirth, owner of the Spice Shop in Bobowa, and Etla, née Zehngut Judah Leib Wolkenfeld Markus Kleinman (Schächter) in Brzostek, witness. Chaim Galizer (Schächter) in Brzostek, witness. Remarks: Birth certificate for the groom dated Sokołów, 11 Dec 1882, vol. I, p. 36; certificate of the registrar in Bobowa dated 7 May 1900, ref. no. 34, for the bride; kept in the register files; also the banns announced three times; and [he] shows release from military obligation.",
-   "people": "Meilech Wolkenfeld; Matla Zehngutt; Judah Leib Wolkenfeld; Schindla Wagschal, married name Wolkenfeld; Leser Zehnwirth; Itta Zehngutt; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
+   "people": "Meilech Wolkenfeld; Matla Zehnwirth; Judah Leib Wolkenfeld; Schindla Wagschal, married name Wolkenfeld; Leser Zehnwirth; Itta Zehngutt; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
    "phonetic": "030000 130000 430000 460000 463800 465300 467930 560000 584900 586600 600000 638000 684000 685000 693000 694000 695400 754800 785678 849000 870000"
   },
   {
@@ -59150,8 +59150,8 @@
    "number": "3",
    "summary": "Marriage 3/1905: Joseph Birnbaum & Lora Zahler",
    "prose": "13 August 1905 Brzostek Jozef Birnbaum, born in Brzostek, unemployed, residing in Brzostek house No. 79, son of Kelman and Gittla nee Plattner, industrialists in Brzostek Lora Zahler, born in Brzostek, to Wilhelm and Maria née Leibel, industrialists in Brzostek Judah Leib Wolkenfeld Abraham Plattner, merchant in Brzostek, witness. Samuel Königsdorf, merchant in Brzostek, witness. Remarks: Documents for the groom: as to his birth, this registry's own book attests, vol. II, pp. 105–6, no. 31, of [18]81; release from paternal authority by the Imperial-Royal District Court in Brzostek of 24 August [sic] 1905, Nc I 213/5; certificate of the Imperial-Royal District Office (Starostwo) in Pilzno of 22 May 1905, ref. no. 34, that the military obligations have been fulfilled. For the bride, birth record, vol. II, pp. 199–200, no. 3, of [18]87; release from paternal authority by the Imperial-Royal District Court in Brzostek of 24 Aug 1905, ref. no. Nc I 214/5; the banns announced, and [the rest is cut off at the bottom of the photo].",
-   "people": "Joseph Birnbaum; Lora Zahler; Kelman Birnbaum; Gittla Kainer; Wilhelm Zahler; Maria Leibel; Abraham Plattner; Moses Konigsdorf; Judah Leib Wolkenfeld",
-   "phonetic": "079560 130000 147000 430000 470000 489000 538000 565439 569000 586000 640000 690000 783690 785678 785860 796760 870000 878000 890000"
+   "people": "Joseph Birnbaum; Lora Zahler; Kelman Birnbaum; Gittla Plattner; Wilhelm Zahler; Maria Leibel; Abraham Plattner; Moses Konigsdorf; Judah Leib Wolkenfeld",
+   "phonetic": "079560 130000 147000 430000 470000 489000 538000 565439 586000 640000 690000 783690 785678 785860 796760 870000 878000 890000"
   },
   {
    "id": "m-1905-4",
@@ -59161,8 +59161,8 @@
    "number": "4",
    "summary": "Marriage 4/1905: Moses Birnbaum & Mirla Kampf",
    "prose": "6 September 1905 Brzostek Moses Birnbaum, born in Brzostek, unemployed, son of Kelman Birnbaum, owner of the mixed-goods stall in Brzostek No. 79 and Gittla nee Plattner residing in Brzostek Kajla Mirla, called Mirla, also called Minna Kampf, born in Warsaw, residing in Brzostek, daughter of Jakob Kampf, a merchant in Koln Germany, and residing with his mother Soszi (Sofya) née Wolberg Judah Leib Wolkenfeld Abraham Plattner, merchant in Brzostek, witness. Josef Wróbel, industrialist in Brzostek, witness. Remarks: Documents of the groom: as to his birth, this registry's own book attests, vol. II, pp. 75–76, no. 12, of 1880; the groom proved that the military obligations had been fulfilled by a receipt of the Imperial-Royal Tax Office in Brzostek of 11 Jan 1904 that he had paid the military tax, art. 3 of [1]904, for the years [1]903–5. Further, the bride supplied [her] birth certificate from the German office concerned; [two words illegible] and [her] residence she proved by a certificate dated Köln, 28 Aug 1905, issued by the authority there; also the father's written declaration permitting the legal marriage; further, the banns announced, and the notice of the rabbinate; in the register files.",
-   "people": "Moses Birnbaum; Mirla Kampf; Kelman Birnbaum; Gittla Kainer; Jacob Kampf; Sofya Wolberg; Abraham Plattner; Joseph Wrobel; Judah Leib Wolkenfeld",
-   "phonetic": "079560 130000 147000 157000 430000 457000 470000 538000 567000 569000 586000 640000 698000 783690 785678 787950 796760 797800 870000"
+   "people": "Moses Birnbaum; Mirla Kampf; Kelman Birnbaum; Gittla Plattner; Jacob Kampf; Sofya Wolberg; Abraham Plattner; Joseph Wrobel; Judah Leib Wolkenfeld",
+   "phonetic": "079560 130000 147000 157000 430000 457000 470000 538000 567000 586000 640000 698000 783690 785678 787950 796760 797800 870000"
   },
   {
    "id": "m-1905-5",
@@ -59414,8 +59414,8 @@
    "number": "10",
    "summary": "Marriage 10/1907: Hersch Wolf & Pessel Licht",
    "prose": "30 July 1907 Brzostek Mordche Herschel, called Herschel, Wolf, born in Oświęcim, house No. 88, without profession, son of Mojzesz Wolf, a trader in Oswiecim, and Rachela Laja, called Laja, nee Wulkan Pesla Licht, born in Brzostek, daughter of Lazar Licht, owner of a clothing store in Brzostek, and Debora née Plattner Judah Leib Wolkenfeld Abraham Plattner, owner of a mixed-goods stall in Brzostek, witness. Moses Schwarz, grain dealer in Brzostek, witness. Remarks: The groom's birth certificate from the registry office in Oświęcim, vol. III, p. 136, no. 136; certificate of the Imperial-Royal District Office (Starostwo) in Bochnia of 25 Sep 1907, draft lot no. 1077, of release from the obligation of military service; the parents' declaration permitting this marriage; the banns duly announced, and the notice of the rabbinate; kept in the register files. For the bride, this registry's own book attests, vol. II, pp. 141–2, no. 31, of [18]83.",
-   "people": "Hersch Wolf; Pessel Licht; Moses Wolf; Leah Wulkan; Lazar Licht; Deborah Kainer; Moses Schwarz; Judah Leib Wolkenfeld",
-   "phonetic": "130000 379000 430000 474000 479400 540000 545000 569000 594000 594500 640000 748000 785600 785678 787000 800000 843000 849000 853000 870000"
+   "people": "Hersch Wolf; Pessel Licht; Moses Wolf; Leah Wulkan; Lazar Licht; Deborah Plattner; Moses Schwarz; Judah Leib Wolkenfeld",
+   "phonetic": "130000 379000 430000 474000 479400 540000 545000 594000 594500 640000 748000 783690 785600 785678 787000 800000 843000 849000 853000 870000"
   },
   {
    "id": "m-1907-11",
@@ -59491,8 +59491,8 @@
    "number": "1",
    "summary": "Marriage 1/1910: Henoch Birnbaum & Feige Konigsdorf",
    "prose": "11 January 1910 Brzostek Henoch Birnbaum was born in Brzostek, without profession, residing in Brzostek, the son of Kelman Birnbaum, a grain dealer in Brzostek, and Gittla, nee Plattner. Feige Konigsdorf was born in Brzostek to her parents, the daughter of Samuel Mojzesz, called Mojzesz, Konigsdorf, a merchant in Brzostek, and Muszkieta nee Liebschutz Judah Leib Wolkenfeld Lazar Silbermann, tanner in Brzostek, witness. Salaman Aron, owner of a cloth business in Brzostek, witness. groom born 25 Sep 1885 bride born on 8 Dec 1889. Remarks: The capacity for the marriage entered alongside is attested by this registry's own birth book, namely for the groom vol. II, p. 169, no. 28, of [18]85, and for the bride vol. II, p. 251, no. 34, of [18]89; likewise the groom has shown that he has fulfilled the military obligation; further, the banns announced three times, and the notice of the rabbinate; with the signature of the bride's father, permitting this marriage. Samuel Mojżesz Königsdorf [signature, written at the top of the next entry's box].",
-   "people": "Henoch Birnbaum; Feige Konigsdorf; Kelman Birnbaum; Gittla Kainer; Moses Konigsdorf; Muszkieta Liebschutz; Lazar Silberman; David Aron; Judah Leib Wolkenfeld",
-   "phonetic": "096000 130000 373000 430000 487960 538000 564000 565000 565439 569000 586000 640000 645300 750000 785678 796760 849000 870000 874000"
+   "people": "Henoch Birnbaum; Feige Konigsdorf; Kelman Birnbaum; Gittla Plattner; Moses Konigsdorf; Muszkieta Liebschutz; Lazar Silberman; David Aron; Judah Leib Wolkenfeld",
+   "phonetic": "096000 130000 373000 430000 487960 538000 564000 565000 565439 586000 640000 645300 750000 783690 785678 796760 849000 870000 874000"
   },
   {
    "id": "m-1910-2",
@@ -59632,9 +59632,9 @@
    "book": "marriage",
    "year": 1911,
    "number": "3",
-   "summary": "Marriage 3/1911: Abraham Feig & Hinde Walter",
+   "summary": "Marriage 3/1911: Abraham Feig & Hinde Steinhorn",
    "prose": "29 September 1911 Brzostek Abraham Feig, cattle dealer born in Laskówka Odporyszewska, residing in Błażkowa, son of Mordko Feig and Amalia Dekel, industrialists residing in Tarnów Hinde Steinhorn, born in Błaszkowa, daughter of Jozef Steinhorn and Chaja Liba, called Liba, Walter, industrialists in Błaszkowa Judah Leib Wolkenfeld Mendel Dintenfass, leaseholder of the manor farm in Błażkowa. Salamon Freiberger, industrialist in Dzbany[?], witness. groom born 5 oct 1878 and bride 7 dec 1887. Remarks: Birth certificate for the groom of the registry district in Dąbrowa, vol. IV, p. 117, no. 133; certificate of the Imperial-Royal District Office (Starostwo) in Tarnów of 16 Feb 1905, ref. no. 58, of release from military obligation. For the bride, this registry's own book attests, vol. II, p. 105, no. 30; the banns announced; the notice of the rabbinate.",
-   "people": "Abraham Feig; Hinde Walter; Mordechi Feig; Amalia Dekel; Joseph Steinhorn; Liba Walter; Mendel Dintenfass; Solomon Freiberger; Judah Leib Wolkenfeld",
+   "people": "Abraham Feig; Hinde Steinhorn; Mordechi Feig; Amalia Dekel; Joseph Steinhorn; Liba Walter; Mendel Dintenfass; Solomon Freiberger; Judah Leib Wolkenfeld",
    "phonetic": "068000 079560 130000 147000 265960 358000 363674 430000 470000 486000 563000 638000 693400 693500 750000 783900 785678 797959 870000"
   },
   {
@@ -59722,8 +59722,8 @@
    "number": "2",
    "summary": "Marriage 2/1913: Chaim Wolkenfeld & Bina Wolkenfeld",
    "prose": "23 February 1913 Brzostek Chaim Wolkenfeld, born in Brzostek, rabbinical candidate in Brzostek, son of the deceased Meilech Wolkenfeld and Matla née Zehnwirth Bine daughter of (father's first name unclear) Silberstein, without any profession, lives in Brzostek Judah Leib Wolkenfeld Mozes Schwarz, merchant in Brzostek, witness. Markus Kleinman, ritual slaughterer in Brzostek, witness. grroom born 15 Jun 1888 and brid 20 July 1888. Remarks: Documents of the groom: birth certificate dated Brzostek, 6 Dec 1912; resolution of the Imperial-Royal District Office (Starostwo) in Pilzno of 10 Dec 1912 that he has fulfilled the military obligations. Of the bride: birth certificate dated Radziechów, 12 Jul 1911; certificate of the banns and of the rabbinate.",
-   "people": "Chaim Wolkenfeld; Bina Wolkenfeld; Meilech Wolkenfeld; Matla Zehngutt; Miriam Yocheved Goldstein; Serla Silberstein; Moses Schwarz; Marcus Kleinman; Judah Leib Wolkenfeld",
-   "phonetic": "130000 147300 157300 430000 460000 465300 474000 479400 487436 487943 498000 560000 583436 586600 638000 640000 684000 685000 694000 695400 696000 760000 785678 870000"
+   "people": "Chaim Wolkenfeld; Bina Wolkenfeld; Meilech Wolkenfeld; Matla Zehnwirth; Miriam Yocheved Goldstein; Serla Silberstein; Moses Schwarz; Marcus Kleinman; Judah Leib Wolkenfeld",
+   "phonetic": "130000 147300 157300 430000 460000 467930 474000 479400 487436 487943 498000 560000 583436 586600 638000 640000 684000 685000 694000 695400 696000 760000 785678 870000"
   },
   {
    "id": "m-1913-3",
@@ -59874,9 +59874,9 @@
    "book": "marriage",
    "year": 1917,
    "number": "1",
-   "summary": "Marriage 1/1917: Chaim Panzer & Miriam Mass",
+   "summary": "Marriage 1/1917: Chaim Panzer & Miriam Schlein",
    "prose": "4 March 1917 Brzostek Chaim Panzer born in Tarnów, a butcher in Brzostek, son of Joel Panzer, and Estera née Orner, a butcher in Brzostek Mariam, illegitimate daughter of Baila Laja Mass, in Sokołów, no profession, lives in Brzostek Chaim Wolkenfeld Hirsch March, cantor in Brzostek, witness. Hersch Bieder, schames in Brzostek, witness. groom born 1887 bride 16 May 1890. Remarks: Documents of the bride: birth certificate (born 17 May 1900) dated Sokołów, 30 Jan 1917. For the groom: militia (Landsturm) identity card \"C\" that he has fulfilled the military obligations; certificate of the banns, and certificate of the rabbinate.",
-   "people": "Chaim Panzer; Miriam Mass; Joel Panzer; Esther Orner; Isaac Schlein; Beila Leah Mass; Hersch March; Hersch Bieder; Chaim Wolkenfeld",
+   "people": "Chaim Panzer; Miriam Schlein; Joel Panzer; Esther Orner; Isaac Schlein; Beila Leah Mass; Hersch March; Hersch Bieder; Chaim Wolkenfeld",
    "phonetic": "040000 043590 045000 096900 180000 460000 480000 486000 540000 545000 560000 594000 594500 640000 694000 695000 696000 739000 764900 780000 785678 800000"
   },
   {
@@ -59942,8 +59942,8 @@
    "number": "3",
    "summary": "Marriage 3/1919: Solomon Lobel & Feitsche Licht",
    "prose": "13 July 1919 Brzostek Salamon Lobel, born in Brzostek without any profession, son of Zalel Lobel, owner of the iron trade in Brzostek and Ruda née Schlenger Feitscha Licht, born in Brzostek, no profession, daughter of the deceased Lazar Licht, owner of the cloth trade in Brzostek, and Dwory née Platner Chaim Wolkenfeld Hersch March, cantor in Brzostek, witness. Hersch Bieder, synagogue attendant in Brzostek, witness. Remarks: For the groom and the bride: this registry's own birth book. Permission of the District Office (Starostwo) in Pilzno of 8 Jul 1919, ref. no. 7815. The banns register; certificate of the rabbinate.",
-   "people": "Solomon Lobel; Feitsche Licht; Zalel Lobel; Ruda Schlenger; Lazar Licht; Deborah Kainer; Hersch March; Hersch Bieder; Chaim Wolkenfeld",
-   "phonetic": "379000 460000 480000 486000 486590 540000 545000 560000 569000 594000 594500 694000 695000 739000 740000 785678 843000 849000 853000 878000 930000"
+   "people": "Solomon Lobel; Feitsche Licht; Zalel Lobel; Ruda Schlenger; Lazar Licht; Deborah Plattner; Hersch March; Hersch Bieder; Chaim Wolkenfeld",
+   "phonetic": "379000 460000 480000 486000 486590 540000 545000 560000 594000 594500 694000 695000 739000 740000 783690 785678 843000 849000 853000 878000 930000"
   },
   {
    "id": "m-1919-4",
@@ -60547,8 +60547,8 @@
    "number": "1",
    "summary": "Marriage 1/1929: Isaac Nusbaum & Freida Licht",
    "prose": "15 January 1929 Brzostek Samuel Isaak, called Isaak, Nusbaum born in Baranów and lives in Brzostek, merchant, son of Jakob Nusbaum, merchant in Rozwadów and Chana nee Weinman Freidla Licht, daughter of Lazar Licht, industrialist in Brzostek and Debora nee Plattner Chaim Wolkenfeld Hersch March, cantor in Brzostek, witness. Josef Schwarz, merchant in Brzostek, witness. groom 11/dec 1895, brid 22 apr 1892. Remarks: For the groom: birth certificate dated Baranów, 21 Aug 1927, ref. no. 7[?], according to the register there, vol. I, p. 133, no. 62; certificate of domicile dated Rozwadów, 6 Sep 1927. For the bride: this registry's own birth book, vol. III, p. 3, no. 12; and notices of the rabbinate, and certificates of the banns.",
-   "people": "Isaac Nusbaum; Freida Licht; Jacob Nusbaum; Hannah Weinman; Lazar Licht; Deborah Kainer; Hersch March; Joseph Schwarz; Chaim Wolkenfeld",
-   "phonetic": "040000 045000 147000 157000 379000 457000 460000 470000 474000 479400 540000 545000 560000 569000 594000 594500 647600 694000 695000 766000 785678 793000 843000 849000 853000"
+   "people": "Isaac Nusbaum; Freida Licht; Jacob Nusbaum; Hannah Weinman; Lazar Licht; Deborah Plattner; Hersch March; Joseph Schwarz; Chaim Wolkenfeld",
+   "phonetic": "040000 045000 147000 157000 379000 457000 460000 470000 474000 479400 540000 545000 560000 594000 594500 647600 694000 695000 766000 783690 785678 793000 843000 849000 853000"
   },
   {
    "id": "m-1929-2",
@@ -60558,8 +60558,8 @@
    "number": "2",
    "summary": "Marriage 2/1929: Oser Engel & Rivka Licht",
    "prose": "15 May 1929 Brzostek Ozer Engel, born in Nowy Żmigród and lives in Brzostek, son Chiela Engel, merchant in Jaslo and Chaja Gittli, called Gittla, nee Eisenberg, Ryfka Licht, single, born in Brzostek and lives here, daughter of the deceased Lazar Licht, former merchant in Brzostek and Debora nee Plattner Chaim Wolkenfeld Hersch March, cantor in Brzostek, witness. Josef Schwarz, merchant in Brzostek, witness. groom 1893, bride 28 apr 1890. Remarks: For the groom: dispensation of the Voivodeship in Kraków of 27 Oct 1926, ref. no. Aw. 10768/26; resolution of the District Office (Starostwo) in Jasło of 6 Nov 1926, ref. no. 32908/26. For the bride: this registry's own book, vol. II, p. 58, no. 4; certificates of the banns, and notices of the rabbinate in Brzostek.",
-   "people": "Oser Engel; Rivka Licht; Yechiel Engel; Gittla Eisenberg; Lazar Licht; Deborah Kainer; Hersch March; Joseph Schwarz; Chaim Wolkenfeld",
-   "phonetic": "046795 049000 065800 147000 148000 158000 379000 460000 470000 474000 479400 538000 540000 545000 560000 569000 594000 594500 694000 695000 785678 843000 849000 853000 975000"
+   "people": "Oser Engel; Rivka Licht; Yechiel Engel; Gittla Eisenberg; Lazar Licht; Deborah Plattner; Hersch March; Joseph Schwarz; Chaim Wolkenfeld",
+   "phonetic": "046795 049000 065800 147000 148000 158000 379000 460000 470000 474000 479400 538000 540000 545000 560000 594000 594500 694000 695000 783690 785678 843000 849000 853000 975000"
   },
   {
    "id": "m-1929-3",
@@ -60578,10 +60578,10 @@
    "book": "marriage",
    "year": 1929,
    "number": "4",
-   "summary": "Marriage 4/1929: Naftali Hersch Parnes & Freida Lieber",
+   "summary": "Marriage 4/1929: Naftali Hersch Parnes & Freida March",
    "prose": "3 October 1929 Brzostek Naftali Herz Parnes, born in Korczyna and lives in Brzozów, son of Dawid and Gitla Parnes, merchants in Brzozów Freida Lieber, illegitimate daughter of Hersch March and Malki Lieber, born in Jasienica Rosielna and lives in Brzostek Chaim Wolkenfeld Hersch March, cantor in Brzostek, witness. Moses Oling, merchant in Brzostek, witness. groom 10 nov 1902, bride 1904. Remarks: For the groom: birth certificate dated Korczyna, 27 Mar 1921, ref. no. 71, and military service book, District Recruiting Command (P.K.U.) Przemyśl, of 11 Nov 1925, ref. no. 85. For the bride: birth certificate dated [the rest runs off the bottom of the photo]. Above the remark, in another hand: I certify that up to today three[?] marriage records of the first half of 1929 have been entered in this duplicate. Pilzno, 26 Aug 1929. District Officer (Starosta Powiatowy) [signature]; stamp [Starostwo, Pilzno].",
-   "people": "Naftali Hersch Parnes; Freida Lieber; David Parnes; Gittla Parnes; Hersch March; Malka March; Hersch March; Moses Oling; Chaim Wolkenfeld",
-   "phonetic": "086500 373000 460000 538000 540000 545000 560000 594000 594500 640000 673800 685000 694000 695000 785678 793000 796400 879000"
+   "people": "Naftali Hersch Parnes; Freida March; David Parnes; Gittla Parnes; Hersch March; Malka March; Hersch March; Moses Oling; Chaim Wolkenfeld",
+   "phonetic": "086500 373000 460000 538000 540000 545000 560000 594000 594500 640000 673800 685000 694000 695000 785678 793000 796400"
   },
   {
    "id": "m-1929-5",
@@ -60778,8 +60778,8 @@
    "number": "3",
    "summary": "Marriage 3/1933: Solomon Licht & Perla Matzner",
    "prose": "28 June 1933 Brzostek Salamon Licht,born and lives in Brzostek, no profession, son of deceased Lazar Licht, owner of realestate in Brzostek and Debor ne Plattner Perla Brand, daughter of Dawid Matzner, Merchant in Rudnik and Rizy nee Kanarek Chaim Wolkenfeld Lipa Rosner, schames in Brzostek, witness. Abraham Barber, cantor in Brzostek, witness. groom 1 jun1894, bride 22 march 1903. Remarks: Documents of the groom: this registry's own birth book, vol. III, p. 25, no. 16. Documents of the bride: birth certificate dated Ulanów, 2 Jun 1933, according to the birth register there, vol. VIII, p. 195, no. 23; certificate of residence dated Brzostek, 17 Jun[?] 1933; divorce by the District Court in Nisko of 28 Apr 1931, ref. no. Nc 40/31.",
-   "people": "Solomon Licht; Perla Matzner; Lazar Licht; Deborah Kainer; David Matzner; Riza Kanarek; Lipa Rozner; Sucher Barber; Chaim Wolkenfeld",
-   "phonetic": "373000 379000 459000 460000 486000 490000 560000 569000 569500 646900 785678 797900 798000 843000 849000 853000 870000 940000 946900"
+   "people": "Solomon Licht; Perla Matzner; Lazar Licht; Deborah Plattner; David Matzner; Riza Kanarek; Lipa Rozner; Sucher Barber; Chaim Wolkenfeld",
+   "phonetic": "373000 379000 459000 460000 486000 490000 560000 569500 646900 783690 785678 797900 798000 843000 849000 853000 870000 940000 946900"
   },
   {
    "id": "m-1933-4",
@@ -60822,8 +60822,8 @@
    "number": "2",
    "summary": "Marriage 2/1934: Ephraim Licht & Hannah Silber",
    "prose": "18 February 1934 Brzostek Efraim Licht, merchant in Brzostek, son of the deceased Lazar Licht, merchant in Brzostek and Debora nee Plattner Alta Sara Chana, called Chana, Silber, daughter of Herscha Silber, merchant in Rozwadów and Dyny nee Silber Chaim Wolkenfeld Abraham Barber, cantor in Brzostek, witness. Naftali Herz Parnes, cantor in Brzostek, witness. 22 April 1896, bride 10 Sep 05. Remarks: Documents of the groom: this registry's own birth book, vol. III, p. 73, no. 17. Documents of the bride: birth certificate dated Rozwadów, 20 Mar 1917, according to the birth book there, p. 76; also certificate of registration [of residence] of the commune office in Brzostek of 16 Sep 1932; and the banns three times, and notices of the rabbinate in Brzostek.",
-   "people": "Ephraim Licht; Hannah Silber; Lazar Licht; Deborah Kainer; Hersch Silber; Dina Silber; Sucher Barber; Naftali Hersch Parnes; Chaim Wolkenfeld",
-   "phonetic": "079600 360000 379000 459000 460000 487900 490000 540000 545000 560000 569000 594000 594500 673800 785678 796400 797900 843000 849000 853000"
+   "people": "Ephraim Licht; Hannah Silber; Lazar Licht; Deborah Plattner; Hersch Silber; Dina Silber; Sucher Barber; Naftali Hersch Parnes; Chaim Wolkenfeld",
+   "phonetic": "079600 360000 379000 459000 460000 487900 490000 540000 545000 560000 594000 594500 673800 783690 785678 796400 797900 843000 849000 853000"
   },
   {
    "id": "m-1934-3",
@@ -60833,8 +60833,8 @@
    "number": "3",
    "summary": "Marriage 3/1934: Mendel Stern & Rosa Licht",
    "prose": "21 February 1934 Brzostek Mendel Stern, born in Bochnia, single son of Markus Stern, merchant in Bochnia and Itty nee Matzner Rosa Licht, born in Brzostek the single daughter of the deceased Lazar Licht former merchant in Brzostek and Debora nee Plattner Chaim Wolkenfeld Abraham Barber, cantor in Brzostek, witness. Naftali Herz Parnes, cantor in Brzostek, witness. groom 27 oct 1903, brie 10 Jan 1899. Remarks: Documents of the groom: birth certificate dated Bochnia, 11 Jul 1920, ref. no. 415, according to the register there, vol. IV, p. 68, no. 11[5?]; certificate of the banns dated Bochnia, 18 Feb 1934, ref. no. 7. Documents of the bride: this registry's own birth book, vol. III, p. 70, no. 5; certificate of the banns; notices of the rabbinate in Brzostek.",
-   "people": "Mendel Stern; Rosa Licht; Marcus Stern; Itta Matzner; Lazar Licht; Deborah Kainer; Sucher Barber; Naftali Hersch Parnes; Chaim Wolkenfeld",
-   "phonetic": "030000 296000 379000 459000 460000 490000 540000 545000 560000 569000 594000 594500 638000 646900 673800 694000 695400 785678 796400 797900 843000 849000 853000 940000"
+   "people": "Mendel Stern; Rosa Licht; Marcus Stern; Itta Matzner; Lazar Licht; Deborah Plattner; Sucher Barber; Naftali Hersch Parnes; Chaim Wolkenfeld",
+   "phonetic": "030000 296000 379000 459000 460000 490000 540000 545000 560000 594000 594500 638000 646900 673800 694000 695400 783690 785678 796400 797900 843000 849000 853000 940000"
   },
   {
    "id": "m-1934-4",
@@ -60921,8 +60921,8 @@
    "number": "3",
    "summary": "Marriage 3/1935: Ephraim Thau & Esther Licht",
    "prose": "4 March 1935 Brzostek Efraim Thau, goes by Tal, born in Brzostek and currently lives in Paris, son of the deceased Nisan Thau, former leaseholder of a farm in Nawsie Brzosteckie and Chaja Sara, called Sara, Ader Estera Licht, born in Brzostek and lives here, daughter of the deceased Lazar Licht former owner of real estate in Brzostek and Dwora nee Kainer Chaim Wolkenfeld Herz Parnes, cantor in Brzostek, witness. Abraham Barber, cantor in Brzostek, witness. groom 6 Aug 1904, bride 1900. Remarks: Documents of the groom: this registry's own birth book, vol. III, [page not written or lost in the binding], no. 22; and a certificate of the Emigration Presidium[?] in Jerusalem of 9 Feb 1926, and of the Consulate General of the Polish Republic in Jerusalem of 10 Apr 1928, ref. no. 13/0/1[2?]/2, N. 132/28, that the surname was changed from Thau to Tal; certificate of the Ministry[?] in Paris of 4 Apr 1934, ref. no. 603658, that he is single. For the bride: this registry's own birth book, vol. III, p. 87, no. [not legible]; and the notice of the Rabbinate.",
-   "people": "Ephraim Thau; Esther Licht; Nissen Thau; Sarah Ader, married name Bieder; Lazar Licht; Deborah Kainer; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
-   "phonetic": "039000 043590 079600 300000 379000 459000 460000 490000 540000 545000 560000 569000 594000 594500 600000 646000 673800 693000 739000 785678 796400 797900 843000 849000 853000"
+   "people": "Ephraim Thau; Esther Licht; Nissen Thau; Sarah Ader, married name Bieder; Lazar Licht; Deborah Plattner; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
+   "phonetic": "039000 043590 079600 300000 379000 459000 460000 490000 540000 545000 560000 594000 594500 600000 646000 673800 693000 739000 783690 785678 796400 797900 843000 849000 853000"
   },
   {
    "id": "m-1935-4",
@@ -60974,9 +60974,9 @@
    "book": "marriage",
    "year": 1936,
    "number": "3",
-   "summary": "Marriage 3/1936: Israel Springer & Esther Necha Schonbach",
+   "summary": "Marriage 3/1936: Israel Springer & Esther Necha Finder",
    "prose": "1 March 1936 Brzostek Israel Springer, born in Brzyszczki ad Jasło, merchant son Chiel Markus Springer, merchant in Jaslo and Chaja nee Spierer Ester Niche, called Niche, Finder, born and living in Brzostek, daughter of Kiwa Leib, calle Leib, Finder, tinsmith in Brzostek and Amalja nee Schonbach Chaim Wolkenfeld Herz Parnes, cantor in Brzostek, witness. Abraham Barber, butcher in Brzostek, witness. groom 16 Dec 1905, bride 16 Sep 1911. Remarks: Documents of the groom: birth certificate dated Jasło, 13 Feb 1936, ref. no. 23/36, according to the register there, vol. VII, p. 254, no. 110; certificate of the banns dated Jasło, 29 Feb 1936, no. 7/36. Documents of the bride: this registry's book, vol. III, [p.] 181, no. 19; and the notice of the rabbinate in Brzostek of 2 Mar 1936.",
-   "people": "Israel Springer; Esther Necha Schonbach; Chiel Marcus Springer; Chaya Spierer; Leib Finder; Amalia Schonbach; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
+   "people": "Israel Springer; Esther Necha Finder; Chiel Marcus Springer; Chaya Spierer; Leib Finder; Amalia Schonbach; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
    "phonetic": "043590 049800 068000 410000 459000 460000 467400 467500 479000 479659 480000 490000 510000 540000 545000 560000 580000 594000 594500 640000 650000 673800 694000 695400 763900 785678 796400 797900 870000"
   },
   {
@@ -60987,8 +60987,8 @@
    "number": "4",
    "summary": "Marriage 4/1936: Solomon Diamant & Leah Licht",
    "prose": "6 March 1936 Brzostek Salamon Diamant in Strzyżów, son of the deceased Josef Diamanta, former merchant in Strzyżów and the deceased Dwojra nee Katz Laja Licht, born and lives in Brzostek, daughter of deceased Lazar Licht, former merchant in Brzostek and the deceased Debora nee Plattner Chaim Wolkenfeld Herz Parnes, cantor in Brzostek, witness. Abraham Barber, butcher in Brzostek, witness. groom 15 Jan 1911, bride 25 Oct 1903. Remarks: Documents of the groom: birth certificate dated Strzyżów, 23 Jun 19[3 or 2]6, ref. no. 41, according to the register there, vol. [I or E?], p. 1, no. 4; certificate of the banns dated Strzyżów, 5 Mar 1936, ref. no. 5. Documents of the bride: this registry's own birth book, vol. III, p. 114; and the notice of the rabbinate in Brzostek of 8 [Feb?] 1936.",
-   "people": "Solomon Diamant; Leah Licht; Joseph Diamant; Deborah Katz; Lazar Licht; Deborah Kainer; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
-   "phonetic": "147000 363000 379000 459000 460000 470000 486000 490000 540000 545000 560000 569000 594000 594500 673800 785678 796400 797900 800000 843000 849000 853000"
+   "people": "Solomon Diamant; Leah Licht; Joseph Diamant; Deborah Katz; Lazar Licht; Deborah Plattner; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
+   "phonetic": "147000 363000 379000 459000 460000 470000 486000 490000 540000 545000 560000 594000 594500 673800 783690 785678 796400 797900 800000 843000 849000 853000"
   },
   {
    "id": "m-1936-5",
@@ -61051,10 +61051,10 @@
    "book": "marriage",
    "year": 1937,
    "number": "5",
-   "summary": "Marriage 5/1937: Alois Anker & Hence Mass",
+   "summary": "Marriage 5/1937: Alois Anker & Hence Panzer",
    "prose": "26 June 1937 Brzostek Alois Anker, born and lives in Krakow, son of Lipman Anker, shoemaker in Krakow and Rivka nee Schancer Hencie Maas, illegitimate daughter of Maryem Maas without profession in Brzostek Chaim Wolkenfeld Abraham Barber, cantor in Brzostek, witness. Lipa Rosner, synagogue attendant in Brzostek, witness. groom 10 Sep 1915, bride 24 March 1914. Remarks: Documents of the groom: birth certificate dated Kraków, 1 Jun 1937, ref. no. 2169/37, according to the register there of the year 1915, fol. 98, no. 294. Documents of the bride: this registry's book, vol. IV, p. 9, no. 9; and the banns three times, and notices of the rabbinate.",
-   "people": "Alois Anker; Hence Mass; Lipa Anker; Rivka Schancer; Miriam Mass; Sucher Barber; Lipa Rozner; Chaim Wolkenfeld",
-   "phonetic": "065900 084000 459000 460000 464900 465900 490000 560000 564000 565000 640000 696000 785678 797900 870000 946900 975000"
+   "people": "Alois Anker; Hence Panzer; Lipa Anker; Rivka Schancer; Miriam Schlein; Sucher Barber; Lipa Rozner; Chaim Wolkenfeld",
+   "phonetic": "065900 084000 459000 460000 464900 465900 486000 490000 560000 564000 565000 696000 764900 785678 797900 870000 946900 975000"
   },
   {
    "id": "m-1937-6",
@@ -61106,9 +61106,9 @@
    "book": "marriage",
    "year": 1938,
    "number": "2",
-   "summary": "Marriage 2/1938: Samuel Szyjowicz & Shayndel Scheinbach",
+   "summary": "Marriage 2/1938: Samuel Szyjowicz & Shayndel Finder",
    "prose": "10 February 1938 Brzostek Samuel Szyjowicz son of Salamon Szyjowicz and Blimy Ley, calle Ley, nee Trom in Posada Olchowa ad Sanok, butcher Scheindel Finder, daughter of Kiva Leib, called Leib, Finder, tinsmith in Brzostek and Malki nee Scheinbach Chaim Wolkenfeld Herz Parnes, cantor in Brzostek, witness. Abraham Barber, cantor in Brzostek, witness. groom 1912, bride 6 may 1913. Remarks: Documents of the groom: birth certificate dated Sanok, 27 Sep[?] 1936, ref. no. 520/36, according to the birth book there, vol. VI, p. 325, no. 76; certificate of the banns dated Sanok, 8 Feb 1938, ref. no. 5. Documents of the bride: this registry's birth book, vol. IV, p. 2, no. 6; and the banns three times, and notices of the rabbinate.",
-   "people": "Samuel Szyjowicz; Shayndel Scheinbach; Solomon Szyjowicz; Leah Trom; Leib Finder; Amalia Schonbach; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
+   "people": "Samuel Szyjowicz; Shayndel Finder; Solomon Szyjowicz; Leah Trom; Leib Finder; Amalia Schonbach; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
    "phonetic": "068000 396000 417400 459000 460000 463800 467400 467500 468000 474000 486000 490000 540000 545000 560000 594000 594500 673800 763900 785678 796400 797900 800000 870000"
   },
   {
