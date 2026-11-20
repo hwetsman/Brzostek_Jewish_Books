@@ -6939,7 +6939,7 @@
    "id": "P0407",
    "type": "person",
    "display": "Moses Neuman",
-   "other_names": "Moses (no surname written; child's birth entry); Moses Roth; Moses Neuman; Fenechel; Neuman; Roth",
+   "other_names": "Moses (no surname written; child's birth entry); Moses Neuman; Fenechel; Neuman",
    "subtitle": "1896–1913; son of Selig Neuman",
    "legal_given": "Moses",
    "common_given": "Moses",
@@ -6952,7 +6952,7 @@
    "residences": "Januszkowice",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "600000 640000 764800 765800 063900 483400 496000 583400 600000 640000 764800 765800 793000 793600 930000"
+   "phonetic": "600000 640000 764800 765800 063900 483400 496000 583400 600000 640000 764800 765800 793000 793600"
   },
   {
    "id": "P0408",
@@ -13341,7 +13341,7 @@
   {
    "id": "P0754",
    "type": "person",
-   "display": "Esther Licht, married name Tal",
+   "display": "Esther Licht, married name Thau",
    "other_names": "Esther (no surname written; child's birth entry); Esther Licht; Licht",
    "subtitle": "born 1900; daughter of Lazar Licht",
    "legal_given": "Esther",
@@ -16001,13 +16001,13 @@
   {
    "id": "P0902",
    "type": "person",
-   "display": "Ephraim Tal",
+   "display": "Ephraim Thau",
    "other_names": "Ephraim (no surname written; child's birth entry); Ephraim Tal; Tal; Thau",
    "subtitle": "born 1904; son of Nissen Thau",
    "legal_given": "Ephraim",
    "common_given": "Ephraim",
    "legal_surname": "Thau",
-   "common_surname": "Tal",
+   "common_surname": "Thau",
    "maiden_surname": "",
    "father_name": "Nissen Thau",
    "mother_name": "Chaya Sarah Thau née Ader",
@@ -16015,7 +16015,7 @@
    "residences": "Paris",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "079600 300000 380000 063900 079600 300000 380000 483400 496000 583400 600000 793000 793600"
+   "phonetic": "079600 300000 063900 079600 300000 380000 483400 496000 583400 600000 793000 793600"
   },
   {
    "id": "P0903",
@@ -16647,7 +16647,7 @@
   {
    "id": "P0936",
    "type": "person",
-   "display": "Hannah Friedenbach, married name Ezra",
+   "display": "Hannah Friedenbach, married name Tesser",
    "other_names": "Hannah (no surname written; child's birth entry); Hannah Friedenbach; Friedenbach",
    "subtitle": "born 1904; daughter of Israel Friedenbach",
    "legal_given": "Hannah",
@@ -25254,13 +25254,13 @@
   {
    "id": "P1412",
    "type": "person",
-   "display": "Moses Wrobel",
+   "display": "Moses Propker",
    "other_names": "Moses Propker; Propker; Wrobel",
    "subtitle": "son of Mendel Propker",
    "legal_given": "Moses",
    "common_given": "Moses",
    "legal_surname": "Wrobel",
-   "common_surname": "Wrobel",
+   "common_surname": "Propker",
    "maiden_surname": "",
    "father_name": "Mendel Gropker",
    "mother_name": "Breindel Gropker née Wrobel",
@@ -25268,12 +25268,12 @@
    "residences": "America",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "640000 797800 640000 797590 797800"
+   "phonetic": "640000 797590 797800 640000 797590 797800"
   },
   {
    "id": "P1413",
    "type": "person",
-   "display": "Zipporah Birn, married name Wrobel",
+   "display": "Zipporah Birn, married name Propker",
    "other_names": "Zipporah Birn; Zipporah née Birn; Birn",
    "subtitle": "daughter of Marcus Birn",
    "legal_given": "Zipporah",
@@ -25294,7 +25294,7 @@
    "type": "person",
    "display": "Yenta Wrobel",
    "other_names": "Yenta (no surname written; child's birth entry); Wrobel",
-   "subtitle": "born 1913; daughter of Moses Wrobel",
+   "subtitle": "born 1913; daughter of Moses Propker",
    "legal_given": "Yenta",
    "common_given": "Yenta",
    "legal_surname": "Wrobel",
@@ -26584,13 +26584,13 @@
   {
    "id": "P1482",
    "type": "person",
-   "display": "Aba Mass",
-   "other_names": "Aba (no surname written; child's birth entry); Mass",
+   "display": "Aba Panzer",
+   "other_names": "Aba (no surname written; child's birth entry); Mass; Panzer",
    "subtitle": "born 1916; son of Chaim Panzer",
    "legal_given": "Aba",
    "common_given": "Aba",
-   "legal_surname": "",
-   "common_surname": "Mass",
+   "legal_surname": "Mass",
+   "common_surname": "Panzer",
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "Miriam Mass",
@@ -26598,7 +26598,7 @@
    "residences": "Brzostek (house 8)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "070000 640000 063900 070000 483400 496000 583400 600000 640000 793000 793600"
+   "phonetic": "070000 640000 764900 063900 070000 483400 496000 583400 600000 640000 764900 793000 793600"
   },
   {
    "id": "P1483",
@@ -28294,13 +28294,13 @@
   {
    "id": "P1583",
    "type": "person",
-   "display": "David Ezra",
+   "display": "David Tesser",
    "other_names": "David (no surname written; child's birth entry); David Ezra; Ezra; Tesser",
    "subtitle": "born 1898; son of Gershon Tesser",
    "legal_given": "David",
    "common_given": "David",
    "legal_surname": "Ezra",
-   "common_surname": "Ezra",
+   "common_surname": "Tesser",
    "maiden_surname": "",
    "father_name": "Gershon Tesser",
    "mother_name": "Hannah Tesser née Geller",
@@ -28308,7 +28308,7 @@
    "residences": "Wola Brzostecka (house 4)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "049000 373000 049000 063900 349000 373000 483400 496000 583400 600000 793000 793600"
+   "phonetic": "049000 349000 373000 049000 063900 349000 373000 483400 496000 583400 600000 793000 793600"
   },
   {
    "id": "P1584",
@@ -34148,7 +34148,7 @@
    "type": "person",
    "display": "Chiel Roth",
    "other_names": "Chiel Roth; Roth; Schiff",
-   "subtitle": "son of Moses Neuman",
+   "subtitle": "son of Rosa Schiff",
    "legal_given": "Chiel",
    "common_given": "Chiel",
    "legal_surname": "Schiff",
@@ -47358,7 +47358,7 @@
    "number": "39",
    "summary": "Birth 39/1898: David",
    "prose": "David Male Illegitimate 14 May 1898 Wola Brzostecka, house 4 21 May 1898 Wola Brzostecka, house 4 Gershon Tesser, unemployed in Wola Brzostecka Hannah, daughter of Joseph Ezra and Hencia nee Geller, in Wola Brzostecka Moses Goldberg, innkeepter in Brzostek, witness. Osiah Baumgarten, owner of a cloth shop in Brzostek, witness Marcus Kleinman Supplementary entry made under the order of the Imperial-Royal District Office of 7 March 1899, no. 2540. The undersigned acknowledges paternity: Gerschon Tesser, I have signed. Moses Goldberg [signature], witness.",
-   "people": "David Ezra; Gershon Tesser; Chana Tesser; Joseph Ezra (also Geler/Geller); Hence Wurzel; Moses Goldberg; Osiah Baumgarten; Marcus Kleinman",
+   "people": "David Tesser; Gershon Tesser; Chana Tesser; Joseph Ezra (also Geler/Geller); Hence Wurzel; Moses Goldberg; Osiah Baumgarten; Marcus Kleinman",
    "phonetic": "040000 049000 084000 147000 349000 373000 460000 470000 545600 560000 564000 565000 583795 586600 589589 594560 640000 694000 695400 748000 765936 794800"
   },
   {
@@ -49151,8 +49151,8 @@
    "number": "22",
    "summary": "Birth 22/1904: Ephraim",
    "prose": "Ephraim Male Legitimate 6 Aug 1904 Nawsie Brzosteckie, house 1 13 Aug 1904 Nawsie Brzosteckie, house 1 Nissen Thau, land tennant in Nawsie Brzosteckie Chaya Sarah, called Sarah, daughter of Chiel Ader, innkeeper in Czermna, and Hannah Beila, called Beila, nee Kleinman Osiah Baumgarten owner of a cloth store in Brzostek, witness. Elias Singer, leather dealer in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Jodlowa 30 Sep 1900",
-   "people": "Ephraim Tal; Nissen Thau; Sarah Ader, married name Bieder; Chiel Ader; Beila Tratner; Osiah Baumgarten; Elias Singer; Marcus Kleinman",
-   "phonetic": "039000 040000 079600 084000 300000 380000 393690 465900 480000 490000 580000 586600 600000 646000 693000 694000 695400 739000 765936 780000"
+   "people": "Ephraim Thau; Nissen Thau; Sarah Ader, married name Bieder; Chiel Ader; Beila Tratner; Osiah Baumgarten; Elias Singer; Marcus Kleinman",
+   "phonetic": "039000 040000 079600 084000 300000 393690 465900 480000 490000 580000 586600 600000 646000 693000 694000 695400 739000 765936 780000"
   },
   {
    "id": "b-1904-23",
@@ -52286,8 +52286,8 @@
    "number": "18",
    "summary": "Birth 18/1913: Yenta",
    "prose": "Yenta Female Legitimate 3 Oct 1913 Siedliska, house 48 4 Oct 1913 Siedliska, house 48 Moses Wrobel, false Propker, without occupation, currently in America Zipporah Birn, unemployed, daughter of Marcus Birn, former innkeeper in Siedliska and Beila nee Sperber. Moses Schwarz, merchant in Brzostek, witness. Wolf Steiner, schames in Brzostek, witness. Marcus Kleinman, name-giver in Brzostek Marriage in Siedliska. Marriage register T.II st.143 pos.12.",
-   "people": "Yenta Wrobel; Moses Wrobel; Zipporah Birn; Marcus Birn; Beila Sperber; Moses Schwarz; Wolf Steiner; Marcus Kleinman",
-   "phonetic": "163000 269000 474000 479000 479400 479790 586600 640000 694000 695400 780000 787000 796000 797800"
+   "people": "Yenta Wrobel; Moses Propker; Zipporah Birn; Marcus Birn; Beila Sperber; Moses Schwarz; Wolf Steiner; Marcus Kleinman",
+   "phonetic": "163000 269000 474000 479000 479400 479790 586600 640000 694000 695400 780000 787000 796000 797590 797800"
   },
   {
    "id": "b-1913-19",
@@ -52803,7 +52803,7 @@
    "number": "4",
    "summary": "Birth 4/1916: Aba",
    "prose": "Aba Male Illegitimate 2 April 1916 Brzostek, house 8 9 April 1916 Brzostek, house 8 None Miriam, illegitimate daughter of Beila Leah Mass, without profession, in Brzostek Solomon Karpf, timber dealer in Brzostek, witness. Leib Orner, merchant in Brzostek, witness. Marcus Kleinman Josefa Lisowa",
-   "people": "Aba Mass; Chaim Panzer; Miriam Mass; Beila Leah Mass; Solomon Karpf; Leib Orner; Marcus Kleinman",
+   "people": "Aba Panzer; Chaim Panzer; Miriam Mass; Beila Leah Mass; Solomon Karpf; Leib Orner; Marcus Kleinman",
    "phonetic": "070000 096900 460000 486000 560000 586600 597000 640000 694000 695400 696000 764900 780000 800000 870000"
   },
   {
@@ -58677,8 +58677,8 @@
    "number": "1",
    "summary": "Marriage 1/1901: Chiel Roth & Beila Schiff",
    "prose": "3 January 1901 Brzostek Chiel Schiff, called Roth, born and residing in Januszkowice, son of Mojzesz Roth and Rojza Schiff, former innkeepers in Januszkowice Beila Schiff, born in Żabno, daughter of Hersch and Golda Schiff, without a profession Judah Leib Wolkenfeld Markus Kleinman (Schächter) in Brzostek, witness. Chaim Galizer (Schächter) in Brzostek, witness. Remarks: The capacity for the marriage entered alongside rests on [the registrar's] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate, as officiating at the wedding.",
-   "people": "Chiel Roth; Beila Schiff; Moses Neuman; Rosa Schiff; Hersch Schiff; Golda Schiff; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
-   "phonetic": "130000 430000 460000 470000 480000 540000 545000 560000 580000 583000 584900 586600 594000 594500 600000 640000 694000 695400 780000 785678 870000 930000 940000"
+   "people": "Chiel Roth; Beila Schiff; Rosa Schiff; Hersch Schiff; Golda Schiff; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
+   "phonetic": "130000 430000 460000 470000 480000 540000 545000 560000 580000 583000 584900 586600 594000 594500 694000 695400 780000 785678 870000 930000 940000"
   },
   {
    "id": "m-1901-2",
@@ -59302,9 +59302,9 @@
    "book": "marriage",
    "year": 1906,
    "number": "12",
-   "summary": "Marriage 12/1906: Moses Wrobel & Zipporah Birn",
+   "summary": "Marriage 12/1906: Moses Propker & Zipporah Birn",
    "prose": "7 March 1906 Siedliska Mojzesz Wrobel, false Propker, born in Lubatówka ad Dukla, Krosno district, cattle dealer, illegitimate son of Mendel Propker, propinator in Lubatówka and Kreindel nee Wrobel Cypre Birn, born in Siedliska, daughter of Markus Birn, a propinator in Siedliska, and Beila, née Sperber Judah Leib Wolkenfeld Nechemie Storch m.p. [signed in the original], tavern keeper in Brzostek, witness. Markus Dawid Hirsch m.p. [signed in the original], tavern keeper in Brzostek, witness. Remarks: Late entry made on the basis of the rescripts of the District Office (Starostwo) of 6 Mar 1908, ref. no. 1689, and of 28 Apr 1908, ref. no. 6562. Documents of the groom: birth certificate dated Dukla, 3 Feb 1906, no. 42; certificate of the banns of 4 Mar 1906, no. 71; military passport shown. For the bride, this registry's own birth book, vol. II, p. 193, no. 30, of 1886. The banns announced; the bride's father's consent to the marri[age; the rest is cut off at the edge of the photo]. In the bottom margin: I have entered [this] late (ref. no. 1065[1?]/912). In the officiant column: [struck through: Nechemie Storch m.p., tavern keeper[?] in Brzostek] corr. [initials, illegible].",
-   "people": "Moses Wrobel; Zipporah Birn; Mendel Propker; Kreindel Wrobel; Marcus Birn; Beila Sperber; Nechemje Storch; David Hirsch; Judah Leib Wolkenfeld",
+   "people": "Moses Propker; Zipporah Birn; Mendel Propker; Kreindel Wrobel; Marcus Birn; Beila Sperber; Nechemje Storch; David Hirsch; Judah Leib Wolkenfeld",
    "phonetic": "130000 294000 295000 373000 430000 479000 479790 540000 545000 594000 594500 596380 638000 640000 646100 646400 656100 656400 694000 695400 780000 785678 796000 797590 797800 870000"
   },
   {
@@ -60919,10 +60919,10 @@
    "book": "marriage",
    "year": 1935,
    "number": "3",
-   "summary": "Marriage 3/1935: Ephraim Tal & Esther Licht",
+   "summary": "Marriage 3/1935: Ephraim Thau & Esther Licht",
    "prose": "4 March 1935 Brzostek Efraim Thau, goes by Tal, born in Brzostek and currently lives in Paris, son of the deceased Nisan Thau, former leaseholder of a farm in Nawsie Brzosteckie and Chaja Sara, called Sara, Ader Estera Licht, born in Brzostek and lives here, daughter of the deceased Lazar Licht former owner of real estate in Brzostek and Dwora nee Kainer Chaim Wolkenfeld Herz Parnes, cantor in Brzostek, witness. Abraham Barber, cantor in Brzostek, witness. groom 6 Aug 1904, bride 1900. Remarks: Documents of the groom: this registry's own birth book, vol. III, [page not written or lost in the binding], no. 22; and a certificate of the Emigration Presidium[?] in Jerusalem of 9 Feb 1926, and of the Consulate General of the Polish Republic in Jerusalem of 10 Apr 1928, ref. no. 13/0/1[2?]/2, N. 132/28, that the surname was changed from Thau to Tal; certificate of the Ministry[?] in Paris of 4 Apr 1934, ref. no. 603658, that he is single. For the bride: this registry's own birth book, vol. III, p. 87, no. [not legible]; and the notice of the Rabbinate.",
-   "people": "Ephraim Tal; Esther Licht; Nissen Thau; Sarah Ader, married name Bieder; Lazar Licht; Deborah Kainer; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
-   "phonetic": "039000 043590 079600 300000 379000 380000 459000 460000 490000 540000 545000 560000 569000 594000 594500 600000 646000 673800 693000 739000 785678 796400 797900 843000 849000 853000"
+   "people": "Ephraim Thau; Esther Licht; Nissen Thau; Sarah Ader, married name Bieder; Lazar Licht; Deborah Kainer; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
+   "phonetic": "039000 043590 079600 300000 379000 459000 460000 490000 540000 545000 560000 569000 594000 594500 600000 646000 673800 693000 739000 785678 796400 797900 843000 849000 853000"
   },
   {
    "id": "m-1935-4",
@@ -61128,10 +61128,10 @@
    "book": "marriage",
    "year": 1938,
    "number": "4",
-   "summary": "Marriage 4/1938: David Ezra & Hannah Friedenbach",
+   "summary": "Marriage 4/1938: David Tesser & Hannah Friedenbach",
    "prose": "8 May 1938 Brzostek Dawid Ezry, merchant in Wola Brzostecka, illegitimate son of Chana Ezry, famrer in Wola Brzostecka Chana Friedenbach, daughter of Israel Friedenbach and Sara Mindla nee Freiberger in Brzostek Chaim Wolkenfeld Herz Parnes, cantor in Brzostek, witness. Abraham Barber, cantor in Brzostek, witness. groom 14 may 1898, bride 18 dec 1904. Remarks: Documents of the groom: this registry's book, vol. III, p. 68, no. 39. Documents of the bride: this registry's book, vol. III, p. 124, no. 35; and the banns three times, and notices of the rabbinate.",
-   "people": "David Ezra; Hannah Friedenbach; Chana Tesser; Israel Friedenbach; Sarah Mindla Freiberger; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
-   "phonetic": "049000 049800 349000 373000 459000 460000 490000 540000 545000 560000 594000 594500 638000 673800 785678 793674 793675 796400 797900 797959"
+   "people": "David Tesser; Hannah Friedenbach; Chana Tesser; Israel Friedenbach; Sarah Mindla Freiberger; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
+   "phonetic": "049800 349000 373000 459000 460000 490000 540000 545000 560000 594000 594500 638000 673800 785678 793674 793675 796400 797900 797959"
   },
   {
    "id": "m-1938-5",

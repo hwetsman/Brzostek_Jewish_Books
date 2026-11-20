@@ -51091,12 +51091,8 @@
   "spouse_names": [
    "Rosa Schiff"
   ],
-  "children_ids": [
-   "P2009"
-  ],
-  "children_names": [
-   "Chiel Schiff/Roth"
-  ],
+  "children_ids": [],
+  "children_names": [],
   "in_area": "IN_AREA",
   "refs": [
    {
@@ -51106,10 +51102,6 @@
    {
     "record_id": "d-1913-7",
     "role": "Decedent"
-   },
-   {
-    "record_id": "m-1901-1",
-    "role": "GF"
    }
   ],
   "external_resources": null,
@@ -51119,12 +51111,6 @@
      "form": "Moses (no surname written; child's birth entry)",
      "rids": [
       "b-1896-16"
-     ]
-    },
-    {
-     "form": "Moses Roth",
-     "rids": [
-      "m-1901-1"
      ]
     },
     {
@@ -51143,8 +51129,7 @@
    ],
    "surnames": [
     "Fenechel",
-    "Neuman",
-    "Roth"
+    "Neuman"
    ],
    "born": {
     "rid": "b-1896-16",
@@ -51164,10 +51149,7 @@
    "birth_date_text": null,
    "death_date_text": null
   },
-  "unions": [],
-  "partner_groups": {
-   "P2008": "unclear"
-  }
+  "unions": []
  },
  {
   "id": "P0408",
@@ -84798,7 +84780,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Esther Licht, married name Tal",
+  "heading_name": "Esther Licht, married name Thau",
   "partner_groups": {
    "P0902": "1"
   }
@@ -97257,7 +97239,7 @@
   "legal_given": "Ephraim",
   "common_given": "Ephraim",
   "legal_surname": "Thau",
-  "common_surname": "Tal",
+  "common_surname": "Thau",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -100975,7 +100957,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Friedenbach, married name Ezra",
+  "heading_name": "Hannah Friedenbach, married name Tesser",
   "partner_groups": {
    "P1583": "1"
   }
@@ -139177,7 +139159,7 @@
   "legal_given": "Moses",
   "common_given": "Moses",
   "legal_surname": "Wrobel",
-  "common_surname": "Wrobel",
+  "common_surname": "Propker",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -139356,7 +139338,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Zipporah Birn, married name Wrobel",
+  "heading_name": "Zipporah Birn, married name Propker",
   "partner_groups": {
    "P1412": "1"
   }
@@ -144494,8 +144476,8 @@
   "id": "P1482",
   "legal_given": "Aba",
   "common_given": "Aba",
-  "legal_surname": null,
-  "common_surname": "Mass",
+  "legal_surname": "Mass",
+  "common_surname": "Panzer",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -144535,7 +144517,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Mass"
+    "Mass",
+    "Panzer"
    ],
    "born": {
     "rid": "b-1916-4",
@@ -151489,7 +151472,7 @@
   "legal_given": "David",
   "common_given": "David",
   "legal_surname": "Ezra",
-  "common_surname": "Ezra",
+  "common_surname": "Tesser",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -174305,10 +174288,7 @@
    "birth_date_text": null,
    "death_date_text": "deceased before 1901"
   },
-  "unions": [],
-  "partner_groups": {
-   "P0407": "unclear"
-  }
+  "unions": []
  },
  {
   "id": "P2009",
@@ -174328,7 +174308,7 @@
   "birth_legitimacy": null,
   "marital_status_at_marriage": "Single (m-1901-1)",
   "marital_status_at_death": null,
-  "father_id": "P0407",
+  "father_id": null,
   "father_name": "Moses Roth",
   "mother_id": "P2008",
   "mother_name": "Rosa Schiff",

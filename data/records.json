@@ -17895,7 +17895,7 @@
    {
     "role": "Child",
     "person_id": "P1583",
-    "display": "David Ezra",
+    "display": "David Tesser",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -33572,7 +33572,7 @@
    {
     "role": "Child",
     "person_id": "P0902",
-    "display": "Ephraim Tal",
+    "display": "Ephraim Thau",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -61006,9 +61006,9 @@
    {
     "role": "Father",
     "person_id": "P1412",
-    "display": "Moses Wrobel",
+    "display": "Moses Propker",
     "role_label": "Father",
-    "written_as": "Moses Propker",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -65482,7 +65482,7 @@
    {
     "role": "Child",
     "person_id": "P1482",
-    "display": "Aba Mass",
+    "display": "Aba Panzer",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -95645,14 +95645,6 @@
     "linked_inline": true
    },
    {
-    "role": "GF",
-    "person_id": "P0407",
-    "display": "Moses Neuman",
-    "role_label": "Groom's father",
-    "written_as": "Moses Roth",
-    "linked_inline": false
-   },
-   {
     "role": "GM",
     "person_id": "P2008",
     "display": "Rosa Schiff",
@@ -95702,6 +95694,7 @@
    }
   ],
   "unlinked_roles": [
+   "GF",
    "prose"
   ],
   "translator_note": null,
@@ -101640,9 +101633,9 @@
    {
     "role": "Groom",
     "person_id": "P1412",
-    "display": "Moses Wrobel",
+    "display": "Moses Propker",
     "role_label": "Groom",
-    "written_as": "Moses Propker",
+    "written_as": null,
     "linked_inline": false
    },
    {
@@ -117386,9 +117379,9 @@
    {
     "role": "Groom",
     "person_id": "P0902",
-    "display": "Ephraim Tal",
+    "display": "Ephraim Thau",
     "role_label": "Groom",
-    "written_as": null,
+    "written_as": "Ephraim Tal",
     "linked_inline": false
    },
    {
@@ -119428,9 +119421,9 @@
    {
     "role": "Groom",
     "person_id": "P1583",
-    "display": "David Ezra",
+    "display": "David Tesser",
     "role_label": "Groom",
-    "written_as": null,
+    "written_as": "David Ezra",
     "linked_inline": false
    },
    {
