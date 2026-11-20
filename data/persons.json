@@ -28589,7 +28589,7 @@
   "id": "P0188",
   "legal_given": "Simon",
   "common_given": "Simon",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Pencier",
   "maiden_surname": null,
   "married_surname": null,
@@ -28630,8 +28630,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Fichner",
-    "Pencier"
+    "Pencier",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1894-18",
@@ -32495,7 +32495,7 @@
   "id": "P0222",
   "legal_given": "Golda Necha",
   "common_given": "Golda Necha",
-  "legal_surname": "Walter",
+  "legal_surname": "Freiberger",
   "common_surname": "Steinhorn",
   "maiden_surname": null,
   "married_surname": null,
@@ -32536,8 +32536,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Steinhorn",
-    "Walter"
+    "Freiberger",
+    "Steinhorn"
    ],
    "born": {
     "rid": "b-1894-26",
@@ -36133,7 +36133,7 @@
   "id": "P0257",
   "legal_given": "Hinde",
   "common_given": "Hinde",
-  "legal_surname": "Gottlieb",
+  "legal_surname": "Windstroh",
   "common_surname": "Windstroh",
   "maiden_surname": "Gottlieb",
   "married_surname": "Guttstein",
@@ -41833,7 +41833,7 @@
   "id": "P0306",
   "legal_given": "Israel Hillel",
   "common_given": "Israel Hillel",
-  "legal_surname": "Freiberger",
+  "legal_surname": "Bakon",
   "common_surname": "Abrahamowicz",
   "maiden_surname": null,
   "married_surname": null,
@@ -41875,7 +41875,7 @@
    "quotes": [],
    "surnames": [
     "Abrahamowicz",
-    "Freiberger"
+    "Bakon"
    ],
    "born": {
     "rid": "b-1895-17",
@@ -45751,7 +45751,7 @@
   "id": "P0346",
   "legal_given": "Joseph",
   "common_given": "Joseph",
-  "legal_surname": "Wolmuth",
+  "legal_surname": "Stecher",
   "common_surname": "Schonwetter",
   "maiden_surname": null,
   "married_surname": null,
@@ -45793,7 +45793,7 @@
    "quotes": [],
    "surnames": [
     "Schonwetter",
-    "Wolmuth"
+    "Stecher"
    ],
    "born": {
     "rid": "b-1895-26",
@@ -50466,7 +50466,7 @@
   "id": "P0401",
   "legal_given": "Moses Beer Chiel",
   "common_given": "Chiel",
-  "legal_surname": "Slanger",
+  "legal_surname": "Offner",
   "common_surname": "Diamant",
   "maiden_surname": null,
   "married_surname": null,
@@ -50508,7 +50508,7 @@
    "quotes": [],
    "surnames": [
     "Diamant",
-    "Slanger"
+    "Offner"
    ],
    "born": {
     "rid": "b-1896-14",
@@ -50640,7 +50640,7 @@
   "id": "P0403",
   "legal_given": "Ruchla",
   "common_given": "Ruchla",
-  "legal_surname": "Krautblatt",
+  "legal_surname": "Offner",
   "common_surname": "Offner",
   "maiden_surname": null,
   "married_surname": null,
@@ -50727,7 +50727,6 @@
    ],
    "surnames": [
     "Diamant",
-    "Krautblatt",
     "Offner",
     "Slanger"
    ],
@@ -59298,7 +59297,7 @@
   "id": "P0487",
   "legal_given": "Leiser",
   "common_given": "Leiser",
-  "legal_surname": "Freiberger",
+  "legal_surname": "Bakon",
   "common_surname": "Abrahamowicz",
   "maiden_surname": null,
   "married_surname": null,
@@ -59340,7 +59339,7 @@
    "quotes": [],
    "surnames": [
     "Abrahamowicz",
-    "Freiberger"
+    "Bakon"
    ],
    "born": {
     "rid": "b-1897-13",
@@ -63722,7 +63721,7 @@
   "id": "P0524",
   "legal_given": "Mendel",
   "common_given": "Mendel",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Pencier",
   "maiden_surname": null,
   "married_surname": null,
@@ -63763,8 +63762,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Fichner",
-    "Pencier"
+    "Pencier",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1897-25",
@@ -66297,7 +66296,7 @@
   "id": "P0551",
   "legal_given": "Shaya Heschel",
   "common_given": "Shaya Heschel",
-  "legal_surname": "Wolmuth",
+  "legal_surname": "Stecher",
   "common_surname": "Schonwetter",
   "maiden_surname": null,
   "married_surname": null,
@@ -66339,7 +66338,7 @@
    "quotes": [],
    "surnames": [
     "Schonwetter",
-    "Wolmuth"
+    "Stecher"
    ],
    "born": {
     "rid": "b-1898-6",
@@ -66588,7 +66587,7 @@
   "id": "P0554",
   "legal_given": "Tyla",
   "common_given": "Tyla",
-  "legal_surname": "Zimmerman",
+  "legal_surname": "Korzennik",
   "common_surname": "Korzennik",
   "maiden_surname": "Zimmerman",
   "married_surname": "Landau",
@@ -68749,7 +68748,7 @@
   "id": "P0576",
   "legal_given": "Esther",
   "common_given": "Esther",
-  "legal_surname": "Berger",
+  "legal_surname": "List",
   "common_surname": "List",
   "maiden_surname": null,
   "married_surname": null,
@@ -74304,7 +74303,7 @@
   "id": "P0642",
   "legal_given": "Sarah Mindla",
   "common_given": "Sarah Mindla",
-  "legal_surname": "Bakon",
+  "legal_surname": "Freiberger",
   "common_surname": "Freiberger",
   "maiden_surname": null,
   "married_surname": null,
@@ -78723,7 +78722,7 @@
   "id": "P0690",
   "legal_given": "Shayndel",
   "common_given": "Shayndel",
-  "legal_surname": "Kalb",
+  "legal_surname": "Lambek",
   "common_surname": "Lambek",
   "maiden_surname": null,
   "married_surname": null,
@@ -79346,7 +79345,7 @@
   "id": "P0695",
   "legal_given": "Jacob Isaac",
   "common_given": "Jacob Isaac",
-  "legal_surname": "Walter",
+  "legal_surname": "Freiberger",
   "common_surname": "Steinhorn",
   "maiden_surname": null,
   "married_surname": null,
@@ -79387,8 +79386,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Steinhorn",
-    "Walter"
+    "Freiberger",
+    "Steinhorn"
    ],
    "born": {
     "rid": "b-1899-38",
@@ -79409,7 +79408,7 @@
   "id": "P0696",
   "legal_given": "Judah",
   "common_given": "Judah",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Pencier",
   "maiden_surname": null,
   "married_surname": null,
@@ -79450,8 +79449,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Fichner",
-    "Pencier"
+    "Pencier",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1899-39",
@@ -81107,7 +81106,7 @@
   "id": "P0712",
   "legal_given": "Mindla",
   "common_given": "Mindla",
-  "legal_surname": "Weintraub",
+  "legal_surname": "List",
   "common_surname": "Weintraub",
   "maiden_surname": null,
   "married_surname": null,
@@ -81148,6 +81147,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "List",
     "Weintraub"
    ],
    "born": {
@@ -90207,7 +90207,7 @@
   "id": "P0819",
   "legal_given": "Osiah Towel",
   "common_given": "Osiah Towel",
-  "legal_surname": "Kolber",
+  "legal_surname": "Lambek",
   "common_surname": "Amsterdam",
   "maiden_surname": null,
   "married_surname": null,
@@ -90249,7 +90249,8 @@
    "quotes": [],
    "surnames": [
     "Amsterdam",
-    "Kolber"
+    "Kolber",
+    "Lambek"
    ],
    "born": {
     "rid": "b-1902-6",
@@ -94906,7 +94907,7 @@
   "id": "P0875",
   "legal_given": "Feige",
   "common_given": "Feige",
-  "legal_surname": "Kolber",
+  "legal_surname": "Lambek",
   "common_surname": "Amsterdam",
   "maiden_surname": null,
   "married_surname": null,
@@ -94948,7 +94949,8 @@
    "quotes": [],
    "surnames": [
     "Amsterdam",
-    "Kolber"
+    "Kolber",
+    "Lambek"
    ],
    "born": {
     "rid": "b-1904-10",
@@ -121203,7 +121205,7 @@
   "id": "P1174",
   "legal_given": "Aidla",
   "common_given": "Aidla",
-  "legal_surname": "Nechemje",
+  "legal_surname": "Leiman",
   "common_surname": "Braunheim",
   "maiden_surname": null,
   "married_surname": null,
@@ -121245,7 +121247,7 @@
    "quotes": [],
    "surnames": [
     "Braunheim",
-    "Nechemje"
+    "Leiman"
    ],
    "born": {
     "rid": "b-1909-8",
@@ -130868,7 +130870,7 @@
   "id": "P1294",
   "legal_given": "Ruda",
   "common_given": "Ruda",
-  "legal_surname": "Nechemje",
+  "legal_surname": "Leiman",
   "common_surname": "Nechemje",
   "maiden_surname": null,
   "married_surname": null,
@@ -130909,6 +130911,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Leiman",
     "Nechemje"
    ],
    "born": {
@@ -133684,7 +133687,7 @@
   "id": "P1331",
   "legal_given": "Hene",
   "common_given": "Hene",
-  "legal_surname": "Friedenbach",
+  "legal_surname": "Freiberger",
   "common_surname": "Friedenbach",
   "maiden_surname": null,
   "married_surname": null,
@@ -133725,6 +133728,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Freiberger",
     "Friedenbach"
    ],
    "born": {
@@ -187978,7 +187982,7 @@
   "id": "P2214",
   "legal_given": "Rachel",
   "common_given": "Rachel",
-  "legal_surname": "Friedenbach",
+  "legal_surname": "Freiberger",
   "common_surname": "Friedenbach",
   "maiden_surname": null,
   "married_surname": null,
@@ -188019,6 +188023,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Freiberger",
     "Friedenbach"
    ],
    "born": {
@@ -214320,7 +214325,7 @@
   "id": "P2575",
   "legal_given": "Hannah",
   "common_given": "Hannah",
-  "legal_surname": "Sperber",
+  "legal_surname": "Hirsch",
   "common_surname": "Hirsch",
   "maiden_surname": "Hirsch",
   "married_surname": null,
@@ -214387,7 +214392,6 @@
    ],
    "surnames": [
     "Hirsch",
-    "Sperber",
     "Weitz"
    ],
    "born": null,
@@ -214890,7 +214894,7 @@
   "id": "P2583",
   "legal_given": "Rivka",
   "common_given": "Rivka",
-  "legal_surname": "Guttstein",
+  "legal_surname": "Windstroh",
   "common_surname": "Guttstein",
   "maiden_surname": null,
   "married_surname": null,
@@ -214931,7 +214935,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Guttstein"
+    "Guttstein",
+    "Windstroh"
    ],
    "born": {
     "rid": "b-1895-1",

@@ -9811,7 +9811,7 @@
     "display": "Hendela Sperber",
     "role_label": "Mother's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -9844,7 +9844,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0082.html\" data-pid=\"P0082\">Hersch Weitz</a>, industrialist in Klecie",
-   "Mother (prose)": "<a href=\"../person/P2575.html\" data-pid=\"P2575\">Hannah</a>, daughter of <a href=\"../person/P0430.html\" data-pid=\"P0430\">Marcus David Hirsch</a>, called <a href=\"../person/P0430.html\" data-pid=\"P0430\">David</a>, grain dealter in Brzostek, and Hinda nee Sperber.",
+   "Mother (prose)": "<a href=\"../person/P2575.html\" data-pid=\"P2575\">Hannah</a>, daughter of <a href=\"../person/P0430.html\" data-pid=\"P0430\">Marcus David Hirsch</a>, called <a href=\"../person/P0430.html\" data-pid=\"P0430\">David</a>, grain dealter in Brzostek, and Hinda nee <a href=\"../person/P0431.html\" data-pid=\"P0431\">Sperber</a>.",
    "Witnesses (prose)": "<a href=\"../person/P0302.html\" data-pid=\"P0302\">Jacob Rauch</a>, maintainer of the Jewish School in Brzostek, witness. <a href=\"../person/P1969.html\" data-pid=\"P1969\">Fishel Samul</a>, overseer of the mill in Klecie, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Notes": "The undersigned acknowledges paternity: <a href=\"../person/P0082.html\" data-pid=\"P0082\">Hersch Weitz</a> [signature]. <a href=\"../person/P0302.html\" data-pid=\"P0302\">Jacób Rauch</a> [signature], witness."
@@ -13984,7 +13984,7 @@
     "display": "Hendela Sperber",
     "role_label": "Mother's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -14017,7 +14017,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0532.html\" data-pid=\"P0532\">Shaya Baumgarten</a>, owner of a cloth store in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0533.html\" data-pid=\"P0533\">Yehudit</a>, daughter of <a href=\"../person/P0430.html\" data-pid=\"P0430\">Marcus David Hirsch</a>, called <a href=\"../person/P0430.html\" data-pid=\"P0430\">David</a>, innkeeper in Brzostek, and Hendla nee Sperber",
+   "Mother (prose)": "<a href=\"../person/P0533.html\" data-pid=\"P0533\">Yehudit</a>, daughter of <a href=\"../person/P0430.html\" data-pid=\"P0430\">Marcus David Hirsch</a>, called <a href=\"../person/P0430.html\" data-pid=\"P0430\">David</a>, innkeeper in Brzostek, and Hendla nee <a href=\"../person/P0431.html\" data-pid=\"P0431\">Sperber</a>",
    "Witnesses (prose)": "<a href=\"../person/P0082.html\" data-pid=\"P0082\">Hersch Weitz</a>, miller in Klecie, witness. <a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a>, leather dealer in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Katarzyna Kuczeńska, midwife in Brzostek",
@@ -14904,7 +14904,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P2033.html\" data-pid=\"P2033\">Abraham Schonwetter</a>, farmer in Kamienica Dolna",
-   "Mother (prose)": "<a href=\"../person/P0348.html\" data-pid=\"P0348\">Golda</a>, daughter of <a href=\"../person/P0551.html\" data-pid=\"P0551\">Shaya Heschel Wolmuth</a>, called Heschel, industrialist in Zmigrod, and <a href=\"../person/P0350.html\" data-pid=\"P0350\">Sima</a> nee Hirsch",
+   "Mother (prose)": "<a href=\"../person/P0348.html\" data-pid=\"P0348\">Golda</a>, daughter of <a href=\"../person/P0551.html\" data-pid=\"P0551\">Shaya Heschel</a> Wolmuth, called Heschel, industrialist in Zmigrod, and <a href=\"../person/P0350.html\" data-pid=\"P0350\">Sima</a> nee Hirsch",
    "Witnesses (prose)": "<a href=\"../person/P0014.html\" data-pid=\"P0014\">Abraham Plattner</a>, owner of a spice shop in Brzostek, witness. <a href=\"../person/P0488.html\" data-pid=\"P0488\">Moses Schwwarz</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Katarzyna Kuczeńska, midwife in Brzostek",
@@ -74166,7 +74166,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P0809.html\" data-pid=\"P0809\">Israel Pencier</a>, son of <a href=\"../person/P0189.html\" data-pid=\"P0189\">Aron Pencier</a>, master shoemaker, in Brzostek and <a href=\"../person/P0190.html\" data-pid=\"P0190\">Malka Reisla</a>, called <a href=\"../person/P0190.html\" data-pid=\"P0190\">Reisla</a>, <a href=\"../person/P0190.html\" data-pid=\"P0190\">Rubel</a>",
+   "Decedent (prose)": "<a href=\"../person/P0809.html\" data-pid=\"P0809\">Israel Pencier</a>, son of <a href=\"../person/P0189.html\" data-pid=\"P0189\">Aron Pencier</a>, master shoemaker, in Brzostek and <a href=\"../person/P0190.html\" data-pid=\"P0190\">Malka Reisla</a>, called <a href=\"../person/P0190.html\" data-pid=\"P0190\">Reisla</a>, Rubel",
    "Cause of Death": "Bronchitis"
   }
  },
@@ -98608,7 +98608,7 @@
     "display": "Hendela Sperber",
     "role_label": "Bride's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -98641,7 +98641,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P0860.html\" data-pid=\"P0860\">Jehosua Blum</a>, born in Ryglice, Imperial-Royal, Tarnów district, and residing here, without profession, son of <a href=\"../person/P2702.html\" data-pid=\"P2702\">Kalman Blum</a>, Merchant, and <a href=\"../person/P2060.html\" data-pid=\"P2060\">Gittla</a>, nee <a href=\"../person/P2060.html\" data-pid=\"P2060\">Hacke</a>, residing in Ryglice",
-   "Bride (prose)": "Marjem Hirsch, born in Brzostek, daughter of Markus Dawid, called Dawid, Hirsch, a merchant in Brzostek, and Hendla, née Sperber",
+   "Bride (prose)": "Marjem Hirsch, born in Brzostek, daughter of Markus Dawid, called Dawid, Hirsch, a merchant in Brzostek, and Hendla, née <a href=\"../person/P0431.html\" data-pid=\"P0431\">Sperber</a>",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>, Schächter in Brzostek, witness. <a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman</a>, Schächter in Brzostek, witness.",
    "Notes": "Remarks: The groom&#x27;s birth certificate from the registry district of Ryglice, vol. I, pp. 3–4, no. 3, issued by the Jewish registrar in Tuchów, dated 29 Jul 1902, no. 65; also the certificate of the Imperial-Royal District Office (Starostwo) in Tarnów of 21 Aug 1902, that the military obligation has been fulfilled, draft lot no. 759, no. 158. For the bride, this registry&#x27;s own birth book attests, vol. I, p. 9, no. 98, of [18]74."
@@ -103907,7 +103907,7 @@
     "display": "Hendela Sperber",
     "role_label": "Bride's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -103940,7 +103940,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P1082.html\" data-pid=\"P1082\">Leib Wolf</a>, called <a href=\"../person/P1082.html\" data-pid=\"P1082\">Wolf</a>, Steiner, born in Dukla, no profession, son of Berl Steiner, an industrialist in Dukla, and Chana Ester, called Ester, nee <a href=\"../person/P2158.html\" data-pid=\"P2158\">Grosman</a>",
-   "Bride (prose)": "<a href=\"../person/P1079.html\" data-pid=\"P1079\">Gittla Hirsch</a>, born in Brzostek, daughter of Markus Dawid, called Dawid, Hirsch, a tavern keeper in Brzostek, and Hendla née Sperber",
+   "Bride (prose)": "<a href=\"../person/P1079.html\" data-pid=\"P1079\">Gittla Hirsch</a>, born in Brzostek, daughter of Markus Dawid, called Dawid, Hirsch, a tavern keeper in Brzostek, and Hendla née <a href=\"../person/P0431.html\" data-pid=\"P0431\">Sperber</a>",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman</a>, ritual slaughterer in Brzostek, witness. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz</a>, owner of a mixed-goods business in Brzostek, witness.",
    "Notes": "groom born on 24 Aug 1886 and bride on 16 July 1877. Remarks: Documents of the groom: birth certificate in Dukla, vol. III, p. 194, no. 65; decree of release from paternal authority by the Imperial-Royal District Court in Dukla, 25 Oct 1906, ref. no. Nc I 4/6; certificate of the Imperial-Royal District Office (Starostwo) in Pilzno, 28 Oct 1909, ref. no. 100[?]/66[?], that the military obligation has been fulfilled. For the bride, this registry&#x27;s own book attests, vol. II, p. 5, no. 12, of [18]77; the banns announced, and the notice of the rabbinate."
@@ -104016,7 +104016,7 @@
     "display": "Hendela Sperber",
     "role_label": "Bride's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -104049,7 +104049,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Pinkas <a href=\"../person/P1243.html\" data-pid=\"P1243\">Chaim</a>, called <a href=\"../person/P1243.html\" data-pid=\"P1243\">Chaim</a>, Herbstman, false Stierer, born in Leżajsk, no profession, son of Feiga Herbstman, an industrialist in Leżajsk, and the illegitimate father of <a href=\"../person/P2159.html\" data-pid=\"P2159\">Chiel Stierer</a>, an industrialist there",
-   "Bride (prose)": "<a href=\"../person/P1244.html\" data-pid=\"P1244\">Rosa Hirsch</a>, born in Brzostek to her parents, daughter of Markus Dawid, called Dawid, Hirsch, a tavern keeper in Brzostek, and Hendla née Sperber",
+   "Bride (prose)": "<a href=\"../person/P1244.html\" data-pid=\"P1244\">Rosa Hirsch</a>, born in Brzostek to her parents, daughter of Markus Dawid, called Dawid, Hirsch, a tavern keeper in Brzostek, and Hendla née <a href=\"../person/P0431.html\" data-pid=\"P0431\">Sperber</a>",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman</a>, ritual slaughterer in Brzostek, witness. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz</a>, owner of a mixed-goods business in Brzostek, witness.",
    "Notes": "groom born on 14 Jul 1884 and bride on 14 Jan 1880. Remarks: Documents of the groom: birth certificate in Leżajsk, vol. II, p. 154, no. 90; certificate of the Imperial-Royal Austro-Hungarian Consulate General in Brussels[?], 5 Apr 1907, no. 12262, on the basis of the ruling of the Imperial-Royal Governorship in Lwów, 28 Mar 1907, no. 2582, that he has fulfilled the military obligation. For the bride, this registry&#x27;s own book attests, vol. II, p. 71, no. 2, of [18]80; the banns announced, and the notice of the rabbinate."
@@ -111394,7 +111394,7 @@
     "display": "Shayndel Lambek",
     "role_label": "Bride's mother",
     "written_as": null,
-    "linked_inline": true
+    "linked_inline": false
    },
    {
     "role": "Witness1",
@@ -111427,7 +111427,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Josef Schonwetter, without profession residing in Zawadka Brzostecka, son of Salamon Schonwetter, an inkeeper in Zawadka Brzostecka and Malki nee Amsterdam",
-   "Bride (prose)": "Leja Gitla, called Gitla, Amsterdam, daughter of <a href=\"../person/P0689.html\" data-pid=\"P0689\">Abraham Amsterdam</a>, grain dealer in Brzostek and Scheindli nee <a href=\"../person/P0690.html\" data-pid=\"P0690\">Lambek</a>",
+   "Bride (prose)": "Leja Gitla, called Gitla, Amsterdam, daughter of <a href=\"../person/P0689.html\" data-pid=\"P0689\">Abraham Amsterdam</a>, grain dealer in Brzostek and Scheindli nee Lambek",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0065.html\" data-pid=\"P0065\">Moses Mayer Czopp</a>, merchant in Brzostek, witness. <a href=\"../person/P0697.html\" data-pid=\"P0697\">Mendel Schüss</a>, owner of an iron business in Brzostek, witness.",
    "Notes": "groom 23 Dec 1894, bride 30 Oct 1899. Remarks: For the groom: this registry&#x27;s own birth book, vol. III, p. 30, no. 34; also military service book, District Recruiting Command (P.K.U.) Rzeszów, of 20 Oct[?] 1924, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 77, no. 36; certificates of the banns, and certificates of the rabbinate in Brzostek of 17 Mar 1925."
@@ -112811,7 +112811,7 @@
     "display": "Shayndel Lambek",
     "role_label": "Groom's mother",
     "written_as": null,
-    "linked_inline": true
+    "linked_inline": false
    },
    {
     "role": "BF",
@@ -112859,7 +112859,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "<a href=\"../person/P2358.html\" data-pid=\"P2358\">Mendel Amsterdam</a>, single merchant in Brzostek, currently residing in Magdeburg, son of <a href=\"../person/P0689.html\" data-pid=\"P0689\">Abraham Hersch Amsterdam</a>, recte Kolber, grain dealer in Brzostek and Scheindla nee <a href=\"../person/P0690.html\" data-pid=\"P0690\">Lambek</a>",
+   "Groom (prose)": "<a href=\"../person/P2358.html\" data-pid=\"P2358\">Mendel Amsterdam</a>, single merchant in Brzostek, currently residing in Magdeburg, son of <a href=\"../person/P0689.html\" data-pid=\"P0689\">Abraham Hersch Amsterdam</a>, recte Kolber, grain dealer in Brzostek and Scheindla nee Lambek",
    "Bride (prose)": "Hinde Rywe Baron, single and lilving with her parents, daughter of Chaim Markus Baron, innkeeper in Ulanow and Chaja nee <a href=\"../person/P2360.html\" data-pid=\"P2360\">Birnbaum</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0917.html\" data-pid=\"P0917\">Menasche Amsterdam</a>, egg dealer in Brzostek, witness. <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor in Brzostek, witness.",

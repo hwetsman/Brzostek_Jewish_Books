@@ -183,10 +183,12 @@
  {
   "surname": "Bakon",
   "fname": "Bakon",
-  "count": 8,
+  "count": 10,
   "person_ids": [
+   "P0306",
    "P0308",
    "P0310",
+   "P0487",
    "P0642",
    "P1009",
    "P1010",
@@ -1491,9 +1493,8 @@
  {
   "surname": "Fichner",
   "fname": "Fichner",
-  "count": 27,
+  "count": 24,
   "person_ids": [
-   "P0188",
    "P0190",
    "P0191",
    "P0192",
@@ -1504,12 +1505,10 @@
    "P0374",
    "P0406",
    "P0462",
-   "P0524",
    "P0568",
    "P0569",
    "P0585",
    "P0640",
-   "P0696",
    "P0734",
    "P0786",
    "P0885",
@@ -1649,30 +1648,32 @@
  {
   "surname": "Freiberger",
   "fname": "Freiberger",
-  "count": 25,
+  "count": 27,
   "person_ids": [
+   "P0222",
    "P0224",
-   "P0306",
    "P0308",
    "P0309",
    "P0310",
    "P0398",
-   "P0487",
    "P0490",
    "P0536",
    "P0537",
    "P0642",
    "P0647",
    "P0648",
+   "P0695",
    "P0759",
    "P1008",
    "P1009",
    "P1012",
    "P1057",
    "P1166",
+   "P1331",
    "P1431",
    "P2037",
    "P2038",
+   "P2214",
    "P2281",
    "P2562",
    "P2704"
@@ -3293,9 +3294,8 @@
  {
   "surname": "Krautblatt",
   "fname": "Krautblatt",
-  "count": 5,
+  "count": 4,
   "person_ids": [
-   "P0403",
    "P0405",
    "P2005",
    "P2006",
@@ -3385,11 +3385,13 @@
  {
   "surname": "Lambek",
   "fname": "Lambek",
-  "count": 3,
+  "count": 5,
   "person_ids": [
    "P0690",
    "P0691",
-   "P0692"
+   "P0692",
+   "P0819",
+   "P0875"
   ]
  },
  {
@@ -3543,13 +3545,15 @@
  {
   "surname": "Leiman",
   "fname": "Leiman",
-  "count": 9,
+  "count": 11,
   "person_ids": [
    "P1031",
    "P1032",
    "P1033",
    "P1171",
    "P1173",
+   "P1174",
+   "P1294",
    "P1308",
    "P1309",
    "P1310",
@@ -3649,7 +3653,7 @@
  {
   "surname": "List",
   "fname": "List",
-  "count": 20,
+  "count": 21,
   "person_ids": [
    "P0244",
    "P0245",
@@ -3660,6 +3664,7 @@
    "P0578",
    "P0579",
    "P0667",
+   "P0712",
    "P1006",
    "P1417",
    "P1418",
@@ -4038,7 +4043,7 @@
  {
   "surname": "Nechemje",
   "fname": "Nechemje",
-  "count": 17,
+  "count": 16,
   "person_ids": [
    "P0013",
    "P0623",
@@ -4049,7 +4054,6 @@
    "P1171",
    "P1172",
    "P1173",
-   "P1174",
    "P1294",
    "P1504",
    "P1505",
@@ -4186,8 +4190,9 @@
  {
   "surname": "Offner",
   "fname": "Offner",
-  "count": 7,
+  "count": 8,
   "person_ids": [
+   "P0401",
    "P0403",
    "P0404",
    "P0405",
@@ -4863,8 +4868,9 @@
  {
   "surname": "Rubel",
   "fname": "Rubel",
-  "count": 48,
+  "count": 51,
   "person_ids": [
+   "P0188",
    "P0190",
    "P0192",
    "P0194",
@@ -4880,11 +4886,13 @@
    "P0489",
    "P0490",
    "P0491",
+   "P0524",
    "P0568",
    "P0611",
    "P0624",
    "P0673",
    "P0687",
+   "P0696",
    "P0698",
    "P0699",
    "P0775",
@@ -5734,9 +5742,8 @@
  {
   "surname": "Slanger",
   "fname": "Slanger",
-  "count": 4,
+  "count": 3,
   "person_ids": [
-   "P0401",
    "P0402",
    "P0403",
    "P2410"
@@ -5745,7 +5752,7 @@
  {
   "surname": "Sperber",
   "fname": "Sperber",
-  "count": 50,
+  "count": 49,
   "person_ids": [
    "P0431",
    "P0646",
@@ -5795,7 +5802,6 @@
    "P2336",
    "P2571",
    "P2572",
-   "P2575",
    "P2577"
   ]
  },
@@ -5924,10 +5930,12 @@
  {
   "surname": "Stecher",
   "fname": "Stecher",
-  "count": 3,
+  "count": 5,
   "person_ids": [
+   "P0346",
    "P0348",
    "P0350",
+   "P0551",
    "P2051"
   ]
  },
@@ -6700,9 +6708,8 @@
  {
   "surname": "Walter",
   "fname": "Walter",
-  "count": 29,
+  "count": 27,
   "person_ids": [
-   "P0222",
    "P0224",
    "P0225",
    "P0232",
@@ -6710,7 +6717,6 @@
    "P0427",
    "P0601",
    "P0647",
-   "P0695",
    "P0838",
    "P0839",
    "P0840",
@@ -6995,13 +7001,14 @@
  {
   "surname": "Windstroh",
   "fname": "Windstroh",
-  "count": 5,
+  "count": 6,
   "person_ids": [
    "P0257",
    "P0258",
    "P0259",
    "P0448",
-   "P0644"
+   "P0644",
+   "P2583"
   ]
  },
  {
@@ -7114,13 +7121,11 @@
  {
   "surname": "Wolmuth",
   "fname": "Wolmuth",
-  "count": 5,
+  "count": 3,
   "person_ids": [
-   "P0346",
    "P0348",
    "P0349",
-   "P0350",
-   "P0551"
+   "P0350"
   ]
  },
  {
