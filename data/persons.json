@@ -195933,7 +195933,7 @@
    "P2327"
   ],
   "spouse_names": [
-   "Sarah Kifel née Szydlowskich"
+   "Sarah Kifel née Szydlowska"
   ],
   "children_ids": [
    "P2328"
@@ -195986,8 +195986,8 @@
   "id": "P2327",
   "legal_given": "Sarah",
   "common_given": "Sarah",
-  "legal_surname": "Szydlowskich",
-  "common_surname": "Szydlowskich",
+  "legal_surname": "Szydlowska",
+  "common_surname": "Szydlowska",
   "maiden_surname": "Szydlowska",
   "married_surname": null,
   "sex": "F",
@@ -196036,8 +196036,7 @@
    "quotes": [],
    "surnames": [
     "Kifel",
-    "Szydlowska",
-    "Szydlowskich"
+    "Szydlowska"
    ],
    "born": null,
    "died": null,
@@ -196081,7 +196080,7 @@
   "father_id": "P2326",
   "father_name": "Solomon Hersch Kifel",
   "mother_id": "P2327",
-  "mother_name": "Sarah Kifel née Szydlowskich",
+  "mother_name": "Sarah Kifel née Szydlowska",
   "spouse_ids": [
    "P0574"
   ],
