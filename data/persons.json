@@ -71891,7 +71891,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pessel Aron, married name Klausner",
+  "heading_name": "Pessel Aron, married name Kornfeld",
   "partner_groups": {
    "P2333": "1"
   }
@@ -123199,7 +123199,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Storch, married name Kolber",
+  "heading_name": "Hannah Storch, married name Amsterdam",
   "partner_groups": {
    "P2472": "1"
   }
@@ -190406,7 +190406,7 @@
   "legal_given": "Moses",
   "common_given": "Moses",
   "legal_surname": "Hornik",
-  "common_surname": "Heffner",
+  "common_surname": "Hornik",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -190552,7 +190552,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Zeughauser, married name Heffner",
+  "heading_name": "Rivka Zeughauser, married name Hornik",
   "partner_groups": {
    "P2248": "1"
   }
@@ -196307,8 +196307,8 @@
   "id": "P2333",
   "legal_given": "Chaskel",
   "common_given": "Chaskel",
-  "legal_surname": "Klausner",
-  "common_surname": "Klausner",
+  "legal_surname": "Thum",
+  "common_surname": "Kornfeld",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -196318,7 +196318,7 @@
   "occupations": null,
   "residences": "Wola Brzostecka",
   "status": "M",
-  "birth_legitimacy": null,
+  "birth_legitimacy": "Born illegitimate as Klausner (Mielec, 1899); legitimated by his parents' marriage, rescript of 30 Jan 1930 (noted in m-1926-1): surname Tum",
   "marital_status_at_marriage": "Single (m-1926-1)",
   "marital_status_at_death": null,
   "father_id": "P0776",
@@ -196358,7 +196358,9 @@
     }
    ],
    "surnames": [
-    "Klausner"
+    "Klausner",
+    "Kornfeld",
+    "Thum"
    ],
    "born": null,
    "died": null,
@@ -206306,7 +206308,7 @@
   "legal_given": "Moses",
   "common_given": "Moses",
   "legal_surname": "Kolber",
-  "common_surname": "Kolber",
+  "common_surname": "Amsterdam",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -206356,6 +206358,7 @@
     }
    ],
    "surnames": [
+    "Amsterdam",
     "Kolber"
    ],
    "born": null,

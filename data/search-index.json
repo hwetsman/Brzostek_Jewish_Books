@@ -10719,7 +10719,7 @@
   {
    "id": "P0609",
    "type": "person",
-   "display": "Pessel Aron, married name Klausner",
+   "display": "Pessel Aron, married name Kornfeld",
    "other_names": "Pessel (no surname written; child's birth entry); Pessel Aron; Aron",
    "subtitle": "born 1898; daughter of David Aron",
    "legal_given": "Pessel",
@@ -21492,7 +21492,7 @@
   {
    "id": "P1199",
    "type": "person",
-   "display": "Hannah Storch, married name Kolber",
+   "display": "Hannah Storch, married name Amsterdam",
    "other_names": "Hannah (no surname written; child's birth entry); Hannah Storch; Storch",
    "subtitle": "born 1909; daughter of Kelman Storch",
    "legal_given": "Hannah",
@@ -38098,13 +38098,13 @@
   {
    "id": "P2248",
    "type": "person",
-   "display": "Moses Heffner",
+   "display": "Moses Hornik",
    "other_names": "Moses Heffner; Heffner; Hornik",
    "subtitle": "son of Abraham Hornik",
    "legal_given": "Moses",
    "common_given": "Moses",
    "legal_surname": "Hornik",
-   "common_surname": "Heffner",
+   "common_surname": "Hornik",
    "maiden_surname": "",
    "father_name": "Abraham Hornik",
    "mother_name": "Sima Heffner",
@@ -38112,12 +38112,12 @@
    "residences": "Januszkowice",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "576900 596500 640000 576900 596500 640000"
+   "phonetic": "596500 640000 576900 596500 640000"
   },
   {
    "id": "P2249",
    "type": "person",
-   "display": "Rivka Zeughauser, married name Heffner",
+   "display": "Rivka Zeughauser, married name Hornik",
    "other_names": "Rivka Zeughauser; Zeughauser",
    "subtitle": "daughter of Judah Zeughauser",
    "legal_given": "Rivka",
@@ -39580,13 +39580,13 @@
   {
    "id": "P2333",
    "type": "person",
-   "display": "Chaskel Klausner",
-   "other_names": "Chaskel Klausner; Klausner",
+   "display": "Chaskel Kornfeld",
+   "other_names": "Chaskel Klausner; Klausner; Kornfeld; Thum",
    "subtitle": "son of Samuel Kornfeld",
    "legal_given": "Chaskel",
    "common_given": "Chaskel",
-   "legal_surname": "Klausner",
-   "common_surname": "Klausner",
+   "legal_surname": "Thum",
+   "common_surname": "Kornfeld",
    "maiden_surname": "",
    "father_name": "",
    "mother_name": "Shayndel Klausner",
@@ -39594,7 +39594,7 @@
    "residences": "Wola Brzostecka",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "458000 545800 584690 458000 545800 584690"
+   "phonetic": "360000 458000 545800 596783 360000 458000 545800 584690 596783"
   },
   {
    "id": "P2336",
@@ -42069,13 +42069,13 @@
   {
    "id": "P2472",
    "type": "person",
-   "display": "Moses Kolber",
-   "other_names": "Moses Kolber; Kolber",
+   "display": "Moses Amsterdam",
+   "other_names": "Moses Kolber; Amsterdam; Kolber",
    "subtitle": "son of Abraham Amsterdam",
    "legal_given": "Moses",
    "common_given": "Moses",
    "legal_surname": "Kolber",
-   "common_surname": "Kolber",
+   "common_surname": "Amsterdam",
    "maiden_surname": "",
    "father_name": "Abraham Amsterdam",
    "mother_name": "Shayndel Kalb",
@@ -42083,7 +42083,7 @@
    "residences": "Magdeburg",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "587900 640000 587900 640000"
+   "phonetic": "064393 587900 640000 064393 587900 640000"
   },
   {
    "id": "P2473",
@@ -59984,9 +59984,9 @@
    "book": "marriage",
    "year": 1919,
    "number": "7",
-   "summary": "Marriage 7/1919: Moses Heffner & Rivka Zeughauser",
+   "summary": "Marriage 7/1919: Moses Hornik & Rivka Zeughauser",
    "prose": "22 September 1919 Januszkowice Mojzesz Hornik, false Heffner, born in Tyczyn, a freelance tailor residing in Januszkowice, son of Abraham Hornik and Syma Heffner, farmers in Januszkowice Ryfka Zeughauser, born in Januszkowice, no profession, single, daughter of Juda and Ruchla Zeughauser, farmers in Januszkowice Chaim Wolkenfeld Hersch Bieder, synagogue attendant in Brzostek, witness. Hersch March, cantor in Brzostek, witness. groom 7 feb 1890, bride 25 jun 1892. Remarks: Documents of the groom: birth certificate dated Tyczyn, 18 Apr 1919, ref. no. 129. Of the bride: this registry's own birth book, [vol.] III[?], p. 6, no. 24; certificate of the banns, and certificate of the rabbinate.",
-   "people": "Moses Heffner; Rivka Zeughauser; Abraham Hornik; Sima Heffner; Judah Zeughauser; Rachel Zeughauser; Hersch Bieder; Hersch March; Chaim Wolkenfeld",
+   "people": "Moses Hornik; Rivka Zeughauser; Abraham Hornik; Sima Heffner; Judah Zeughauser; Rachel Zeughauser; Hersch Bieder; Hersch March; Chaim Wolkenfeld",
    "phonetic": "079560 130000 430000 454900 460000 540000 545000 560000 576900 594000 594500 596500 640000 694000 695000 739000 785678 948000 958000 975000"
   },
   {
@@ -60336,9 +60336,9 @@
    "book": "marriage",
    "year": 1926,
    "number": "1",
-   "summary": "Marriage 1/1926: Chaskel Klausner & Pessel Aron",
+   "summary": "Marriage 1/1926: Chaskel Kornfeld & Pessel Aron",
    "prose": "2 January 1926 Brzostek Chaskel Klausner, illegitimate son of Scheindli Klausner, born in Mielcu and resides in Wola Brzostecka without profession Pese Aron, daughter of Salamon Dawid, called Dawid, Aron, owner of a dry good store in Brzostek I Malki Perli, called Perl, nee Tager Chaim Wolkenfeld Walter Mojzesz, merchant in Brzostek, witness. Jakob Schwarz, merchant in Brzostek, witness. groom 6 March 1899, bride 13 dec 1898 | Later annotation (rescript of the Kraków voivode, 30 Jan 1930): the groom was legitimated by the subsequent marriage of his parents Samuel Tum and Scheindla Klausner and, as Samuel Tum's legitimate son, is entitled to the surname Tum. Remarks: For the groom: birth certificate dated Mielec, 28[?] Sep 1920, ref. no. 37[1?]/20, according to the birth register there, vol. XIII, p. 10, no. 36; also military service book, District Recruiting Command (P.K.U.) Rzeszów, that he has fulfilled [his] military [duty]. For the bride: this registry's own birth book, vol. III, p. 66, no. 32; certificate of the banns, and also certificates of the rabbinate in Brzostek of 3 Jan 1926.",
-   "people": "Chaskel Klausner; Pessel Aron; Samuel Kornfeld; Shayndel Klausner; David Aron; Malka Perla Tager, married name Aron; Moses Walter; Jacob Schwarz; Chaim Wolkenfeld",
+   "people": "Chaskel Kornfeld; Pessel Aron; Samuel Kornfeld; Shayndel Klausner; David Aron; Malka Perla Tager, married name Aron; Moses Walter; Jacob Schwarz; Chaim Wolkenfeld",
    "phonetic": "096000 147000 157000 359000 373000 457000 458000 460000 463800 468000 470000 474000 479400 545800 560000 584690 596783 600000 640000 685000 693000 748000 783900 785678 798000"
   },
   {
@@ -60853,10 +60853,10 @@
    "book": "marriage",
    "year": 1934,
    "number": "5",
-   "summary": "Marriage 5/1934: Moses Kolber & Hannah Storch",
+   "summary": "Marriage 5/1934: Moses Amsterdam & Hannah Storch",
    "prose": "24 August 1934 Brzostek Mojzesz Kolber, born in Biecz and currently resides in Magdeburg, son of Abraham Kolber, merchant in Brzostek and Schendli nee Kalb Chana Storch, daughter of Kelman Storch, merchant in Brzostek and Debora nee Rubin Chaim Wolkenfeld Abraham Barber, cantor in Brzostek, witness. Naftali Herz Parnes, cantor in Brzostek, witness. groom 25 Feb 1896, bride 23 Sep 1909. Remarks: Documents of the groom: birth certificate dated Biecz, 3 Sep 1934 [sic], ref. no. 65/34; military service book dated Rzeszów, 13 Mar 1924, ref. no. II; also certificates of the Police Presidium in Magdeburg of 27 Jun 1934, ref. no. II 2101, that he is single. Documents of the bride: this registry's own birth book, vol. III, p. 167, no. 24; and the banns three times, and notices of the Rabbinate.",
-   "people": "Moses Kolber; Hannah Storch; Abraham Amsterdam; Shayndel Lambek; Kelman Storch; Deborah Rubin; Sucher Barber; Naftali Hersch Parnes; Chaim Wolkenfeld",
-   "phonetic": "064393 079560 294000 295000 379000 459000 460000 463800 490000 540000 545000 560000 586000 587900 594000 594500 640000 673800 785678 796400 797900 867500 976000"
+   "people": "Moses Amsterdam; Hannah Storch; Abraham Amsterdam; Shayndel Lambek; Kelman Storch; Deborah Rubin; Sucher Barber; Naftali Hersch Parnes; Chaim Wolkenfeld",
+   "phonetic": "064393 079560 294000 295000 379000 459000 460000 463800 490000 540000 545000 560000 586000 594000 594500 640000 673800 785678 796400 797900 867500 976000"
   },
   {
    "id": "m-1934-6",

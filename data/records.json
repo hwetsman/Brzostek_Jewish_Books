@@ -108227,9 +108227,9 @@
    {
     "role": "Groom",
     "person_id": "P2248",
-    "display": "Moses Heffner",
+    "display": "Moses Hornik",
     "role_label": "Groom",
-    "written_as": null,
+    "written_as": "Moses Heffner",
     "linked_inline": false
    },
    {
@@ -111676,9 +111676,9 @@
    {
     "role": "Groom",
     "person_id": "P2333",
-    "display": "Chaskel Klausner",
+    "display": "Chaskel Kornfeld",
     "role_label": "Groom",
-    "written_as": null,
+    "written_as": "Chaskel Klausner",
     "linked_inline": true
    },
    {
@@ -116763,9 +116763,9 @@
    {
     "role": "Groom",
     "person_id": "P2472",
-    "display": "Moses Kolber",
+    "display": "Moses Amsterdam",
     "role_label": "Groom",
-    "written_as": null,
+    "written_as": "Moses Kolber",
     "linked_inline": false
    },
    {
