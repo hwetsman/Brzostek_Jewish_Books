@@ -761,7 +761,7 @@
     "display": "Pessel Kranz",
     "role_label": "Mother's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -792,7 +792,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0144.html\" data-pid=\"P0144\">Leib Meer</a>, holder of the alcohol monopoly for Głobikówka",
-   "Mother (prose)": "<a href=\"../person/P0145.html\" data-pid=\"P0145\">Yehudit</a>, daughter or the late <a href=\"../person/P0146.html\" data-pid=\"P0146\">Wolf</a> and Pessel Wurzel, former innkeepers in Głobikówka",
+   "Mother (prose)": "<a href=\"../person/P0145.html\" data-pid=\"P0145\">Yehudit</a>, daughter or the late <a href=\"../person/P0146.html\" data-pid=\"P0146\">Wolf</a> and <a href=\"../person/P0147.html\" data-pid=\"P0147\">Pessel Wurzel</a>, former innkeepers in Głobikówka",
    "Witnesses (prose)": "<a href=\"../person/P0108.html\" data-pid=\"P0108\">Solomon Schonwetter</a>, industrialist in Zawadka Brzostecka, witness. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Joshane Nechemje</a>, merchant of cloth goods in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Notes": "The undersigned acknowledges paternity: <a href=\"../person/P0144.html\" data-pid=\"P0144\">Leib Meer</a> [signature]. Salamon <a href=\"../person/P0108.html\" data-pid=\"P0108\">Schönwetter</a> [signature], witness."
@@ -15563,7 +15563,7 @@
     "display": "Pessel Kranz",
     "role_label": "Mother's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -15594,7 +15594,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0144.html\" data-pid=\"P0144\">Leib Meer</a>, holder of the alcohol monopoly in Głobikówka",
-   "Mother (prose)": "<a href=\"../person/P0145.html\" data-pid=\"P0145\">Yehudit</a>, daughter or the late <a href=\"../person/P0146.html\" data-pid=\"P0146\">Wolf</a> and Pessel Wurzel, former innkeepers in Głobikówka",
+   "Mother (prose)": "<a href=\"../person/P0145.html\" data-pid=\"P0145\">Yehudit</a>, daughter or the late <a href=\"../person/P0146.html\" data-pid=\"P0146\">Wolf</a> and <a href=\"../person/P0147.html\" data-pid=\"P0147\">Pessel Wurzel</a>, former innkeepers in Głobikówka",
    "Witnesses (prose)": "<a href=\"../person/P0014.html\" data-pid=\"P0014\">Abraham Plattner</a>, owner of a spice shop in Brzostek, witness. <a href=\"../person/P0488.html\" data-pid=\"P0488\">Moses Schwwarz</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>",
    "Notes": "Child legitimized by marriage 20 Jan 1902. It is noted that the child died but no date is given. There is no <a href=\"../person/P0565.html\" data-pid=\"P0565\">Pessel Meer</a> noted in the Brzostek death book."
@@ -23529,7 +23529,7 @@
     "display": "Pessel Kranz",
     "role_label": "Mother's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -23560,7 +23560,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0144.html\" data-pid=\"P0144\">Leib Meer</a>, innkeeper in Globikowa",
-   "Mother (prose)": "<a href=\"../person/P0145.html\" data-pid=\"P0145\">Yehudit</a>, daughter of the late <a href=\"../person/P0146.html\" data-pid=\"P0146\">Wolf</a> and Pessel Wurzel, former innkeepers in Globikowa",
+   "Mother (prose)": "<a href=\"../person/P0145.html\" data-pid=\"P0145\">Yehudit</a>, daughter of the late <a href=\"../person/P0146.html\" data-pid=\"P0146\">Wolf</a> and <a href=\"../person/P0147.html\" data-pid=\"P0147\">Pessel Wurzel</a>, former innkeepers in Globikowa",
    "Witnesses (prose)": "<a href=\"../person/P0488.html\" data-pid=\"P0488\">Moses Schwarz</a>, owner of a colonial goods store in Brzostek, witness. <a href=\"../person/P0102.html\" data-pid=\"P0102\">Leib Orner</a>, cattle dealer in Brzostek, witness",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Notes": "Died 31 Mar 1901"
@@ -99603,7 +99603,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Izaak <a href=\"../person/P0915.html\" data-pid=\"P0915\">Leib</a>, called <a href=\"../person/P0915.html\" data-pid=\"P0915\">Leib</a>, Ratz, born in Wierzbica, Imperial-Royal starosty of Rawa, without occupation, son of <a href=\"../person/P2083.html\" data-pid=\"P2083\">Aron Ratz</a>, industrialist, at present staying in Vienna, and Feiga <a href=\"../person/P2084.html\" data-pid=\"P2084\">Beila</a>, called <a href=\"../person/P2084.html\" data-pid=\"P2084\">Beila</a>, née <a href=\"../person/P2084.html\" data-pid=\"P2084\">Mandel</a>",
-   "Bride (prose)": "<a href=\"../person/P0722.html\" data-pid=\"P0722\">Feige Panzer</a> was born in Brzostek, the daughter of <a href=\"../person/P0297.html\" data-pid=\"P0297\">Joel Panzer</a>, a butcher in Brzostek, and Estera, née Orner recte <a href=\"../person/P0298.html\" data-pid=\"P0298\">Luft</a>.",
+   "Bride (prose)": "<a href=\"../person/P0722.html\" data-pid=\"P0722\">Feige Panzer</a> was born in Brzostek, the daughter of <a href=\"../person/P0297.html\" data-pid=\"P0297\">Joel Panzer</a>, a butcher in Brzostek, and Estera, née <a href=\"../person/P0298.html\" data-pid=\"P0298\">Orner</a> recte <a href=\"../person/P0298.html\" data-pid=\"P0298\">Luft</a>.",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman (Schächter) in Brzostek</a>, witness. <a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>, Schächter in Brzostek, witness.",
    "Notes": "Remarks: Documents for the groom, namely: notice of the Imperial-Royal District Office (Starostwo) in Rawa of 14 Jan 1904, ref. no. 25996, that the military obligations have been fulfilled; militia (Landsturm) passport of 1 Feb 1897, no. 64. For the bride, this registry&#x27;s own birth book attests, vol. II, p. 21, no. 8, of 1878; the banns announced, and the notice of the rabbinate."
@@ -102662,7 +102662,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Mojzesz Izaak, called Izaak, Bieder, born in Brzostek, without profession, son of <a href=\"../person/P0120.html\" data-pid=\"P0120\">Samuel Bieder</a>, industrialist in Brzostek and Feiga nee <a href=\"../person/P0673.html\" data-pid=\"P0673\">Rubel</a>",
-   "Bride (prose)": "Sara Ader, the widow of Thau, born in Czermna, Imperial-Royal, starosty of Jasło, leaseholder of the manor farm in Nawsie Brzosteckie, daughter of <a href=\"../person/P0900.html\" data-pid=\"P0900\">Chiel Ader</a> and <a href=\"../person/P0901.html\" data-pid=\"P0901\">Beila</a>",
+   "Bride (prose)": "Sara Ader, the widow of <a href=\"../person/P0898.html\" data-pid=\"P0898\">Thau</a>, born in Czermna, Imperial-Royal, starosty of Jasło, leaseholder of the manor farm in Nawsie Brzosteckie, daughter of <a href=\"../person/P0900.html\" data-pid=\"P0900\">Chiel Ader</a> and <a href=\"../person/P0901.html\" data-pid=\"P0901\">Beila</a>",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman</a>, ritual slaughterer in Brzostek, witness. <a href=\"../person/P0488.html\" data-pid=\"P0488\">Moses Schwarz</a>, grain dealer in Brzostek, witness.",
    "Notes": "Remarks: Documents for the groom: this registry&#x27;s own book, vol. II, pp. 73–4, no. 7, of [18]80; military passport of 9 Sep 1905, no. 843. For the bride: birth record of the registry district of Olpiny, vol. I, p. 47, no. 14, of [18]73; certificate of the first marriage, registry district of Jodłowa[?], vol. II, p. 67, no. 11, of [1]900; this registry&#x27;s own death record of the first husband, vol. II, p. 225, no. 18, of [1]905; the banns announced, and the notice of the rabbinate."
@@ -107195,7 +107195,7 @@
     "display": "Esther Orner",
     "role_label": "Groom's mother",
     "written_as": "Esther née Luft",
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "BF",
@@ -107243,7 +107243,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "<a href=\"../person/P1271.html\" data-pid=\"P1271\">Chaim Panzer</a> born in Tarnów, a butcher in Brzostek, son of <a href=\"../person/P0297.html\" data-pid=\"P0297\">Joel Panzer</a>, and Estera née Orner, a butcher in Brzostek",
+   "Groom (prose)": "<a href=\"../person/P1271.html\" data-pid=\"P1271\">Chaim Panzer</a> born in Tarnów, a butcher in Brzostek, son of <a href=\"../person/P0297.html\" data-pid=\"P0297\">Joel Panzer</a>, and Estera née <a href=\"../person/P0298.html\" data-pid=\"P0298\">Orner</a>, a butcher in Brzostek",
    "Bride (prose)": "Mariam, illegitimate daughter of <a href=\"../person/P1355.html\" data-pid=\"P1355\">Baila Laja Mass</a>, in Sokołów, no profession, lives in Brzostek",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P1487.html\" data-pid=\"P1487\">Hirsch March</a>, cantor in Brzostek, witness. <a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a>, schames in Brzostek, witness.",
