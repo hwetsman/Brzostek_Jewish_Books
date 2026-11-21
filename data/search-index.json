@@ -6081,25 +6081,6 @@
    "phonetic": "079560 083900 460000 546500 560000 594650 083000 083900 460000 546500 560000 594650 596500"
   },
   {
-   "id": "P0354",
-   "type": "person",
-   "display": "Shulem Wildstein",
-   "other_names": "Shulem Wildstein; Wildstein",
-   "subtitle": "",
-   "legal_given": "Shulem",
-   "common_given": "Shulem",
-   "legal_surname": "Wildstein",
-   "common_surname": "Wildstein",
-   "maiden_surname": "",
-   "father_name": "",
-   "mother_name": "",
-   "spouse_names": "",
-   "residences": "Frysztak",
-   "birth_date": "",
-   "death_date": "",
-   "phonetic": "486000 783436 486000 783436"
-  },
-  {
    "id": "P0356",
    "type": "person",
    "display": "Leib Zahler",
@@ -45053,7 +45034,7 @@
    "id": "P2731",
    "type": "person",
    "display": "Schulim Wildstein",
-   "other_names": "Wildstein",
+   "other_names": "Shulem Wildstein; Wildstein",
    "subtitle": "died 1884; husband of Rachel Herman, married name Korzennik",
    "legal_given": "Schulim",
    "common_given": "Schulim",
@@ -45066,7 +45047,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "486000 783436 783436"
+   "phonetic": "486000 783436 486000 783436"
   },
   {
    "id": "P2732",
@@ -45871,7 +45852,7 @@
    "number": "27",
    "summary": "Birth 27/1895: Reuben",
    "prose": "Reuben Male Illegitimate 1 Nov 1895 Brzostek, house 131 8 Nov 1895 Brzostek, house 131 Alter Chaim Korzenik, called Chaim, maintainer of the Jewish school in Brzostek Rachel, daughter of Shulem Wildstein, former dealer of grain in Frysztak, and Chaya nee unknown Jochene Nechemje, cloth merchant in Brzostek, witness. Nechemje Storch, innkeeper in Brzostek, witness. Marcus Kleinman Maria Przybyło, midwife in Brzostek The undersigned acknowledges paternity: Alter Chajim Korzenik [signature]. Joshene Nechemje [signature], witness.",
-   "people": "Reuben Korzennik; Alter Chaim Korzennik; Rachel Herman, married name Korzennik; Shulem Wildstein; Chaya Herman; Jochene Nechemje; Nechemje Storch; Marcus Kleinman",
+   "people": "Reuben Korzennik; Alter Chaim Korzennik; Rachel Herman, married name Korzennik; Schulim Wildstein; Chaya Herman; Jochene Nechemje; Nechemje Storch; Marcus Kleinman",
    "phonetic": "083900 146000 156000 294000 295000 410000 456000 460000 486000 510000 546500 560000 586600 594650 596000 600000 646100 646400 656100 656400 693000 694000 695400 783436 948000 958000 976000"
   },
   {

@@ -46655,64 +46655,6 @@
   }
  },
  {
-  "id": "P0354",
-  "legal_given": "Shulem",
-  "common_given": "Shulem",
-  "legal_surname": "Wildstein",
-  "common_surname": "Wildstein",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": null,
-  "death_date": "deceased",
-  "marriage_dates": null,
-  "occupations": "dealer of grain",
-  "residences": "Frysztak",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "NOT_IN_AREA",
-  "refs": [
-   {
-    "record_id": "b-1895-27",
-    "role": "MGF"
-   }
-  ],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Shulem Wildstein",
-     "rids": [
-      "b-1895-27"
-     ]
-    }
-   ],
-   "quotes": [],
-   "surnames": [
-    "Wildstein"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": "deceased"
-  },
-  "unions": []
- },
- {
   "id": "P0356",
   "legal_given": "Leib",
   "common_given": "Leib",
@@ -220799,7 +220741,7 @@
   "birth_date": null,
   "death_date": "1884 in Kraków (death record no. 114, cited in m-1900-15)",
   "marriage_dates": null,
-  "occupations": null,
+  "occupations": "former dealer of grain in Frysztak (b-1895-27)",
   "residences": null,
   "status": "deceased",
   "birth_legitimacy": null,
@@ -220818,11 +220760,23 @@
   "children_ids": [],
   "children_names": [],
   "in_area": "NOT_IN_AREA",
-  "refs": [],
+  "refs": [
+   {
+    "record_id": "b-1895-27",
+    "role": "MGF"
+   }
+  ],
   "external_resources": null,
-  "identity_note": null,
+  "identity_note": "The 1895 birth of Reuben Korzennik names Shulem Wildstein, former grain dealer in Frysztak, as the mother Rachel's father. Her 1900 marriage names her father as David Herman and Schulim Wildstein as her first husband, who died in Kraków in 1884. We treat the 1895 Shulem as this man, assuming the clerk wrote her late husband's name where her father's belonged. The 1895 record is shown as the clerk wrote it. No record states that error, so this is probable, not proven.",
   "identity": {
-   "names": [],
+   "names": [
+    {
+     "form": "Shulem Wildstein",
+     "rids": [
+      "b-1895-27"
+     ]
+    }
+   ],
    "quotes": [],
    "surnames": [
     "Wildstein"

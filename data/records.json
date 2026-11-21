@@ -6004,10 +6004,10 @@
    },
    {
     "role": "MGF",
-    "person_id": "P0354",
-    "display": "Shulem Wildstein",
+    "person_id": "P2731",
+    "display": "Schulim Wildstein",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Shulem Wildstein",
     "linked_inline": true
    },
    {
@@ -6049,7 +6049,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0352.html\" data-pid=\"P0352\">Alter Chaim</a> Korzenik, called <a href=\"../person/P0352.html\" data-pid=\"P0352\">Chaim</a>, maintainer of the Jewish school in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P1679.html\" data-pid=\"P1679\">Rachel</a>, daughter of <a href=\"../person/P0354.html\" data-pid=\"P0354\">Shulem Wildstein</a>, former dealer of grain in Frysztak, and <a href=\"../person/P1681.html\" data-pid=\"P1681\">Chaya</a> nee unknown",
+   "Mother (prose)": "<a href=\"../person/P1679.html\" data-pid=\"P1679\">Rachel</a>, daughter of <a href=\"../person/P2731.html\" data-pid=\"P2731\">Shulem Wildstein</a>, former dealer of grain in Frysztak, and <a href=\"../person/P1681.html\" data-pid=\"P1681\">Chaya</a> nee unknown",
    "Witnesses (prose)": "<a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness. <a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeeper in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Maria Przybyło, midwife in Brzostek",
