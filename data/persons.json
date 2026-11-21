@@ -117681,6 +117681,10 @@
     "role": "MGF"
    },
    {
+    "record_id": "d-1915-8",
+    "role": "Father"
+   },
+   {
     "record_id": "m-1908-1",
     "role": "BF"
    }
@@ -117695,11 +117699,18 @@
       "b-1910-13",
       "b-1912-30"
      ]
+    },
+    {
+     "form": "Leib Oblat",
+     "rids": [
+      "d-1915-8"
+     ]
     }
    ],
    "quotes": [],
    "surnames": [
-    "Arnold"
+    "Arnold",
+    "Oblat"
    ],
    "born": null,
    "died": null,
@@ -117770,6 +117781,10 @@
     "role": "MGM"
    },
    {
+    "record_id": "d-1915-8",
+    "role": "Mother"
+   },
+   {
     "record_id": "m-1908-1",
     "role": "BM"
    }
@@ -117789,6 +117804,12 @@
      "form": "Hannah Feier",
      "rids": [
       "m-1908-1"
+     ]
+    },
+    {
+     "form": "Malka Hannah",
+     "rids": [
+      "d-1915-8"
      ]
     }
    ],
@@ -160802,142 +160823,6 @@
    "death_date_text": null
   },
   "unions": []
- },
- {
-  "id": "P1772",
-  "legal_given": "Moses Leib",
-  "common_given": "Leib",
-  "legal_surname": "Oblat",
-  "common_surname": "Oblat",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": null,
-  "death_date": "before 1915 (probably)",
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": "Ostzawa (Stanislawow district)",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [
-   "P1773"
-  ],
-  "spouse_names": [
-   "Malka Hannah Oblat"
-  ],
-  "children_ids": [
-   "P1127"
-  ],
-  "children_names": [
-   "Dora Guttstein"
-  ],
-  "in_area": "NOT_IN_AREA",
-  "refs": [
-   {
-    "record_id": "d-1915-8",
-    "role": "Father"
-   }
-  ],
-  "external_resources": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Leib Oblat",
-     "rids": [
-      "d-1915-8"
-     ]
-    }
-   ],
-   "quotes": [],
-   "surnames": [
-    "Oblat"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": "1915",
-   "birth_date_text": null,
-   "death_date_text": "before 1915 (probably)"
-  },
-  "unions": [],
-  "partner_groups": {
-   "P1773": "unclear"
-  }
- },
- {
-  "id": "P1773",
-  "legal_given": "Malka Hannah",
-  "common_given": "Malka Hannah",
-  "legal_surname": "Oblat",
-  "common_surname": "Oblat",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": "Ostzawa (Stanislawow district)",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [
-   "P1772"
-  ],
-  "spouse_names": [
-   "Moses Leib Oblat"
-  ],
-  "children_ids": [
-   "P1127"
-  ],
-  "children_names": [
-   "Dora Guttstein"
-  ],
-  "in_area": "NOT_IN_AREA",
-  "refs": [
-   {
-    "record_id": "d-1915-8",
-    "role": "Mother"
-   }
-  ],
-  "external_resources": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Malka Hannah",
-     "rids": [
-      "d-1915-8"
-     ]
-    }
-   ],
-   "quotes": [],
-   "surnames": [
-    "Oblat"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": [],
-  "partner_groups": {
-   "P1772": "unclear"
-  }
  },
  {
   "id": "P1775",

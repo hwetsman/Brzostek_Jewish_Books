@@ -20220,7 +20220,7 @@
    "id": "P1128",
    "type": "person",
    "display": "Leib Arnold",
-   "other_names": "Leib Arnold; Arnold",
+   "other_names": "Leib Arnold; Leib Oblat; Arnold; Oblat",
    "subtitle": "husband of Hannah Feier, married name Arnold",
    "legal_given": "Moses Leib",
    "common_given": "Leib",
@@ -20233,13 +20233,13 @@
    "residences": "Ostrowa near Halicz",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "096830 640000 870000 096830 870000"
+   "phonetic": "096830 640000 870000 078300 096830 870000"
   },
   {
    "id": "P1129",
    "type": "person",
    "display": "Hannah Feier, married name Arnold",
-   "other_names": "Hannah née Feier; Hannah Feier; Arnold; Feier",
+   "other_names": "Hannah née Feier; Hannah Feier; Malka Hannah; Arnold; Feier",
    "subtitle": "wife of Leib Arnold",
    "legal_given": "Hannah",
    "common_given": "Hannah",
@@ -20252,7 +20252,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "096830 560000 719000 096830 560000 600000 719000"
+   "phonetic": "096830 560000 719000 096830 560000 600000 685000 719000"
   },
   {
    "id": "P1130",
@@ -30722,44 +30722,6 @@
    "birth_date": "",
    "death_date": "",
    "phonetic": "300000 640000 300000 640000"
-  },
-  {
-   "id": "P1772",
-   "type": "person",
-   "display": "Leib Oblat",
-   "other_names": "Leib Oblat; Oblat",
-   "subtitle": "died 1915; husband of Malka Hannah Oblat",
-   "legal_given": "Moses Leib",
-   "common_given": "Leib",
-   "legal_surname": "Oblat",
-   "common_surname": "Oblat",
-   "maiden_surname": "",
-   "father_name": "",
-   "mother_name": "",
-   "spouse_names": "Malka Hannah Oblat",
-   "residences": "Ostzawa (Stanislawow district)",
-   "birth_date": "",
-   "death_date": "",
-   "phonetic": "078300 640000 870000 078300 870000"
-  },
-  {
-   "id": "P1773",
-   "type": "person",
-   "display": "Malka Hannah Oblat",
-   "other_names": "Malka Hannah; Oblat",
-   "subtitle": "wife of Leib Oblat",
-   "legal_given": "Malka Hannah",
-   "common_given": "Malka Hannah",
-   "legal_surname": "Oblat",
-   "common_surname": "Oblat",
-   "maiden_surname": "",
-   "father_name": "",
-   "mother_name": "",
-   "spouse_names": "Moses Leib Oblat",
-   "residences": "Ostzawa (Stanislawow district)",
-   "birth_date": "",
-   "death_date": "",
-   "phonetic": "078300 560000 685000 078300 560000 685000"
   },
   {
    "id": "P1775",
@@ -56191,8 +56153,8 @@
    "number": "8",
    "summary": "Death 8/1915: Deborah Arnold",
    "prose": "27 Oct 1915 Skurowa 28 Oct 1915 Brzostek Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and Malka Hannah of unknown maiden name, from Ostrawy in the district of Stanislawow Skurowa Female 36 years Married smallpox Smallpox daughter of",
-   "people": "Deborah Arnold; Leib Oblat; Malka Hannah Oblat",
-   "phonetic": "078300 096830 379000 560000 685000 870000"
+   "people": "Deborah Arnold; Leib Arnold; Hannah Arnold",
+   "phonetic": "096830 379000 560000 870000"
   },
   {
    "id": "d-1915-9",

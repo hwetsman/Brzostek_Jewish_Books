@@ -82140,18 +82140,18 @@
    },
    {
     "role": "Father",
-    "person_id": "P1772",
-    "display": "Leib Oblat",
+    "person_id": "P1128",
+    "display": "Leib Arnold",
     "role_label": "Father of the deceased",
-    "written_as": null,
+    "written_as": "Leib Oblat",
     "linked_inline": true
    },
    {
     "role": "Mother",
-    "person_id": "P1773",
-    "display": "Malka Hannah Oblat",
+    "person_id": "P1129",
+    "display": "Hannah Arnold",
     "role_label": "Mother of the deceased",
-    "written_as": null,
+    "written_as": "Malka Hannah",
     "linked_inline": true
    }
   ],
@@ -82160,7 +82160,7 @@
   ],
   "translator_note": "Place read as Ostrawy (possibly Ostzawy/Ostrany), district Stanisławów; village not yet identified.",
   "fields_html": {
-   "Decedent (prose)": "Dora Gutstein, daughter of <a href=\"../person/P1772.html\" data-pid=\"P1772\">Moses Leib Oblat</a>, who was called <a href=\"../person/P1772.html\" data-pid=\"P1772\">Leib</a>, and <a href=\"../person/P1773.html\" data-pid=\"P1773\">Malka Hannah</a> of unknown maiden name, from Ostrawy in the district of Stanislawow",
+   "Decedent (prose)": "Dora Gutstein, daughter of <a href=\"../person/P1128.html\" data-pid=\"P1128\">Moses Leib Oblat</a>, who was called <a href=\"../person/P1128.html\" data-pid=\"P1128\">Leib</a>, and <a href=\"../person/P1129.html\" data-pid=\"P1129\">Malka Hannah</a> of unknown maiden name, from Ostrawy in the district of Stanislawow",
    "Cause of Death": "smallpox"
   },
   "unlinked_prose_tokens": [
