@@ -59020,7 +59020,7 @@
    },
    {
     "role": "Witness2",
-    "person_id": "P0779",
+    "person_id": "P2692",
     "display": "Solomon Kornfeld",
     "role_label": "Witness",
     "written_as": null,
@@ -59040,7 +59040,7 @@
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel Guttstein</a>, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, farmer in Skurowa",
    "Mother (prose)": "<a href=\"../person/P1127.html\" data-pid=\"P1127\">Deborah</a>, daughter of the late <a href=\"../person/P1128.html\" data-pid=\"P1128\">Moses Leib Arnold</a>, called Leib, merchant in Ostrów, and <a href=\"../person/P1129.html\" data-pid=\"P1129\">Hannah nee Feier</a>",
-   "Witnesses (prose)": "<a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, owner of Opacionka, witness. <a href=\"../person/P0779.html\" data-pid=\"P0779\">Solomon Kornfeld</a>, merchant in Brzostek, witness.",
+   "Witnesses (prose)": "<a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, owner of Opacionka, witness. <a href=\"../person/P2692.html\" data-pid=\"P2692\">Solomon Kornfeld</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, circumciser in Brzostek",
    "Midwife": "Katarzyna Lukasik, midwife in Skurowa",
    "Notes": "Marriage in Brzostek 23 Jan 1908. Marriage register T.II p.155."
