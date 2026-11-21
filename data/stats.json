@@ -173,7 +173,7 @@
   ],
   [
    "Chaya",
-   46
+   45
   ],
   [
    "Leah",
@@ -188,11 +188,11 @@
    39
   ],
   [
-   "Rachel",
-   39
+   "Esther",
+   38
   ],
   [
-   "Esther",
+   "Rachel",
    38
   ],
   [
@@ -486,7 +486,7 @@
   "distinct_causes": 112
  },
  "totals": {
-  "persons": 2381,
+  "persons": 2379,
   "births": 723,
   "deaths": 446,
   "marriages": 279,

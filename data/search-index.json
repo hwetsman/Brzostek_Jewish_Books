@@ -6081,30 +6081,11 @@
    "phonetic": "079560 083900 460000 546500 560000 594650 083000 083900 460000 546500 560000 594650 596500"
   },
   {
-   "id": "P0353",
-   "type": "person",
-   "display": "Rachel Wildstein",
-   "other_names": "Rachel née Wildstein; Korzennik; Wildstein",
-   "subtitle": "daughter of Shulem Wildstein",
-   "legal_given": "Rachel",
-   "common_given": "Rachel",
-   "legal_surname": "Wildstein",
-   "common_surname": "Wildstein",
-   "maiden_surname": "",
-   "father_name": "",
-   "mother_name": "",
-   "spouse_names": "",
-   "residences": "",
-   "birth_date": "",
-   "death_date": "",
-   "phonetic": "783436 948000 958000 546500 594650 600000 783436 948000 958000"
-  },
-  {
    "id": "P0354",
    "type": "person",
    "display": "Shulem Wildstein",
    "other_names": "Shulem Wildstein; Wildstein",
-   "subtitle": "husband of Chaya Wildstein",
+   "subtitle": "",
    "legal_given": "Shulem",
    "common_given": "Shulem",
    "legal_surname": "Wildstein",
@@ -6117,25 +6098,6 @@
    "birth_date": "",
    "death_date": "",
    "phonetic": "486000 783436 486000 783436"
-  },
-  {
-   "id": "P0355",
-   "type": "person",
-   "display": "Chaya Wildstein",
-   "other_names": "Chaya Wildstein; Wildstein",
-   "subtitle": "wife of Shulem Wildstein",
-   "legal_given": "Chaya",
-   "common_given": "Chaya",
-   "legal_surname": "Wildstein",
-   "common_surname": "Wildstein",
-   "maiden_surname": "",
-   "father_name": "",
-   "mother_name": "",
-   "spouse_names": "",
-   "residences": "",
-   "birth_date": "",
-   "death_date": "",
-   "phonetic": "410000 510000 783436 410000 510000 783436"
   },
   {
    "id": "P0356",
@@ -29530,7 +29492,7 @@
    "id": "P1679",
    "type": "person",
    "display": "Rachel Herman, married name Korzennik",
-   "other_names": "Rachel Herman; Rachel Korzennik née Herman; Herman; Korzennik",
+   "other_names": "Rachel née Wildstein; Rachel Herman; Rachel Korzennik née Herman; Herman; Korzennik; Wildstein",
    "subtitle": "1852–1904; daughter of David Herman",
    "legal_given": "Rachel",
    "common_given": "Rachel",
@@ -29539,11 +29501,11 @@
    "maiden_surname": "",
    "father_name": "David Herman",
    "mother_name": "Chaya Herman",
-   "spouse_names": "Alter Chaim Korzennik; Wildstein",
+   "spouse_names": "Alter Chaim Korzennik; Schulim Wildstein",
    "residences": "Brzostek (house 131)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "596000 948000 958000 546500 594650 596000 600000 948000 958000"
+   "phonetic": "596000 948000 958000 546500 594650 596000 600000 783436 948000 958000"
   },
   {
    "id": "P1680",
@@ -29568,7 +29530,7 @@
    "id": "P1681",
    "type": "person",
    "display": "Chaya Herman (married name; birth name not known)",
-   "other_names": "Chaya Herman; Herman",
+   "other_names": "Chaya Wildstein; Chaya Herman; Herman; Wildstein",
    "subtitle": "died 1904; wife of David Herman",
    "legal_given": "Chaya",
    "common_given": "Chaya",
@@ -29581,7 +29543,7 @@
    "residences": "Frysztak",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "410000 510000 596000 410000 510000 596000"
+   "phonetic": "410000 510000 596000 410000 510000 596000 783436"
   },
   {
    "id": "P1682",
@@ -45090,11 +45052,11 @@
   {
    "id": "P2731",
    "type": "person",
-   "display": "Wildstein",
+   "display": "Schulim Wildstein",
    "other_names": "Wildstein",
-   "subtitle": "died 1900; husband of Rachel Herman, married name Korzennik",
-   "legal_given": "",
-   "common_given": "",
+   "subtitle": "died 1884; husband of Rachel Herman, married name Korzennik",
+   "legal_given": "Schulim",
+   "common_given": "Schulim",
    "legal_surname": "Wildstein",
    "common_surname": "Wildstein",
    "maiden_surname": "",
@@ -45104,7 +45066,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "783436 783436"
+   "phonetic": "486000 783436 783436"
   },
   {
    "id": "P2732",
@@ -45909,8 +45871,8 @@
    "number": "27",
    "summary": "Birth 27/1895: Reuben",
    "prose": "Reuben Male Illegitimate 1 Nov 1895 Brzostek, house 131 8 Nov 1895 Brzostek, house 131 Alter Chaim Korzenik, called Chaim, maintainer of the Jewish school in Brzostek Rachel, daughter of Shulem Wildstein, former dealer of grain in Frysztak, and Chaya nee unknown Jochene Nechemje, cloth merchant in Brzostek, witness. Nechemje Storch, innkeeper in Brzostek, witness. Marcus Kleinman Maria Przybyło, midwife in Brzostek The undersigned acknowledges paternity: Alter Chajim Korzenik [signature]. Joshene Nechemje [signature], witness.",
-   "people": "Reuben Korzennik; Alter Chaim Korzennik; Rachel Wildstein, married name Korzennik; Shulem Wildstein; Chaya Wildstein; Jochene Nechemje; Nechemje Storch; Marcus Kleinman",
-   "phonetic": "083900 146000 156000 294000 295000 410000 456000 460000 486000 510000 546500 560000 586600 594650 600000 646100 646400 656100 656400 693000 694000 695400 783436 948000 958000 976000"
+   "people": "Reuben Korzennik; Alter Chaim Korzennik; Rachel Herman, married name Korzennik; Shulem Wildstein; Chaya Herman; Jochene Nechemje; Nechemje Storch; Marcus Kleinman",
+   "phonetic": "083900 146000 156000 294000 295000 410000 456000 460000 486000 510000 546500 560000 586600 594650 596000 600000 646100 646400 656100 656400 693000 694000 695400 783436 948000 958000 976000"
   },
   {
    "id": "b-1895-28",
@@ -54575,10 +54537,10 @@
    "book": "death",
    "year": 1904,
    "number": "1",
-   "summary": "Death 1/1904: Rachel Herman",
+   "summary": "Death 1/1904: Rachel Herman, married name Korzennik",
    "prose": "20 Jan 1904 Brzostek 21 Jan 1904 Brzostek Rachel Korzennik, nee Herman, born in Frysztak, daughter of the deceased David and Chaya Herman, former industrialists in Frysztak Brzostek, house 131 Female 52 years Married TB Tuberculosis daughter of",
-   "people": "Rachel Herman; David Herman; Chaya Herman",
-   "phonetic": "373000 410000 510000 596000 948000 958000"
+   "people": "Rachel Herman, married name Korzennik; David Herman; Chaya Herman",
+   "phonetic": "373000 410000 510000 546500 594650 596000 600000 693000 948000 958000"
   },
   {
    "id": "d-1904-2",
@@ -58568,10 +58530,10 @@
    "book": "marriage",
    "year": 1900,
    "number": "15",
-   "summary": "Marriage 15/1900: Alter Chaim Korzennik & Rachel Herman",
+   "summary": "Marriage 15/1900: Alter Chaim Korzennik & Rachel Herman, married name Korzennik",
    "prose": "23 October 1900 Brzostek Alter Chaim Korzenik, born in Zawadka, residing in Brzostek, and here maintaining a Jewish school, son of Fischel Korzenik and Tyla nee (name missing) were former tavern keepers in Zawadka Rachla Herman, widow Wildstein, born in Frysztak, residing in Brzostek, unemployed, daughter of Dawid and Chaja Herman, former industrialists in Frysztak Judah Leib Wolkenfeld Markus Kleinman, ritual slaughterer (Schächter) in Brzostek, witness. Chaim Galizer, ritual slaughterer (Schächter) in Brzostek, witness. Remarks: Passport from the Imperial-Royal District Office (Starostwo) in Pilzno of 7 Sep 1885, no. 147, proving the groom's age, and [the registrar's] own knowledge of the capacity to contract a legal marriage; certificate of the first marriage dated Frysztak, vol. I, p. 17, no. 3; death record of the first husband, Schulim Wildstein, dated Kraków, of 1884, no. 114; kept in the register files.",
-   "people": "Alter Chaim Korzennik; Rachel Herman; Fishel Korzennik; Tyla Korzennik; David Herman; Chaya Herman; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
-   "phonetic": "083900 130000 373000 380000 410000 430000 460000 510000 546500 560000 584900 586600 594650 596000 694000 695400 748000 785678 870000 948000 958000"
+   "people": "Alter Chaim Korzennik; Rachel Herman, married name Korzennik; Fishel Korzennik; Tyla Korzennik; David Herman; Chaya Herman; Marcus Kleinman; Chaim Galizer; Judah Leib Wolkenfeld",
+   "phonetic": "083900 130000 373000 380000 410000 430000 460000 510000 546500 560000 584900 586600 594650 596000 600000 693000 694000 695400 748000 785678 870000 948000 958000"
   },
   {
    "id": "m-1900-16",

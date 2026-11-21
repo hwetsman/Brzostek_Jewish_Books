@@ -46388,7 +46388,7 @@
   "marital_status_at_death": "Single (d-1896-9)",
   "father_id": "P0352",
   "father_name": "Abraham Chaim Korzennik",
-  "mother_id": "P0353",
+  "mother_id": "P1679",
   "mother_name": "Rachel Korzennik",
   "spouse_ids": [],
   "spouse_names": [],
@@ -46476,8 +46476,7 @@
   "mother_name": "Tyla Korzennik",
   "spouse_ids": [
    "P0555",
-   "P1679",
-   "P0353"
+   "P1679"
   ],
   "spouse_names": [
    "Esther Korzennik née Zimmerman",
@@ -46648,100 +46647,11 @@
     "evidence": "described as married by Jewish rite in m-1907-4",
     "partner_id": "P0555",
     "group": "2"
-   },
-   {
-    "kind": "child",
-    "evidence": "b-1895-27",
-    "partner_id": "P0353",
-    "group": "3"
    }
   ],
   "partner_groups": {
    "P0555": "2",
-   "P0353": "3",
    "P1679": "1"
-  }
- },
- {
-  "id": "P0353",
-  "legal_given": "Rachel",
-  "common_given": "Rachel",
-  "legal_surname": "Wildstein",
-  "common_surname": "Wildstein",
-  "maiden_surname": null,
-  "married_surname": "Korzennik",
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": null,
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": "P0354",
-  "father_name": null,
-  "mother_id": "P0355",
-  "mother_name": null,
-  "spouse_ids": [
-   "P0352"
-  ],
-  "spouse_names": [],
-  "children_ids": [
-   "P0351"
-  ],
-  "children_names": [
-   "Reuben Korzennik"
-  ],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "b-1895-27",
-    "role": "Mother"
-   }
-  ],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Rachel née Wildstein",
-     "rids": [
-      "b-1895-27"
-     ]
-    }
-   ],
-   "quotes": [
-    {
-     "rid": "b-1895-27",
-     "role": "Mother",
-     "text": "Rachel, daughter of Shulem Wildstein, former dealer of grain in Frysztak, and Chaya nee unknown"
-    }
-   ],
-   "surnames": [
-    "Korzennik",
-    "Wildstein"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": [
-   {
-    "kind": "child",
-    "evidence": "b-1895-27",
-    "partner_id": "P0352",
-    "group": "3"
-   }
-  ],
-  "heading_name": "Rachel Wildstein",
-  "partner_groups": {
-   "P0352": "3"
   }
  },
  {
@@ -46766,13 +46676,9 @@
   "father_name": null,
   "mother_id": null,
   "mother_name": null,
-  "spouse_ids": [
-   "P0355"
-  ],
+  "spouse_ids": [],
   "spouse_names": [],
-  "children_ids": [
-   "P0353"
-  ],
+  "children_ids": [],
   "children_names": [],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -46804,75 +46710,7 @@
    "birth_date_text": null,
    "death_date_text": "deceased"
   },
-  "unions": [],
-  "partner_groups": {
-   "P0355": "unclear"
-  }
- },
- {
-  "id": "P0355",
-  "legal_given": "Chaya",
-  "common_given": "Chaya",
-  "legal_surname": "Wildstein",
-  "common_surname": "Wildstein",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": null,
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [
-   "P0354"
-  ],
-  "spouse_names": [],
-  "children_ids": [
-   "P0353"
-  ],
-  "children_names": [],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "b-1895-27",
-    "role": "MGM"
-   }
-  ],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Chaya Wildstein",
-     "rids": [
-      "b-1895-27"
-     ]
-    }
-   ],
-   "quotes": [],
-   "surnames": [
-    "Wildstein"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": [],
-  "partner_groups": {
-   "P0354": "unclear"
-  }
+  "unions": []
  },
  {
   "id": "P0356",
@@ -157747,7 +157585,7 @@
   "legal_surname": "Herman",
   "common_surname": "Herman",
   "maiden_surname": null,
-  "married_surname": null,
+  "married_surname": "Korzennik",
   "sex": "F",
   "birth_date": "c. 1852 (age 52 at death 1904)",
   "death_date": "20 Jan 1904",
@@ -157768,12 +157606,20 @@
   ],
   "spouse_names": [
    "Alter Chaim Korzennik",
-   "Wildstein"
+   "Schulim Wildstein"
   ],
-  "children_ids": [],
-  "children_names": [],
+  "children_ids": [
+   "P0351"
+  ],
+  "children_names": [
+   "Reuben Korzennik"
+  ],
   "in_area": "IN_AREA",
   "refs": [
+   {
+    "record_id": "b-1895-27",
+    "role": "Mother"
+   },
    {
     "record_id": "d-1904-1",
     "role": "Decedent"
@@ -157784,9 +157630,15 @@
    }
   ],
   "external_resources": null,
-  "identity_note": null,
+  "identity_note": "Rachel appears in two records with different fathers. Her son Reuben's birth in 1895 calls her daughter of Shulem Wildstein. Her civil marriage to Alter Chaim Korzennik in 1900 calls her Rachla Herman, widow Wildstein, daughter of David and Chaya Herman, and cites the death of her first husband, Schulim Wildstein, in Kraków in 1884. Both records give her the name Wildstein and her mother as Chaya, and both tie her to Frysztak and to Alter Chaim. We treat her as one woman, assuming the 1895 clerk wrote her late husband's name where her father's belonged. No record states that error, so this is probable, not proven.",
   "identity": {
    "names": [
+    {
+     "form": "Rachel née Wildstein",
+     "rids": [
+      "b-1895-27"
+     ]
+    },
     {
      "form": "Rachel Herman",
      "rids": [
@@ -157802,6 +157654,11 @@
    ],
    "quotes": [
     {
+     "rid": "b-1895-27",
+     "role": "Mother",
+     "text": "Rachel, daughter of Shulem Wildstein, former dealer of grain in Frysztak, and Chaya nee unknown"
+    },
+    {
      "rid": "m-1900-15",
      "role": "Bride",
      "text": "Rachla Herman, widow Wildstein, born in Frysztak, residing in Brzostek, unemployed, daughter of Dawid and Chaja Herman, former industrialists in Frysztak"
@@ -157814,7 +157671,8 @@
    ],
    "surnames": [
     "Herman",
-    "Korzennik"
+    "Korzennik",
+    "Wildstein"
    ],
    "born": null,
    "died": {
@@ -157960,6 +157818,10 @@
   "in_area": "NOT_IN_AREA",
   "refs": [
    {
+    "record_id": "b-1895-27",
+    "role": "MGM"
+   },
+   {
     "record_id": "d-1904-1",
     "role": "Mother"
    },
@@ -157973,6 +157835,12 @@
   "identity": {
    "names": [
     {
+     "form": "Chaya Wildstein",
+     "rids": [
+      "b-1895-27"
+     ]
+    },
+    {
      "form": "Chaya Herman",
      "rids": [
       "m-1900-15",
@@ -157982,7 +157850,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Herman"
+    "Herman",
+    "Wildstein"
    ],
    "born": null,
    "died": null,
@@ -220920,15 +220789,15 @@
  },
  {
   "id": "P2731",
-  "legal_given": null,
-  "common_given": null,
+  "legal_given": "Schulim",
+  "common_given": "Schulim",
   "legal_surname": "Wildstein",
   "common_surname": "Wildstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
   "birth_date": null,
-  "death_date": "before 1900 (deceased prior to widow's remarriage on m-1900-15)",
+  "death_date": "1884 in Kraków (death record no. 114, cited in m-1900-15)",
   "marriage_dates": null,
   "occupations": null,
   "residences": null,
@@ -220962,9 +220831,9 @@
    "died": null,
    "marriages": [],
    "birth_year": null,
-   "death_year": "1900",
+   "death_year": "1884",
    "birth_date_text": null,
-   "death_date_text": "before 1900 (deceased prior to widow's remarriage on m-1900-15)"
+   "death_date_text": "1884 in Kraków (death record no. 114, cited in m-1900-15)"
   },
   "unions": []
  },
