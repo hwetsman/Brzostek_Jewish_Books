@@ -20752,12 +20752,12 @@
     {
      "rid": "b-1894-4",
      "role": "Mother",
-     "text": "Zlata, daughter of Joel Wurzel, cattle trader in Debica, and the late Chaya Itta."
+     "text": "Zlata, daughter of Joel Wurzel, cattle dealer in Debica, and the late Chaya Itta."
     },
     {
      "rid": "b-1896-28",
      "role": "Mother",
-     "text": "Zlata, daughter of Joel Wurzel, cattle trader in Debica, and the late Chaya Itta, called Itta, nee unknown."
+     "text": "Zlata, daughter of Joel Wurzel, cattle dealer in Debica, and the late Chaya Itta, called Itta, nee unknown."
     },
     {
      "rid": "d-1927-2",
@@ -20801,7 +20801,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "cattle trader",
+  "occupations": "cattle dealer",
   "residences": "Debica",
   "status": null,
   "birth_legitimacy": null,
@@ -22267,7 +22267,7 @@
     {
      "rid": "b-1906-25",
      "role": "Mother",
-     "text": "Sprinza, daughter of Joseph Bergman, hide merchant in Brzostek, and Malka nee Kleinman"
+     "text": "Sprinza, daughter of Joseph Bergman, hide dealer in Brzostek, and Malka nee Kleinman"
     },
     {
      "rid": "d-1918-7",
@@ -28167,7 +28167,7 @@
     {
      "rid": "m-1894-3",
      "role": "Groom",
-     "text": "Feiwel, recte Leib Feiwel, Faust, born in Ropczyce, leather merchant in Brzostek and residing here, son of Dawid Faust, merchant in Ropczyce, and Pesla nee Gidon."
+     "text": "Feiwel, recte Leib Feiwel, Faust, born in Ropczyce, leather dealer in Brzostek and residing here, son of Dawid Faust, merchant in Ropczyce, and Pesla nee Gidon."
     }
    ],
    "surnames": [
@@ -31866,7 +31866,7 @@
     {
      "rid": "m-1913-4",
      "role": "Groom",
-     "text": "Chaskel Welisch, born in Strzyżów, merchant residing in Brzostek, son of Jozef and Dwojra Welisch, industrialists in Strzyżów"
+     "text": "Chaskel Welisch, born in Strzyżów, dealer residing in Brzostek, son of Jozef and Dwojra Welisch, industrialists in Strzyżów"
     },
     {
      "rid": "d-1919-6",
@@ -32833,7 +32833,7 @@
     {
      "rid": "b-1894-26",
      "role": "Father",
-     "text": "Joseph Steinhorn, owner of real estate and trader in Błaszkowa"
+     "text": "Joseph Steinhorn, owner of real estate and dealer in Błaszkowa"
     },
     {
      "rid": "b-1896-25",
@@ -32858,7 +32858,7 @@
     {
      "rid": "m-1902-6",
      "role": "Groom",
-     "text": "Jozef Steinhorn, born in Wola Lubecka, a merchant residing in Blaszkowa, son of Kelman Steinhorn, owner of a land holding in Wola Lubecka, and Ryfka nee Menendorf"
+     "text": "Jozef Steinhorn, born in Wola Lubecka, a dealer residing in Blaszkowa, son of Kelman Steinhorn, owner of a land holding in Wola Lubecka, and Ryfka nee Menendorf"
     },
     {
      "rid": "d-1934-2",
@@ -35115,7 +35115,7 @@
     {
      "rid": "b-1906-10",
      "role": "Mother",
-     "text": "Tyla, daughter of the late Joseph Rubel, former grain merchant in Brzostek, and Leah nee Korzennik"
+     "text": "Tyla, daughter of the late Joseph Rubel, former grain dealer in Brzostek, and Leah nee Korzennik"
     }
    ],
    "surnames": [
@@ -36443,7 +36443,7 @@
     {
      "rid": "d-1907-1",
      "role": "The deceased",
-     "text": "Hinde Guttstein, daughter of the late Abraham Windstroh, former lime merchant in Gawlow near Bochnia, and Chaya nee Gottlieb"
+     "text": "Hinde Guttstein, daughter of the late Abraham Windstroh, former lime dealer in Gawlow near Bochnia, and Chaya nee Gottlieb"
     }
    ],
    "surnames": [
@@ -38538,7 +38538,7 @@
   "birth_date": "c. 1861 (from d-1894-9 age 33)",
   "death_date": "2 Oct 1894",
   "marriage_dates": "4 Sep 1891 in Kamienica Gorna (civil)",
-  "occupations": "trader; dealer",
+  "occupations": "dealer",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -38597,7 +38597,7 @@
     {
      "rid": "b-1895-8",
      "role": "Father",
-     "text": "Abraham Kornfeld, former trader in Brzostek, deceased"
+     "text": "Abraham Kornfeld, former dealer in Brzostek, deceased"
     }
    ],
    "surnames": [
@@ -50137,6 +50137,11 @@
     {
      "rid": "b-1896-10",
      "role": "Father",
+     "text": "Isaac Rubel, dealer and owner of real estate in Brzostek"
+    },
+    {
+     "rid": "b-1897-5",
+     "role": "Father",
      "text": "Isaac Rubel, merchant and owner of real estate in Brzostek"
     },
     {
@@ -51217,7 +51222,7 @@
     {
      "rid": "d-1913-7",
      "role": "The deceased",
-     "text": "Moses Neuman, son of Selig Neuman, merchant in Januszkowice, and Sarah Hene nee Roth"
+     "text": "Moses Neuman, son of Selig Neuman, dealer in Januszkowice, and Sarah Hene nee Roth"
     }
    ],
    "surnames": [
@@ -53123,7 +53128,7 @@
     {
      "rid": "b-1896-24",
      "role": "Mother",
-     "text": "Esther, daughter of Leib Fenechel, wine merchant from Dabrowa Tarnowska, and Rachel nee Stein"
+     "text": "Esther, daughter of Leib Fenechel, wine dealer from Dabrowa Tarnowska, and Rachel nee Stein"
     },
     {
      "rid": "m-1897-5",
@@ -53173,7 +53178,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "wine merchant",
+  "occupations": "wine dealer",
   "residences": "Dabrowa Tarnowska",
   "status": null,
   "birth_legitimacy": null,
@@ -55813,7 +55818,7 @@
     {
      "rid": "b-1900-1",
      "role": "Mother",
-     "text": "Sarah, daughter of Isaac Halpern, former linen trader in Rymanow, and Rosa nee unknown"
+     "text": "Sarah, daughter of Isaac Halpern, former linen dealer in Rymanow, and Rosa nee unknown"
     },
     {
      "rid": "d-1910-3",
@@ -58062,7 +58067,7 @@
     {
      "rid": "m-1924-3",
      "role": "Bride",
-     "text": "Judesa Reis, no profession, in Opacionka, daughter of Hersch Reis, egg merchant and Scheindli née Lobel"
+     "text": "Judesa Reis, no profession, in Opacionka, daughter of Hersch Reis, egg dealer and Scheindli née Lobel"
     }
    ],
    "surnames": [
@@ -58723,7 +58728,7 @@
     {
      "rid": "m-1910-10",
      "role": "Groom",
-     "text": "Kelman Kleinman, born in Kamienica Dolna, a merchant residing in Kamienica Dolna, son of the deceased Samuel Kleinman, a former butcher in Kamienica Dolna, and Sara nee Thum"
+     "text": "Kelman Kleinman, born in Kamienica Dolna, a dealer residing in Kamienica Dolna, son of the deceased Samuel Kleinman, a former butcher in Kamienica Dolna, and Sara nee Thum"
     },
     {
      "rid": "d-1921-1",
@@ -60045,11 +60050,6 @@
      "rid": "b-1905-18",
      "role": "Father",
      "text": "Moses Schwarz, grain dealer in Brzostek"
-    },
-    {
-     "rid": "b-1906-24",
-     "role": "Father",
-     "text": "Moses Schwarz, grain merchant in Brzostek"
     }
    ],
    "surnames": [
@@ -60244,7 +60244,7 @@
     {
      "rid": "m-1899-4",
      "role": "Bride",
-     "text": "Malke Rubel, born in Blaszkowa, daughter of Izaak Rubel, a grain merchant there, and Sara née Freiberger."
+     "text": "Malke Rubel, born in Blaszkowa, daughter of Izaak Rubel, a grain dealer there, and Sara née Freiberger."
     },
     {
      "rid": "b-1902-23",
@@ -60259,7 +60259,7 @@
     {
      "rid": "b-1906-24",
      "role": "Mother",
-     "text": "Malka, daughter of Isaac Rubel, wicker merchant in Brzostek, and the late Sarah \"Freida\", called \"Freida\", nee Freiberger"
+     "text": "Malka, daughter of Isaac Rubel, wicker dealer in Brzostek, and the late Sarah \"Freida\", called \"Freida\", nee Freiberger"
     },
     {
      "rid": "b-1908-13",
@@ -61620,7 +61620,7 @@
     {
      "rid": "m-1900-6",
      "role": "Groom",
-     "text": "Salamon Dawid, called Dawid, Aron, born in Mielec, residing in Brzostek, a cloth merchant, son of Baruch Aron, an industrialist in Mielec, and Golda nee Goldberg"
+     "text": "Salamon Dawid, called Dawid, Aron, born in Mielec, residing in Brzostek, a cloth dealer, son of Baruch Aron, an industrialist in Mielec, and Golda nee Goldberg"
     },
     {
      "rid": "b-1901-22",
@@ -64637,7 +64637,7 @@
     {
      "rid": "m-1896-1",
      "role": "Groom",
-     "text": "Schaja Baumgarten, born in Korczyna, living with his parents, son of Eisik Baumgarten, a merchant in Korczyna, and Breidla, nee Fessel"
+     "text": "Schaja Baumgarten, born in Korczyna, living with his parents, son of Eisik Baumgarten, a dealer in Korczyna, and Breidla, nee Fessel"
     },
     {
      "rid": "b-1897-27",
@@ -64865,7 +64865,7 @@
     {
      "rid": "m-1896-1",
      "role": "Bride",
-     "text": "Hudesa Hirsch, born in Brzostek No. 52, in her parents' family, daughter of Markus Dawid, called Dawid, Hirsch, a grain merchant in Brzostek, and Hendla née Sperber."
+     "text": "Hudesa Hirsch, born in Brzostek No. 52, in her parents' family, daughter of Markus Dawid, called Dawid, Hirsch, a grain dealer in Brzostek, and Hendla née Sperber."
     },
     {
      "rid": "b-1897-27",
@@ -75475,7 +75475,7 @@
     {
      "rid": "d-1913-4",
      "role": "The deceased",
-     "text": "Joseph Siegfried, son of Leiser and the mother Hannah Feige nee Bochner, traders in Brzostek"
+     "text": "Joseph Siegfried, son of Leiser and the mother Hannah Feige nee Bochner, dealers in Brzostek"
     }
    ],
    "surnames": [
@@ -77473,7 +77473,7 @@
     {
      "rid": "m-1900-1",
      "role": "Groom",
-     "text": "Chaim Majer, called Majer, Fisch, born in Frysztak, single, son of Elle Fisch, an egg merchant in Frysztak, and Temy nee Forgacz"
+     "text": "Chaim Majer, called Majer, Fisch, born in Frysztak, single, son of Elle Fisch, an egg dealer in Frysztak, and Temy nee Forgacz"
     },
     {
      "rid": "b-1901-7",
@@ -79002,7 +79002,7 @@
     {
      "rid": "m-1904-5",
      "role": "Groom",
-     "text": "Abraham Hersch, called Hersch, Kolber, known as Amsterdam, born in Rzochów, Mielec district, grain merchant residing in Brzostek, illegitimate son of Naftali Amsterdam, unemployed, residing in Brzostek, and blessed Laja Gittla, called Gittla, Kolber."
+     "text": "Abraham Hersch, called Hersch, Kolber, known as Amsterdam, born in Rzochów, Mielec district, grain dealer residing in Brzostek, illegitimate son of Naftali Amsterdam, unemployed, residing in Brzostek, and blessed Laja Gittla, called Gittla, Kolber."
     },
     {
      "rid": "b-1906-6",
@@ -80057,7 +80057,7 @@
     {
      "rid": "m-1902-5",
      "role": "Groom",
-     "text": "Mendel Schuss, grain merchant, born in Dembica, residing in Brzostek, son of Aron Dawid, called Dawid, Schuss, a timber merchant in Dembica, and Geli, nee Goldberg"
+     "text": "Mendel Schuss, grain dealer, born in Dembica, residing in Brzostek, son of Aron Dawid, called Dawid, Schuss, a timber dealer in Dembica, and Geli, nee Goldberg"
     },
     {
      "rid": "b-1904-28",
@@ -80260,7 +80260,7 @@
     {
      "rid": "m-1902-5",
      "role": "Bride",
-     "text": "Hinde Rubel, born in Brzostek, daughter of Isaac Rubel, a merchant and grain dealer in Brzostek, and her deceased mother Sara, née Freiberg"
+     "text": "Hinde Rubel, born in Brzostek, daughter of Isaac Rubel, a dealer and grain dealer in Brzostek, and her deceased mother Sara, née Freiberg"
     },
     {
      "rid": "b-1904-28",
@@ -81200,7 +81200,7 @@
     {
      "rid": "m-1899-3",
      "role": "Groom",
-     "text": "Elias Jortner, who used the last name Singer, born in Debica, trader of tanned leather, son of Israel Singer, leather trader in Debica, and Chaja Sara Jortner"
+     "text": "Elias Jortner, who used the last name Singer, born in Debica, dealer of tanned leather, son of Israel Singer, leather dealer in Debica, and Chaja Sara Jortner"
     },
     {
      "rid": "b-1900-8",
@@ -81215,7 +81215,7 @@
     {
      "rid": "b-1906-5",
      "role": "Father",
-     "text": "Elias Singer, hide merchant in Brzostek"
+     "text": "Elias Singer, hide dealer in Brzostek"
     }
    ],
    "surnames": [
@@ -83298,7 +83298,7 @@
     {
      "rid": "m-1900-14",
      "role": "Groom",
-     "text": "Schulim Schilloj, born in Brzostek, leather merchant residing in Brzostek, son of Josef Schilloy, unemployed, and Freidla nee Bloch, residing in Brzostek."
+     "text": "Schulim Schilloj, born in Brzostek, leather dealer residing in Brzostek, son of Josef Schilloy, unemployed, and Freidla nee Bloch, residing in Brzostek."
     },
     {
      "rid": "b-1902-26",
@@ -94029,7 +94029,7 @@
   "birth_date": "c. 1878 (age 47 at death 1925)",
   "death_date": "20 Nov 1925",
   "marriage_dates": "1 Apr 1903 in Brzostek (civil); 5 Apr 1903 in Brzostek (civil)",
-  "occupations": "unemployed; trader",
+  "occupations": "unemployed; dealer",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -94576,7 +94576,7 @@
     {
      "rid": "d-1904-4",
      "role": "The deceased",
-     "text": "Chaskel Singer, son of Elias Singer, leather merchant in Brzostek"
+     "text": "Chaskel Singer, son of Elias Singer, leather dealer in Brzostek"
     }
    ],
    "surnames": [
@@ -102311,7 +102311,7 @@
     {
      "rid": "d-1908-8",
      "role": "The deceased",
-     "text": "Moses Chaim Reiss, called Chaim, son of Hersch Reiss, an egg merchant, and Shayndel nee Lobel in Opacionka"
+     "text": "Moses Chaim Reiss, called Chaim, son of Hersch Reiss, an egg dealer, and Shayndel nee Lobel in Opacionka"
     }
    ],
    "surnames": [
@@ -102728,7 +102728,7 @@
     {
      "rid": "m-1902-8",
      "role": "Groom",
-     "text": "Jakub Bergman, born in Brzostek, unemployed and residing here, son of Jozef Bergman, a leather merchant in Brzostek and Malka nee Kleinman"
+     "text": "Jakub Bergman, born in Brzostek, unemployed and residing here, son of Jozef Bergman, a leather dealer in Brzostek and Malka nee Kleinman"
     },
     {
      "rid": "b-1905-6",
@@ -104846,7 +104846,7 @@
     {
      "rid": "d-1905-12",
      "role": "The deceased",
-     "text": "Hannah Chaya, called Chaya, Reiss, daughter of Gedalia, egg merchant in Brzostek"
+     "text": "Hannah Chaya, called Chaya, Reiss, daughter of Gedalia, egg dealer in Brzostek"
     }
    ],
    "surnames": [
@@ -104891,7 +104891,7 @@
   "birth_date": null,
   "death_date": "27 Oct 1908",
   "marriage_dates": null,
-  "occupations": "egg dealer in Brzostek; egg merchant",
+  "occupations": "egg dealer in Brzostek",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -104965,7 +104965,7 @@
     {
      "rid": "d-1908-13",
      "role": "The deceased",
-     "text": "Gedalje Reiss, egg merchant in Brzostek"
+     "text": "Gedalje Reiss, egg dealer in Brzostek"
     }
    ],
    "surnames": [
@@ -107202,7 +107202,7 @@
     {
      "rid": "d-1911-8",
      "role": "The deceased",
-     "text": "Bascha, daughter of Abraham Amsterdam, horse trader in Brzostek, and Shayndel nee Lambek"
+     "text": "Bascha, daughter of Abraham Amsterdam, horse dealer in Brzostek, and Shayndel nee Lambek"
     }
    ],
    "surnames": [
@@ -108925,7 +108925,7 @@
     {
      "rid": "d-1908-5",
      "role": "The deceased",
-     "text": "Chaya Bursztyn daughter Chaim Israel Bursztyn, grain merchant in Brzostek"
+     "text": "Chaya Bursztyn daughter Chaim Israel Bursztyn, grain dealer in Brzostek"
     }
    ],
    "surnames": [
@@ -111806,7 +111806,7 @@
     {
      "rid": "m-1906-11",
      "role": "Groom",
-     "text": "Feiwel Ehrlich, called Bochner, born in Jodlowa, baker, illegitimate son of Majer Joel, called Joel, Bochner, an egg merchant in Jodlowa and the deceased Ryfka Ehrlich"
+     "text": "Feiwel Ehrlich, called Bochner, born in Jodlowa, baker, illegitimate son of Majer Joel, called Joel, Bochner, an egg dealer in Jodlowa and the deceased Ryfka Ehrlich"
     },
     {
      "rid": "b-1907-3",
@@ -115283,7 +115283,7 @@
     {
      "rid": "m-1907-10",
      "role": "Groom",
-     "text": "Mordche Herschel, called Herschel, Wolf, born in Oświęcim, house No. 88, without profession, son of Mojzesz Wolf, a trader in Oswiecim, and Rachela Laja, called Laja, nee Wulkan"
+     "text": "Mordche Herschel, called Herschel, Wolf, born in Oświęcim, house No. 88, without profession, son of Mojzesz Wolf, a dealer in Oswiecim, and Rachela Laja, called Laja, nee Wulkan"
     },
     {
      "rid": "b-1909-16",
@@ -128959,7 +128959,7 @@
     {
      "rid": "m-1909-2",
      "role": "Groom",
-     "text": "Jonas Feigenbaum, born in Ropczyce single, without a profession, living with his parents, the son of Moshe Feigenbaum and Chaja Eisen, false Aron, an egg merchant in Ropczyce"
+     "text": "Jonas Feigenbaum, born in Ropczyce single, without a profession, living with his parents, the son of Moshe Feigenbaum and Chaja Eisen, false Aron, an egg dealer in Ropczyce"
     },
     {
      "rid": "b-1910-24",
@@ -133790,7 +133790,7 @@
     {
      "rid": "m-1906-3",
      "role": "Groom",
-     "text": "Jacob Teitelbaum, born in Frysztak, leather trader, shoemaker in Brzostek, son of Mendel and Marya Teitelbaum, tanners in Frysztak"
+     "text": "Jacob Teitelbaum, born in Frysztak, leather dealer, shoemaker in Brzostek, son of Mendel and Marya Teitelbaum, tanners in Frysztak"
     },
     {
      "rid": "b-1911-24",
@@ -135679,7 +135679,7 @@
     {
      "rid": "d-1916-13",
      "role": "The deceased",
-     "text": "Hannah Blum, daughter of Johause Blum and Miriam nee Hirsch, traders in Brzostek"
+     "text": "Hannah Blum, daughter of Johause Blum and Miriam nee Hirsch, dealers in Brzostek"
     }
    ],
    "surnames": [
@@ -136736,7 +136736,7 @@
     {
      "rid": "m-1912-1",
      "role": "Groom",
-     "text": "Chaim Joel, called Joel, Scharf, born in Przemyśl, without profession, with his parents, son of Hirsch Leib, called Leib, Scharf, a merchant of cloth goods in Przemyśl and Malka Scharf née Wolkenfeld"
+     "text": "Chaim Joel, called Joel, Scharf, born in Przemyśl, without profession, with his parents, son of Hirsch Leib, called Leib, Scharf, a dealer of cloth goods in Przemyśl and Malka Scharf née Wolkenfeld"
     }
    ],
    "surnames": [
@@ -143136,7 +143136,7 @@
     {
      "rid": "d-1914-3",
      "role": "The deceased",
-     "text": "Miriam Lobel, daughter of Mayer Lobel, a trader in Januszkowice, and Rachel nee Heffen"
+     "text": "Miriam Lobel, daughter of Mayer Lobel, a dealer in Januszkowice, and Rachel nee Heffen"
     }
    ],
    "surnames": [
@@ -144450,7 +144450,7 @@
     {
      "rid": "d-1916-14",
      "role": "The deceased",
-     "text": "Gedalia Reiss, son of Chaim and Chaya Reiss, egg merchants in Brzostek"
+     "text": "Gedalia Reiss, son of Chaim and Chaya Reiss, egg dealers in Brzostek"
     }
    ],
    "surnames": [
@@ -161337,7 +161337,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "merchant",
+  "occupations": "dealer",
   "residences": "Jodlowa",
   "status": null,
   "birth_legitimacy": null,
@@ -161406,7 +161406,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "merchant",
+  "occupations": "dealer",
   "residences": "Jodlowa",
   "status": null,
   "birth_legitimacy": null,
@@ -161511,7 +161511,7 @@
     {
      "rid": "d-1913-6",
      "role": "The deceased",
-     "text": "Cywa Siegfried, daughter of Shaya and Tauba Siegfried, merchants in Jodlowa"
+     "text": "Cywa Siegfried, daughter of Shaya and Tauba Siegfried, dealers in Jodlowa"
     }
    ],
    "surnames": [
@@ -161785,7 +161785,7 @@
     {
      "rid": "d-1914-1",
      "role": "The deceased",
-     "text": "Bluma Senft, unemployed, daughter of Elias and Etla Senft, traders in Brzostek"
+     "text": "Bluma Senft, unemployed, daughter of Elias and Etla Senft, dealers in Brzostek"
     }
    ],
    "surnames": [
@@ -168713,7 +168713,7 @@
     {
      "rid": "m-1894-2",
      "role": "Bride",
-     "text": "Sime Liebschütz, born in Brzostek, daughter of Markus Liebschütz, a grain merchant in Brzostek, and Feiga née Konigsdorf"
+     "text": "Sime Liebschütz, born in Brzostek, daughter of Markus Liebschütz, a grain dealer in Brzostek, and Feiga née Konigsdorf"
     }
    ],
    "surnames": [
@@ -169286,7 +169286,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "merchant",
+  "occupations": "dealer",
   "residences": "Korczyna",
   "status": null,
   "birth_legitimacy": null,
@@ -169558,7 +169558,7 @@
     {
      "rid": "m-1896-3",
      "role": "Groom",
-     "text": "Jeruchem Rieger, born in Gorlice, industrialist, son of Hersch and Feigi Rieger, grain merchant in Gorlice"
+     "text": "Jeruchem Rieger, born in Gorlice, industrialist, son of Hersch and Feigi Rieger, grain dealer in Gorlice"
     }
    ],
    "surnames": [
@@ -169596,7 +169596,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "grain merchant",
+  "occupations": "grain dealer",
   "residences": "Gorlice",
   "status": null,
   "birth_legitimacy": null,
@@ -179147,7 +179147,7 @@
     {
      "rid": "m-1903-6",
      "role": "Groom",
-     "text": "Süssel Winter, called Glasner, born in Piątkowa ad Nowy Sącz, residing in Blaszkowa, owner of real estate and trader, son of Leiba Glasner and Golda Winter, former innkeepers in Piątkowa"
+     "text": "Süssel Winter, called Glasner, born in Piątkowa ad Nowy Sącz, residing in Blaszkowa, owner of real estate and dealer, son of Leiba Glasner and Golda Winter, former innkeepers in Piątkowa"
     }
    ],
    "surnames": [
@@ -183955,7 +183955,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "trader",
+  "occupations": "dealer",
   "residences": "Oswiecim",
   "status": null,
   "birth_legitimacy": null,
@@ -184668,7 +184668,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "egg merchant",
+  "occupations": "egg dealer",
   "residences": "Ropczyce",
   "status": null,
   "birth_legitimacy": null,
@@ -187055,7 +187055,7 @@
     {
      "rid": "m-1911-2",
      "role": "Bride",
-     "text": "Gittla Muller, false Faber, born in Siedlec ad Żabno, daughter of Sarah Rachel, called Rachel, Muller, a merchant in Siedlec, and her illegitimate father, Hersch Leib, called Leib, Faber, an industrialist in Siedlec ad Zabno"
+     "text": "Gittla Muller, false Faber, born in Siedlec ad Żabno, daughter of Sarah Rachel, called Rachel, Muller, a dealer in Siedlec, and her illegitimate father, Hersch Leib, called Leib, Faber, an industrialist in Siedlec ad Zabno"
     }
    ],
    "surnames": [
@@ -187961,7 +187961,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "merchant of cloth goods",
+  "occupations": "dealer of cloth goods",
   "residences": "Grzymyslaw",
   "status": null,
   "birth_legitimacy": null,
@@ -188287,7 +188287,7 @@
   "birth_date": "10 Apr 1884",
   "death_date": null,
   "marriage_dates": "1913-07-01 in Brzostek (civil)",
-  "occupations": "merchant",
+  "occupations": "dealer",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -188327,7 +188327,7 @@
     {
      "rid": "m-1913-5",
      "role": "Groom",
-     "text": "Chaim Leib Welisch, born in Brzostek, merchant residing in Brzostek, son of Chaskl and Scheindl Gitla Welisch, merchants in Brzostek"
+     "text": "Chaim Leib Welisch, born in Brzostek, dealer residing in Brzostek, son of Chaskl and Scheindl Gitla Welisch, dealers in Brzostek"
     }
    ],
    "surnames": [
@@ -188405,7 +188405,7 @@
     {
      "rid": "m-1913-6",
      "role": "Bride",
-     "text": "Laja Schlenger, no profession, in Brzostek, daughter of the deceased Dawid Mendl, called Mendl, Schlenger and the deceased Rondla née Turk, traders in Brzostek"
+     "text": "Laja Schlenger, no profession, in Brzostek, daughter of the deceased Dawid Mendl, called Mendl, Schlenger and the deceased Rondla née Turk, dealers in Brzostek"
     }
    ],
    "surnames": [
@@ -188484,7 +188484,7 @@
     {
      "rid": "m-1913-6",
      "role": "Groom",
-     "text": "Eliasz Dawid, called Dawid, Bergman, born 21/2/1870 in Brzostek, residing, son of the deceased Josef Bergman and his surviving mother Malka née Kleinman, merchant in Brzostek"
+     "text": "Eliasz Dawid, called Dawid, Bergman, born 21/2/1870 in Brzostek, residing, son of the deceased Josef Bergman and his surviving mother Malka née Kleinman, dealer in Brzostek"
     }
    ],
    "surnames": [
@@ -189773,7 +189773,7 @@
   "birth_date": "c. 1865 (age 51 at m-1916-6)",
   "death_date": null,
   "marriage_dates": "1916-12-28 in Brzostek (civil)",
-  "occupations": "trader",
+  "occupations": "dealer",
   "residences": "Nawsie Brzosteckie",
   "status": "M",
   "birth_legitimacy": null,
@@ -189823,7 +189823,7 @@
     {
      "rid": "m-1916-6",
      "role": "Groom",
-     "text": "Dawid Tesser, born in Brzeziny, son of the deceased Psachja and Jochweda Tesser, innkeepers in Brzeziny, trader in Nawsie Brzosteckie, residing"
+     "text": "Dawid Tesser, born in Brzeziny, son of the deceased Psachja and Jochweda Tesser, innkeepers in Brzeziny, dealer in Nawsie Brzosteckie, residing"
     }
    ],
    "surnames": [
@@ -191067,7 +191067,7 @@
     {
      "rid": "m-1919-2",
      "role": "Groom",
-     "text": "Chaim Plutzer, born in Rzeszów on 3/5 1891, son of the deceased Lazar Plutzer and Chana Kloc, merchant in Rzeszów, residing without profession in Brzostek"
+     "text": "Chaim Plutzer, born in Rzeszów on 3/5 1891, son of the deceased Lazar Plutzer and Chana Kloc, dealer in Rzeszów, residing without profession in Brzostek"
     }
    ],
    "surnames": [
@@ -191155,7 +191155,7 @@
     {
      "rid": "m-1919-2",
      "role": "Bride",
-     "text": "Pesla Faust, no profession in Brzostek, daughter of Leiba Feivla Faust and Chana née Schiloy, leather merchants in Brzostek"
+     "text": "Pesla Faust, no profession in Brzostek, daughter of Leiba Feivla Faust and Chana née Schiloy, leather dealers in Brzostek"
     },
     {
      "rid": "d-1938-5",
@@ -191362,7 +191362,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "merchant",
+  "occupations": "dealer",
   "residences": "Brzazow",
   "status": null,
   "birth_legitimacy": null,
@@ -191556,7 +191556,7 @@
     {
      "rid": "m-1919-5",
      "role": "Groom",
-     "text": "Szyja Ber, called Ber, Ratz, no profession, residing in Brzozów, son of Hersch Ratz, a merchant in Brzozów and Alta née Scheinbach"
+     "text": "Szyja Ber, called Ber, Ratz, no profession, residing in Brzozów, son of Hersch Ratz, a dealer in Brzozów and Alta née Scheinbach"
     }
    ],
    "surnames": [
@@ -193467,7 +193467,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "egg merchant",
+  "occupations": "egg dealer",
   "residences": "Strzyzow",
   "status": null,
   "birth_legitimacy": null,
@@ -193645,7 +193645,7 @@
     {
      "rid": "m-1921-4",
      "role": "Groom",
-     "text": "Mendel Rosen, born in Strzyżów, unmarried, son of Josef Hersch, called Hersch, and Cipora Rosen, egg merchants in Strzyżów"
+     "text": "Mendel Rosen, born in Strzyżów, unmarried, son of Josef Hersch, called Hersch, and Cipora Rosen, egg dealers in Strzyżów"
     }
    ],
    "surnames": [
@@ -193723,7 +193723,7 @@
     {
      "rid": "m-1921-4",
      "role": "Bride",
-     "text": "Feiga Faust, born in Brzostek, single, daughter of Leiba and Chana Faust, leather traders in Brzostek"
+     "text": "Feiga Faust, born in Brzostek, single, daughter of Leiba and Chana Faust, leather dealers in Brzostek"
     }
    ],
    "surnames": [
@@ -195090,7 +195090,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "merchant",
+  "occupations": "dealer",
   "residences": "Przybowka",
   "status": null,
   "birth_legitimacy": null,
@@ -195284,7 +195284,7 @@
     {
      "rid": "m-1923-2",
      "role": "Bride",
-     "text": "Chawa Bigaer, no profession, residing in Brzostek, daughter of Jakob Bigaer, a merchant in Przybówka, and Maryam née Elfenbein"
+     "text": "Chawa Bigaer, no profession, residing in Brzostek, daughter of Jakob Bigaer, a dealer in Przybówka, and Maryam née Elfenbein"
     }
    ],
    "surnames": [
@@ -200607,7 +200607,7 @@
     {
      "rid": "m-1928-1",
      "role": "Bride",
-     "text": "Chana List, daughter of Salomon Selmon List, egg merchant in Brzostek and Tyle nee Rubel, recte Korzenik"
+     "text": "Chana List, daughter of Salomon Selmon List, egg dealer in Brzostek and Tyle nee Rubel, recte Korzenik"
     }
    ],
    "surnames": [
@@ -209262,7 +209262,7 @@
   "birth_date": "1 Jan 1894 Osiek Jasielski (age 40 at marriage)",
   "death_date": null,
   "marriage_dates": "1934-12-23 in Blaszkowa (civil)",
-  "occupations": "trader",
+  "occupations": "dealer",
   "residences": "Osiek Jasielski",
   "status": "M",
   "birth_legitimacy": null,
@@ -209302,7 +209302,7 @@
     {
      "rid": "m-1934-8",
      "role": "Groom",
-     "text": "Abraham Stadtfeld, born in Osiek Jasielski and lives there, trader, son of Markus Stadtfeld and Perli nee Schuman"
+     "text": "Abraham Stadtfeld, born in Osiek Jasielski and lives there, dealer, son of Markus Stadtfeld and Perli nee Schuman"
     }
    ],
    "surnames": [
@@ -216733,7 +216733,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "egg merchant",
+  "occupations": "egg dealer",
   "residences": "Frysztak",
   "status": "M",
   "birth_legitimacy": null,
@@ -217842,7 +217842,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "leather trader",
+  "occupations": "leather dealer",
   "residences": "Sezby",
   "status": null,
   "birth_legitimacy": null,
@@ -218786,7 +218786,7 @@
     {
      "rid": "m-1903-5",
      "role": "Groom",
-     "text": "Joel Panzer, called Rubel, born in Brzostek, at No. 118, unemployed, illegitimate son of Dawid Leib, called Leib, Rubel, an egg merchant in Brzostek, and Eiga, nee Panzer"
+     "text": "Joel Panzer, called Rubel, born in Brzostek, at No. 118, unemployed, illegitimate son of Dawid Leib, called Leib, Rubel, an egg dealer in Brzostek, and Eiga, nee Panzer"
     },
     {
      "rid": "b-1906-29",
@@ -219456,7 +219456,7 @@
     {
      "rid": "m-1904-1",
      "role": "Bride",
-     "text": "Scheindla List, born in Brzostek, daughter of Salamon Selman List, an egg merchant in Brzostek, and Tyla née Rubel, married to List."
+     "text": "Scheindla List, born in Brzostek, daughter of Salamon Selman List, an egg dealer in Brzostek, and Tyla née Rubel, married to List."
     }
    ],
    "surnames": [
