@@ -42563,11 +42563,11 @@
   {
    "id": "P2503",
    "type": "person",
-   "display": "Levi Wulkan",
+   "display": "Zwi Wulkan",
    "other_names": "Zwi Wulkan; Wulkan",
    "subtitle": "born 1909; son of Rivka Silbiger",
-   "legal_given": "Jacob Levi",
-   "common_given": "Levi",
+   "legal_given": "Jacob Zwi",
+   "common_given": "Zwi",
    "legal_surname": "Wulkan",
    "common_surname": "Wulkan",
    "maiden_surname": "",
@@ -42577,7 +42577,7 @@
    "residences": "Oswiecim",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "147000 157000 457000 470000 785600 870000 470000 785600"
+   "phonetic": "147000 157000 457000 470000 785600 470000 785600"
   },
   {
    "id": "P2504",
@@ -60887,10 +60887,10 @@
    "book": "marriage",
    "year": 1936,
    "number": "2",
-   "summary": "Marriage 2/1936: Levi Wulkan & Freida Schwarz",
+   "summary": "Marriage 2/1936: Zwi Wulkan & Freida Schwarz",
    "prose": "25 February 1936 Brzostek Jakob Zwi, called Zwi, Wulkan, born and lives in Oświęcim, son of Aron Wulkan, merchant in Oświęcim, and Ryfka nee Silbiger Freide Schwarz, born and lives in Brzostek, daughter of Mojzesz Schwarz, merchant in Brzostek and Malki nee Rubel Chaim Wolkenfeld Herz Parnes, cantor in Brzostek, witness. Abraham Barber, butcher in Brzostek, witness. groom 4 May 1909, bride 17 Aug 1908. Remarks: Documents of the groom: birth certificate dated Oświęcim, 4 Jun 1935, ref. no. 77, according to the birth book there, vol. XII, p. 170, no. 77; certificate of the banns dated Oświęcim, 23 Feb 1936, no. 11. Documents of the bride: this registry's birth book, vol. III, p. 102, no. 23; and notices of the rabbi in Brzostek of 27 Feb 1936.",
-   "people": "Levi Wulkan; Freida Schwarz; Rivka Silbiger; Moses Schwarz; Malka Rubel; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
-   "phonetic": "459000 460000 474000 479400 487590 490000 540000 545000 560000 594000 594500 640000 673800 685000 785600 785678 793000 796400 797900 870000 975000 978000"
+   "people": "Zwi Wulkan; Freida Schwarz; Rivka Silbiger; Moses Schwarz; Malka Rubel; Naftali Hersch Parnes; Sucher Barber; Chaim Wolkenfeld",
+   "phonetic": "459000 460000 470000 474000 479400 487590 490000 540000 545000 560000 594000 594500 640000 673800 685000 785600 785678 793000 796400 797900 975000 978000"
   },
   {
    "id": "m-1936-3",
