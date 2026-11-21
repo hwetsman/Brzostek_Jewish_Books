@@ -150,11 +150,11 @@
    42
   ],
   [
-   "Samuel",
-   40
+   "Mendel",
+   41
   ],
   [
-   "Mendel",
+   "Samuel",
    40
   ]
  ],
@@ -486,7 +486,7 @@
   "distinct_causes": 112
  },
  "totals": {
-  "persons": 2380,
+  "persons": 2381,
   "births": 723,
   "deaths": 446,
   "marriages": 279,

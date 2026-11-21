@@ -32294,7 +32294,7 @@
   "birth_legitimacy": null,
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
-  "father_id": "P0220",
+  "father_id": "P2739",
   "father_name": null,
   "mother_id": "P0221",
   "mother_name": null,
@@ -32470,7 +32470,7 @@
   "birth_date": "6 Dec 1893",
   "death_date": null,
   "marriage_dates": "1925-03-12 in Brzostek (civil)",
-  "occupations": "horse dealer",
+  "occupations": null,
   "residences": "Pilzno",
   "status": "M",
   "birth_legitimacy": null,
@@ -32481,50 +32481,15 @@
   "mother_id": "P2325",
   "mother_name": "Esther Perla Bochner née Furst",
   "spouse_ids": [
-   "P0753",
-   "P0221"
+   "P0753"
   ],
   "spouse_names": [
    "Tauba Schlenger"
   ],
-  "children_ids": [
-   "P0219"
-  ],
+  "children_ids": [],
   "children_names": [],
   "in_area": "IN_AREA",
   "refs": [
-   {
-    "record_id": "b-1894-24",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1896-22",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1898-22",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1899-18",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1901-24",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1902-33",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1905-1",
-    "role": "MGF"
-   },
-   {
-    "record_id": "b-1907-24",
-    "role": "MGF"
-   },
    {
     "record_id": "m-1925-4",
     "role": "Groom"
@@ -32537,14 +32502,6 @@
     {
      "form": "Mendel Bochner",
      "rids": [
-      "b-1894-24",
-      "b-1896-22",
-      "b-1898-22",
-      "b-1899-18",
-      "b-1901-24",
-      "b-1902-33",
-      "b-1905-1",
-      "b-1907-24",
       "m-1925-4"
      ]
     }
@@ -32574,16 +32531,8 @@
    "birth_date_text": "6 Dec 1893",
    "death_date_text": null
   },
-  "unions": [
-   {
-    "kind": "rite",
-    "evidence": "named as a couple in b-1894-24, b-1896-22, b-1898-22, b-1899-18, b-1901-24, b-1902-33, b-1905-1, b-1907-24",
-    "partner_id": "P0221",
-    "group": "2"
-   }
-  ],
+  "unions": [],
   "partner_groups": {
-   "P0221": "2",
    "P0753": "1"
   }
  },
@@ -32610,7 +32559,7 @@
   "mother_id": null,
   "mother_name": null,
   "spouse_ids": [
-   "P0220"
+   "P2739"
   ],
   "spouse_names": [],
   "children_ids": [
@@ -32687,13 +32636,13 @@
    {
     "kind": "rite",
     "evidence": "named as a couple in b-1894-24, b-1896-22, b-1898-22, b-1899-18, b-1901-24, b-1902-33, b-1905-1, b-1907-24",
-    "partner_id": "P0220",
+    "partner_id": "P2739",
     "group": "2"
    }
   ],
   "heading_name": "Chaya Grabschrift, married name Bochner",
   "partner_groups": {
-   "P0220": "2"
+   "P2739": "2"
   }
  },
  {
@@ -221495,6 +221444,117 @@
   "heading_name": "Shayndel Trachman, married name Handler",
   "partner_groups": {
    "P0126": "2"
+  }
+ },
+ {
+  "id": "P2739",
+  "legal_given": "Mendel",
+  "common_given": "Mendel",
+  "legal_surname": "Bochner",
+  "common_surname": "Bochner",
+  "maiden_surname": null,
+  "married_surname": null,
+  "sex": "M",
+  "birth_date": null,
+  "death_date": "before 24 Jul 1901 (b-1901-24)",
+  "marriage_dates": null,
+  "occupations": "horse dealer in Pilzno (b-1894-24); former industrialist in Pilzno (b-1901-24)",
+  "residences": "Pilzno",
+  "status": null,
+  "birth_legitimacy": null,
+  "marital_status_at_marriage": null,
+  "marital_status_at_death": null,
+  "father_id": null,
+  "father_name": null,
+  "mother_id": null,
+  "mother_name": null,
+  "spouse_ids": [
+   "P0221"
+  ],
+  "spouse_names": [
+   "Chaya Grabschrift"
+  ],
+  "children_ids": [
+   "P0219"
+  ],
+  "children_names": [
+   "Hannah Feige Bochner"
+  ],
+  "in_area": "IN_AREA",
+  "refs": [
+   {
+    "record_id": "b-1894-24",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1896-22",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1898-22",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1899-18",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1901-24",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1902-33",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1905-1",
+    "role": "MGF"
+   },
+   {
+    "record_id": "b-1907-24",
+    "role": "MGF"
+   }
+  ],
+  "external_resources": null,
+  "identity_note": null,
+  "identity": {
+   "names": [
+    {
+     "form": "Mendel Bochner",
+     "rids": [
+      "b-1894-24",
+      "b-1896-22",
+      "b-1898-22",
+      "b-1899-18",
+      "b-1901-24",
+      "b-1902-33",
+      "b-1905-1",
+      "b-1907-24"
+     ]
+    }
+   ],
+   "quotes": [],
+   "surnames": [
+    "Bochner"
+   ],
+   "born": null,
+   "died": null,
+   "marriages": [],
+   "birth_year": null,
+   "death_year": "1901",
+   "birth_date_text": null,
+   "death_date_text": "before 24 Jul 1901 (b-1901-24)"
+  },
+  "unions": [
+   {
+    "kind": "rite",
+    "evidence": "named as a couple in b-1894-24, b-1896-22, b-1898-22, b-1899-18, b-1901-24, b-1902-33, b-1905-1, b-1907-24",
+    "partner_id": "P0221",
+    "group": "2"
+   }
+  ],
+  "partner_groups": {
+   "P0221": "2"
   }
  }
 ]
