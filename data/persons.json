@@ -13385,7 +13385,7 @@
     {
      "rid": "b-1901-25",
      "role": "Father",
-     "text": "Hersch Chaskel Goldberg, called Chaskel, tenant of the alcohol monopoloy in Brzostek"
+     "text": "Hersch Chaskel Goldberg, called Chaskel, tenant of the alcohol monopoly in Brzostek"
     },
     {
      "rid": "d-1938-7",
@@ -17493,7 +17493,7 @@
   "birth_date": null,
   "death_date": "24 Mar 1894",
   "marriage_dates": null,
-  "occupations": "grain dealer (former); ownder of real estate and dealer",
+  "occupations": "grain dealer (former); owner of real estate and dealer",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -22367,7 +22367,7 @@
     {
      "rid": "m-1919-5",
      "role": "Bride",
-     "text": "Amalia Klotz, born in Brzostek, no profession, daughter of Mojzesz Klotz, a butcher in Brzostek and the deceased Springy, née Bergman"
+     "text": "Amalia Klotz, born in Brzostek, no profession, daughter of Mojzesz Klotz, a merchant in Brzostek and the deceased Springy, née Bergman"
     }
    ],
    "surnames": [
@@ -23852,7 +23852,7 @@
     {
      "rid": "d-1903-5",
      "role": "The deceased",
-     "text": "Yehudit Meer, wife of Leib Meer, propinator in Globikowka, daughter of Wolf Wurzel and Pessel, former inkeepers in Globikowka"
+     "text": "Yehudit Meer, wife of Leib Meer, propinator in Globikowka, daughter of Wolf Wurzel and Pessel, former innkeepers in Globikowka"
     }
    ],
    "surnames": [
@@ -26616,7 +26616,7 @@
     {
      "rid": "b-1905-3",
      "role": "Mother",
-     "text": "Ruda, daughter of David Mendel Schlenger, called Mendel, tennant of the sawmill in Gorzejowa, and the late Rondla nee Turk"
+     "text": "Ruda, daughter of David Mendel Schlenger, called Mendel, tenant of the sawmill in Gorzejowa, and the late Rondla nee Turk"
     },
     {
      "rid": "b-1907-32",
@@ -32232,17 +32232,12 @@
     {
      "rid": "b-1894-24",
      "role": "Father",
-     "text": "Leiser Siegfried, cattle dealter in Brzostek"
+     "text": "Leiser Siegfried, cattle dealer in Brzostek"
     },
     {
      "rid": "b-1896-22",
      "role": "Father",
      "text": "Leiser Siegfried, industrialist in Brzostek"
-    },
-    {
-     "rid": "b-1899-18",
-     "role": "Father",
-     "text": "Leiser Siegfried, cattle dealer in Brzostek"
     },
     {
      "rid": "b-1901-24",
@@ -42247,7 +42242,7 @@
     {
      "rid": "b-1905-7",
      "role": "Father",
-     "text": "Abraham Abrahamowicz, famer in Blaszkowa"
+     "text": "Abraham Abrahamowicz, farmer in Blaszkowa"
     },
     {
      "rid": "d-1911-11",
@@ -55064,7 +55059,7 @@
     {
      "rid": "b-1896-34",
      "role": "Mother",
-     "text": "Sarah, daughter of Chaskel Krauc, inkeeper in Jodlowa, and Rosa nee unknown"
+     "text": "Sarah, daughter of Chaskel Krauc, innkeeper in Jodlowa, and Rosa nee unknown"
     }
    ],
    "surnames": [
@@ -55862,7 +55857,7 @@
   "birth_date": null,
   "death_date": "deceased",
   "marriage_dates": null,
-  "occupations": "alcohol trader",
+  "occupations": "linen dealer in Rymanow (former by 1896)",
   "residences": "Rymanow",
   "status": null,
   "birth_legitimacy": null,
@@ -59913,6 +59908,27 @@
      "form": "Moses Schwarz",
      "rids": [
       "b-1897-14",
+      "b-1898-1",
+      "b-1898-2",
+      "b-1898-3",
+      "b-1898-4",
+      "b-1898-5",
+      "b-1898-6",
+      "b-1898-7",
+      "b-1898-8",
+      "b-1898-9",
+      "b-1898-10",
+      "b-1898-11",
+      "b-1898-12",
+      "b-1898-13",
+      "b-1898-14",
+      "b-1898-15",
+      "b-1898-16",
+      "b-1898-17",
+      "b-1898-18",
+      "b-1898-19",
+      "b-1898-20",
+      "b-1898-21",
       "b-1898-36",
       "m-1898-1",
       "m-1898-2",
@@ -59970,32 +59986,6 @@
       "m-1922-3",
       "m-1927-3",
       "m-1936-2"
-     ]
-    },
-    {
-     "form": "Moses Schwwarz",
-     "rids": [
-      "b-1898-1",
-      "b-1898-2",
-      "b-1898-3",
-      "b-1898-4",
-      "b-1898-5",
-      "b-1898-6",
-      "b-1898-7",
-      "b-1898-8",
-      "b-1898-9",
-      "b-1898-10",
-      "b-1898-11",
-      "b-1898-12",
-      "b-1898-13",
-      "b-1898-14",
-      "b-1898-15",
-      "b-1898-16",
-      "b-1898-17",
-      "b-1898-18",
-      "b-1898-19",
-      "b-1898-20",
-      "b-1898-21"
      ]
     },
     {
@@ -64255,7 +64245,7 @@
     {
      "rid": "b-1897-29",
      "role": "Mother",
-     "text": "Dobe Feige, called Feige, daughter of Hersch Springer, grain merchant in Bochnia, and Deborah nee unknonwn"
+     "text": "Dobe Feige, called Feige, daughter of Hersch Springer, grain merchant in Bochnia, and Deborah nee unknown"
     }
    ],
    "surnames": [
@@ -64890,7 +64880,7 @@
     {
      "rid": "b-1902-30",
      "role": "Mother",
-     "text": "Yehudit, daughter of Marcus David Hirsch, called David, tennant of the mill in Klecie, and Hendela nee Sperber"
+     "text": "Yehudit, daughter of Marcus David Hirsch, called David, tenant of the mill in Klecie, and Hendela nee Sperber"
     },
     {
      "rid": "b-1906-2",
@@ -68015,7 +68005,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "10 Jul 1900 (civil legitimization); 10 July 1900 in Brzostek; 10 Jul 1900 in Brzostek (civil)",
-  "occupations": "merchant in Blaszkowa",
+  "occupations": "tailor in Blaszkowa (1900, 1901); owner of a mixed goods store in Blaszkowa (1915)",
   "residences": "Blaszkowa",
   "status": "M",
   "birth_legitimacy": null,
@@ -71616,7 +71606,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "5 Jan 1898 (civil)",
-  "occupations": "merchant in Brzostek",
+  "occupations": "tailor in Brzostek",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -73886,7 +73876,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "27 Jan 1896 in Biecz (civil)",
-  "occupations": "tenant in Przecza; timber dealer in Brzostek",
+  "occupations": "forest guard in Przeczyca; timber dealer in Brzostek",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -73937,7 +73927,7 @@
     {
      "rid": "b-1899-10",
      "role": "Father",
-     "text": "Judah Schonberg, tenant of the forest in Przeczyca, residing in Brzostek"
+     "text": "Judah Schonberg, forest guard in Przeczyca, residing in Brzostek"
     },
     {
      "rid": "b-1901-28",
@@ -91593,7 +91583,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "manager of the Jewish religious school in Brzostek",
+  "occupations": "private teacher of the Jewish religion in Brzostek",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -94354,7 +94344,7 @@
     {
      "rid": "b-1905-31",
      "role": "Mother",
-     "text": "Miriam, daughter of Marcus David Hirsch, tennant of the mill in Klecie, and Hendela nee Sperber"
+     "text": "Miriam, daughter of Marcus David Hirsch, tenant of the mill in Klecie, and Hendela nee Sperber"
     },
     {
      "rid": "b-1907-22",
@@ -97375,7 +97365,7 @@
     {
      "rid": "b-1904-22",
      "role": "Father",
-     "text": "Nissen Thau, land tennant in Nawsie Brzosteckie"
+     "text": "Nissen Thau, land tenant in Nawsie Brzosteckie"
     },
     {
      "rid": "d-1905-18",
@@ -97903,7 +97893,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "30 Apr 1902 in Debica (civil)",
-  "occupations": "merchant in Brzostek; master tailor in Brzostek",
+  "occupations": "tailor; master tailor in Brzostek",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -103879,7 +103869,7 @@
   "birth_date": null,
   "death_date": "before 8 Apr 1905",
   "marriage_dates": null,
-  "occupations": "former merchant in Opacionka",
+  "occupations": "tailor in Opacionka and Januszkowice (former by 1905); without occupation (1903, 1909); landowner in Januszkowice (1914)",
   "residences": "Opacionka",
   "status": null,
   "birth_legitimacy": null,
@@ -104250,7 +104240,7 @@
     {
      "rid": "b-1905-12",
      "role": "Father",
-     "text": "Hersch Jacob Berger, called Jacob, overseeer of the manor in Blaszkowa"
+     "text": "Hersch Jacob Berger, called Jacob, overseer of the manor in Blaszkowa"
     }
    ],
    "surnames": [
@@ -105530,7 +105520,7 @@
     {
      "rid": "m-1932-8",
      "role": "Bride",
-     "text": "Cirla Schindel, daughter fo Akiwa Schindel, famer in Bączałka and Ryfki nee Riner"
+     "text": "Cirla Schindel, daughter fo Akiwa Schindel, farmer in Bączałka and Ryfki nee Riner"
     }
    ],
    "surnames": [
@@ -108391,7 +108381,7 @@
     {
      "rid": "m-1928-3",
      "role": "Bride",
-     "text": "Estera Gittla, called Gittla, Horowitz in Brzostek, daughter of Chaim Horowitz, meerchant in Brzostek and Scheindla nee Klotz"
+     "text": "Estera Gittla, called Gittla, Horowitz in Brzostek, daughter of Chaim Horowitz, merchant in Brzostek and Scheindla nee Klotz"
     }
    ],
    "surnames": [
@@ -108839,7 +108829,7 @@
     {
      "rid": "m-1900-4",
      "role": "Bride",
-     "text": "Alte Laje, called Laje, born in Dzwonowa, daughter of Mechel Krebs, former tennant of the farm from Dęborzyn, and Sara née Berger"
+     "text": "Alte Laje, called Laje, born in Dzwonowa, daughter of Mechel Krebs, former tenant of the farm from Dęborzyn, and Sara née Berger"
     },
     {
      "rid": "d-1909-8",
@@ -115995,7 +115985,7 @@
     {
      "rid": "m-1935-2",
      "role": "Bride",
-     "text": "Debora Bieder, false Kornreich, born in Brzsotek and currently lives in brzostek, daughter of Israel Bieder, false Kornreich, and Feigi nee Rothman"
+     "text": "Debora Bieder, false Kornreich, born in Brzostek and currently lives in brzostek, daughter of Israel Bieder, false Kornreich, and Feigi nee Rothman"
     }
    ],
    "surnames": [
@@ -150457,7 +150447,7 @@
   "birth_date": "c. 1843 (age 59 at death 1902)",
   "death_date": "28 Nov 1902",
   "marriage_dates": null,
-  "occupations": "glazier in Brzostek (d-1902-15; called glassmaker in m-1919-1)",
+  "occupations": "glazier in Brzostek",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -152603,7 +152593,7 @@
     {
      "rid": "m-1925-5",
      "role": "Groom",
-     "text": "Josef Schonwetter, without profession residing in Zawadka Brzostecka, son of Salamon Schonwetter, an inkeeper in Zawadka Brzostecka and Malki nee Amsterdam"
+     "text": "Josef Schonwetter, without profession residing in Zawadka Brzostecka, son of Salamon Schonwetter, an innkeeper in Zawadka Brzostecka and Malki nee Amsterdam"
     }
    ],
    "surnames": [
@@ -152758,7 +152748,7 @@
     {
      "rid": "m-1938-4",
      "role": "Groom",
-     "text": "Dawid Ezry, merchant in Wola Brzostecka, illegitimate son of Chana Ezry, famrer in Wola Brzostecka"
+     "text": "Dawid Ezry, merchant in Wola Brzostecka, illegitimate son of Chana Ezry, farmer in Wola Brzostecka"
     }
    ],
    "surnames": [
@@ -152997,7 +152987,7 @@
   "birth_date": "c. 1820 (age 76 at death 1896)",
   "death_date": "26 Mar 1896",
   "marriage_dates": null,
-  "occupations": "merchant (1896); unemployed (1894)",
+  "occupations": "tailor in Brzostek (1896)",
   "residences": "Brzostek (house 73)",
   "status": "W",
   "birth_legitimacy": null,
@@ -158449,7 +158439,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "industrialist",
+  "occupations": "private person in Brzostek",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -158547,7 +158537,7 @@
     {
      "rid": "d-1905-4",
      "role": "The deceased",
-     "text": "Alta Rosa Gewurtz, called Rosa, daughter of Nathan Gewurtz, industrialist in Brzostek"
+     "text": "Alta Rosa Gewurtz, called Rosa, daughter of Nathan Gewurtz, private person in Brzostek"
     }
    ],
    "surnames": [
@@ -161839,7 +161829,7 @@
   "birth_date": "c. 1885 (age 29 at death 1914)",
   "death_date": "15 Jun 1914",
   "marriage_dates": null,
-  "occupations": "merchant",
+  "occupations": "tailor in Brzostek",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -169528,7 +169518,7 @@
   "birth_date": "c. 1872 (~ from age — not given)",
   "death_date": null,
   "marriage_dates": "12 Aug 1896 in Brzostek (civil)",
-  "occupations": "manufacturer",
+  "occupations": "industrialist",
   "residences": "Gorlice (birthplace)",
   "status": "M",
   "birth_legitimacy": null,
@@ -169568,7 +169558,7 @@
     {
      "rid": "m-1896-3",
      "role": "Groom",
-     "text": "Jeruchem Rieger, born in Gorlice, manufacturer, son of Hersch and Feigi Rieger, grain merchant in Gorlice"
+     "text": "Jeruchem Rieger, born in Gorlice, industrialist, son of Hersch and Feigi Rieger, grain merchant in Gorlice"
     }
    ],
    "surnames": [
@@ -186809,7 +186799,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "merchant",
+  "occupations": "industrialist in Siedlec ad Zabno",
   "residences": "Siedlec near Zabno",
   "status": null,
   "birth_legitimacy": null,
@@ -190841,7 +190831,7 @@
     {
      "rid": "m-1919-1",
      "role": "Groom",
-     "text": "Kelman Sperber, born in Brzostek, painter, son of the deceased Mojzesz Sperber and the deceased Itty née Rubel, glassmakers in Brzostek"
+     "text": "Kelman Sperber, born in Brzostek, painter, son of the deceased Mojzesz Sperber and the deceased Itty née Rubel, glaziers in Brzostek"
     }
    ],
    "surnames": [
@@ -200077,7 +200067,7 @@
     {
      "rid": "m-1927-6",
      "role": "Bride",
-     "text": "Hinde Rywe Baron, single and lilving with her parents, daughter of Chaim Markus Baron, innkeeper in Ulanow and Chaja nee Birnbaum"
+     "text": "Hinde Rywe Baron, single and living with her parents, daughter of Chaim Markus Baron, innkeeper in Ulanow and Chaja nee Birnbaum"
     }
    ],
    "surnames": [
@@ -206961,7 +206951,7 @@
     {
      "rid": "m-1933-2",
      "role": "Groom",
-     "text": "Chaskel Trinczer, born w Krosno, lives in Brzostek, merchant, illegitimate son of Ruchli Trinczer, mercheant in Krosno"
+     "text": "Chaskel Trinczer, born w Krosno, lives in Brzostek, merchant, illegitimate son of Ruchli Trinczer, merchant in Krosno"
     }
    ],
    "surnames": [
@@ -216293,7 +216283,7 @@
     {
      "rid": "b-1896-26",
      "role": "Mother",
-     "text": "Hannah, daughter of Marcus David Hirsch, called David, grain dealter in Brzostek, and Hinda nee Sperber."
+     "text": "Hannah, daughter of Marcus David Hirsch, called David, grain dealer in Brzostek, and Hinda nee Sperber."
     },
     {
      "rid": "b-1899-11",
@@ -216529,7 +216519,7 @@
     {
      "rid": "b-1894-23",
      "role": "Mother",
-     "text": "Shayndel, daugher of the late Mendel and Rachel Bloch"
+     "text": "Shayndel, daughter of the late Mendel and Rachel Bloch"
     },
     {
      "rid": "m-1913-4",
@@ -217363,7 +217353,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "industrialist",
+  "occupations": "private person in Brzostek",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -218204,7 +218194,7 @@
   "birth_date": null,
   "death_date": "before 18 Oct 1913",
   "marriage_dates": null,
-  "occupations": "inkeeper",
+  "occupations": "innkeeper",
   "residences": "Nagoszyn in the Ropczyce District",
   "status": null,
   "birth_legitimacy": null,
