@@ -22024,7 +22024,7 @@
     {
      "rid": "d-1915-5",
      "role": "The deceased",
-     "text": "Scheindla Weintraub, daughter of Samuel Trachman, farmer in Budzisz in the Jaslo district, and Malka Sarah of unknown maiden name"
+     "text": "Scheindla Weintraub, daughter of Samuel Trachman, farmer in Budzisz in the Jaslo district, and of the mother Sarah, of unknown maiden name"
     }
    ],
    "surnames": [
@@ -37893,10 +37893,10 @@
    "P0271"
   ],
   "children_names": [
-   "Rivka Bein (Legal: Berger)",
-   "Gittla Bein (Legal: Berger)",
-   "Esther Bein (Legal: Berger)",
-   "Sarah Bein (Legal: Berger)",
+   "Rivka Bein",
+   "Gittla Bein",
+   "Esther Bein",
+   "Sarah Bein",
    "David Bein",
    "Amalia Bein",
    "Chaim Bein"
@@ -44933,7 +44933,7 @@
  },
  {
   "id": "P0332",
-  "legal_given": "Malka Sarah",
+  "legal_given": "Sarah",
   "common_given": "Sarah",
   "legal_surname": "Trachman",
   "common_surname": "Trachman",
@@ -45010,7 +45010,7 @@
      ]
     },
     {
-     "form": "Malka Sarah",
+     "form": "Sara",
      "rids": [
       "d-1915-5"
      ]
@@ -46777,52 +46777,6 @@
    "P1557": "1",
    "P0655": "3"
   }
- },
- {
-  "id": "P0361",
-  "legal_given": "Golda",
-  "common_given": "Golda",
-  "legal_surname": "Sturm",
-  "common_surname": "Sturm",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": "c. 1810 (age 87 at death 1897)",
-  "death_date": "10 Apr 1897",
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": null,
-  "status": "W",
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "IN_AREA",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "Sturm"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": "1810",
-   "death_year": "1897",
-   "birth_date_text": "c. 1810 (age 87 at death 1897)",
-   "death_date_text": "10 Apr 1897"
-  },
-  "unions": []
  },
  {
   "id": "P0362",
@@ -50346,52 +50300,6 @@
   "partner_groups": {
    "P0395": "1"
   }
- },
- {
-  "id": "P0398",
-  "legal_given": "Hinde",
-  "common_given": "Hinde",
-  "legal_surname": "Freiberger",
-  "common_surname": "Freiberger",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": null,
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "RETIRED",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "Freiberger"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
  },
  {
   "id": "P0399",
@@ -110747,6 +110655,10 @@
     "role": "Witness2"
    },
    {
+    "record_id": "b-1913-22",
+    "role": "Witness2"
+   },
+   {
     "record_id": "d-1918-4",
     "role": "Father"
    },
@@ -110787,6 +110699,7 @@
       "b-1910-11",
       "m-1910-1",
       "b-1913-13",
+      "b-1913-22",
       "m-1913-7",
       "d-1918-4"
      ]
@@ -111734,7 +111647,7 @@
   "marital_status_at_death": null,
   "father_id": "P2110",
   "father_name": "Mayer Joel Bochner",
-  "mother_id": null,
+  "mother_id": "P2740",
   "mother_name": "Rivka Ehrlich",
   "spouse_ids": [
    "P1054"
@@ -112029,22 +111942,15 @@
    "P2357"
   ],
   "spouse_names": [
-   "Mordechi Sarno",
-   "Joel Bochner"
+   "Mordechi Sarno"
   ],
   "children_ids": [],
-  "children_names": [
-   "Fivel Bochner"
-  ],
+  "children_names": [],
   "in_area": "IN_AREA",
   "refs": [
    {
     "record_id": "b-1907-3",
     "role": "Child"
-   },
-   {
-    "record_id": "m-1906-11",
-    "role": "GM"
    },
    {
     "record_id": "m-1927-5",
@@ -112055,12 +111961,6 @@
   "identity_note": null,
   "identity": {
    "names": [
-    {
-     "form": "Rivka Ehrlich",
-     "rids": [
-      "m-1906-11"
-     ]
-    },
     {
      "form": "Rivka (no surname written; child's birth entry)",
      "rids": [
@@ -115691,7 +115591,7 @@
    }
   ],
   "external_resources": null,
-  "identity_note": null,
+  "identity_note": "One man, written two ways. Israel was the son of Leiser David Kornreich and Deborah Bieder, who were married only by Jewish rite, so the civil register named him Bieder. Everyone knew him as Kornreich. His 1907 marriage and his first child's birth write \"Israel Bieder, false Kornreich\" (Bieder, known as Kornreich); from 1909 on the clerks simply wrote \"Israel Kornreich\". So his daughter Deborah (1907) is registered under Bieder and the later children under Kornreich: the same father, the same family.",
   "identity": {
    "names": [
     {
@@ -118288,7 +118188,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
-  "death_date": null,
+  "death_date": "27 Oct 1915",
   "marriage_dates": "1908-01-23 in Brzostek (civil)",
   "occupations": null,
   "residences": null,
@@ -118388,7 +118288,7 @@
     {
      "rid": "d-1915-8",
      "role": "The deceased",
-     "text": "Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and Malka Hannah of unknown maiden name, from Ostrawy in the district of Stanislawow"
+     "text": "Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and of the mother Chana, of unknown surname, from Ostrawy in the district of Stanislawow"
     }
    ],
    "surnames": [
@@ -118473,10 +118373,6 @@
    {
     "record_id": "d-1915-8",
     "role": "Father"
-   },
-   {
-    "record_id": "m-1908-1",
-    "role": "BF"
    }
   ],
   "external_resources": null,
@@ -118599,7 +118495,7 @@
      ]
     },
     {
-     "form": "Malka Hannah",
+     "form": "Chana",
      "rids": [
       "d-1915-8"
      ]
@@ -127416,7 +127312,7 @@
   "married_surname": null,
   "sex": "F",
   "birth_date": "1 Jun 1910",
-  "death_date": "8 May 1922",
+  "death_date": null,
   "marriage_dates": null,
   "occupations": null,
   "residences": "Brzostek (house 10)",
@@ -127464,9 +127360,9 @@
    "died": null,
    "marriages": [],
    "birth_year": "1910",
-   "death_year": "1922",
+   "death_year": null,
    "birth_date_text": null,
-   "death_date_text": "8 May 1922"
+   "death_date_text": null
   },
   "unions": []
  },
@@ -157347,114 +157243,6 @@
   "unions": []
  },
  {
-  "id": "P1676",
-  "legal_given": "Zipporah",
-  "common_given": "Zipporah",
-  "legal_surname": "Rozner",
-  "common_surname": "Rozner",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": "caretaker of the farm",
-  "residences": "Grudna Gorna",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [
-   "P1677"
-  ],
-  "spouse_names": [
-   "Rachel Rozner née Furst"
-  ],
-  "children_ids": [
-   "P1678"
-  ],
-  "children_names": [
-   "Samuel Rozner"
-  ],
-  "in_area": "IN_AREA",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "Rozner"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
- },
- {
-  "id": "P1677",
-  "legal_given": "Rachel",
-  "common_given": "Rachel",
-  "legal_surname": "Furst",
-  "common_surname": "Furst",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": "Grudna Gorna",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [
-   "P1676"
-  ],
-  "spouse_names": [
-   "Zipporah Rozner"
-  ],
-  "children_ids": [
-   "P1678"
-  ],
-  "children_names": [
-   "Samuel Rozner"
-  ],
-  "in_area": "IN_AREA",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "Furst"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
- },
- {
   "id": "P1678",
   "legal_given": "Samuel",
   "common_given": "Samuel",
@@ -162412,102 +162200,6 @@
   "partner_groups": {
    "P1776": "unclear"
   }
- },
- {
-  "id": "P1779",
-  "legal_given": "Shayndel",
-  "common_given": "Shayndel",
-  "legal_surname": "List",
-  "common_surname": "List",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": "unemployed",
-  "residences": "Nawsie Brzosteckie",
-  "status": "S",
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [
-   "P1780"
-  ],
-  "children_names": [
-   "(Unnamed) List"
-  ],
-  "in_area": "RETIRED",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "List"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
- },
- {
-  "id": "P1780",
-  "legal_given": "(Unnamed) List",
-  "common_given": "Unnamed",
-  "legal_surname": "List",
-  "common_surname": "List",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": "c. late Jul 1916",
-  "death_date": "1 Aug 1916",
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": "Nawsie Brzosteckie",
-  "status": "N",
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": "P1779",
-  "mother_name": "Shayndel List",
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "RETIRED",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "List"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": "1916",
-   "death_year": "1916",
-   "birth_date_text": "c. late Jul 1916",
-   "death_date_text": "1 Aug 1916"
-  },
-  "unions": []
  },
  {
   "id": "P1781",
@@ -181750,7 +181442,9 @@
   "father_name": null,
   "mother_id": null,
   "mother_name": null,
-  "spouse_ids": [],
+  "spouse_ids": [
+   "P2740"
+  ],
   "spouse_names": [
    "Rivka Ehrlich"
   ],
@@ -181790,7 +181484,17 @@
    "birth_date_text": null,
    "death_date_text": null
   },
-  "unions": []
+  "unions": [
+   {
+    "kind": "rite",
+    "evidence": "described as married by Jewish rite in m-1906-11",
+    "partner_id": "P2740",
+    "group": "2"
+   }
+  ],
+  "partner_groups": {
+   "P2740": "2"
+  }
  },
  {
   "id": "P2111",
@@ -188601,8 +188305,8 @@
  },
  {
   "id": "P2202",
-  "legal_given": "Malka Hannah",
-  "common_given": "Malka Hannah",
+  "legal_given": "Hannah",
+  "common_given": "Hannah",
   "legal_surname": "Offen",
   "common_surname": "Offen",
   "maiden_surname": null,
@@ -188672,7 +188376,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Malka Hannah Offen, married name Brand",
+  "heading_name": "Hannah Offen, married name Brand",
   "partner_groups": {
    "P2201": "2"
   }
@@ -193334,60 +193038,6 @@
   "partner_groups": {
    "P2269": "1"
   }
- },
- {
-  "id": "P2267",
-  "legal_given": "Joseph",
-  "common_given": "Joseph",
-  "legal_surname": "Berger",
-  "common_surname": "Berger",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": "farmer",
-  "residences": "Grudna Dolna",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [
-   "P1861"
-  ],
-  "spouse_names": [
-   "Golda Berger née Nechemi"
-  ],
-  "children_ids": [
-   "P2269"
-  ],
-  "children_names": [
-   "Esther Berger"
-  ],
-  "in_area": "IN_AREA",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "Berger"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
  },
  {
   "id": "P2269",
@@ -199256,8 +198906,8 @@
   "id": "P2351",
   "legal_given": "Reuben",
   "common_given": "Reuben",
-  "legal_surname": "Spizer",
-  "common_surname": "Spizer",
+  "legal_surname": "Spirer",
+  "common_surname": "Spirer",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -199278,13 +198928,13 @@
    "P2352"
   ],
   "spouse_names": [
-   "Gittla Spizer née Bruder"
+   "Gittla Spirer née Bruder"
   ],
   "children_ids": [
    "P2353"
   ],
   "children_names": [
-   "Mechel Spizer"
+   "Mechel Spirer"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -199298,7 +198948,7 @@
   "identity": {
    "names": [
     {
-     "form": "Reuben Spizer",
+     "form": "Reuben Spirer",
      "rids": [
       "m-1927-4"
      ]
@@ -199306,7 +198956,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Spizer"
+    "Spirer"
    ],
    "born": null,
    "died": null,
@@ -199354,13 +199004,13 @@
    "P2351"
   ],
   "spouse_names": [
-   "Reuben Spizer"
+   "Reuben Spirer"
   ],
   "children_ids": [
    "P2353"
   ],
   "children_names": [
-   "Mechel Spizer"
+   "Mechel Spirer"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -199383,7 +199033,7 @@
    "quotes": [],
    "surnames": [
     "Bruder",
-    "Spizer"
+    "Spirer"
    ],
    "born": null,
    "died": null,
@@ -199401,7 +199051,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Gittla Bruder, married name Spizer",
+  "heading_name": "Gittla Bruder, married name Spirer",
   "partner_groups": {
    "P2351": "2"
   }
@@ -199410,8 +199060,8 @@
   "id": "P2353",
   "legal_given": "Mechel",
   "common_given": "Mechel",
-  "legal_surname": "Spizer",
-  "common_surname": "Spizer",
+  "legal_surname": "Spirer",
+  "common_surname": "Spirer",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -199425,14 +199075,14 @@
   "marital_status_at_marriage": "Single (m-1927-4)",
   "marital_status_at_death": null,
   "father_id": "P2351",
-  "father_name": "Reuben Spizer",
+  "father_name": "Reuben Spirer",
   "mother_id": "P2352",
-  "mother_name": "Gittla Spizer née Bruder",
+  "mother_name": "Gittla Spirer née Bruder",
   "spouse_ids": [
    "P2354"
   ],
   "spouse_names": [
-   "Rivka Spizer née Berger"
+   "Rivka Spirer née Berger"
   ],
   "children_ids": [],
   "children_names": [],
@@ -199448,7 +199098,7 @@
   "identity": {
    "names": [
     {
-     "form": "Mechel Spizer",
+     "form": "Mechel Spirer",
      "rids": [
       "m-1927-4"
      ]
@@ -199458,11 +199108,11 @@
     {
      "rid": "m-1927-4",
      "role": "Groom",
-     "text": "Mechel Spizer, butcher in Jaslo, son of Ruben Spizer, butcher in Jaslo and Gitli nee Bruder"
+     "text": "Mechel Spirer, butcher in Jaslo, son of Ruben Spirer, butcher in Jaslo and Gitli nee Bruder"
     }
    ],
    "surnames": [
-    "Spizer"
+    "Spirer"
    ],
    "born": null,
    "died": null,
@@ -199510,7 +199160,7 @@
    "P2353"
   ],
   "spouse_names": [
-   "Mechel Spizer"
+   "Mechel Spirer"
   ],
   "children_ids": [],
   "children_names": [],
@@ -199558,7 +199208,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Berger, married name Spizer",
+  "heading_name": "Rivka Berger, married name Spirer",
   "partner_groups": {
    "P2353": "1"
   }
@@ -217037,54 +216687,6 @@
   "unions": []
  },
  {
-  "id": "P2588",
-  "legal_given": "Hannah Shayndel",
-  "common_given": "Shayndel",
-  "legal_surname": "Trachman",
-  "common_surname": "Trachman",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": null,
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [
-   "Nusim"
-  ],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "RETIRED",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "Trachman"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
- },
- {
   "id": "P2607",
   "legal_given": "Isaac",
   "common_given": "Isaac",
@@ -217189,100 +216791,6 @@
    "quotes": [],
    "surnames": [
     "Grunberger"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
- },
- {
-  "id": "P2613",
-  "legal_given": "Chaya",
-  "common_given": "Chaya",
-  "legal_surname": "Korzennik",
-  "common_surname": "Korzennik",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "F",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": null,
-  "residences": null,
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [
-   "Simon"
-  ],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "RETIRED",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "Korzennik"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
- },
- {
-  "id": "P2614",
-  "legal_given": "Alta Chaim",
-  "common_given": "Alta Chaim",
-  "legal_surname": "Korzennik",
-  "common_surname": "Korzennik",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": "rabbinical assessor",
-  "residences": "Sucha",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "RETIRED",
-  "refs": [],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [],
-   "quotes": [],
-   "surnames": [
-    "Korzennik"
    ],
    "born": null,
    "died": null,
@@ -217774,64 +217282,6 @@
    "quotes": [],
    "surnames": [
     "Horowitz"
-   ],
-   "born": null,
-   "died": null,
-   "marriages": [],
-   "birth_year": null,
-   "death_year": null,
-   "birth_date_text": null,
-   "death_date_text": null
-  },
-  "unions": []
- },
- {
-  "id": "P2657",
-  "legal_given": "Nachman",
-  "common_given": "Nachman",
-  "legal_surname": "Birnbaum",
-  "common_surname": "Birnbaum",
-  "maiden_surname": null,
-  "married_surname": null,
-  "sex": "M",
-  "birth_date": null,
-  "death_date": null,
-  "marriage_dates": null,
-  "occupations": "merchant",
-  "residences": "Brzostek",
-  "status": null,
-  "birth_legitimacy": null,
-  "marital_status_at_marriage": null,
-  "marital_status_at_death": null,
-  "father_id": null,
-  "father_name": null,
-  "mother_id": null,
-  "mother_name": null,
-  "spouse_ids": [],
-  "spouse_names": [],
-  "children_ids": [],
-  "children_names": [],
-  "in_area": "IN_AREA",
-  "refs": [
-   {
-    "record_id": "b-1913-22",
-    "role": "Witness2"
-   }
-  ],
-  "external_resources": null,
-  "identity_note": null,
-  "identity": {
-   "names": [
-    {
-     "form": "Nachman Birnbaum",
-     "rids": [
-      "b-1913-22"
-     ]
-    }
-   ],
-   "quotes": [],
-   "surnames": [
-    "Birnbaum"
    ],
    "born": null,
    "died": null,
@@ -221381,6 +220831,83 @@
   ],
   "partner_groups": {
    "P0221": "2"
+  }
+ },
+ {
+  "id": "P2740",
+  "legal_given": "Rivka",
+  "common_given": "Rivka",
+  "legal_surname": "Ehrlich",
+  "common_surname": "Ehrlich",
+  "maiden_surname": null,
+  "married_surname": null,
+  "sex": "F",
+  "birth_date": null,
+  "death_date": "before 17 Dec 1906 (deceased in m-1906-11)",
+  "marriage_dates": null,
+  "occupations": null,
+  "residences": null,
+  "status": null,
+  "birth_legitimacy": null,
+  "marital_status_at_marriage": null,
+  "marital_status_at_death": null,
+  "father_id": null,
+  "father_name": null,
+  "mother_id": null,
+  "mother_name": null,
+  "spouse_ids": [
+   "P2110"
+  ],
+  "spouse_names": [
+   "Mayer Joel Bochner"
+  ],
+  "children_ids": [
+   "P1053"
+  ],
+  "children_names": [
+   "Fivel Ehrlich/Bochner"
+  ],
+  "in_area": "IN_AREA",
+  "refs": [
+   {
+    "record_id": "m-1906-11",
+    "role": "GM"
+   }
+  ],
+  "external_resources": null,
+  "identity_note": null,
+  "identity": {
+   "names": [
+    {
+     "form": "Rivka Ehrlich",
+     "rids": [
+      "m-1906-11"
+     ]
+    }
+   ],
+   "quotes": [],
+   "surnames": [
+    "Ehrlich"
+   ],
+   "born": null,
+   "died": null,
+   "marriages": [],
+   "birth_year": null,
+   "death_year": "1906",
+   "birth_date_text": null,
+   "death_date_text": "before 17 Dec 1906 (deceased in m-1906-11)"
+  },
+  "unions": [
+   {
+    "kind": "rite",
+    "evidence": "described as married by Jewish rite in m-1906-11",
+    "partner_id": "P2110",
+    "group": "2"
+   }
+  ],
+  "heading_name": "Rivka Ehrlich, married name Bochner",
+  "partner_groups": {
+   "P2110": "2"
   }
  }
 ]

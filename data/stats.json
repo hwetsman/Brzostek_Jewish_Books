@@ -127,7 +127,7 @@
   ],
   [
    "Joseph",
-   53
+   52
   ],
   [
    "Leib",
@@ -161,11 +161,11 @@
  "top_given_names_female": [
   [
    "Rivka",
-   71
+   72
   ],
   [
    "Hannah",
-   59
+   60
   ],
   [
    "Sarah",
@@ -173,7 +173,7 @@
   ],
   [
    "Chaya",
-   45
+   44
   ],
   [
    "Leah",
@@ -193,11 +193,11 @@
   ],
   [
    "Rachel",
-   38
+   37
   ],
   [
    "Shayndel",
-   37
+   35
   ]
  ],
  "top_causes_of_death": [
@@ -486,7 +486,7 @@
   "distinct_causes": 112
  },
  "totals": {
-  "persons": 2378,
+  "persons": 2368,
   "births": 723,
   "deaths": 446,
   "marriages": 279,
