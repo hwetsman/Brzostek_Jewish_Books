@@ -95968,8 +95968,8 @@
     "person_id": "P0480",
     "display": "Yerla Basler, married name Kleinman",
     "role_label": "Bride's mother",
-    "written_as": "Serla Basler",
-    "linked_inline": false
+    "written_as": "Dyla Basler",
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -96002,14 +96002,13 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P0477.html\" data-pid=\"P0477\">Selig Fenechel</a>, called Roth, born in Januszkowice and residing there, tenant of a farm there, son of Feigi Fenechel, deceased",
-   "Bride (prose)": "Chaja Basler, called Kleinman, born in Kamienica Dolna, unemployed, daughter of Dyla Basler, unemployed, residing in Kamienica Dolna",
+   "Bride (prose)": "Chaja Basler, called Kleinman, born in Kamienica Dolna, unemployed, daughter of <a href=\"../person/P0480.html\" data-pid=\"P0480\">Dyla Basler</a>, unemployed, residing in Kamienica Dolna",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman (Schächter) in Brzostek</a>, witness. <a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer (Schächter) in Brzostek</a>, witness.",
    "Notes": "Remarks: The capacity for the marriage contracted alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate officiating at the wedding."
   },
   "unlinked_prose_tokens": [
-   "Feigi",
-   "Dyla"
+   "Feigi"
   ]
  },
  {
