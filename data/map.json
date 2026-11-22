@@ -37,7 +37,7 @@
    "year_max": 1910,
    "top_surnames": [
     [
-     "Guttstein",
+     "Gutstein",
      1
     ]
    ],
@@ -347,7 +347,7 @@
    "year_max": 1916,
    "top_surnames": [
     [
-     "Shuster",
+     "Schuster",
      2
     ]
    ],
@@ -1192,8 +1192,12 @@
    "year_max": 1902,
    "top_surnames": [
     [
-     "Schilloj",
-     2
+     "Schillaj",
+     1
+    ],
+    [
+     "Schilaj",
+     1
     ]
    ],
    "events_by_kind": {
@@ -1966,11 +1970,15 @@
    "top_surnames": [
     [
      "Guttstein",
-     5
+     4
     ],
     [
      "Windstroh",
      2
+    ],
+    [
+     "Gutstein",
+     1
     ]
    ],
    "events_by_kind": {
@@ -2419,7 +2427,7 @@
    "year_max": 1905,
    "top_surnames": [
     [
-     "Gleicher",
+     "Gleichter",
      2
     ]
    ],
@@ -2478,12 +2486,12 @@
      4
     ],
     [
-     "Kleinman",
+     "Rieger",
      4
     ],
     [
-     "Rieger",
-     2
+     "Kleinman",
+     4
     ],
     [
      "Low",
@@ -2494,7 +2502,7 @@
      2
     ],
     [
-     "Reiger",
+     "Bergman",
      2
     ]
    ],
@@ -2858,8 +2866,12 @@
      13
     ],
     [
+     "Rosner",
+     4
+    ],
+    [
      "Rozner",
-     7
+     3
     ],
     [
      "Trachman",
@@ -2867,10 +2879,6 @@
     ],
     [
      "Dembitzer",
-     1
-    ],
-    [
-     "Berger",
      1
     ]
    ],
@@ -2937,7 +2945,7 @@
      "events": 2,
      "surnames": [
       [
-       "Rozner",
+       "Rosner",
        2
       ]
      ],
@@ -2973,7 +2981,7 @@
      "events": 1,
      "surnames": [
       [
-       "Rozner",
+       "Rosner",
        1
       ]
      ],
@@ -3135,7 +3143,7 @@
    "year_max": 1908,
    "top_surnames": [
     [
-     "Guttstein",
+     "Gutstein",
      1
     ]
    ],
@@ -3834,7 +3842,7 @@
    "year_max": 1916,
    "top_surnames": [
     [
-     "Guttstein",
+     "Gutstein",
      6
     ]
    ],
@@ -4961,7 +4969,11 @@
    "top_surnames": [
     [
      "Rozner",
-     6
+     5
+    ],
+    [
+     "Rosner",
+     1
     ]
    ],
    "events_by_kind": {
@@ -5894,7 +5906,7 @@
    "year_max": 1912,
    "top_surnames": [
     [
-     "Guttstein",
+     "Gutstein",
      1
     ]
    ],
@@ -6077,7 +6089,7 @@
    "year_max": 1900,
    "top_surnames": [
     [
-     "Silberbartz",
+     "Silberbart",
      2
     ]
    ],
@@ -6206,7 +6218,7 @@
      9
     ],
     [
-     "Guttstein",
+     "Gutstein",
      1
     ],
     [
@@ -7054,8 +7066,8 @@
    "year_max": 1911,
    "top_surnames": [
     [
-     "Reimer",
-     3
+     "Rimer",
+     2
     ],
     [
      "Blum",
@@ -7074,7 +7086,7 @@
      1
     ],
     [
-     "Zeughauser",
+     "Riemer",
      1
     ]
    ],
@@ -7648,11 +7660,15 @@
    "top_surnames": [
     [
      "Guttstein",
-     24
+     12
     ],
     [
-     "Reimer",
-     9
+     "Gutstein",
+     12
+    ],
+    [
+     "Rimer",
+     6
     ],
     [
      "Schaller",
@@ -7663,12 +7679,8 @@
      3
     ],
     [
-     "Dembitzer",
-     2
-    ],
-    [
-     "Lederer",
-     1
+     "Riemer",
+     3
     ]
    ],
    "events_by_kind": {
@@ -7696,7 +7708,11 @@
      "surnames": [
       [
        "Guttstein",
-       10
+       5
+      ],
+      [
+       "Gutstein",
+       5
       ]
      ],
      "year_min": 1901,
@@ -7708,7 +7724,11 @@
      "surnames": [
       [
        "Guttstein",
-       5
+       3
+      ],
+      [
+       "Gutstein",
+       2
       ],
       [
        "Schaller",
@@ -7727,8 +7747,12 @@
      "events": 4,
      "surnames": [
       [
-       "Reimer",
-       4
+       "Rimer",
+       2
+      ],
+      [
+       "Riemer",
+       2
       ]
      ],
      "year_min": 1906,
@@ -7739,7 +7763,7 @@
      "events": 3,
      "surnames": [
       [
-       "Reimer",
+       "Rimer",
        2
       ],
       [
@@ -8656,7 +8680,7 @@
    "year_max": 1927,
    "top_surnames": [
     [
-     "Sarno",
+     "Sarna",
      2
     ],
     [

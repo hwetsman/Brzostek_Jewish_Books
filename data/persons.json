@@ -13435,7 +13435,7 @@
   "father_id": "P0065",
   "father_name": "Moses Mayer Czopp",
   "mother_id": "P0066",
-  "mother_name": "Reisla Ryf",
+  "mother_name": "Reisla Riff",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -13504,7 +13504,7 @@
    "P0066"
   ],
   "spouse_names": [
-   "Reisla Ryf"
+   "Reisla Riff"
   ],
   "children_ids": [
    "P0074",
@@ -13788,7 +13788,7 @@
   "legal_given": "Reisla",
   "common_given": "Reisla",
   "legal_surname": "Indyk",
-  "common_surname": "Ryf",
+  "common_surname": "Riff",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -13802,9 +13802,9 @@
   "marital_status_at_marriage": "Single (m-1901-20)",
   "marital_status_at_death": "Married (d-1923-7)",
   "father_id": "P0067",
-  "father_name": "Leib Ryf",
+  "father_name": "Leib Riff",
   "mother_id": "P0068",
-  "mother_name": "Hene Ryf née Indyk",
+  "mother_name": "Hene Riff née Indyk",
   "spouse_ids": [
    "P0065"
   ],
@@ -13933,7 +13933,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Ryf, married name Czopp",
+  "heading_name": "Reisla Riff, married name Czopp",
   "partner_groups": {
    "P0065": "1"
   }
@@ -13942,8 +13942,8 @@
   "id": "P0067",
   "legal_given": "Leib",
   "common_given": "Leib",
-  "legal_surname": "Ryf",
-  "common_surname": "Ryf",
+  "legal_surname": "Riff",
+  "common_surname": "Riff",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -13964,13 +13964,13 @@
    "P0068"
   ],
   "spouse_names": [
-   "Hene Ryf née Indyk"
+   "Hene Riff née Indyk"
   ],
   "children_ids": [
    "P0066"
   ],
   "children_names": [
-   "Reisla Ryf"
+   "Reisla Riff"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -13992,7 +13992,7 @@
    }
   ],
   "external_resources": null,
-  "identity_note": null,
+  "identity_note": "Possibly the same man as the Leib Riff who died in Brzostek in 1917 aged 84. This Leib's daughter Reisla lived in Brzostek, and he was in Lupkow by 1901, next to Cisna, where the other Leib's parents lived. No record connects them, and this Leib's age is never given.",
   "identity": {
    "names": [
     {
@@ -14012,6 +14012,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Riff",
     "Riw",
     "Ryf"
    ],
@@ -14061,13 +14062,13 @@
    "P0067"
   ],
   "spouse_names": [
-   "Leib Ryf"
+   "Leib Riff"
   ],
   "children_ids": [
    "P0066"
   ],
   "children_names": [
-   "Reisla Ryf"
+   "Reisla Riff"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -14124,7 +14125,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Hene Indyk, married name Ryf",
+  "heading_name": "Hene Indyk, married name Riff",
   "partner_groups": {
    "P0067": "2"
   }
@@ -15916,7 +15917,7 @@
   "father_id": "P0065",
   "father_name": "Moses Mayer Czopp",
   "mother_id": "P0066",
-  "mother_name": "Reisla Ryf",
+  "mother_name": "Reisla Riff",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -15980,7 +15981,7 @@
   "father_id": "P0065",
   "father_name": "Moses Mayer Czopp",
   "mother_id": "P0066",
-  "mother_name": "Reisla Ryf",
+  "mother_name": "Reisla Riff",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -16043,7 +16044,7 @@
   "father_id": "P0065",
   "father_name": "Moses Mayer Czopp",
   "mother_id": "P0066",
-  "mother_name": "Reisla Ryf",
+  "mother_name": "Reisla Riff",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -16113,7 +16114,7 @@
   "father_id": "P0065",
   "father_name": "Moses Mayer Czopp",
   "mother_id": "P0066",
-  "mother_name": "Reisla Ryf",
+  "mother_name": "Reisla Riff",
   "spouse_ids": [
    "P0078"
   ],
@@ -23539,7 +23540,7 @@
   ],
   "spouse_names": [
    "Yehudit Meer née Kranz/Wurzel (4-way: Legal=Kranz mother's, Common=Wurzel father's)",
-   "Riva Rachel Meer née Gleicher"
+   "Riva Rachel Meer née Gleichter"
   ],
   "children_ids": [
    "P0143",
@@ -27672,7 +27673,7 @@
   "common_given": "Gela",
   "legal_surname": "Kainer",
   "common_surname": "Kainer",
-  "maiden_surname": "Kajner",
+  "maiden_surname": "Kainer",
   "married_surname": null,
   "sex": "F",
   "birth_date": "c. 1825 (age 96 at death 1921)",
@@ -27870,7 +27871,7 @@
   "id": "P0182",
   "legal_given": "Mendel",
   "common_given": "Mendel",
-  "legal_surname": "Schilloj",
+  "legal_surname": "Schilloy",
   "common_surname": "Faust",
   "maiden_surname": null,
   "married_surname": null,
@@ -27887,7 +27888,7 @@
   "father_id": "P0183",
   "father_name": "Leib Fivel Faust",
   "mother_id": "P0184",
-  "mother_name": "Hannah Faust née Schilloj",
+  "mother_name": "Hannah Faust née Schilloy",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -27913,7 +27914,7 @@
    "quotes": [],
    "surnames": [
     "Faust",
-    "Schilloj"
+    "Schilloy"
    ],
    "born": {
     "rid": "b-1894-17",
@@ -27956,7 +27957,7 @@
    "P0184"
   ],
   "spouse_names": [
-   "Hannah Faust née Schilloj (ritual)"
+   "Hannah Faust née Schilloy (ritual)"
   ],
   "children_ids": [
    "P0182",
@@ -28202,8 +28203,8 @@
   "id": "P0184",
   "legal_given": "Hannah",
   "common_given": "Hannah",
-  "legal_surname": "Schilloj",
-  "common_surname": "Schilloj",
+  "legal_surname": "Schilloy",
+  "common_surname": "Schilloy",
   "maiden_surname": null,
   "married_surname": "Faust",
   "sex": "F",
@@ -28217,7 +28218,7 @@
   "marital_status_at_marriage": "Single (m-1894-3)",
   "marital_status_at_death": null,
   "father_id": "P0185",
-  "father_name": "Joseph Schilloj",
+  "father_name": "Joseph Schilloy",
   "mother_id": "P0186",
   "mother_name": "Freida Bloch",
   "spouse_ids": [
@@ -28233,7 +28234,7 @@
    "P2273"
   ],
   "children_names": [
-   "Mendel Faust (Legal: Schilloj)",
+   "Mendel Faust (Legal: Schilloy)",
    "Rachel Faust",
    "Pessel Faust",
    "Feige Faust"
@@ -28270,19 +28271,39 @@
   "identity": {
    "names": [
     {
-     "form": "Hannah née Schilloj",
+     "form": "Hannah née Schillaj",
      "rids": [
-      "b-1894-17",
-      "b-1899-4",
-      "m-1919-2",
-      "m-1921-4",
-      "m-1925-7"
+      "b-1894-17"
      ]
     },
     {
-     "form": "Hannah Schilloj",
+     "form": "Hannah Schillaj",
      "rids": [
       "m-1894-3"
+     ]
+    },
+    {
+     "form": "Hannah née Schilloj",
+     "rids": [
+      "b-1899-4"
+     ]
+    },
+    {
+     "form": "Hannah née Schiloy",
+     "rids": [
+      "m-1919-2"
+     ]
+    },
+    {
+     "form": "Hannah née Schilloy",
+     "rids": [
+      "m-1921-4"
+     ]
+    },
+    {
+     "form": "Hannah née Schiloj",
+     "rids": [
+      "m-1925-7"
      ]
     }
    ],
@@ -28300,7 +28321,11 @@
    ],
    "surnames": [
     "Faust",
-    "Schilloj"
+    "Schillaj",
+    "Schilloj",
+    "Schilloy",
+    "Schiloj",
+    "Schiloy"
    ],
    "born": null,
    "died": null,
@@ -28318,7 +28343,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hannah Schilloj, married name Faust",
+  "heading_name": "Hannah Schilloy, married name Faust",
   "partner_groups": {
    "P0183": "1"
   }
@@ -28327,8 +28352,8 @@
   "id": "P0185",
   "legal_given": "Joseph",
   "common_given": "Joseph",
-  "legal_surname": "Schilloj",
-  "common_surname": "Schilloj",
+  "legal_surname": "Schilloy",
+  "common_surname": "Schilloy",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -28349,7 +28374,7 @@
    "P0186"
   ],
   "spouse_names": [
-   "Freida Schilloj"
+   "Freida Schilloy"
   ],
   "children_ids": [
    "P0184",
@@ -28357,7 +28382,7 @@
   ],
   "children_names": [
    "Hannah Faust",
-   "Shulem Schilloj"
+   "Shulem Schilloy"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -28383,10 +28408,15 @@
   "identity": {
    "names": [
     {
-     "form": "Joseph Schilloj",
+     "form": "Joseph Schillaj",
      "rids": [
       "b-1894-17",
-      "m-1894-3",
+      "m-1894-3"
+     ]
+    },
+    {
+     "form": "Joseph Schilloj",
+     "rids": [
       "b-1899-4",
       "m-1900-14"
      ]
@@ -28394,7 +28424,9 @@
    ],
    "quotes": [],
    "surnames": [
-    "Schilloj"
+    "Schillaj",
+    "Schilloj",
+    "Schilloy"
    ],
    "born": null,
    "died": null,
@@ -28442,7 +28474,7 @@
    "P0185"
   ],
   "spouse_names": [
-   "Joseph Schilloj"
+   "Joseph Schilloy"
   ],
   "children_ids": [
    "P0184",
@@ -28450,7 +28482,7 @@
   ],
   "children_names": [
    "Hannah Faust",
-   "Shulem Schilloj"
+   "Shulem Schilloy"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -28489,7 +28521,7 @@
      ]
     },
     {
-     "form": "Freida Schilloj",
+     "form": "Freida Schiloj",
      "rids": [
       "d-1922-7"
      ]
@@ -28504,7 +28536,9 @@
    ],
    "surnames": [
     "Bloch",
-    "Schilloj"
+    "Schillaj",
+    "Schilloj",
+    "Schiloj"
    ],
    "born": null,
    "died": {
@@ -28527,7 +28561,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Bloch, married name Schilloj",
+  "heading_name": "Freida Bloch, married name Schilloy",
   "partner_groups": {
    "P0185": "2"
   }
@@ -36082,8 +36116,8 @@
   "id": "P0256",
   "legal_given": "Eisik Koppel",
   "common_given": "Koppel",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -36097,17 +36131,17 @@
   "marital_status_at_marriage": "Single (m-1901-13); Widowed (m-1908-1); Widowed (m-1916-3)",
   "marital_status_at_death": "Married (d-1929-6)",
   "father_id": "P2030",
-  "father_name": "Elias Guttstein",
+  "father_name": "Elias Gutstein",
   "mother_id": "P2584",
-  "mother_name": "Rivka Guttstein",
+  "mother_name": "Rivka Gutstein",
   "spouse_ids": [
    "P1127",
    "P1509",
    "P0257"
   ],
   "spouse_names": [
-   "Deborah Guttstein née Arnold",
-   "Deborah Guttstein née Kempler",
+   "Deborah Gutstein née Arnold",
+   "Deborah Gutstein née Kempler",
    "Hinde Windstroh"
   ],
   "children_ids": [
@@ -36122,15 +36156,15 @@
    "P2583"
   ],
   "children_names": [
-   "Pessel Guttstein",
-   "Elias Alexander Guttstein (Legal: Windstroh)",
-   "Chaim Guttstein",
-   "Berel Guttstein",
-   "Hinde Guttstein",
-   "Maria Guttstein",
-   "Moses Leib Guttstein",
-   "Perla Guttstein",
-   "Rivka Guttstein"
+   "Pessel Gutstein",
+   "Elias Alexander Gutstein (Legal: Windstroh)",
+   "Chaim Gutstein",
+   "Berel Gutstein",
+   "Hinde Gutstein",
+   "Maria Gutstein",
+   "Moses Leib Gutstein",
+   "Perla Gutstein",
+   "Rivka Gutstein"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -36200,10 +36234,15 @@
      "rids": [
       "b-1895-1",
       "b-1896-38",
-      "b-1899-15",
       "b-1901-34",
+      "b-1904-2"
+     ]
+    },
+    {
+     "form": "Koppel Gutstein",
+     "rids": [
+      "b-1899-15",
       "m-1901-13",
-      "b-1904-2",
       "b-1908-9",
       "m-1908-1",
       "b-1910-13",
@@ -36268,6 +36307,7 @@
     }
    ],
    "surnames": [
+    "Gutstein",
     "Guttstein"
    ],
    "born": null,
@@ -36316,7 +36356,7 @@
   "legal_surname": "Windstroh",
   "common_surname": "Windstroh",
   "maiden_surname": "Gottlieb",
-  "married_surname": "Guttstein",
+  "married_surname": "Gutstein",
   "sex": "F",
   "birth_date": "c. 1867 (age 40 at death 1907)",
   "death_date": "19 May 1907",
@@ -36335,7 +36375,7 @@
    "P0256"
   ],
   "spouse_names": [
-   "Eisik Koppel Guttstein"
+   "Eisik Koppel Gutstein"
   ],
   "children_ids": [
    "P0448",
@@ -36345,11 +36385,11 @@
    "P2583"
   ],
   "children_names": [
-   "Pessel Guttstein",
-   "Elias Alexander Guttstein (Legal: Windstroh)",
-   "Chaim Guttstein",
-   "Berel Guttstein",
-   "Rivka Guttstein"
+   "Pessel Gutstein",
+   "Elias Alexander Gutstein (Legal: Windstroh)",
+   "Chaim Gutstein",
+   "Berel Gutstein",
+   "Rivka Gutstein"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -36448,6 +36488,7 @@
    ],
    "surnames": [
     "Gottlieb",
+    "Gutstein",
     "Guttstein",
     "Windstroh"
    ],
@@ -36472,7 +36513,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Hinde Windstroh, married name Guttstein",
+  "heading_name": "Hinde Windstroh, married name Gutstein",
   "partner_groups": {
    "P0256": "1"
   }
@@ -36507,7 +36548,7 @@
    "P0257"
   ],
   "children_names": [
-   "Hinde Guttstein"
+   "Hinde Gutstein"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -36611,7 +36652,7 @@
    "P0257"
   ],
   "children_names": [
-   "Hinde Guttstein"
+   "Hinde Gutstein"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -42464,7 +42505,7 @@
   "father_id": "P2037",
   "father_name": "Leiser Freiberger",
   "mother_id": "P2038",
-  "mother_name": "Freida Freiberger née Fornat",
+  "mother_name": "Freida Freiberger née Fornal",
   "spouse_ids": [
    "P0310"
   ],
@@ -51919,7 +51960,7 @@
    "P0416"
   ],
   "spouse_names": [
-   "Itta Reiger"
+   "Itta Rieger"
   ],
   "children_ids": [
    "P0414"
@@ -52189,8 +52230,8 @@
   "id": "P0416",
   "legal_given": "Itta",
   "common_given": "Itta",
-  "legal_surname": "Reiger",
-  "common_surname": "Reiger",
+  "legal_surname": "Rieger",
+  "common_surname": "Rieger",
   "maiden_surname": null,
   "married_surname": "Bieder",
   "sex": "F",
@@ -52204,9 +52245,9 @@
   "marital_status_at_marriage": "Single (m-1904-4)",
   "marital_status_at_death": null,
   "father_id": "P0417",
-  "father_name": "Leib Reiger",
+  "father_name": "Leib Rieger",
   "mother_id": "P0418",
-  "mother_name": "Perla Reiger",
+  "mother_name": "Perla Rieger",
   "spouse_ids": [
    "P0415"
   ],
@@ -52235,13 +52276,13 @@
   "identity": {
    "names": [
     {
-     "form": "Itta née Reiger",
+     "form": "Itta née Ryger",
      "rids": [
       "b-1896-21"
      ]
     },
     {
-     "form": "Itta Reiger",
+     "form": "Itta Rieger",
      "rids": [
       "m-1904-4"
      ]
@@ -52261,7 +52302,8 @@
    ],
    "surnames": [
     "Bieder",
-    "Reiger"
+    "Rieger",
+    "Ryger"
    ],
    "born": null,
    "died": null,
@@ -52279,7 +52321,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Itta Reiger, married name Bieder",
+  "heading_name": "Itta Rieger, married name Bieder",
   "partner_groups": {
    "P0415": "1"
   }
@@ -52288,8 +52330,8 @@
   "id": "P0417",
   "legal_given": "Leib",
   "common_given": "Leib",
-  "legal_surname": "Reiger",
-  "common_surname": "Reiger",
+  "legal_surname": "Rieger",
+  "common_surname": "Rieger",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -52332,16 +52374,22 @@
   "identity": {
    "names": [
     {
-     "form": "Leib Reiger",
+     "form": "Leib Ryger",
      "rids": [
-      "b-1896-21",
+      "b-1896-21"
+     ]
+    },
+    {
+     "form": "Leib Rieger",
+     "rids": [
       "m-1904-4"
      ]
     }
    ],
    "quotes": [],
    "surnames": [
-    "Reiger"
+    "Rieger",
+    "Ryger"
    ],
    "born": null,
    "died": null,
@@ -52417,7 +52465,7 @@
      ]
     },
     {
-     "form": "Perla Reiger",
+     "form": "Perla Rieger",
      "rids": [
       "m-1904-4"
      ]
@@ -52427,7 +52475,8 @@
    "surnames": [
     "Kainer",
     "Kapner",
-    "Reiger"
+    "Rieger",
+    "Ryger"
    ],
    "born": null,
    "died": null,
@@ -52445,7 +52494,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Perla Kapner, married name Reiger",
+  "heading_name": "Perla Kapner, married name Rieger",
   "partner_groups": {
    "P0417": "2"
   }
@@ -55358,8 +55407,8 @@
   "id": "P0448",
   "legal_given": "Pessel",
   "common_given": "Pessel",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -55416,6 +55465,7 @@
     }
    ],
    "surnames": [
+    "Gutstein",
     "Guttstein"
    ],
    "born": {
@@ -55459,7 +55509,7 @@
   "father_id": "P0450",
   "father_name": "Solomon Abraham",
   "mother_id": "P0451",
-  "mother_name": "Sarah Halper",
+  "mother_name": "Sarah Halpern",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -55652,8 +55702,8 @@
   "id": "P0451",
   "legal_given": "Sara",
   "common_given": "Sara",
-  "legal_surname": "Halper",
-  "common_surname": "Halper",
+  "legal_surname": "Halpern",
+  "common_surname": "Halpern",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -55706,7 +55756,12 @@
     {
      "form": "Sarah née Halper",
      "rids": [
-      "b-1896-40",
+      "b-1896-40"
+     ]
+    },
+    {
+     "form": "Sarah née Halpern",
+     "rids": [
       "b-1900-1"
      ]
     },
@@ -55753,7 +55808,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Sara Halper, married name Abraham",
+  "heading_name": "Sara Halpern, married name Abraham",
   "partner_groups": {
    "P0450": "1"
   }
@@ -55762,8 +55817,8 @@
   "id": "P0452",
   "legal_given": "Isaac",
   "common_given": "Isaac",
-  "legal_surname": "Halper",
-  "common_surname": "Halper",
+  "legal_surname": "Halpern",
+  "common_surname": "Halpern",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -55806,14 +55861,20 @@
     {
      "form": "Isaac Halper",
      "rids": [
-      "b-1896-40",
+      "b-1896-40"
+     ]
+    },
+    {
+     "form": "Isaac Halpern",
+     "rids": [
       "b-1900-1"
      ]
     }
    ],
    "quotes": [],
    "surnames": [
-    "Halper"
+    "Halper",
+    "Halpern"
    ],
    "born": null,
    "died": null,
@@ -55832,8 +55893,8 @@
   "id": "P0453",
   "legal_given": "Rosa",
   "common_given": "Rosa",
-  "legal_surname": "Halper",
-  "common_surname": "Halper",
+  "legal_surname": "Halpern",
+  "common_surname": "Halpern",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -55876,14 +55937,20 @@
     {
      "form": "Rosa Halper",
      "rids": [
-      "b-1896-40",
+      "b-1896-40"
+     ]
+    },
+    {
+     "form": "Rosa Halpern",
+     "rids": [
       "b-1900-1"
      ]
     }
    ],
    "quotes": [],
    "surnames": [
-    "Halper"
+    "Halper",
+    "Halpern"
    ],
    "born": null,
    "died": null,
@@ -68580,8 +68647,8 @@
   "id": "P0573",
   "legal_given": "Teme",
   "common_given": "Teme",
-  "legal_surname": "Benenstock",
-  "common_surname": "Benenstock",
+  "legal_surname": "Binenstock",
+  "common_surname": "Binenstock",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -68632,7 +68699,7 @@
      ]
     },
     {
-     "form": "Teme née Benenstock",
+     "form": "Teme née Binenstock",
      "rids": [
       "b-1901-25"
      ]
@@ -68640,7 +68707,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Benenstock",
+    "Binenstock",
     "Grossbard"
    ],
    "born": null,
@@ -68659,7 +68726,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Teme Benenstock, married name Grossbard",
+  "heading_name": "Teme Binenstock, married name Grossbard",
   "partner_groups": {
    "P0572": "2"
   }
@@ -69539,7 +69606,7 @@
     {
      "rid": "b-1908-19",
      "role": "Mother",
-     "text": "Rozalia, daughter of Meilech Laub, capitalist in Gorlice, and Sarah nee Hajman"
+     "text": "Rozalia, daughter of Meilech Laub, capitalist in Gorlice, and Sarah nee Hajman [sic, = Haim]"
     },
     {
      "rid": "d-1938-6",
@@ -69667,7 +69734,7 @@
   "common_given": "Sarah",
   "legal_surname": "Haim",
   "common_surname": "Haim",
-  "maiden_surname": "Hajman",
+  "maiden_surname": "Haim",
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
@@ -70880,7 +70947,7 @@
   ],
   "spouse_names": [
    "Malka Schneps née Schneps",
-   "Sarah Schneps née Bernknop"
+   "Sarah Schneps née Bernknopf"
   ],
   "children_ids": [
    "P0600",
@@ -73343,7 +73410,7 @@
   "father_id": "P0183",
   "father_name": "Leib Fivel Faust",
   "mother_id": "P0184",
-  "mother_name": "Hannah Faust née Schilloj",
+  "mother_name": "Hannah Faust née Schilloy",
   "spouse_ids": [
    "P2331"
   ],
@@ -74769,7 +74836,7 @@
   "legal_given": "Elias Alexander",
   "common_given": "Elias Alexander",
   "legal_surname": "Windstroh",
-  "common_surname": "Guttstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -74783,9 +74850,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0256",
-  "father_name": "Eisik Kopel Guttstein",
+  "father_name": "Eisik Kopel Gutstein",
   "mother_id": "P0257",
-  "mother_name": "Hinde Guttstein née Windstroh",
+  "mother_name": "Hinde Gutstein née Windstroh",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -74810,7 +74877,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Guttstein",
+    "Gutstein",
     "Windstroh"
    ],
    "born": {
@@ -80496,7 +80563,7 @@
   "father_id": "P0450",
   "father_name": "Solomon Abraham",
   "mother_id": "P0451",
-  "mother_name": "Sarah Abraham née Halper",
+  "mother_name": "Sarah Abraham née Halpern",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -83125,8 +83192,8 @@
   "id": "P0735",
   "legal_given": "Shulem",
   "common_given": "Shulem",
-  "legal_surname": "Schilloj",
-  "common_surname": "Schilloj",
+  "legal_surname": "Schilloy",
+  "common_surname": "Schilloy",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -83140,14 +83207,14 @@
   "marital_status_at_marriage": "Single (m-1900-14)",
   "marital_status_at_death": null,
   "father_id": "P0185",
-  "father_name": "Joseph Schilloj",
+  "father_name": "Joseph Schilloy",
   "mother_id": "P0186",
   "mother_name": "Freida Bloch",
   "spouse_ids": [
    "P0736"
   ],
   "spouse_names": [
-   "Reisla Schilloj née Strumpf/Eisen"
+   "Reisla Schilloy née Strumpf/Eisen"
   ],
   "children_ids": [
    "P0739",
@@ -83156,10 +83223,10 @@
    "P1659"
   ],
   "children_names": [
-   "Mendel Schilloj",
-   "Berel David Schilloj",
-   "Iser Schilloj",
-   "Jacob Schilloj"
+   "Mendel Schilloy",
+   "Berel David Schilloy",
+   "Iser Schilloy",
+   "Jacob Schilloy"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -83189,18 +83256,23 @@
   "identity": {
    "names": [
     {
-     "form": "Shulem Schilloj",
+     "form": "Shulem Schillaj",
      "rids": [
       "b-1900-24",
+      "d-1901-15"
+     ]
+    },
+    {
+     "form": "Shulem Schilloj",
+     "rids": [
       "m-1900-14",
-      "b-1902-26",
       "b-1904-13"
      ]
     },
     {
-     "form": "Shulem Schillaj",
+     "form": "Shulem Schilaj",
      "rids": [
-      "d-1901-15"
+      "b-1902-26"
      ]
     }
    ],
@@ -83227,8 +83299,10 @@
     }
    ],
    "surnames": [
+    "Schilaj",
     "Schillaj",
-    "Schilloj"
+    "Schilloj",
+    "Schilloy"
    ],
    "born": null,
    "died": null,
@@ -83276,7 +83350,7 @@
    "P0735"
   ],
   "spouse_names": [
-   "Shulem Schilloj"
+   "Shulem Schilloy"
   ],
   "children_ids": [
    "P0739",
@@ -83285,10 +83359,10 @@
    "P1659"
   ],
   "children_names": [
-   "Mendel Schilloj",
-   "Berel David Schilloj",
-   "Iser Schilloj",
-   "Jacob Schilloj"
+   "Mendel Schilloy",
+   "Berel David Schilloy",
+   "Iser Schilloy",
+   "Jacob Schilloy"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -83357,6 +83431,7 @@
    ],
    "surnames": [
     "Eisen",
+    "Schilaj",
     "Schillaj",
     "Schilloj",
     "Strumpf"
@@ -83377,7 +83452,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Reisla Eisen, married name Schilloj",
+  "heading_name": "Reisla Eisen, married name Schilloy",
   "partner_groups": {
    "P0735": "1"
   }
@@ -83414,7 +83489,7 @@
    "P0736"
   ],
   "children_names": [
-   "Reisla Schilloj née Strumpf/Eisen"
+   "Reisla Schilloy née Strumpf/Eisen"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -83505,7 +83580,7 @@
    "P0736"
   ],
   "children_names": [
-   "Reisla Schilloj née Strumpf/Eisen"
+   "Reisla Schilloy née Strumpf/Eisen"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -83565,8 +83640,8 @@
   "id": "P0739",
   "legal_given": "Mendel",
   "common_given": "Mendel",
-  "legal_surname": "Schilloj",
-  "common_surname": "Schilloj",
+  "legal_surname": "Schilloy",
+  "common_surname": "Schilloy",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -83580,9 +83655,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0735",
-  "father_name": "Shulem Schilloj",
+  "father_name": "Shulem Schilloy",
   "mother_id": "P0736",
-  "mother_name": "Reisla Schilloj née Strumpf/Eisen",
+  "mother_name": "Reisla Schilloy née Strumpf/Eisen",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -83607,7 +83682,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Schilloj"
+    "Schillaj",
+    "Schilloy"
    ],
    "born": {
     "rid": "b-1900-24",
@@ -89482,8 +89558,8 @@
   "id": "P0807",
   "legal_given": "Chaim",
   "common_given": "Chaim",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -89497,9 +89573,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0256",
-  "father_name": "Eisik Kopel Guttstein",
+  "father_name": "Eisik Kopel Gutstein",
   "mother_id": "P0257",
-  "mother_name": "Hinde Guttstein née Windstroh",
+  "mother_name": "Hinde Gutstein née Windstroh",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -89524,6 +89600,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Gutstein",
     "Guttstein"
    ],
    "born": {
@@ -92520,7 +92597,7 @@
   "identity": {
    "names": [
     {
-     "form": "Joseph Silberbartz",
+     "form": "Joseph Silberbart",
      "rids": [
       "m-1900-3"
      ]
@@ -92579,7 +92656,7 @@
     }
    ],
    "surnames": [
-    "Silberbartz",
+    "Silberbart",
     "Silberberg"
    ],
    "born": null,
@@ -93326,8 +93403,8 @@
   "id": "P0851",
   "legal_given": "Berel David",
   "common_given": "Berel David",
-  "legal_surname": "Schilloj",
-  "common_surname": "Schilloj",
+  "legal_surname": "Schilloy",
+  "common_surname": "Schilloy",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -93341,9 +93418,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0735",
-  "father_name": "Shulem Schilloj",
+  "father_name": "Shulem Schilloy",
   "mother_id": "P0736",
-  "mother_name": "Reisla Schilloj née Strumpf/Eisen",
+  "mother_name": "Reisla Schilloy née Strumpf/Eisen",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -93368,7 +93445,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Schilloj"
+    "Schilaj",
+    "Schilloy"
    ],
    "born": {
     "rid": "b-1902-26",
@@ -94374,8 +94452,8 @@
   "id": "P0863",
   "legal_given": "Berel",
   "common_given": "Berel",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -94389,9 +94467,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0256",
-  "father_name": "Eisik Kopel Guttstein",
+  "father_name": "Eisik Kopel Gutstein",
   "mother_id": "P0257",
-  "mother_name": "Hinde Guttstein née Windstroh",
+  "mother_name": "Hinde Gutstein née Windstroh",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -94416,6 +94494,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Gutstein",
     "Guttstein"
    ],
    "born": {
@@ -95943,8 +96022,8 @@
   "id": "P0882",
   "legal_given": "Iser",
   "common_given": "Iser",
-  "legal_surname": "Schilloj",
-  "common_surname": "Schilloj",
+  "legal_surname": "Schilloy",
+  "common_surname": "Schilloy",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -95958,9 +96037,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0735",
-  "father_name": "Shulem Schilloj",
+  "father_name": "Shulem Schilloy",
   "mother_id": "P0736",
-  "mother_name": "Reisla Schilloj née Strumpf/Eisen",
+  "mother_name": "Reisla Schilloy née Strumpf/Eisen",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -95985,7 +96064,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Schilloj"
+    "Schilloj",
+    "Schilloy"
    ],
    "born": {
     "rid": "b-1904-13",
@@ -99485,8 +99565,8 @@
   "id": "P0919",
   "legal_given": "Simon",
   "common_given": "Simon",
-  "legal_surname": "Reimer",
-  "common_surname": "Reimer",
+  "legal_surname": "Riemer",
+  "common_surname": "Riemer",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -99507,7 +99587,7 @@
    "P0920"
   ],
   "spouse_names": [
-   "Rivka Reimer née Lederer"
+   "Rivka Riemer née Lederer"
   ],
   "children_ids": [
    "P0923",
@@ -99515,9 +99595,9 @@
    "P1162"
   ],
   "children_names": [
-   "Mendel Reimer (Legal: Lederer)",
-   "Samuel Leib Reimer (Legal: Lederer)",
-   "Fivel Reimer (Legal: Lederer)"
+   "Mendel Riemer (Legal: Lederer)",
+   "Samuel Leib Riemer (Legal: Lederer)",
+   "Fivel Riemer (Legal: Lederer)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -99547,18 +99627,18 @@
   "identity": {
    "names": [
     {
-     "form": "Simon Reimer",
+     "form": "Simon Rimer",
      "rids": [
       "b-1904-29",
       "d-1904-13",
-      "b-1906-15",
-      "b-1909-1"
+      "b-1906-15"
      ]
     },
     {
      "form": "Simon Riemer",
      "rids": [
-      "m-1908-1"
+      "m-1908-1",
+      "b-1909-1"
      ]
     }
    ],
@@ -99580,7 +99660,8 @@
     }
    ],
    "surnames": [
-    "Reimer"
+    "Riemer",
+    "Rimer"
    ],
    "born": null,
    "died": null,
@@ -99609,7 +99690,7 @@
   "legal_surname": "Lederer",
   "common_surname": "Lederer",
   "maiden_surname": null,
-  "married_surname": "Reimer",
+  "married_surname": "Riemer",
   "sex": "F",
   "birth_date": null,
   "death_date": null,
@@ -99628,7 +99709,7 @@
    "P0919"
   ],
   "spouse_names": [
-   "Simon Reimer"
+   "Simon Riemer"
   ],
   "children_ids": [
    "P0923",
@@ -99636,9 +99717,9 @@
    "P1162"
   ],
   "children_names": [
-   "Mendel Reimer (Legal: Lederer)",
-   "Samuel Leib Reimer (Legal: Lederer)",
-   "Fivel Reimer (Legal: Lederer)"
+   "Mendel Riemer (Legal: Lederer)",
+   "Samuel Leib Riemer (Legal: Lederer)",
+   "Fivel Riemer (Legal: Lederer)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -99697,7 +99778,8 @@
    ],
    "surnames": [
     "Lederer",
-    "Reimer"
+    "Riemer",
+    "Rimer"
    ],
    "born": null,
    "died": null,
@@ -99715,7 +99797,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rivka Lederer, married name Reimer",
+  "heading_name": "Rivka Lederer, married name Riemer",
   "partner_groups": {
    "P0919": "2"
   }
@@ -99752,7 +99834,7 @@
    "P0920"
   ],
   "children_names": [
-   "Rivka Reimer née Lederer"
+   "Rivka Riemer née Lederer"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -99838,7 +99920,7 @@
    "P0920"
   ],
   "children_names": [
-   "Rivka Reimer née Lederer"
+   "Rivka Riemer née Lederer"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -99904,7 +99986,7 @@
   "legal_given": "Mendel",
   "common_given": "Mendel",
   "legal_surname": "Lederer",
-  "common_surname": "Reimer",
+  "common_surname": "Riemer",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -99918,9 +100000,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1904-13)",
   "father_id": "P0919",
-  "father_name": "Simon Reimer",
+  "father_name": "Simon Riemer",
   "mother_id": "P0920",
-  "mother_name": "Rivka Reimer née Lederer",
+  "mother_name": "Rivka Riemer née Lederer",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -99962,7 +100044,8 @@
    ],
    "surnames": [
     "Lederer",
-    "Reimer"
+    "Riemer",
+    "Rimer"
    ],
    "born": {
     "rid": "b-1904-29",
@@ -99988,8 +100071,8 @@
   "id": "P0924",
   "legal_given": "Lipa",
   "common_given": "Lipa",
-  "legal_surname": "Rozner",
-  "common_surname": "Rozner",
+  "legal_surname": "Rosner",
+  "common_surname": "Rosner",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -100010,7 +100093,7 @@
    "P0925"
   ],
   "spouse_names": [
-   "Rachel Rozner née Just"
+   "Rachel Rosner née Just"
   ],
   "children_ids": [
    "P1678",
@@ -100022,13 +100105,13 @@
    "P1484"
   ],
   "children_names": [
-   "Samuel Rozner",
-   "Joseph Rozner",
-   "Baruch Rozner",
-   "Rivka Rozner",
-   "Feige Rachel Rozner",
-   "Esther Leah Rozner",
-   "Golda Rozner"
+   "Samuel Rosner",
+   "Joseph Rosner",
+   "Baruch Rosner",
+   "Rivka Rosner",
+   "Feige Rachel Rosner",
+   "Esther Leah Rosner",
+   "Golda Rosner"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -100234,22 +100317,12 @@
   "identity": {
    "names": [
     {
-     "form": "Lipa Rozner",
+     "form": "Lipa Rosner",
      "rids": [
       "d-1903-7",
       "b-1904-30",
-      "b-1907-1",
-      "b-1909-5",
-      "b-1912-9",
-      "b-1914-2",
-      "b-1916-6",
       "d-1920-8",
-      "d-1920-9"
-     ]
-    },
-    {
-     "form": "Lipa Rosner",
-     "rids": [
+      "d-1920-9",
       "m-1924-3",
       "m-1924-4",
       "m-1924-5",
@@ -100287,6 +100360,16 @@
       "m-1937-7",
       "m-1937-8"
      ]
+    },
+    {
+     "form": "Lipa Rozner",
+     "rids": [
+      "b-1907-1",
+      "b-1909-5",
+      "b-1912-9",
+      "b-1914-2",
+      "b-1916-6"
+     ]
     }
    ],
    "quotes": [
@@ -100322,6 +100405,7 @@
     }
    ],
    "surnames": [
+    "Rosner",
     "Rozner"
    ],
    "born": null,
@@ -100363,7 +100447,7 @@
    "P0924"
   ],
   "spouse_names": [
-   "Lipa Rozner"
+   "Lipa Rosner"
   ],
   "children_ids": [
    "P1678",
@@ -100375,13 +100459,13 @@
    "P1484"
   ],
   "children_names": [
-   "Samuel Rozner",
-   "Joseph Rozner",
-   "Baruch Rozner",
-   "Rivka Rozner",
-   "Feige Rachel Rozner",
-   "Esther Leah Rozner",
-   "Golda Rozner"
+   "Samuel Rosner",
+   "Joseph Rosner",
+   "Baruch Rosner",
+   "Rivka Rosner",
+   "Feige Rachel Rosner",
+   "Esther Leah Rosner",
+   "Golda Rosner"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -100444,7 +100528,7 @@
      ]
     },
     {
-     "form": "Rachel Rozner",
+     "form": "Rachel Rosner",
      "rids": [
       "d-1920-8",
       "d-1920-9"
@@ -100485,6 +100569,7 @@
    ],
    "surnames": [
     "Just",
+    "Rosner",
     "Rozner"
    ],
    "born": null,
@@ -100496,7 +100581,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Just, married name Rozner",
+  "heading_name": "Rachel Just, married name Rosner",
   "partner_groups": {
    "P0924": "1"
   }
@@ -100533,7 +100618,7 @@
    "P0925"
   ],
   "children_names": [
-   "Rachel Rozner née Just"
+   "Rachel Rosner née Just"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -100627,7 +100712,7 @@
    "P0925"
   ],
   "children_names": [
-   "Rachel Rozner née Just"
+   "Rachel Rosner née Just"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -100693,8 +100778,8 @@
   "id": "P0928",
   "legal_given": "Joseph",
   "common_given": "Joseph",
-  "legal_surname": "Rozner",
-  "common_surname": "Rozner",
+  "legal_surname": "Rosner",
+  "common_surname": "Rosner",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -100708,9 +100793,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1920-8)",
   "father_id": "P0924",
-  "father_name": "Lipa Rozner",
+  "father_name": "Lipa Rosner",
   "mother_id": "P0925",
-  "mother_name": "Rachel Rozner née Just",
+  "mother_name": "Rachel Rosner née Just",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -100737,7 +100822,7 @@
      ]
     },
     {
-     "form": "Joseph Rozner",
+     "form": "Joseph Rosner",
      "rids": [
       "d-1920-8"
      ]
@@ -100751,7 +100836,7 @@
     }
    ],
    "surnames": [
-    "Rozner"
+    "Rosner"
    ],
    "born": {
     "rid": "b-1904-30",
@@ -108397,7 +108482,7 @@
   "legal_given": "Samuel Leib",
   "common_given": "Samuel Leib",
   "legal_surname": "Lederer",
-  "common_surname": "Reimer",
+  "common_surname": "Riemer",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -108411,9 +108496,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0919",
-  "father_name": "Simon Reimer",
+  "father_name": "Simon Riemer",
   "mother_id": "P0920",
-  "mother_name": "Rivka Reimer née Lederer",
+  "mother_name": "Rivka Riemer née Lederer",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -108439,7 +108524,8 @@
    "quotes": [],
    "surnames": [
     "Lederer",
-    "Reimer"
+    "Riemer",
+    "Rimer"
    ],
    "born": {
     "rid": "b-1906-15",
@@ -111505,8 +111591,8 @@
   "id": "P1051",
   "legal_given": "Baruch",
   "common_given": "Baruch",
-  "legal_surname": "Rozner",
-  "common_surname": "Rozner",
+  "legal_surname": "Rosner",
+  "common_surname": "Rosner",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -111520,9 +111606,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0924",
-  "father_name": "Lipa Rozner",
+  "father_name": "Lipa Rosner",
   "mother_id": "P0925",
-  "mother_name": "Rachel Rozner née Just",
+  "mother_name": "Rachel Rosner née Just",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -111547,6 +111633,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Rosner",
     "Rozner"
    ],
    "born": {
@@ -111942,7 +112029,7 @@
    "P2357"
   ],
   "spouse_names": [
-   "Mordechi Sarno"
+   "Mordechi Sarna"
   ],
   "children_ids": [],
   "children_names": [],
@@ -112006,7 +112093,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rivka Bochner, married name Sarno",
+  "heading_name": "Rivka Bochner, married name Sarna",
   "partner_groups": {
    "P2357": "1"
   }
@@ -117075,8 +117162,8 @@
   "id": "P1113",
   "legal_given": "Karol",
   "common_given": "Karol",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -117117,7 +117204,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Guttstein"
+    "Gutstein"
    ],
    "born": null,
    "died": null,
@@ -118204,7 +118291,7 @@
    "P0256"
   ],
   "spouse_names": [
-   "Eisik Koppel Guttstein"
+   "Eisik Koppel Gutstein"
   ],
   "children_ids": [
    "P1130",
@@ -118212,9 +118299,9 @@
    "P1371"
   ],
   "children_names": [
-   "Hinde Guttstein",
-   "Maria Guttstein",
-   "Moses Leib Guttstein"
+   "Hinde Gutstein",
+   "Maria Gutstein",
+   "Moses Leib Gutstein"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -118258,7 +118345,7 @@
      ]
     },
     {
-     "form": "Dora Guttstein",
+     "form": "Dora Gutstein",
      "rids": [
       "d-1915-8"
      ]
@@ -118294,7 +118381,7 @@
    "surnames": [
     "Arnold",
     "Feier",
-    "Guttstein"
+    "Gutstein"
    ],
    "born": null,
    "died": {
@@ -118317,7 +118404,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deborah Arnold, married name Guttstein",
+  "heading_name": "Deborah Arnold, married name Gutstein",
   "partner_groups": {
    "P0256": "1"
   }
@@ -118354,7 +118441,7 @@
    "P1127"
   ],
   "children_names": [
-   "Deborah Guttstein née Arnold"
+   "Deborah Gutstein née Arnold"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -118451,7 +118538,7 @@
    "P1127"
   ],
   "children_names": [
-   "Deborah Guttstein née Arnold"
+   "Deborah Gutstein née Arnold"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -118531,8 +118618,8 @@
   "id": "P1130",
   "legal_given": "Hinde",
   "common_given": "Hinde",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -118546,9 +118633,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0256",
-  "father_name": "Eisik Kopel Guttstein",
+  "father_name": "Eisik Kopel Gutstein",
   "mother_id": "P1127",
-  "mother_name": "Deborah Guttstein née Arnold",
+  "mother_name": "Deborah Gutstein née Arnold",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -118573,7 +118660,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Guttstein"
+    "Gutstein"
    ],
    "born": {
     "rid": "b-1908-9",
@@ -119204,7 +119291,7 @@
   "id": "P1140",
   "legal_given": "Pinkus",
   "common_given": "Pinkus",
-  "legal_surname": "Zweibel",
+  "legal_surname": "Zwiebel",
   "common_surname": "Zeller",
   "maiden_surname": null,
   "married_surname": null,
@@ -119363,7 +119450,7 @@
    ],
    "surnames": [
     "Zeller",
-    "Zweibel"
+    "Zwiebel"
    ],
    "born": null,
    "died": null,
@@ -119404,7 +119491,7 @@
    "P1140"
   ],
   "spouse_names": [
-   "Pinkus Zweibel/Zeller"
+   "Pinkus Zwiebel/Zeller"
   ],
   "children_ids": [
    "P1143",
@@ -119502,7 +119589,7 @@
    "surnames": [
     "Storch",
     "Zeller",
-    "Zweibel"
+    "Zwiebel"
    ],
    "born": null,
    "died": null,
@@ -119658,7 +119745,7 @@
   "id": "P1143",
   "legal_given": "Hannah",
   "common_given": "Hannah",
-  "legal_surname": "Zweibel",
+  "legal_surname": "Zwiebel",
   "common_surname": "Zeller",
   "maiden_surname": null,
   "married_surname": null,
@@ -119673,7 +119760,7 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P1140",
-  "father_name": "Pinkus Zweibel/Zeller",
+  "father_name": "Pinkus Zwiebel/Zeller",
   "mother_id": "P1141",
   "mother_name": "Chaya Zeller née Storch",
   "spouse_ids": [],
@@ -119701,7 +119788,7 @@
    "quotes": [],
    "surnames": [
     "Zeller",
-    "Zweibel"
+    "Zwiebel"
    ],
    "born": {
     "rid": "b-1908-17",
@@ -120957,7 +121044,7 @@
   "legal_given": "Fivel",
   "common_given": "Fivel",
   "legal_surname": "Lederer",
-  "common_surname": "Reimer",
+  "common_surname": "Riemer",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -120971,9 +121058,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0919",
-  "father_name": "Simon Reimer",
+  "father_name": "Simon Riemer",
   "mother_id": "P0920",
-  "mother_name": "Rivka Reimer née Lederer",
+  "mother_name": "Rivka Riemer née Lederer",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -120999,7 +121086,7 @@
    "quotes": [],
    "surnames": [
     "Lederer",
-    "Reimer"
+    "Riemer"
    ],
    "born": {
     "rid": "b-1909-1",
@@ -121262,8 +121349,8 @@
   "id": "P1167",
   "legal_given": "Rivka",
   "common_given": "Rivka",
-  "legal_surname": "Rozner",
-  "common_surname": "Rozner",
+  "legal_surname": "Rosner",
+  "common_surname": "Rosner",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -121277,9 +121364,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0924",
-  "father_name": "Lipa Rozner",
+  "father_name": "Lipa Rosner",
   "mother_id": "P0925",
-  "mother_name": "Rachel Rozner née Just",
+  "mother_name": "Rachel Rosner née Just",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -121304,6 +121391,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Rosner",
     "Rozner"
    ],
    "born": {
@@ -126921,8 +127009,8 @@
   "id": "P1237",
   "legal_given": "Maria",
   "common_given": "Maria",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -126936,9 +127024,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0256",
-  "father_name": "Eisik Kopel Guttstein",
+  "father_name": "Eisik Kopel Gutstein",
   "mother_id": "P1127",
-  "mother_name": "Deborah Guttstein née Arnold",
+  "mother_name": "Deborah Gutstein née Arnold",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -126963,7 +127051,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Guttstein"
+    "Gutstein"
    ],
    "born": {
     "rid": "b-1910-13",
@@ -128339,7 +128427,7 @@
   "id": "P1253",
   "legal_given": "Abraham",
   "common_given": "Abraham",
-  "legal_surname": "Zweibel",
+  "legal_surname": "Zwiebel",
   "common_surname": "Zeller",
   "maiden_surname": null,
   "married_surname": null,
@@ -128354,7 +128442,7 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P1140",
-  "father_name": "Pinkus Zweibel/Zeller",
+  "father_name": "Pinkus Zwiebel/Zeller",
   "mother_id": "P1141",
   "mother_name": "Chaya Zeller née Storch",
   "spouse_ids": [],
@@ -128382,7 +128470,7 @@
    "quotes": [],
    "surnames": [
     "Zeller",
-    "Zweibel"
+    "Zwiebel"
    ],
    "born": {
     "rid": "b-1910-18",
@@ -129265,8 +129353,8 @@
   "id": "P1263",
   "legal_given": "Solomon",
   "common_given": "Solomon",
-  "legal_surname": "Nuefeld",
-  "common_surname": "Nuefeld",
+  "legal_surname": "Neufeld",
+  "common_surname": "Neufeld",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -129317,7 +129405,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Nuefeld"
+    "Neufeld"
    ],
    "born": null,
    "died": null,
@@ -130394,8 +130482,8 @@
   "id": "P1278",
   "legal_given": "Nute",
   "common_given": "Nute",
-  "legal_surname": "Shuster",
-  "common_surname": "Shuster",
+  "legal_surname": "Schuster",
+  "common_surname": "Schuster",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -130409,20 +130497,20 @@
   "marital_status_at_marriage": "Single (m-1916-5)",
   "marital_status_at_death": null,
   "father_id": "P2212",
-  "father_name": "Jacob Shuster",
+  "father_name": "Jacob Schuster",
   "mother_id": "P2213",
-  "mother_name": "Leah Shuster",
+  "mother_name": "Leah Schuster",
   "spouse_ids": [
    "P1279"
   ],
   "spouse_names": [
-   "Pessel Shuster née Siegfried"
+   "Pessel Schuster née Siegfried"
   ],
   "children_ids": [
    "P1282"
   ],
   "children_names": [
-   "Israel Shuster (Legal: Siegfried)"
+   "Israel Schuster (Legal: Siegfried)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -130440,13 +130528,13 @@
   "identity": {
    "names": [
     {
-     "form": "Nute Shuster",
+     "form": "Nute Schuster",
      "rids": [
       "b-1911-6"
      ]
     },
     {
-     "form": "Nathan Shuster",
+     "form": "Nathan Schuster",
      "rids": [
       "m-1916-5"
      ]
@@ -130456,7 +130544,7 @@
     {
      "rid": "b-1911-6",
      "role": "Father",
-     "text": "Nute Shuster"
+     "text": "Nute Schuster"
     },
     {
      "rid": "m-1916-5",
@@ -130465,7 +130553,7 @@
     }
    ],
    "surnames": [
-    "Shuster"
+    "Schuster"
    ],
    "born": null,
    "died": null,
@@ -130494,7 +130582,7 @@
   "legal_surname": "Siegfried",
   "common_surname": "Siegfried",
   "maiden_surname": null,
-  "married_surname": "Shuster",
+  "married_surname": "Schuster",
   "sex": "F",
   "birth_date": "c. 1878 (age 38 at m-1916-5)",
   "death_date": null,
@@ -130513,13 +130601,13 @@
    "P1278"
   ],
   "spouse_names": [
-   "Nute Shuster"
+   "Nute Schuster"
   ],
   "children_ids": [
    "P1282"
   ],
   "children_names": [
-   "Israel Shuster (Legal: Siegfried)"
+   "Israel Schuster (Legal: Siegfried)"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -130562,7 +130650,7 @@
     }
    ],
    "surnames": [
-    "Shuster",
+    "Schuster",
     "Siegfried"
    ],
    "born": null,
@@ -130581,7 +130669,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Pessel Siegfried, married name Shuster",
+  "heading_name": "Pessel Siegfried, married name Schuster",
   "partner_groups": {
    "P1278": "1"
   }
@@ -130618,7 +130706,7 @@
    "P1279"
   ],
   "children_names": [
-   "Pessel Shuster née Siegfried"
+   "Pessel Schuster née Siegfried"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -130720,7 +130808,7 @@
    "P1279"
   ],
   "children_names": [
-   "Pessel Shuster née Siegfried"
+   "Pessel Schuster née Siegfried"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -130803,7 +130891,7 @@
   "legal_given": "Israel",
   "common_given": "Israel",
   "legal_surname": "Siegfried",
-  "common_surname": "Shuster",
+  "common_surname": "Schuster",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -130817,9 +130905,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P1278",
-  "father_name": "Nute Shuster",
+  "father_name": "Nute Schuster",
   "mother_id": "P1279",
-  "mother_name": "Pessel Shuster née Siegfried",
+  "mother_name": "Pessel Schuster née Siegfried",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -130844,7 +130932,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Shuster",
+    "Schuster",
     "Siegfried"
    ],
    "born": {
@@ -132382,8 +132470,8 @@
   "id": "P1305",
   "legal_given": "Mendel",
   "common_given": "Mendel",
-  "legal_surname": "Schonbach",
-  "common_surname": "Schonbach",
+  "legal_surname": "Scheinbach",
+  "common_surname": "Scheinbach",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -132404,15 +132492,15 @@
    "P1306"
   ],
   "spouse_names": [
-   "Sarah Schonbach née Traum"
+   "Sarah Scheinbach née Traum"
   ],
   "children_ids": [
    "P2227",
    "P2227"
   ],
   "children_names": [
-   "Amalia Schonbach",
-   "Malka Schonbach"
+   "Amalia Scheinbach",
+   "Malka Scheinbach"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -132442,13 +132530,19 @@
      "rids": [
       "b-1911-19",
       "b-1913-6",
-      "b-1916-10",
       "m-1917-2"
+     ]
+    },
+    {
+     "form": "Mendel Scheinbach",
+     "rids": [
+      "b-1916-10"
      ]
     }
    ],
    "quotes": [],
    "surnames": [
+    "Scheinbach",
     "Schonbach"
    ],
    "born": null,
@@ -132497,15 +132591,15 @@
    "P1305"
   ],
   "spouse_names": [
-   "Mendel Schonbach"
+   "Mendel Scheinbach"
   ],
   "children_ids": [
    "P2227",
    "P2227"
   ],
   "children_names": [
-   "Amalia Schonbach",
-   "Malka Schonbach"
+   "Amalia Scheinbach",
+   "Malka Scheinbach"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -132542,6 +132636,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Scheinbach",
     "Schonbach",
     "Traum"
    ],
@@ -132561,7 +132656,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Traum, married name Schonbach",
+  "heading_name": "Sarah Traum, married name Scheinbach",
   "partner_groups": {
    "P1305": "2"
   }
@@ -132570,7 +132665,7 @@
   "id": "P1307",
   "legal_given": "Esther Necha",
   "common_given": "Esther Necha",
-  "legal_surname": "Schonbach",
+  "legal_surname": "Scheinbach",
   "common_surname": "Finder",
   "maiden_surname": null,
   "married_surname": null,
@@ -132587,7 +132682,7 @@
   "father_id": "P2224",
   "father_name": null,
   "mother_id": "P2227",
-  "mother_name": "Amalia Schonbach",
+  "mother_name": "Amalia Scheinbach",
   "spouse_ids": [
    "P2506"
   ],
@@ -132633,6 +132728,7 @@
    ],
    "surnames": [
     "Finder",
+    "Scheinbach",
     "Schonbach"
    ],
    "born": {
@@ -135275,8 +135371,8 @@
   "id": "P1340",
   "legal_given": "Feige Rachel",
   "common_given": "Feige Rachel",
-  "legal_surname": "Rozner",
-  "common_surname": "Rozner",
+  "legal_surname": "Rosner",
+  "common_surname": "Rosner",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -135290,9 +135386,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0924",
-  "father_name": "Lipa Rozner",
+  "father_name": "Lipa Rosner",
   "mother_id": "P0925",
-  "mother_name": "Rachel Rozner née Just",
+  "mother_name": "Rachel Rosner née Just",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -135317,6 +135413,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Rosner",
     "Rozner"
    ],
    "born": {
@@ -135802,7 +135899,7 @@
   "id": "P1349",
   "legal_given": "Feige",
   "common_given": "Feige",
-  "legal_surname": "Zweibel",
+  "legal_surname": "Zwiebel",
   "common_surname": "Zeller",
   "maiden_surname": null,
   "married_surname": null,
@@ -135817,7 +135914,7 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P1140",
-  "father_name": "Pinkus Zweibel/Zeller",
+  "father_name": "Pinkus Zwiebel/Zeller",
   "mother_id": "P1141",
   "mother_name": "Chaya Zeller née Storch",
   "spouse_ids": [],
@@ -135845,7 +135942,7 @@
    "quotes": [],
    "surnames": [
     "Zeller",
-    "Zweibel"
+    "Zwiebel"
    ],
    "born": {
     "rid": "b-1912-18",
@@ -137083,8 +137180,8 @@
   "id": "P1371",
   "legal_given": "Moses Leib",
   "common_given": "Moses Leib",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -137098,9 +137195,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0256",
-  "father_name": "Eisik Kopel Guttstein",
+  "father_name": "Eisik Kopel Gutstein",
   "mother_id": "P1127",
-  "mother_name": "Deborah Guttstein née Arnold",
+  "mother_name": "Deborah Gutstein née Arnold",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -137125,7 +137222,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Guttstein"
+    "Gutstein"
    ],
    "born": {
     "rid": "b-1912-30",
@@ -138667,7 +138764,7 @@
   "father_id": "P2224",
   "father_name": null,
   "mother_id": "P2227",
-  "mother_name": "Malka Schonbach",
+  "mother_name": "Malka Scheinbach",
   "spouse_ids": [
    "P2538"
   ],
@@ -141171,7 +141268,7 @@
   "id": "P1425",
   "legal_given": "Nechemje",
   "common_given": "Nechemje",
-  "legal_surname": "Zweibel",
+  "legal_surname": "Zwiebel",
   "common_surname": "Zeller",
   "maiden_surname": null,
   "married_surname": null,
@@ -141186,7 +141283,7 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P1140",
-  "father_name": "Pinkus Zweibel/Zeller",
+  "father_name": "Pinkus Zwiebel/Zeller",
   "mother_id": "P1141",
   "mother_name": "Chaya Zeller née Storch",
   "spouse_ids": [],
@@ -141214,7 +141311,7 @@
    "quotes": [],
    "surnames": [
     "Zeller",
-    "Zweibel"
+    "Zwiebel"
    ],
    "born": {
     "rid": "b-1913-25",
@@ -141298,8 +141395,8 @@
   "id": "P1427",
   "legal_given": "Esther Leah",
   "common_given": "Esther Leah",
-  "legal_surname": "Rozner",
-  "common_surname": "Rozner",
+  "legal_surname": "Rosner",
+  "common_surname": "Rosner",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -141313,9 +141410,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0924",
-  "father_name": "Lipa Rozner",
+  "father_name": "Lipa Rosner",
   "mother_id": "P0925",
-  "mother_name": "Rachel Rozner née Just",
+  "mother_name": "Rachel Rosner née Just",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -141340,6 +141437,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Rosner",
     "Rozner"
    ],
    "born": {
@@ -144782,7 +144880,7 @@
   "id": "P1473",
   "legal_given": "Yenta",
   "common_given": "Yenta",
-  "legal_surname": "Zweibel",
+  "legal_surname": "Zwiebel",
   "common_surname": "Zeller",
   "maiden_surname": null,
   "married_surname": null,
@@ -144797,7 +144895,7 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1916-3)",
   "father_id": "P1140",
-  "father_name": "Pinkus Zweibel/Zeller",
+  "father_name": "Pinkus Zwiebel/Zeller",
   "mother_id": "P1141",
   "mother_name": "Chaya Zeller née Storch",
   "spouse_ids": [],
@@ -144841,7 +144939,7 @@
    ],
    "surnames": [
     "Zeller",
-    "Zweibel"
+    "Zwiebel"
    ],
    "born": {
     "rid": "b-1915-12",
@@ -145637,8 +145735,8 @@
   "id": "P1484",
   "legal_given": "Golda",
   "common_given": "Golda",
-  "legal_surname": "Rozner",
-  "common_surname": "Rozner",
+  "legal_surname": "Rosner",
+  "common_surname": "Rosner",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -145652,9 +145750,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1920-9)",
   "father_id": "P0924",
-  "father_name": "Lipa Rozner",
+  "father_name": "Lipa Rosner",
   "mother_id": "P0925",
-  "mother_name": "Rachel Rozner née Just",
+  "mother_name": "Rachel Rosner née Just",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -145681,7 +145779,7 @@
      ]
     },
     {
-     "form": "Golda Rozner",
+     "form": "Golda Rosner",
      "rids": [
       "d-1920-9"
      ]
@@ -145695,6 +145793,7 @@
     }
    ],
    "surnames": [
+    "Rosner",
     "Rozner"
    ],
    "born": {
@@ -146365,7 +146464,7 @@
   "father_id": null,
   "father_name": null,
   "mother_id": "P2227",
-  "mother_name": "Amalia Schonbach",
+  "mother_name": "Amalia Scheinbach",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -147848,13 +147947,13 @@
    "P0256"
   ],
   "spouse_names": [
-   "Eisik Kopel Guttstein"
+   "Eisik Kopel Gutstein"
   ],
   "children_ids": [
    "P1512"
   ],
   "children_names": [
-   "Perla Guttstein"
+   "Perla Gutstein"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -147897,7 +147996,7 @@
     }
    ],
    "surnames": [
-    "Guttstein",
+    "Gutstein",
     "Kempler"
    ],
    "born": null,
@@ -147916,7 +148015,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Deborah Kempler, married name Guttstein",
+  "heading_name": "Deborah Kempler, married name Gutstein",
   "partner_groups": {
    "P0256": "1"
   }
@@ -147953,7 +148052,7 @@
    "P1509"
   ],
   "children_names": [
-   "Deborah Guttstein née Kempler"
+   "Deborah Gutstein née Kempler"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -148034,7 +148133,7 @@
    "P1509"
   ],
   "children_names": [
-   "Deborah Guttstein née Kempler"
+   "Deborah Gutstein née Kempler"
   ],
   "in_area": "IN_AREA",
   "refs": [
@@ -148095,8 +148194,8 @@
   "id": "P1512",
   "legal_given": "Perla",
   "common_given": "Perla",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -148110,9 +148209,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0256",
-  "father_name": "Eisik Kopel Guttstein",
+  "father_name": "Eisik Kopel Gutstein",
   "mother_id": "P1509",
-  "mother_name": "Deborah Guttstein née Kempler",
+  "mother_name": "Deborah Gutstein née Kempler",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -148137,7 +148236,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Guttstein"
+    "Gutstein"
    ],
    "born": {
     "rid": "b-1916-21",
@@ -148586,7 +148685,7 @@
   "id": "P1519",
   "legal_given": "Chaim",
   "common_given": "Chaim",
-  "legal_surname": "Zweibel",
+  "legal_surname": "Zwiebel",
   "common_surname": "Zeller",
   "maiden_surname": null,
   "married_surname": null,
@@ -148601,7 +148700,7 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P1140",
-  "father_name": "Pinkus Zweibel/Zeller",
+  "father_name": "Pinkus Zwiebel/Zeller",
   "mother_id": "P1141",
   "mother_name": "Chaya Zeller née Storch",
   "spouse_ids": [],
@@ -148629,7 +148728,7 @@
    "quotes": [],
    "surnames": [
     "Zeller",
-    "Zweibel"
+    "Zwiebel"
    ],
    "born": {
     "rid": "b-1917-6",
@@ -156360,8 +156459,8 @@
   "id": "P1659",
   "legal_given": "Jankel",
   "common_given": "Jankel",
-  "legal_surname": "Schilloj",
-  "common_surname": "Schilloj",
+  "legal_surname": "Schilloy",
+  "common_surname": "Schilloy",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -156375,9 +156474,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1901-15)",
   "father_id": "P0735",
-  "father_name": "Shulem Schilloj",
+  "father_name": "Shulem Schilloy",
   "mother_id": "P0736",
-  "mother_name": "Reisla Schilloj née Strumpf",
+  "mother_name": "Reisla Schilloy née Strumpf",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -156409,7 +156508,7 @@
    ],
    "surnames": [
     "Schillaj",
-    "Schilloj"
+    "Schilloy"
    ],
    "born": null,
    "died": {
@@ -157246,8 +157345,8 @@
   "id": "P1678",
   "legal_given": "Samuel",
   "common_given": "Samuel",
-  "legal_surname": "Rozner",
-  "common_surname": "Rozner",
+  "legal_surname": "Rosner",
+  "common_surname": "Rosner",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -157261,9 +157360,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1903-7)",
   "father_id": "P0924",
-  "father_name": "Lipa Rozner",
+  "father_name": "Lipa Rosner",
   "mother_id": "P0925",
-  "mother_name": "Rachel Rozner née Just",
+  "mother_name": "Rachel Rosner née Just",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -157280,7 +157379,7 @@
   "identity": {
    "names": [
     {
-     "form": "Samuel Rozner",
+     "form": "Samuel Rosner",
      "rids": [
       "d-1903-7"
      ]
@@ -157294,7 +157393,7 @@
     }
    ],
    "surnames": [
-    "Rozner"
+    "Rosner"
    ],
    "born": null,
    "died": {
@@ -159637,7 +159736,7 @@
   "legal_given": "Chane",
   "common_given": "Chane",
   "legal_surname": "Fornal",
-  "common_surname": "Formal",
+  "common_surname": "Fornal",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -159684,7 +159783,6 @@
     }
    ],
    "surnames": [
-    "Formal",
     "Fornal"
    ],
    "born": null,
@@ -162756,7 +162854,7 @@
    }
   ],
   "external_resources": null,
-  "identity_note": null,
+  "identity_note": "Possibly the same man as the Leib Riff (written Ryf) whose daughter Reisla lived in Brzostek, recorded at Dukla in 1894-96 and at Lupkow in 1901, next to Cisna, where this Leib's parents lived. No record connects them, and the other Leib's age is never given.",
   "identity": {
    "names": [
     {
@@ -165238,7 +165336,7 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": "Single (d-1923-1)",
   "father_id": "P1140",
-  "father_name": "Pinkus Zweibel/Zeller",
+  "father_name": "Pinkus Zwiebel/Zeller",
   "mother_id": "P1141",
   "mother_name": "Chaya Zeller née Storch",
   "spouse_ids": [],
@@ -171743,7 +171841,7 @@
   "legal_given": "Wolf",
   "common_given": "Wolf",
   "legal_surname": "Silberberg",
-  "common_surname": "Silberbartz",
+  "common_surname": "Silberbart",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -171780,11 +171878,11 @@
    }
   ],
   "external_resources": null,
-  "identity_note": null,
+  "identity_note": "The clerk wrote \"Silberbart recte Silberberg\" (1900): his legal surname was his mother's, Silberberg, probably because his parents had married only in a religious ceremony. He and his son went by his father's name, Silberbart. A 1928 correction in the register declared the family name Silberbart.",
   "identity": {
    "names": [
     {
-     "form": "Wolf Silberbartz",
+     "form": "Wolf Silberbart",
      "rids": [
       "m-1900-3"
      ]
@@ -171792,7 +171890,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Silberbartz",
+    "Silberbart",
     "Silberberg"
    ],
    "born": null,
@@ -171888,7 +171986,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Silberberg, married name Silberbartz",
+  "heading_name": "Sarah Silberberg, married name Silberbart",
   "partner_groups": {
    "P1961": "2"
   }
@@ -176636,8 +176734,8 @@
   "id": "P2030",
   "legal_given": "Elias",
   "common_given": "Elias",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -176658,13 +176756,13 @@
    "P2584"
   ],
   "spouse_names": [
-   "Rivka Guttstein"
+   "Rivka Gutstein"
   ],
   "children_ids": [
    "P0256"
   ],
   "children_names": [
-   "Eisik Koppel Guttstein"
+   "Eisik Koppel Gutstein"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -176686,7 +176784,7 @@
   "identity": {
    "names": [
     {
-     "form": "Elias Guttstein",
+     "form": "Elias Gutstein",
      "rids": [
       "m-1901-13",
       "m-1908-1",
@@ -176696,7 +176794,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Guttstein"
+    "Gutstein"
    ],
    "born": null,
    "died": null,
@@ -177160,7 +177258,7 @@
    "P2038"
   ],
   "spouse_names": [
-   "Freida Freiberger née Fornat"
+   "Freida Freiberger née Fornal"
   ],
   "children_ids": [
    "P0309"
@@ -177214,8 +177312,8 @@
   "id": "P2038",
   "legal_given": "Freida",
   "common_given": "Freida",
-  "legal_surname": "Fornat",
-  "common_surname": "Fornat",
+  "legal_surname": "Fornal",
+  "common_surname": "Fornal",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -177256,7 +177354,7 @@
   "identity": {
    "names": [
     {
-     "form": "Freida née Fornat",
+     "form": "Freida née Fornal",
      "rids": [
       "m-1901-18"
      ]
@@ -177264,7 +177362,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Fornat",
+    "Fornal",
     "Freiberger"
    ],
    "born": null,
@@ -177283,7 +177381,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Freida Fornat, married name Freiberger",
+  "heading_name": "Freida Fornal, married name Freiberger",
   "partner_groups": {
    "P2037": "2"
   }
@@ -179924,7 +180022,7 @@
   "id": "P2082",
   "legal_given": "Witla",
   "common_given": "Witla",
-  "legal_surname": "Diamand",
+  "legal_surname": "Diamant",
   "common_surname": "Karpf",
   "maiden_surname": null,
   "married_surname": null,
@@ -179977,6 +180075,7 @@
    ],
    "surnames": [
     "Diamand",
+    "Diamant",
     "Karpf"
    ],
    "born": null,
@@ -180450,8 +180549,8 @@
   "id": "P2089",
   "legal_given": "Leib",
   "common_given": "Leib",
-  "legal_surname": "Gleicher",
-  "common_surname": "Gleicher",
+  "legal_surname": "Gleichter",
+  "common_surname": "Gleichter",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -180472,13 +180571,13 @@
    "P2090"
   ],
   "spouse_names": [
-   "Rosa Gleicher née Lippel"
+   "Rosa Gleichter née Lippel"
   ],
   "children_ids": [
    "P2091"
   ],
   "children_names": [
-   "Riva Rachel Gleicher"
+   "Riva Rachel Gleichter"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -180492,7 +180591,7 @@
   "identity": {
    "names": [
     {
-     "form": "Leib Gleicher",
+     "form": "Leib Gleichter",
      "rids": [
       "m-1905-2"
      ]
@@ -180500,7 +180599,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Gleicher"
+    "Gleichter"
    ],
    "born": null,
    "died": null,
@@ -180548,13 +180647,13 @@
    "P2089"
   ],
   "spouse_names": [
-   "Leib Gleicher"
+   "Leib Gleichter"
   ],
   "children_ids": [
    "P2091"
   ],
   "children_names": [
-   "Riva Rachel Gleicher"
+   "Riva Rachel Gleichter"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -180576,7 +180675,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Gleicher",
+    "Gleichter",
     "Lippel"
    ],
    "born": null,
@@ -180595,7 +180694,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Rosa Lippel, married name Gleicher",
+  "heading_name": "Rosa Lippel, married name Gleichter",
   "partner_groups": {
    "P2089": "2"
   }
@@ -180604,8 +180703,8 @@
   "id": "P2091",
   "legal_given": "Riva Rachel",
   "common_given": "Rachel",
-  "legal_surname": "Gleicher",
-  "common_surname": "Gleicher",
+  "legal_surname": "Gleichter",
+  "common_surname": "Gleichter",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -180619,9 +180718,9 @@
   "marital_status_at_marriage": "Single (m-1905-2)",
   "marital_status_at_death": null,
   "father_id": "P2089",
-  "father_name": "Leib Gleicher",
+  "father_name": "Leib Gleichter",
   "mother_id": "P2090",
-  "mother_name": "Rosa Gleicher née Lippel",
+  "mother_name": "Rosa Gleichter née Lippel",
   "spouse_ids": [
    "P0144"
   ],
@@ -180642,7 +180741,7 @@
   "identity": {
    "names": [
     {
-     "form": "Rachel Gleicher",
+     "form": "Rachel Gleichter",
      "rids": [
       "m-1905-2"
      ]
@@ -180656,7 +180755,7 @@
     }
    ],
    "surnames": [
-    "Gleicher"
+    "Gleichter"
    ],
    "born": null,
    "died": null,
@@ -180674,7 +180773,7 @@
    "death_date_text": null
   },
   "unions": [],
-  "heading_name": "Rachel Gleicher, married name Meer",
+  "heading_name": "Rachel Gleichter, married name Meer",
   "partner_groups": {
    "P0144": "1"
   }
@@ -189121,8 +189220,8 @@
   "id": "P2212",
   "legal_given": "Jacob",
   "common_given": "Jacob",
-  "legal_surname": "Shuster",
-  "common_surname": "Shuster",
+  "legal_surname": "Schuster",
+  "common_surname": "Schuster",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -189143,13 +189242,13 @@
    "P2213"
   ],
   "spouse_names": [
-   "Leah Shuster"
+   "Leah Schuster"
   ],
   "children_ids": [
    "P1278"
   ],
   "children_names": [
-   "Nute Shuster"
+   "Nute Schuster"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -189163,7 +189262,7 @@
   "identity": {
    "names": [
     {
-     "form": "Jacob Shuster",
+     "form": "Jacob Schuster",
      "rids": [
       "m-1916-5"
      ]
@@ -189171,7 +189270,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Shuster"
+    "Schuster"
    ],
    "born": null,
    "died": null,
@@ -189190,8 +189289,8 @@
   "id": "P2213",
   "legal_given": "Leah",
   "common_given": "Leah",
-  "legal_surname": "Shuster",
-  "common_surname": "Shuster",
+  "legal_surname": "Schuster",
+  "common_surname": "Schuster",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -189212,13 +189311,13 @@
    "P2212"
   ],
   "spouse_names": [
-   "Jacob Shuster"
+   "Jacob Schuster"
   ],
   "children_ids": [
    "P1278"
   ],
   "children_names": [
-   "Nute Shuster"
+   "Nute Schuster"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -189232,7 +189331,7 @@
   "identity": {
    "names": [
     {
-     "form": "Leah Shuster",
+     "form": "Leah Schuster",
      "rids": [
       "m-1916-5"
      ]
@@ -189240,7 +189339,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Shuster"
+    "Schuster"
    ],
    "born": null,
    "died": null,
@@ -190004,7 +190103,7 @@
    "P2227"
   ],
   "spouse_names": [
-   "Malka Finder née Schonbach"
+   "Malka Finder née Scheinbach"
   ],
   "children_ids": [
    "P1307",
@@ -190086,8 +190185,8 @@
   "id": "P2227",
   "legal_given": "Amalia",
   "common_given": "Amalia",
-  "legal_surname": "Schonbach",
-  "common_surname": "Schonbach",
+  "legal_surname": "Scheinbach",
+  "common_surname": "Scheinbach",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -190101,9 +190200,9 @@
   "marital_status_at_marriage": "Single (m-1917-2)",
   "marital_status_at_death": null,
   "father_id": "P1305",
-  "father_name": "Mendel Schonbach",
+  "father_name": "Mendel Scheinbach",
   "mother_id": "P1306",
-  "mother_name": "Sarah Schonbach née Traum",
+  "mother_name": "Sarah Scheinbach née Traum",
   "spouse_ids": [
    "P2224"
   ],
@@ -190157,7 +190256,6 @@
      "form": "Amalia née Schonbach",
      "rids": [
       "b-1911-19",
-      "b-1916-10",
       "m-1936-3"
      ]
     },
@@ -190165,6 +190263,13 @@
      "form": "Malie née Schonbach",
      "rids": [
       "b-1913-6"
+     ]
+    },
+    {
+     "form": "Amalia née Scheinbach",
+     "rids": [
+      "b-1916-10",
+      "m-1938-2"
      ]
     },
     {
@@ -190177,12 +190282,6 @@
      "form": "Amalia Schonbach",
      "rids": [
       "m-1917-2"
-     ]
-    },
-    {
-     "form": "Amalia née Scheinbach",
-     "rids": [
-      "m-1938-2"
      ]
     }
    ],
@@ -190251,7 +190350,7 @@
     "group": "3"
    }
   ],
-  "heading_name": "Amalia Schonbach, married name Finder",
+  "heading_name": "Amalia Scheinbach, married name Finder",
   "partner_groups": {
    "P2224": "1"
   }
@@ -190831,7 +190930,7 @@
   "father_id": "P0183",
   "father_name": "Leib Fivel Faust",
   "mother_id": "P0184",
-  "mother_name": "Hannah Faust née Schilloj",
+  "mother_name": "Hannah Faust née Schilloy",
   "spouse_ids": [
    "P2235"
   ],
@@ -191093,7 +191192,7 @@
    "P2240"
   ],
   "spouse_names": [
-   "Alta Ratz née Schonbach"
+   "Alta Ratz née Scheinbach"
   ],
   "children_ids": [
    "P2241"
@@ -191242,7 +191341,7 @@
   "father_id": "P2239",
   "father_name": "Hersch Ratz",
   "mother_id": "P2240",
-  "mother_name": "Alta Ratz née Schonbach",
+  "mother_name": "Alta Ratz née Scheinbach",
   "spouse_ids": [
    "P0130"
   ],
@@ -191325,7 +191424,7 @@
    "P2243"
   ],
   "spouse_names": [
-   "Tserke Grzyb née Jochanowich"
+   "Tserke Grzyb née Jochanowicz"
   ],
   "children_ids": [
    "P2244"
@@ -191379,8 +191478,8 @@
   "id": "P2243",
   "legal_given": "Cerla",
   "common_given": "Cerla",
-  "legal_surname": "Jochanowich",
-  "common_surname": "Jochanowich",
+  "legal_surname": "Jochanowicz",
+  "common_surname": "Jochanowicz",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -191421,7 +191520,7 @@
   "identity": {
    "names": [
     {
-     "form": "Cerla née Jochanowich",
+     "form": "Cerla née Jochanowicz",
      "rids": [
       "m-1919-6"
      ]
@@ -191430,7 +191529,7 @@
    "quotes": [],
    "surnames": [
     "Grzyb",
-    "Jochanowich"
+    "Jochanowicz"
    ],
    "born": null,
    "died": null,
@@ -191448,7 +191547,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Cerla Jochanowich, married name Grzyb",
+  "heading_name": "Cerla Jochanowicz, married name Grzyb",
   "partner_groups": {
    "P2242": "2"
   }
@@ -191474,7 +191573,7 @@
   "father_id": "P2242",
   "father_name": "Fivel Grzyb",
   "mother_id": "P2243",
-  "mother_name": "Tserke Grzyb née Jochanowich",
+  "mother_name": "Tserke Grzyb née Jochanowicz",
   "spouse_ids": [
    "P2245"
   ],
@@ -192439,8 +192538,8 @@
   "id": "P2258",
   "legal_given": "Sarah",
   "common_given": "Sarah",
-  "legal_surname": "Bernknop",
-  "common_surname": "Bernknop",
+  "legal_surname": "Bernknopf",
+  "common_surname": "Bernknopf",
   "maiden_surname": null,
   "married_surname": "Schneps",
   "sex": "F",
@@ -192481,7 +192580,7 @@
   "identity": {
    "names": [
     {
-     "form": "Sarah née Bernknop",
+     "form": "Sarah née Bernknopf",
      "rids": [
       "m-1921-1"
      ]
@@ -192489,7 +192588,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Bernknop",
+    "Bernknopf",
     "Schneps"
    ],
    "born": null,
@@ -192508,7 +192607,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Sarah Bernknop, married name Schneps",
+  "heading_name": "Sarah Bernknopf, married name Schneps",
   "partner_groups": {
    "P0596": "2"
   }
@@ -192534,7 +192633,7 @@
   "father_id": "P0596",
   "father_name": "Chaim Leib Schneps",
   "mother_id": "P2258",
-  "mother_name": "Sarah Schneps née Bernknop",
+  "mother_name": "Sarah Schneps née Bernknopf",
   "spouse_ids": [
    "P1314"
   ],
@@ -193355,7 +193454,7 @@
   "father_id": "P0183",
   "father_name": "Leib Fivel Faust",
   "mother_id": "P0184",
-  "mother_name": "Hannah Faust née Schilloj",
+  "mother_name": "Hannah Faust née Schilloy",
   "spouse_ids": [
    "P2272"
   ],
@@ -199217,8 +199316,8 @@
   "id": "P2355",
   "legal_given": "Leiser",
   "common_given": "Leiser",
-  "legal_surname": "Sarno",
-  "common_surname": "Sarno",
+  "legal_surname": "Sarna",
+  "common_surname": "Sarna",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -199239,13 +199338,13 @@
    "P2356"
   ],
   "spouse_names": [
-   "Zipporah Sarno née Spira"
+   "Zipporah Sarna née Spiro"
   ],
   "children_ids": [
    "P2357"
   ],
   "children_names": [
-   "Mordechi Sarno"
+   "Mordechi Sarna"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -199259,7 +199358,7 @@
   "identity": {
    "names": [
     {
-     "form": "Leiser Sarno",
+     "form": "Leiser Sarna",
      "rids": [
       "m-1927-5"
      ]
@@ -199267,7 +199366,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Sarno"
+    "Sarna"
    ],
    "born": null,
    "died": null,
@@ -199293,8 +199392,8 @@
   "id": "P2356",
   "legal_given": "Zipporah",
   "common_given": "Zipporah",
-  "legal_surname": "Spira",
-  "common_surname": "Spira",
+  "legal_surname": "Spiro",
+  "common_surname": "Spiro",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -199315,13 +199414,13 @@
    "P2355"
   ],
   "spouse_names": [
-   "Leiser Sarno"
+   "Leiser Sarna"
   ],
   "children_ids": [
    "P2357"
   ],
   "children_names": [
-   "Mordechi Sarno"
+   "Mordechi Sarna"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -199335,7 +199434,7 @@
   "identity": {
    "names": [
     {
-     "form": "Zipporah née Spira",
+     "form": "Zipporah née Spiro",
      "rids": [
       "m-1927-5"
      ]
@@ -199343,8 +199442,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Sarno",
-    "Spira"
+    "Sarna",
+    "Spiro"
    ],
    "born": null,
    "died": null,
@@ -199362,7 +199461,7 @@
     "group": "2"
    }
   ],
-  "heading_name": "Zipporah Spira, married name Sarno",
+  "heading_name": "Zipporah Spiro, married name Sarna",
   "partner_groups": {
    "P2355": "2"
   }
@@ -199371,8 +199470,8 @@
   "id": "P2357",
   "legal_given": "Mordechi",
   "common_given": "Mordechi",
-  "legal_surname": "Sarno",
-  "common_surname": "Sarno",
+  "legal_surname": "Sarna",
+  "common_surname": "Sarna",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "M",
@@ -199386,14 +199485,14 @@
   "marital_status_at_marriage": "Single (m-1927-5)",
   "marital_status_at_death": null,
   "father_id": "P2355",
-  "father_name": "Leiser Sarno",
+  "father_name": "Leiser Sarna",
   "mother_id": "P2356",
-  "mother_name": "Zipporah Sarno née Spira",
+  "mother_name": "Zipporah Sarna née Spiro",
   "spouse_ids": [
    "P1055"
   ],
   "spouse_names": [
-   "Rivka Sarno née Ehrlich/Bochner"
+   "Rivka Sarna née Ehrlich/Bochner"
   ],
   "children_ids": [],
   "children_names": [],
@@ -199409,7 +199508,7 @@
   "identity": {
    "names": [
     {
-     "form": "Mordechi Sarno",
+     "form": "Mordechi Sarna",
      "rids": [
       "m-1927-5"
      ]
@@ -199423,7 +199522,7 @@
     }
    ],
    "surnames": [
-    "Sarno"
+    "Sarna"
    ],
    "born": null,
    "died": null,
@@ -216465,7 +216564,7 @@
   "legal_given": "Rivka",
   "common_given": "Rivka",
   "legal_surname": "Windstroh",
-  "common_surname": "Guttstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -216479,9 +216578,9 @@
   "marital_status_at_marriage": null,
   "marital_status_at_death": null,
   "father_id": "P0256",
-  "father_name": "Eisik Koppel Guttstein",
+  "father_name": "Eisik Koppel Gutstein",
   "mother_id": "P0257",
-  "mother_name": "Hinde Guttstein née Windstroh",
+  "mother_name": "Hinde Gutstein née Windstroh",
   "spouse_ids": [],
   "spouse_names": [],
   "children_ids": [],
@@ -216506,6 +216605,7 @@
    ],
    "quotes": [],
    "surnames": [
+    "Gutstein",
     "Guttstein",
     "Windstroh"
    ],
@@ -216528,8 +216628,8 @@
   "id": "P2584",
   "legal_given": "Rivka",
   "common_given": "Rivka",
-  "legal_surname": "Guttstein",
-  "common_surname": "Guttstein",
+  "legal_surname": "Gutstein",
+  "common_surname": "Gutstein",
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
@@ -216550,13 +216650,13 @@
    "P2030"
   ],
   "spouse_names": [
-   "Elias Guttstein"
+   "Elias Gutstein"
   ],
   "children_ids": [
    "P0256"
   ],
   "children_names": [
-   "Eisik Koppel Guttstein"
+   "Eisik Koppel Gutstein"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -216578,7 +216678,7 @@
   "identity": {
    "names": [
     {
-     "form": "Rivka Guttstein",
+     "form": "Rivka Gutstein",
      "rids": [
       "m-1901-13",
       "m-1908-1",
@@ -216588,7 +216688,7 @@
    ],
    "quotes": [],
    "surnames": [
-    "Guttstein"
+    "Gutstein"
    ],
    "born": null,
    "died": null,

@@ -141,17 +141,17 @@
    {
     "role": "Mother",
     "person_id": "P0066",
-    "display": "Reisla Ryf",
+    "display": "Reisla Riff",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Reisla née Ryf",
     "linked_inline": true
    },
    {
     "role": "MGF",
     "person_id": "P0067",
-    "display": "Leib Ryf",
+    "display": "Leib Riff",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Leib Ryf",
     "linked_inline": true
    },
    {
@@ -242,17 +242,17 @@
    {
     "role": "Mother",
     "person_id": "P0066",
-    "display": "Reisla Ryf",
+    "display": "Reisla Riff",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Reisla née Ryf",
     "linked_inline": true
    },
    {
     "role": "MGF",
     "person_id": "P0067",
-    "display": "Leib Ryf",
+    "display": "Leib Riff",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Leib Ryf",
     "linked_inline": true
    },
    {
@@ -1519,7 +1519,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -1606,17 +1606,17 @@
    {
     "role": "Mother",
     "person_id": "P0184",
-    "display": "Hannah Schilloj, married name Faust",
+    "display": "Hannah Schilloy, married name Faust",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Hannah née Schillaj",
     "linked_inline": true
    },
    {
     "role": "MGF",
     "person_id": "P0185",
-    "display": "Joseph Schilloj",
+    "display": "Joseph Schilloy",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Joseph Schillaj",
     "linked_inline": true
    },
    {
@@ -1652,21 +1652,16 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a>, leather dealer in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0184.html\" data-pid=\"P0184\">Hannah</a>, daughter of <a href=\"../person/P0185.html\" data-pid=\"P0185\">Joseph</a> Schillaj, unemployed in Brzostek, and <a href=\"../person/P0186.html\" data-pid=\"P0186\">Freida nee Bloch</a>",
+   "Mother (prose)": "<a href=\"../person/P0184.html\" data-pid=\"P0184\">Hannah</a>, daughter of <a href=\"../person/P0185.html\" data-pid=\"P0185\">Joseph Schillaj</a>, unemployed in Brzostek, and <a href=\"../person/P0186.html\" data-pid=\"P0186\">Freida nee Bloch</a>",
    "Witnesses (prose)": "<a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness. <a href=\"../person/P2573.html\" data-pid=\"P2573\">Moses Panzer</a>, butcher in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Maria Przybyło, midwife in Brzostek",
    "Notes": "The undersigned acknowledges paternity: <a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a> [signature]. <a href=\"../person/P2573.html\" data-pid=\"P2573\">Moses Panzer</a> [signature], witness."
-  },
-  "unlinked_prose_tokens": [
-   "Schillaj"
-  ]
+  }
  },
  {
   "id": "b-1894-18",
@@ -3408,7 +3403,7 @@
    {
     "role": "Child",
     "person_id": "P2583",
-    "display": "Rivka Guttstein",
+    "display": "Rivka Gutstein",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -3416,15 +3411,15 @@
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Koppel Guttstein",
     "linked_inline": true
    },
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Gottlieb, married name Guttstein",
+    "display": "Hinde Gottlieb, married name Gutstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -3479,11 +3474,10 @@
    "Mother (prose)": "<a href=\"../person/P0257.html\" data-pid=\"P0257\">Hinde</a>, daughter or <a href=\"../person/P0258.html\" data-pid=\"P0258\">Abraham Windstroh</a>, owner of agricultural land in Gawlow near Bochnia, and <a href=\"../person/P0259.html\" data-pid=\"P0259\">Chaya nee Gottlieb</a>",
    "Witnesses (prose)": "<a href=\"../person/P0039.html\" data-pid=\"P0039\">Elias Bergman</a>, spice stallholder in Brzostek, witness. <a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, estate tenant in Zawadka Brzostecka, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
-   "Notes": "The undersigned acknowledges paternity: Eizik <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a> Gutstein [signature]. <a href=\"../person/P0039.html\" data-pid=\"P0039\">Elias Bergman</a> [signature], witness."
+   "Notes": "The undersigned acknowledges paternity: Eizik <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel Gutstein</a> [signature]. <a href=\"../person/P0039.html\" data-pid=\"P0039\">Elias Bergman</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Eizik",
-   "Gutstein"
+   "Eizik"
   ]
  },
  {
@@ -3748,7 +3742,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -8929,7 +8923,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -8959,15 +8953,20 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [],
+  "unlinked_roles": [
+   "prose"
+  ],
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0178.html\" data-pid=\"P0178\">Lazar Licht</a>, cloth merchant in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0179.html\" data-pid=\"P0179\">Deborah</a>, daughter of <a href=\"../person/P0180.html\" data-pid=\"P0180\">Reuben Plattner</a>, stallholder of clothgoods in Brzostek, and <a href=\"../person/P0181.html\" data-pid=\"P0181\">Gela nee Kajner</a>",
+   "Mother (prose)": "<a href=\"../person/P0179.html\" data-pid=\"P0179\">Deborah</a>, daughter of <a href=\"../person/P0180.html\" data-pid=\"P0180\">Reuben Plattner</a>, stallholder of clothgoods in Brzostek, and <a href=\"../person/P0181.html\" data-pid=\"P0181\">Gela</a> nee Kajner",
    "Witnesses (prose)": "<a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a>, shopkeeper of colonial goods in Brzostek, witness. <a href=\"../person/P0025.html\" data-pid=\"P0025\">Joseph Bergman</a>, baker in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Notes": "Marriage performed in Brzostek 25 Oct 1880, marriage register vol. II p. 9, no. 2"
-  }
+  },
+  "unlinked_prose_tokens": [
+   "Kajner"
+  ]
  },
  {
   "id": "b-1896-18",
@@ -9025,7 +9024,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -9055,15 +9054,20 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [],
+  "unlinked_roles": [
+   "prose"
+  ],
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0031.html\" data-pid=\"P0031\">Lazar Silberman</a>, unemployed in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0270.html\" data-pid=\"P0270\">Rivka</a>, daughter of <a href=\"../person/P0180.html\" data-pid=\"P0180\">Reuben Plattner</a>, cloth merchant in Brzostek, and <a href=\"../person/P0181.html\" data-pid=\"P0181\">Gela nee Kajner</a>",
+   "Mother (prose)": "<a href=\"../person/P0270.html\" data-pid=\"P0270\">Rivka</a>, daughter of <a href=\"../person/P0180.html\" data-pid=\"P0180\">Reuben Plattner</a>, cloth merchant in Brzostek, and <a href=\"../person/P0181.html\" data-pid=\"P0181\">Gela</a> nee Kajner",
    "Witnesses (prose)": "<a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a>, shopkeeper of colonial goods in Brzostek, witness. <a href=\"../person/P0025.html\" data-pid=\"P0025\">Joseph Bergman</a>, baker in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>",
    "Notes": "Marriage performed in Brzostek 27 Dec 1892, marriage register vol. II p. 41-42, no. 4"
-  }
+  },
+  "unlinked_prose_tokens": [
+   "Kajner"
+  ]
  },
  {
   "id": "b-1896-19",
@@ -9302,17 +9306,17 @@
    {
     "role": "Mother",
     "person_id": "P0416",
-    "display": "Itta Reiger, married name Bieder",
+    "display": "Itta Rieger, married name Bieder",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Itta née Ryger",
     "linked_inline": true
    },
    {
     "role": "MGF",
     "person_id": "P0417",
-    "display": "Leib Reiger",
+    "display": "Leib Rieger",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Leib Ryger",
     "linked_inline": true
    },
    {
@@ -9348,20 +9352,15 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a>, without employment in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0416.html\" data-pid=\"P0416\">Itta</a>, daughter of <a href=\"../person/P0417.html\" data-pid=\"P0417\">Leib</a> Ryger, industrialist in Gorlice, and <a href=\"../person/P0418.html\" data-pid=\"P0418\">Perla</a> nee <a href=\"../person/P0418.html\" data-pid=\"P0418\">Kapner</a>",
+   "Mother (prose)": "<a href=\"../person/P0416.html\" data-pid=\"P0416\">Itta</a>, daughter of <a href=\"../person/P0417.html\" data-pid=\"P0417\">Leib Ryger</a>, industrialist in Gorlice, and <a href=\"../person/P0418.html\" data-pid=\"P0418\">Perla</a> nee <a href=\"../person/P0418.html\" data-pid=\"P0418\">Kapner</a>",
    "Witnesses (prose)": "<a href=\"../person/P0250.html\" data-pid=\"P0250\">Leib Tager</a>, innkeeper in Klecie, witness. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, clothgoods stallholder in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Notes": "The undersigned acknowledges paternity: <a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a> [signature]. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a> [signature], cloth merchant in Brzostek, witness. Legitimized by the marriage of the parents 15 Apr 1904, marriage register vol. II p. 129"
-  },
-  "unlinked_prose_tokens": [
-   "Ryger"
-  ]
+  }
  },
  {
   "id": "b-1896-22",
@@ -10870,17 +10869,17 @@
    {
     "role": "Mother",
     "person_id": "P0066",
-    "display": "Reisla Ryf",
+    "display": "Reisla Riff",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Reisla née Ryf",
     "linked_inline": true
    },
    {
     "role": "MGF",
     "person_id": "P0067",
-    "display": "Leib Ryf",
+    "display": "Leib Riff",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Leib Ryf",
     "linked_inline": true
    },
    {
@@ -10950,7 +10949,7 @@
    {
     "role": "Child",
     "person_id": "P0448",
-    "display": "Pessel Guttstein",
+    "display": "Pessel Gutstein",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -10958,15 +10957,15 @@
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Koppel Guttstein",
     "linked_inline": true
    },
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Gottlieb, married name Guttstein",
+    "display": "Hinde Gottlieb, married name Gutstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -11163,7 +11162,7 @@
    {
     "role": "Mother",
     "person_id": "P0451",
-    "display": "Sara Halper",
+    "display": "Sara Halpern",
     "role_label": "Mother",
     "written_as": "Sarah née Halper",
     "linked_inline": true
@@ -11171,17 +11170,17 @@
    {
     "role": "MGF",
     "person_id": "P0452",
-    "display": "Isaac Halper",
+    "display": "Isaac Halpern",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Isaac Halper",
     "linked_inline": true
    },
    {
     "role": "MGM",
     "person_id": "P0453",
-    "display": "Rosa Halper",
+    "display": "Rosa Halpern",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Rosa Halper",
     "linked_inline": true
    },
    {
@@ -14466,7 +14465,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -15957,7 +15956,7 @@
    {
     "role": "MGM",
     "person_id": "P0573",
-    "display": "Teme Benenstock",
+    "display": "Teme Binenstock",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -16161,7 +16160,7 @@
    {
     "role": "MGM",
     "person_id": "P0583",
-    "display": "Sarah Hajman, married name Haim",
+    "display": "Sarah Haim",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -18434,17 +18433,17 @@
    {
     "role": "Mother",
     "person_id": "P0184",
-    "display": "Hannah Schilloj, married name Faust",
+    "display": "Hannah Schilloy, married name Faust",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Hannah née Schilloj",
     "linked_inline": true
    },
    {
     "role": "MGF",
     "person_id": "P0185",
-    "display": "Joseph Schilloj",
+    "display": "Joseph Schilloy",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Joseph Schilloj",
     "linked_inline": true
    },
    {
@@ -18553,7 +18552,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -19509,7 +19508,7 @@
    {
     "role": "Child",
     "person_id": "P0644",
-    "display": "Elias Alexander Guttstein",
+    "display": "Elias Alexander Gutstein",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -19517,7 +19516,7 @@
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father",
     "written_as": null,
     "linked_inline": true
@@ -19525,7 +19524,7 @@
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Gottlieb, married name Guttstein",
+    "display": "Hinde Gottlieb, married name Gutstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -19571,15 +19570,20 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [],
+  "unlinked_roles": [
+   "prose"
+  ],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel Guttstein</a>, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, steward of the Skurowa estate and residing there",
+   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel</a> Guttstein, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, steward of the Skurowa estate and residing there",
    "Mother (prose)": "<a href=\"../person/P0257.html\" data-pid=\"P0257\">Hinde</a>, daughter of <a href=\"../person/P0258.html\" data-pid=\"P0258\">Abraham Windstroh</a>, industrialist in Gawłów near Bochnia and <a href=\"../person/P0259.html\" data-pid=\"P0259\">Chaya nee Gottlieb</a>",
    "Witnesses (prose)": "<a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeeper in Brzostek, witness. <a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
-   "Notes": "The undersigned acknowledges paternity: <a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel Guttstein</a> [signature]. <a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a> [signature], witness. Entered into a marriage on 6 Oct 1954 at the First Civil Registry Office in Krakow with &quot;Feliksa Katarzyna Blazynska&quot; record number 2066/54"
-  }
+   "Notes": "The undersigned acknowledges paternity: <a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel</a> Guttstein [signature]. <a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a> [signature], witness. Entered into a marriage on 6 Oct 1954 at the First Civil Registry Office in Krakow with &quot;Feliksa Katarzyna Blazynska&quot; record number 2066/54"
+  },
+  "unlinked_prose_tokens": [
+   "Guttstein"
+  ]
  },
  {
   "id": "b-1899-16",
@@ -21670,7 +21674,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -22234,15 +22238,15 @@
    {
     "role": "Mother",
     "person_id": "P0451",
-    "display": "Sara Halper",
+    "display": "Sara Halpern",
     "role_label": "Mother",
-    "written_as": "Sarah née Halper",
+    "written_as": "Sarah née Halpern",
     "linked_inline": true
    },
    {
     "role": "MGF",
     "person_id": "P0452",
-    "display": "Isaac Halper",
+    "display": "Isaac Halpern",
     "role_label": "Mother's father",
     "written_as": null,
     "linked_inline": true
@@ -22250,7 +22254,7 @@
    {
     "role": "MGM",
     "person_id": "P0453",
-    "display": "Rosa Halper",
+    "display": "Rosa Halpern",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -22280,21 +22284,16 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": "Chaskel Abraham was murdered at Auschwitz. The Auschwitz Memorial published his prisoner photograph and a short biography on Facebook: <a href=\"https://www.facebook.com/auschwitzmemorial/posts/9-january-1900-polish-jew-abraham-chaskel-was-born-in-brzostek-a-worker-in-ausch/1030177589153605/\" target=\"_blank\" rel=\"noopener\">View on Auschwitz Memorial</a>.",
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0450.html\" data-pid=\"P0450\">Solomon Abraham</a>, owner of an iron goods shop in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0451.html\" data-pid=\"P0451\">Sarah</a>, daughter of <a href=\"../person/P0452.html\" data-pid=\"P0452\">Isaac</a> Halpern, former linen dealer in Rymanow, and <a href=\"../person/P0453.html\" data-pid=\"P0453\">Rosa</a> nee unknown",
+   "Mother (prose)": "<a href=\"../person/P0451.html\" data-pid=\"P0451\">Sarah</a>, daughter of <a href=\"../person/P0452.html\" data-pid=\"P0452\">Isaac Halpern</a>, former linen dealer in Rymanow, and <a href=\"../person/P0453.html\" data-pid=\"P0453\">Rosa</a> nee unknown",
    "Witnesses (prose)": "<a href=\"../person/P0430.html\" data-pid=\"P0430\">Marcus David Hirsch</a>, grain merchant in Brzostek, witness. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz</a>, owner of a colonial goods shop in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Josefa Lizowa midwife in Brzostek",
    "Notes": "Marriage performed in Brzostek 11 Jun 1893, marriage register vol. II p. 47, no. 5"
-  },
-  "unlinked_prose_tokens": [
-   "Halpern"
-  ]
+  }
  },
  {
   "id": "b-1900-2",
@@ -24364,7 +24363,7 @@
    {
     "role": "Child",
     "person_id": "P0739",
-    "display": "Mendel Schilloj",
+    "display": "Mendel Schilloy",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -24372,9 +24371,9 @@
    {
     "role": "Father",
     "person_id": "P0735",
-    "display": "Shulem Schilloj",
+    "display": "Shulem Schilloy",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Shulem Schillaj",
     "linked_inline": true
    },
    {
@@ -24429,7 +24428,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0735.html\" data-pid=\"P0735\">Shulem Schilloj</a> leather dealer in Brzostek",
+   "Father (prose)": "<a href=\"../person/P0735.html\" data-pid=\"P0735\">Shulem</a> Schilloj leather dealer in Brzostek",
    "Mother (prose)": "<a href=\"../person/P0736.html\" data-pid=\"P0736\">Reisla Strumpf</a>, daughter of <a href=\"../person/P0737.html\" data-pid=\"P0737\">Mayer Eisen</a>, colonial goods shopholder in Brzyscie near Mielec, and <a href=\"../person/P0738.html\" data-pid=\"P0738\">Hene nee Strumpf</a>",
    "Witnesses (prose)": "<a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a>, industrialist in Brzostek, witness. <a href=\"../person/P0454.html\" data-pid=\"P0454\">Osiah Baumgarten</a>",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
@@ -25080,7 +25079,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": false
@@ -25452,7 +25451,7 @@
    {
     "role": "MGM",
     "person_id": "P0583",
-    "display": "Sarah Hajman, married name Haim",
+    "display": "Sarah Haim",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -26190,7 +26189,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -27454,7 +27453,7 @@
    {
     "role": "MGM",
     "person_id": "P0573",
-    "display": "Teme Benenstock",
+    "display": "Teme Binenstock",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -27484,21 +27483,16 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0063.html\" data-pid=\"P0063\">Hersch Chaskel Goldberg</a>, called <a href=\"../person/P0063.html\" data-pid=\"P0063\">Chaskel</a>, tenant of the alcohol monopoly in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0571.html\" data-pid=\"P0571\">Hinde</a>, daughter of <a href=\"../person/P0572.html\" data-pid=\"P0572\">Kelman Grossbard</a>, innkeeper in Zabno, and <a href=\"../person/P0573.html\" data-pid=\"P0573\">Teme</a> nee Binenstock",
+   "Mother (prose)": "<a href=\"../person/P0571.html\" data-pid=\"P0571\">Hinde</a>, daughter of <a href=\"../person/P0572.html\" data-pid=\"P0572\">Kelman Grossbard</a>, innkeeper in Zabno, and <a href=\"../person/P0573.html\" data-pid=\"P0573\">Teme nee Binenstock</a>",
    "Witnesses (prose)": "<a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeeper in Brzostek, witness. <a href=\"../person/P0038.html\" data-pid=\"P0038\">Pinkus Korn</a>, cloth merchant in Brzostek witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>",
    "Midwife": "Josefa Lisowa midwife in Brzostek",
    "Notes": "Marriage performed in Zabno 6 May 1887, marriage register vol. II p. 17, no. 8"
-  },
-  "unlinked_prose_tokens": [
-   "Binenstock"
-  ]
+  }
  },
  {
   "id": "b-1901-26",
@@ -28243,7 +28237,7 @@
    {
     "role": "Child",
     "person_id": "P0807",
-    "display": "Chaim Guttstein",
+    "display": "Chaim Gutstein",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -28251,15 +28245,15 @@
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Koppel Guttstein",
     "linked_inline": true
    },
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Gottlieb, married name Guttstein",
+    "display": "Hinde Gottlieb, married name Gutstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -30797,7 +30791,7 @@
    {
     "role": "Child",
     "person_id": "P0851",
-    "display": "Berel David Schilloj",
+    "display": "Berel David Schilloy",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -30805,9 +30799,9 @@
    {
     "role": "Father",
     "person_id": "P0735",
-    "display": "Shulem Schilloj",
+    "display": "Shulem Schilloy",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Shulem Schilaj",
     "linked_inline": true
    },
    {
@@ -30862,7 +30856,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0735.html\" data-pid=\"P0735\">Shulem Schilloj</a> owner of a cloth shop in Brzostek",
+   "Father (prose)": "<a href=\"../person/P0735.html\" data-pid=\"P0735\">Shulem</a> Schilloj owner of a cloth shop in Brzostek",
    "Mother (prose)": "<a href=\"../person/P0736.html\" data-pid=\"P0736\">Reisla Strumpf</a>, daughter of <a href=\"../person/P0737.html\" data-pid=\"P0737\">Mayer Eisen</a>, industrialist in Brzyscie near Mielec, and <a href=\"../person/P0738.html\" data-pid=\"P0738\">Hene nee Strumpf</a>",
    "Witnesses (prose)": "<a href=\"../person/P0013.html\" data-pid=\"P0013\">Jochene Nechemje</a>, cloth merchant in Brzostek, witness. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz spice stallholder in Brzostek</a>, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
@@ -31321,7 +31315,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -31685,7 +31679,7 @@
    {
     "role": "Child",
     "person_id": "P0863",
-    "display": "Berel Guttstein",
+    "display": "Berel Gutstein",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -31693,15 +31687,15 @@
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Koppel Guttstein",
     "linked_inline": true
    },
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Gottlieb, married name Guttstein",
+    "display": "Hinde Gottlieb, married name Gutstein",
     "role_label": "Mother",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -32748,7 +32742,7 @@
    {
     "role": "Child",
     "person_id": "P0882",
-    "display": "Iser Schilloj",
+    "display": "Iser Schilloy",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -32756,9 +32750,9 @@
    {
     "role": "Father",
     "person_id": "P0735",
-    "display": "Shulem Schilloj",
+    "display": "Shulem Schilloy",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Shulem Schilloj",
     "linked_inline": true
    },
    {
@@ -34287,7 +34281,7 @@
    {
     "role": "Child",
     "person_id": "P0923",
-    "display": "Mendel Reimer",
+    "display": "Mendel Riemer",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -34295,15 +34289,15 @@
    {
     "role": "Father",
     "person_id": "P0919",
-    "display": "Simon Reimer",
+    "display": "Simon Riemer",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Simon Rimer",
     "linked_inline": true
    },
    {
     "role": "Mother",
     "person_id": "P0920",
-    "display": "Rivka Lederer, married name Reimer",
+    "display": "Rivka Lederer, married name Riemer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -34354,14 +34348,13 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon</a> Rimer innkeeper in Skurowa",
+   "Father (prose)": "<a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon Rimer</a> innkeeper in Skurowa",
    "Mother (prose)": "<a href=\"../person/P0920.html\" data-pid=\"P0920\">Rivka</a>, daughter of the late Mendel Lederer, former farmer in Ryglice, and <a href=\"../person/P0922.html\" data-pid=\"P0922\">Sarah Dacha nee Gelb</a>",
    "Witnesses (prose)": "<a href=\"../person/P0749.html\" data-pid=\"P0749\">Benjamin Schlenger</a>, tree dealer in Brzostek, witness. <a href=\"../person/P0063.html\" data-pid=\"P0063\">Chaskel Goldberg</a>.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
-   "Notes": "The undersigned acknowledges paternity: <a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon</a> Rimer [signature]. Solomon Kornfeld [signature], industrialist in Brzostek, witness. Child died 25 Nov 1904"
+   "Notes": "The undersigned acknowledges paternity: <a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon Rimer</a> [signature]. Solomon Kornfeld [signature], industrialist in Brzostek, witness. Child died 25 Nov 1904"
   },
   "unlinked_prose_tokens": [
-   "Rimer",
    "Kornfeld"
   ]
  },
@@ -34390,7 +34383,7 @@
    {
     "role": "Child",
     "person_id": "P0928",
-    "display": "Joseph Rozner",
+    "display": "Joseph Rosner",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -34398,7 +34391,7 @@
    {
     "role": "Father",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Father",
     "written_as": null,
     "linked_inline": true
@@ -34455,7 +34448,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> Rosner, overseer of the manor in Grudna Gorna",
+   "Father (prose)": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa Rosner</a>, overseer of the manor in Grudna Gorna",
    "Mother (prose)": "<a href=\"../person/P0925.html\" data-pid=\"P0925\">Rachel</a>, daughter of <a href=\"../person/P0926.html\" data-pid=\"P0926\">Baruch Just</a>, innkeeper in Lubinko near Zmigrod, and Rivka nee unknown",
    "Witnesses (prose)": "<a href=\"../person/P0749.html\" data-pid=\"P0749\">Benjamin Schlenger</a>, tree dealer in Brzostek, witness. <a href=\"../person/P0063.html\" data-pid=\"P0063\">Chaskel Goldberg</a>.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
@@ -36767,7 +36760,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -37736,7 +37729,7 @@
    {
     "role": "MGM",
     "person_id": "P0583",
-    "display": "Sarah Hajman, married name Haim",
+    "display": "Sarah Haim",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -39742,7 +39735,7 @@
    {
     "role": "Child",
     "person_id": "P1017",
-    "display": "Samuel Leib Reimer",
+    "display": "Samuel Leib Riemer",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -39750,15 +39743,15 @@
    {
     "role": "Father",
     "person_id": "P0919",
-    "display": "Simon Reimer",
+    "display": "Simon Riemer",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Simon Rimer",
     "linked_inline": true
    },
    {
     "role": "Mother",
     "person_id": "P0920",
-    "display": "Rivka Lederer, married name Reimer",
+    "display": "Rivka Lederer, married name Riemer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -39809,15 +39802,14 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon</a> Rimer, innkeeper in Skurowa",
+   "Father (prose)": "<a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon Rimer</a>, innkeeper in Skurowa",
    "Mother (prose)": "<a href=\"../person/P0920.html\" data-pid=\"P0920\">Rivka</a>, daughter of Mendel Lederer, farmer in Ryglice, and <a href=\"../person/P0922.html\" data-pid=\"P0922\">Sarah Dacha</a> nee unknown",
    "Witnesses (prose)": "<a href=\"../person/P1018.html\" data-pid=\"P1018\">Psachje Abraham</a>, private citizen in Brzostek, witness; <a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeeper in Brzostek, witness",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, circumciser in Brzostek",
    "Notes": "The undersigned acknowledges paternity: Szymon Rimer [signature]. <a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a> [signature], witness."
   },
   "unlinked_prose_tokens": [
-   "Szymon",
-   "Rimer"
+   "Szymon"
   ]
  },
  {
@@ -40267,7 +40259,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -41220,7 +41212,7 @@
    {
     "role": "Child",
     "person_id": "P1051",
-    "display": "Baruch Rozner",
+    "display": "Baruch Rosner",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -41228,9 +41220,9 @@
    {
     "role": "Father",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Lipa Rozner",
     "linked_inline": true
    },
    {
@@ -45209,9 +45201,9 @@
    {
     "role": "Witness2",
     "person_id": "P1113",
-    "display": "Karol Guttstein",
+    "display": "Karol Gutstein",
     "role_label": "Witness",
-    "written_as": null,
+    "written_as": "Karol Guttstein",
     "linked_inline": true
    },
    {
@@ -45746,7 +45738,7 @@
    {
     "role": "Child",
     "person_id": "P1130",
-    "display": "Hinde Guttstein",
+    "display": "Hinde Gutstein",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -45754,7 +45746,7 @@
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father",
     "written_as": null,
     "linked_inline": true
@@ -45811,7 +45803,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel Guttstein</a>, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, industrialist in Skurowa",
+   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel</a> Guttstein, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, industrialist in Skurowa",
    "Mother (prose)": "<a href=\"../person/P1127.html\" data-pid=\"P1127\">Deborah</a>, daughter of <a href=\"../person/P1128.html\" data-pid=\"P1128\">Moses Leib Arnold</a>, called <a href=\"../person/P1128.html\" data-pid=\"P1128\">Leib</a>, in &quot;Ostrow&quot; near Halicz and <a href=\"../person/P1129.html\" data-pid=\"P1129\">Hannah nee Feier</a>",
    "Witnesses (prose)": "<a href=\"../person/P0061.html\" data-pid=\"P0061\">Zalel Lobel</a>, owner of iron goods business in Brzostek, witness. <a href=\"../person/P1131.html\" data-pid=\"P1131\">Abraham Frommer</a>, cattle dealer in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
@@ -46460,7 +46452,7 @@
    {
     "role": "MGM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -46590,7 +46582,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus</a> Zwiebel, who used the last name Zeller, without occupation in Brzostek",
+   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus Zwiebel</a>, who used the last name Zeller, without occupation in Brzostek",
    "Mother (prose)": "<a href=\"../person/P1141.html\" data-pid=\"P1141\">Chaya</a>, daughter of <a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeeper in Brzostek, and <a href=\"../person/P1142.html\" data-pid=\"P1142\">Maria nee Sperber</a>",
    "Witnesses (prose)": "<a href=\"../person/P0063.html\" data-pid=\"P0063\">Chaskel Goldberg</a>, innkeeper in Brzostek, witness. <a href=\"../person/P0841.html\" data-pid=\"P0841\">Joseph Silberberg</a>, industrialist in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
@@ -46709,7 +46701,7 @@
    "Naming Date": "25 October 1908",
    "Naming Place": "Brzostek, house 149",
    "Father (prose)": "David Schonwetter, owner of landed farm in Brzostek",
-   "Mother (prose)": "Rozalia, daughter of Meilech Laub, capitalist in Gorlice, and Sarah nee Hajman",
+   "Mother (prose)": "Rozalia, daughter of Meilech Laub, capitalist in Gorlice, and Sarah nee Hajman [sic, = Haim]",
    "Witnesses (prose)": "Chaim Horowitz, owner of colonial goods shop in Brzostek, witness. Solomon Freiberger, industrialist in Brzostek, witness.",
    "Mohel/Name Giver": "Marcus Kleinman",
    "Midwife": "Maria Krawczyk",
@@ -46751,7 +46743,7 @@
    {
     "role": "MGM",
     "person_id": "P0583",
-    "display": "Sarah Hajman, married name Haim",
+    "display": "Sarah Haim",
     "role_label": "Mother's mother",
     "written_as": "Sarah née Hajman",
     "linked_inline": true
@@ -46785,7 +46777,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0580.html\" data-pid=\"P0580\">David Schonwetter</a>, owner of landed farm in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0581.html\" data-pid=\"P0581\">Rozalia</a>, daughter of <a href=\"../person/P0582.html\" data-pid=\"P0582\">Meilech Laub</a>, capitalist in Gorlice, and <a href=\"../person/P0583.html\" data-pid=\"P0583\">Sarah nee Hajman</a>",
+   "Mother (prose)": "<a href=\"../person/P0581.html\" data-pid=\"P0581\">Rozalia</a>, daughter of <a href=\"../person/P0582.html\" data-pid=\"P0582\">Meilech Laub</a>, capitalist in Gorlice, and <a href=\"../person/P0583.html\" data-pid=\"P0583\">Sarah nee Hajman</a> [sic, = <a href=\"../person/P0583.html\" data-pid=\"P0583\">Haim</a>]",
    "Witnesses (prose)": "<a href=\"../person/P1013.html\" data-pid=\"P1013\">Chaim Horowitz</a>, owner of colonial goods shop in Brzostek, witness. <a href=\"../person/P1008.html\" data-pid=\"P1008\">Solomon Freiberger</a>, industrialist in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Maria Krawczyk",
@@ -47848,7 +47840,7 @@
    {
     "role": "Child",
     "person_id": "P1162",
-    "display": "Fivel Reimer",
+    "display": "Fivel Riemer",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -47856,7 +47848,7 @@
    {
     "role": "Father",
     "person_id": "P0919",
-    "display": "Simon Reimer",
+    "display": "Simon Riemer",
     "role_label": "Father",
     "written_as": null,
     "linked_inline": true
@@ -47864,7 +47856,7 @@
    {
     "role": "Mother",
     "person_id": "P0920",
-    "display": "Rivka Lederer, married name Reimer",
+    "display": "Rivka Lederer, married name Riemer",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -47915,13 +47907,14 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon</a> Riemer, innkeeper in Skurowa",
+   "Father (prose)": "<a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon Riemer</a>, innkeeper in Skurowa",
    "Mother (prose)": "<a href=\"../person/P0920.html\" data-pid=\"P0920\">Rivka</a>, daughter of the late <a href=\"../person/P0921.html\" data-pid=\"P0921\">Mendel Lederer</a>, former industrialist in Ryglice, and the late Sarah Deicha, called Deicha, nee unknown",
    "Witnesses (prose)": "<a href=\"../person/P1170.html\" data-pid=\"P1170\">Hersch</a> Bronheim, butcher in Brzostek, witness. <a href=\"../person/P0903.html\" data-pid=\"P0903\">Mechel Noth</a>, tailor in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
-   "Notes": "Registered in the presence of <a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon Reimer</a> acknowledging paternity and <a href=\"../person/P1170.html\" data-pid=\"P1170\">Hersch Braunheim</a>, witness."
+   "Notes": "Registered in the presence of <a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon</a> Reimer acknowledging paternity and <a href=\"../person/P1170.html\" data-pid=\"P1170\">Hersch Braunheim</a>, witness."
   },
   "unlinked_prose_tokens": [
+   "Reimer",
    "Deicha"
   ]
  },
@@ -48239,7 +48232,7 @@
    {
     "role": "Child",
     "person_id": "P1167",
-    "display": "Rivka Rozner",
+    "display": "Rivka Rosner",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -48247,9 +48240,9 @@
    {
     "role": "Father",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Lipa Rozner",
     "linked_inline": true
    },
    {
@@ -52263,7 +52256,7 @@
    {
     "role": "Child",
     "person_id": "P1237",
-    "display": "Maria Guttstein",
+    "display": "Maria Gutstein",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -52271,7 +52264,7 @@
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father",
     "written_as": null,
     "linked_inline": true
@@ -52328,7 +52321,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel Guttstein</a>, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, farmer in Skurowa",
+   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel</a> Guttstein, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, farmer in Skurowa",
    "Mother (prose)": "<a href=\"../person/P1127.html\" data-pid=\"P1127\">Deborah</a>, daughter of the late <a href=\"../person/P1128.html\" data-pid=\"P1128\">Moses Leib Arnold</a>, called <a href=\"../person/P1128.html\" data-pid=\"P1128\">Leib</a>, former industrialist in &quot;Ostrow&quot; near Halicz, and <a href=\"../person/P1129.html\" data-pid=\"P1129\">Hannah nee Feier</a>",
    "Witnesses (prose)": "<a href=\"../person/P0292.html\" data-pid=\"P0292\">Samuel Konigsdorf</a>, owner of real estate in Brzostek, witness. <a href=\"../person/P0947.html\" data-pid=\"P0947\">Jacob Bergman</a>, owner of cloth business in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, name-giver",
@@ -52818,7 +52811,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus</a> Zwiebel, who used the last name Zeller, owner of mixed goods shop in Sanok",
+   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus Zwiebel</a>, who used the last name Zeller, owner of mixed goods shop in Sanok",
    "Mother (prose)": "<a href=\"../person/P1141.html\" data-pid=\"P1141\">Chaya</a>, daughter of <a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeeper in Brzostek, and <a href=\"../person/P1142.html\" data-pid=\"P1142\">Maria nee Sperber</a>",
    "Witnesses (prose)": "<a href=\"../person/P0505.html\" data-pid=\"P0505\">Isaac Rosenbaum</a>, owner of mixed goods shop in Grudna Gorna, witness. <a href=\"../person/P0322.html\" data-pid=\"P0322\">Mendel Dintenfass</a>, tenant of the manor in Blaszkowa, witness",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, circumciser in Brzostek",
@@ -53489,9 +53482,9 @@
    {
     "role": "Witness2",
     "person_id": "P1263",
-    "display": "Solomon Nuefeld",
+    "display": "Solomon Neufeld",
     "role_label": "Witness",
-    "written_as": "Solomon Neufeld",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -54197,18 +54190,18 @@
    "Birth Place": "Brzostek, house 159",
    "Naming Date": "20 March 1911",
    "Naming Place": "Brzostek, house 159",
-   "Father (prose)": "Nute Shuster",
+   "Father (prose)": "Nute Schuster",
    "Mother (prose)": "Pessel, daughter of Moses Siegfried, unemployed in Brzostek, and the late Leah nee Bodner",
    "Witnesses (prose)": "Solomon Aron, merchant of cloth goods in Brzostek, witness. Hersch March, kosher butcher in Brzostek, witness.",
    "Mohel/Name Giver": "Marcus Kleinman, circumciser in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
-   "Notes": "Nute Shuster acknowledges paternity. \"Chaskel Goldberg\" , witness."
+   "Notes": "Nute Schuster acknowledges paternity. \"Chaskel Goldberg\" , witness."
   },
   "people": [
    {
     "role": "Child",
     "person_id": "P1282",
-    "display": "Israel Shuster",
+    "display": "Israel Schuster",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -54216,7 +54209,7 @@
    {
     "role": "Father",
     "person_id": "P1278",
-    "display": "Nute Shuster",
+    "display": "Nute Schuster",
     "role_label": "Father",
     "written_as": null,
     "linked_inline": true
@@ -54224,7 +54217,7 @@
    {
     "role": "Mother",
     "person_id": "P1279",
-    "display": "Pessel Siegfried, married name Shuster",
+    "display": "Pessel Siegfried, married name Schuster",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": true
@@ -54273,12 +54266,12 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P1278.html\" data-pid=\"P1278\">Nute Shuster</a>",
+   "Father (prose)": "<a href=\"../person/P1278.html\" data-pid=\"P1278\">Nute Schuster</a>",
    "Mother (prose)": "<a href=\"../person/P1279.html\" data-pid=\"P1279\">Pessel</a>, daughter of <a href=\"../person/P1280.html\" data-pid=\"P1280\">Moses Siegfried</a>, unemployed in Brzostek, and the late <a href=\"../person/P1281.html\" data-pid=\"P1281\">Leah nee Bodner</a>",
    "Witnesses (prose)": "<a href=\"../person/P0502.html\" data-pid=\"P0502\">Solomon Aron</a>, merchant of cloth goods in Brzostek, witness. <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, kosher butcher in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, circumciser in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
-   "Notes": "<a href=\"../person/P1278.html\" data-pid=\"P1278\">Nute Shuster</a> acknowledges paternity. &quot;Chaskel Goldberg&quot; , witness."
+   "Notes": "<a href=\"../person/P1278.html\" data-pid=\"P1278\">Nute Schuster</a> acknowledges paternity. &quot;Chaskel Goldberg&quot; , witness."
   }
  },
  {
@@ -54746,9 +54739,9 @@
    {
     "role": "Witness2",
     "person_id": "P1263",
-    "display": "Solomon Nuefeld",
+    "display": "Solomon Neufeld",
     "role_label": "Witness",
-    "written_as": null,
+    "written_as": "Solomon Nuefeld",
     "linked_inline": true
    },
    {
@@ -54765,7 +54758,7 @@
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P1097.html\" data-pid=\"P1097\">Israel Kornreich</a>, master shoemaker in Brzostek",
    "Mother (prose)": "<a href=\"../person/P1098.html\" data-pid=\"P1098\">Feige</a>, daughter of the late <a href=\"../person/P0160.html\" data-pid=\"P0160\">Samuel David Rothman</a>, called <a href=\"../person/P0160.html\" data-pid=\"P0160\">David</a>, former farmer in Gorzejowa, and <a href=\"../person/P0161.html\" data-pid=\"P0161\">Freida nee Roth</a>",
-   "Witnesses (prose)": "<a href=\"../person/P0302.html\" data-pid=\"P0302\">Jacob Rauch</a>, maintained the Jewish school in Brzostek, witness. <a href=\"../person/P1263.html\" data-pid=\"P1263\">Solomon</a> Neufeld, industrialist in Brzostek, witness.",
+   "Witnesses (prose)": "<a href=\"../person/P0302.html\" data-pid=\"P0302\">Jacob Rauch</a>, maintained the Jewish school in Brzostek, witness. <a href=\"../person/P1263.html\" data-pid=\"P1263\">Solomon Neufeld</a>, industrialist in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, name-giver in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
    "Notes": "Marriage in Brzostek 27 Oct 1907, marriage register Volume II, entry 151/2"
@@ -55456,17 +55449,17 @@
    {
     "role": "Mother",
     "person_id": "P2227",
-    "display": "Amalia Schonbach",
+    "display": "Amalia Scheinbach",
     "role_label": "Mother",
-    "written_as": null,
+    "written_as": "Amalia née Schonbach",
     "linked_inline": true
    },
    {
     "role": "MGF",
     "person_id": "P1305",
-    "display": "Mendel Schonbach",
+    "display": "Mendel Scheinbach",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Mendel Schonbach",
     "linked_inline": true
    },
    {
@@ -56991,7 +56984,7 @@
    {
     "role": "Child",
     "person_id": "P1340",
-    "display": "Feige Rachel Rozner",
+    "display": "Feige Rachel Rosner",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -56999,9 +56992,9 @@
    {
     "role": "Father",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Lipa Rozner",
     "linked_inline": true
    },
    {
@@ -57927,7 +57920,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus</a> Zwiebel, who used the last name Zeller, owner of haberdashery goods in Brzostek",
+   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus Zwiebel</a>, who used the last name Zeller, owner of haberdashery goods in Brzostek",
    "Mother (prose)": "Chane, daughter of <a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, and <a href=\"../person/P1142.html\" data-pid=\"P1142\">Maria nee Sperber</a>",
    "Mohel/Name Giver": "Markus <a href=\"../person/P0008.html\" data-pid=\"P0008\">Kleinman</a> [written as ditto marks under the entry above]",
    "Notes": "Marriage in Brzostek 27 Oct 1907 Vol II p.153 item 13"
@@ -59009,7 +59002,7 @@
    {
     "role": "Child",
     "person_id": "P1371",
-    "display": "Moses Leib Guttstein",
+    "display": "Moses Leib Gutstein",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -59017,7 +59010,7 @@
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father",
     "written_as": null,
     "linked_inline": true
@@ -59074,7 +59067,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel Guttstein</a>, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, farmer in Skurowa",
+   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel</a> Guttstein, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, farmer in Skurowa",
    "Mother (prose)": "<a href=\"../person/P1127.html\" data-pid=\"P1127\">Deborah</a>, daughter of the late <a href=\"../person/P1128.html\" data-pid=\"P1128\">Moses Leib Arnold</a>, called Leib, merchant in Ostrów, and <a href=\"../person/P1129.html\" data-pid=\"P1129\">Hannah nee Feier</a>",
    "Witnesses (prose)": "<a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, owner of Opacionka, witness. <a href=\"../person/P2692.html\" data-pid=\"P2692\">Solomon Kornfeld</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, circumciser in Brzostek",
@@ -59893,12 +59886,12 @@
     "display": "Shayndel Finder",
     "role_label": "Child",
     "written_as": null,
-    "linked_inline": true
+    "linked_inline": false
    },
    {
     "role": "Mother",
     "person_id": "P2227",
-    "display": "Amalia Schonbach",
+    "display": "Amalia Scheinbach",
     "role_label": "Mother",
     "written_as": "Malie née Schonbach",
     "linked_inline": true
@@ -59906,9 +59899,9 @@
    {
     "role": "MGF",
     "person_id": "P1305",
-    "display": "Mendel Schonbach",
+    "display": "Mendel Scheinbach",
     "role_label": "Mother's father",
-    "written_as": null,
+    "written_as": "Mendel Schonbach",
     "linked_inline": true
    },
    {
@@ -59949,7 +59942,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Mother (prose)": "<a href=\"../person/P2227.html\" data-pid=\"P2227\">Malie</a> <a href=\"../person/P1392.html\" data-pid=\"P1392\">Scheinbach</a>, without occupation in Brzostek, daughter of <a href=\"../person/P1305.html\" data-pid=\"P1305\">Mendel</a> <a href=\"../person/P1392.html\" data-pid=\"P1392\">Scheinbach</a>, manual laborer from Posada Olchowska, and <a href=\"../person/P1306.html\" data-pid=\"P1306\">Sarah nee Traum</a>",
+   "Mother (prose)": "<a href=\"../person/P2227.html\" data-pid=\"P2227\">Malie Scheinbach</a>, without occupation in Brzostek, daughter of <a href=\"../person/P1305.html\" data-pid=\"P1305\">Mendel Scheinbach</a>, manual laborer from Posada Olchowska, and <a href=\"../person/P1306.html\" data-pid=\"P1306\">Sarah nee Traum</a>",
    "Witnesses (prose)": "<a href=\"../person/P1258.html\" data-pid=\"P1258\">Jonas Feigenbaum</a>, dealer in Brzostek, witness. <a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a>, leather dealer in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, name-giver in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek"
@@ -61774,7 +61767,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus</a> Zwiebel, who used the last name Zeller, dealer in Brzostek",
+   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus Zwiebel</a>, who used the last name Zeller, dealer in Brzostek",
    "Mother (prose)": "<a href=\"../person/P1141.html\" data-pid=\"P1141\">Chaya</a>, daughter of the late <a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeeper in Brzostek, and <a href=\"../person/P1142.html\" data-pid=\"P1142\">Maria nee Sperber</a>",
    "Witnesses (prose)": "<a href=\"../person/P0937.html\" data-pid=\"P0937\">Kelman Storch</a>, merchant in Brzostek, witness. <a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, circumciser in Brzostek",
@@ -61907,7 +61900,7 @@
    {
     "role": "Child",
     "person_id": "P1427",
-    "display": "Esther Leah Rozner",
+    "display": "Esther Leah Rosner",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -61915,9 +61908,9 @@
    {
     "role": "Father",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Lipa Rozner",
     "linked_inline": true
    },
    {
@@ -65211,7 +65204,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus</a> Zwiebel, who used the last name Zeller, dealer in Brzostek",
+   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus Zwiebel</a>, who used the last name Zeller, dealer in Brzostek",
    "Mother (prose)": "<a href=\"../person/P1141.html\" data-pid=\"P1141\">Chaya</a>, daughter of the late <a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a>, innkeeper in Brzostek, and <a href=\"../person/P1142.html\" data-pid=\"P1142\">Maria nee Sperber</a>",
    "Witnesses (prose)": "<a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, industrialist in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
@@ -65704,7 +65697,7 @@
    {
     "role": "Child",
     "person_id": "P1484",
-    "display": "Golda Rozner",
+    "display": "Golda Rosner",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -65712,9 +65705,9 @@
    {
     "role": "Father",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Father",
-    "written_as": null,
+    "written_as": "Lipa Rozner",
     "linked_inline": true
    },
    {
@@ -66092,7 +66085,7 @@
    {
     "role": "Mother",
     "person_id": "P2227",
-    "display": "Amalia Schonbach",
+    "display": "Amalia Scheinbach",
     "role_label": "Mother",
     "written_as": null,
     "linked_inline": false
@@ -66100,7 +66093,7 @@
    {
     "role": "MGF",
     "person_id": "P1305",
-    "display": "Mendel Schonbach",
+    "display": "Mendel Scheinbach",
     "role_label": "Mother's father",
     "written_as": null,
     "linked_inline": true
@@ -66143,7 +66136,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Mother (prose)": "Malie Scheinbach, without occupation, daughter of <a href=\"../person/P1305.html\" data-pid=\"P1305\">Mendel</a> Scheinbach, day laborer from Posada Olchowska and <a href=\"../person/P1306.html\" data-pid=\"P1306\">Sarah nee Traum</a>",
+   "Mother (prose)": "Malie Scheinbach, without occupation, daughter of <a href=\"../person/P1305.html\" data-pid=\"P1305\">Mendel Scheinbach</a>, day laborer from Posada Olchowska and <a href=\"../person/P1306.html\" data-pid=\"P1306\">Sarah nee Traum</a>",
    "Witnesses (prose)": "<a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor in Brzostek, witness. <a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a>, schames in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Josefa Lisowa",
@@ -67003,7 +66996,7 @@
    {
     "role": "Child",
     "person_id": "P1512",
-    "display": "Perla Guttstein",
+    "display": "Perla Gutstein",
     "role_label": "Child",
     "written_as": null,
     "linked_inline": false
@@ -67011,7 +67004,7 @@
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father",
     "written_as": null,
     "linked_inline": true
@@ -67070,7 +67063,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel Guttstein</a>, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, industrialist in Skurowa",
+   "Father (prose)": "<a href=\"../person/P0256.html\" data-pid=\"P0256\">Eisik Koppel</a> Guttstein, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, industrialist in Skurowa",
    "Mother (prose)": "<a href=\"../person/P1509.html\" data-pid=\"P1509\">Deborah</a>, daughter of <a href=\"../person/P1510.html\" data-pid=\"P1510\">Abraham Kempler</a>, merchant from Podegrodzie, and <a href=\"../person/P1511.html\" data-pid=\"P1511\">Fradla nee Zimerspitz</a>",
    "Witnesses (prose)": "<a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, merchant in Brzostek, witness. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, name-giver in Brzostek",
@@ -67619,7 +67612,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus</a> Zwiebel, who used the last name Zeller, dealer in Brzostek",
+   "Father (prose)": "<a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkus Zwiebel</a>, who used the last name Zeller, dealer in Brzostek",
    "Mother (prose)": "<a href=\"../person/P1141.html\" data-pid=\"P1141\">Chaya</a>, daughter of <a href=\"../person/P0033.html\" data-pid=\"P0033\">Nechemje Storch</a> and <a href=\"../person/P1142.html\" data-pid=\"P1142\">Maria nee Sperber</a>, innkeepers in Brzostek",
    "Witnesses (prose)": "<a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a>, schames in Brzostek, witness. <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
@@ -72362,9 +72355,9 @@
    {
     "role": "Mother",
     "person_id": "P0066",
-    "display": "Reisla Ryf",
+    "display": "Reisla Riff",
     "role_label": "Mother of the deceased",
-    "written_as": "Reisla Riff",
+    "written_as": null,
     "linked_inline": true
    }
   ],
@@ -73139,15 +73132,15 @@
    {
     "role": "Decedent",
     "person_id": "P0448",
-    "display": "Pessel Guttstein",
+    "display": "Pessel Gutstein",
     "role_label": "The deceased",
-    "written_as": null,
+    "written_as": "Pessel Guttstein",
     "linked_inline": true
    },
    {
     "role": "Father",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Father of the deceased",
     "written_as": "Eisik Koppel Guttstein",
     "linked_inline": true
@@ -73155,7 +73148,7 @@
    {
     "role": "Mother",
     "person_id": "P0257",
-    "display": "Hinde Gottlieb, married name Guttstein",
+    "display": "Hinde Gottlieb, married name Gutstein",
     "role_label": "Mother of the deceased",
     "written_as": "Hinde née Gottlieb",
     "linked_inline": true
@@ -73745,7 +73738,7 @@
    {
     "role": "Decedent",
     "person_id": "P1659",
-    "display": "Jankel Schilloj",
+    "display": "Jankel Schilloy",
     "role_label": "The deceased",
     "written_as": "Jankel Schillaj",
     "linked_inline": true
@@ -73753,7 +73746,7 @@
    {
     "role": "Father",
     "person_id": "P0735",
-    "display": "Shulem Schilloj",
+    "display": "Shulem Schilloy",
     "role_label": "Father of the deceased",
     "written_as": "Shulem Schillaj",
     "linked_inline": true
@@ -74917,7 +74910,7 @@
    {
     "role": "Decedent",
     "person_id": "P1678",
-    "display": "Samuel Rozner",
+    "display": "Samuel Rosner",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -74925,7 +74918,7 @@
    {
     "role": "Father",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Father of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -74939,17 +74932,12 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P1678.html\" data-pid=\"P1678\">Samuel</a> Rosner, male child of <a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> Rosner, overseer of the manor in Grudna Gorna, and <a href=\"../person/P0925.html\" data-pid=\"P0925\">Rachel Just</a>",
+   "Decedent (prose)": "<a href=\"../person/P1678.html\" data-pid=\"P1678\">Samuel Rosner</a>, male child of <a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa Rosner</a>, overseer of the manor in Grudna Gorna, and <a href=\"../person/P0925.html\" data-pid=\"P0925\">Rachel Just</a>",
    "Cause of Death": "Croup"
-  },
-  "unlinked_prose_tokens": [
-   "Rosner"
-  ]
+  }
  },
  {
   "id": "d-1904-1",
@@ -75569,7 +75557,7 @@
    {
     "role": "Decedent",
     "person_id": "P0923",
-    "display": "Mendel Reimer",
+    "display": "Mendel Riemer",
     "role_label": "The deceased",
     "written_as": "Mendel Lederer",
     "linked_inline": true
@@ -75577,31 +75565,26 @@
    {
     "role": "Father",
     "person_id": "P0919",
-    "display": "Simon Reimer",
+    "display": "Simon Riemer",
     "role_label": "Father of the deceased",
-    "written_as": null,
+    "written_as": "Simon Rimer",
     "linked_inline": true
    },
    {
     "role": "Mother",
     "person_id": "P0920",
-    "display": "Rivka Lederer, married name Reimer",
+    "display": "Rivka Lederer, married name Riemer",
     "role_label": "Mother of the deceased",
     "written_as": null,
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P0923.html\" data-pid=\"P0923\">Mendel Lederer</a>, illegitimate son of <a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon</a> Rimer, innkeeper in Skurowa, and his mother <a href=\"../person/P0920.html\" data-pid=\"P0920\">Rivka Lederer</a>",
+   "Decedent (prose)": "<a href=\"../person/P0923.html\" data-pid=\"P0923\">Mendel Lederer</a>, illegitimate son of <a href=\"../person/P0919.html\" data-pid=\"P0919\">Simon Rimer</a>, innkeeper in Skurowa, and his mother <a href=\"../person/P0920.html\" data-pid=\"P0920\">Rivka Lederer</a>",
    "Cause of Death": "No mark of disease, natural death"
-  },
-  "unlinked_prose_tokens": [
-   "Rimer"
-  ]
+  }
  },
  {
   "id": "d-1904-14",
@@ -75782,7 +75765,7 @@
    {
     "role": "Spouse",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Spouse of the deceased",
     "written_as": null,
     "linked_inline": false
@@ -77125,9 +77108,9 @@
    {
     "role": "Decedent",
     "person_id": "P0257",
-    "display": "Hinde Gottlieb, married name Guttstein",
+    "display": "Hinde Gottlieb, married name Gutstein",
     "role_label": "The deceased",
-    "written_as": null,
+    "written_as": "Hinde Guttstein",
     "linked_inline": true
    },
    {
@@ -77501,9 +77484,9 @@
    {
     "role": "Decedent",
     "person_id": "P1718",
-    "display": "Chane Formal",
+    "display": "Chane Fornal",
     "role_label": "The deceased",
-    "written_as": "Chane Fornal",
+    "written_as": null,
     "linked_inline": true
    }
   ],
@@ -78787,9 +78770,9 @@
    {
     "role": "Decedent",
     "person_id": "P0451",
-    "display": "Sara Halper",
+    "display": "Sara Halpern",
     "role_label": "The deceased",
-    "written_as": "Sara Abraham née Halpern",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -82171,7 +82154,7 @@
     "person_id": "P1127",
     "display": "Deborah Arnold",
     "role_label": "The deceased",
-    "written_as": "Dora Guttstein",
+    "written_as": "Dora Gutstein",
     "linked_inline": false
    },
    {
@@ -82191,17 +82174,12 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": "Place read as Ostrawy (possibly Ostzawy/Ostrany), district Stanisławów; village not yet identified.",
   "fields_html": {
    "Decedent (prose)": "Dora Gutstein, daughter of <a href=\"../person/P1128.html\" data-pid=\"P1128\">Moses Leib Oblat</a>, who was called <a href=\"../person/P1128.html\" data-pid=\"P1128\">Leib</a>, and of the mother <a href=\"../person/P1129.html\" data-pid=\"P1129\">Chana</a>, of unknown surname, from Ostrawy in the district of Stanislawow",
    "Cause of Death": "smallpox"
-  },
-  "unlinked_prose_tokens": [
-   "Gutstein"
-  ]
+  }
  },
  {
   "id": "d-1915-9",
@@ -82507,9 +82485,9 @@
    {
     "role": "Mother",
     "person_id": "P2227",
-    "display": "Amalia Schonbach",
+    "display": "Amalia Scheinbach",
     "role_label": "Mother of the deceased",
-    "written_as": "Amalia Scheinbach",
+    "written_as": null,
     "linked_inline": true
    }
   ],
@@ -85031,7 +85009,7 @@
    {
     "role": "Decedent",
     "person_id": "P0928",
-    "display": "Joseph Rozner",
+    "display": "Joseph Rosner",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -85039,7 +85017,7 @@
    {
     "role": "Father",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Father of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -85053,17 +85031,12 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P0928.html\" data-pid=\"P0928\">Joseph</a> Rosner, unemployed, single, son of <a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> and <a href=\"../person/P0925.html\" data-pid=\"P0925\">Rachel</a> Rosner, workers in Brzostek",
+   "Decedent (prose)": "<a href=\"../person/P0928.html\" data-pid=\"P0928\">Joseph Rosner</a>, unemployed, single, son of <a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> and <a href=\"../person/P0925.html\" data-pid=\"P0925\">Rachel Rosner</a>, workers in Brzostek",
    "Cause of Death": "dysentery"
-  },
-  "unlinked_prose_tokens": [
-   "Rosner"
-  ]
+  }
  },
  {
   "id": "d-1920-9",
@@ -85091,7 +85064,7 @@
    {
     "role": "Decedent",
     "person_id": "P1484",
-    "display": "Golda Rozner",
+    "display": "Golda Rosner",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -85099,7 +85072,7 @@
    {
     "role": "Father",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Father of the deceased",
     "written_as": null,
     "linked_inline": true
@@ -85113,17 +85086,12 @@
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P1484.html\" data-pid=\"P1484\">Golda</a> Rosner, single and unemployed, daughter of <a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> and <a href=\"../person/P0925.html\" data-pid=\"P0925\">Rachel</a> Rosner, workers in Brzostek",
+   "Decedent (prose)": "<a href=\"../person/P1484.html\" data-pid=\"P1484\">Golda Rosner</a>, single and unemployed, daughter of <a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> and <a href=\"../person/P0925.html\" data-pid=\"P0925\">Rachel Rosner</a>, workers in Brzostek",
    "Cause of Death": "dysentery"
-  },
-  "unlinked_prose_tokens": [
-   "Rosner"
-  ]
+  }
  },
  {
   "id": "d-1920-10",
@@ -85235,7 +85203,7 @@
    {
     "role": "Decedent",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -86331,14 +86299,14 @@
     "person_id": "P0186",
     "display": "Freida Bloch",
     "role_label": "The deceased",
-    "written_as": null,
+    "written_as": "Freida Schiloj",
     "linked_inline": true
    }
   ],
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P0186.html\" data-pid=\"P0186\">Freida</a> Schiloj, unemployed in Brzostek",
+   "Decedent (prose)": "<a href=\"../person/P0186.html\" data-pid=\"P0186\">Freida Schiloj</a>, unemployed in Brzostek",
    "Cause of Death": "natural death"
   }
  },
@@ -86857,7 +86825,7 @@
    {
     "role": "Decedent",
     "person_id": "P0066",
-    "display": "Reisla Ryf",
+    "display": "Reisla Riff",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
@@ -88075,23 +88043,18 @@
    {
     "role": "Decedent",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "The deceased",
     "written_as": null,
     "linked_inline": true
    }
   ],
-  "unlinked_roles": [
-   "prose"
-  ],
+  "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "Eisig <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a> Gutstein, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, farmer in Skurowa",
+   "Decedent (prose)": "Eisig <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel Gutstein</a>, called <a href=\"../person/P0256.html\" data-pid=\"P0256\">Koppel</a>, farmer in Skurowa",
    "Cause of Death": "Heart Attack"
-  },
-  "unlinked_prose_tokens": [
-   "Gutstein"
-  ]
+  }
  },
  {
   "id": "d-1929-7",
@@ -90595,9 +90558,9 @@
    {
     "role": "Bride",
     "person_id": "P0184",
-    "display": "Hannah Schilloj, married name Faust",
+    "display": "Hannah Schilloy, married name Faust",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Hannah Schillaj",
     "linked_inline": false
    },
    {
@@ -90619,9 +90582,9 @@
    {
     "role": "BF",
     "person_id": "P0185",
-    "display": "Joseph Schilloj",
+    "display": "Joseph Schilloy",
     "role_label": "Bride's father",
-    "written_as": null,
+    "written_as": "Joseph Schillaj",
     "linked_inline": false
    },
    {
@@ -90674,7 +90637,6 @@
    "Dawid",
    "Pesla",
    "Jozef",
-   "Schillaj",
    "Freidla"
   ]
  },
@@ -93523,7 +93485,7 @@
     "person_id": "P0841",
     "display": "Joseph Silberberg",
     "role_label": "Groom",
-    "written_as": "Joseph Silberbartz",
+    "written_as": "Joseph Silberbart",
     "linked_inline": false
    },
    {
@@ -93537,7 +93499,7 @@
    {
     "role": "GF",
     "person_id": "P1961",
-    "display": "Wolf Silberbartz",
+    "display": "Wolf Silberbart",
     "role_label": "Groom's father",
     "written_as": null,
     "linked_inline": true
@@ -93596,14 +93558,14 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Jozef Silberbart, recte Silberberg, born in Pielnia ad Sanok, unemployed, son of <a href=\"../person/P1961.html\" data-pid=\"P1961\">Wolf</a> Silberbart, recte Silberberg, innkeeper in Pielnia, and Sara <a href=\"../person/P1962.html\" data-pid=\"P1962\">Poper</a>, residing there",
+   "Groom (prose)": "Jozef Silberbart, recte Silberberg, born in Pielnia ad Sanok, unemployed, son of <a href=\"../person/P1961.html\" data-pid=\"P1961\">Wolf Silberbart</a>, recte Silberberg, innkeeper in Pielnia, and Sara <a href=\"../person/P1962.html\" data-pid=\"P1962\">Poper</a>, residing there",
    "Bride (prose)": "Pesla Bloch, born in Brzostek, daughter of <a href=\"../person/P0242.html\" data-pid=\"P0242\">Aron Bloch</a>, an industrialist from Brzostek, and Hena née <a href=\"../person/P0243.html\" data-pid=\"P0243\">Klotz</a>",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0254.html\" data-pid=\"P0254\">Naftali Silberman</a>, tanner in Brzostek, witness. <a href=\"../person/P0100.html\" data-pid=\"P0100\">Moses Klotz</a>, owner of a spice stall in Brzostek, witness.",
-   "Notes": "Later note under the second copy (22 Mar 1928), on the basis of the Kraków Voivodeship rescript of 14 Feb 1928: the groom&#x27;s surname is &#x27;Silberbart&#x27;, not Silberbartz recte Silberberg; he is the son of <a href=\"../person/P1961.html\" data-pid=\"P1961\">Wolf</a> Silberbart and Sara née Proper. The same rescript authorised the late registration of his son Mendel&#x27;s 1905 birth (b-1905-33), which names the father Józef Silberbart. The family otherwise used Silberberg. Remarks: Birth certificate dated Bukowsko, 8 Mar 1900, no. 55; certificate of the Imperial-Royal District Office (Starostwo) in Sanok of 19 Jan 1899, ref. no. 1964/99, that he has fulfilled his military obligation; certificate of the banns dated Nowotaniec, 7 Mar 1900; notice of the rabbinate of 8 Apr 1900; for the groom, kept in the register files. For the bride, this registry&#x27;s own birth book attests, vol. II, p. 29, no. 18, of [18]78."
+   "Notes": "Later note under the second copy (22 Mar 1928), on the basis of the Kraków Voivodeship rescript of 14 Feb 1928: the groom&#x27;s surname is &#x27;Silberbart&#x27;, not Silberbartz recte Silberberg; he is the son of <a href=\"../person/P1961.html\" data-pid=\"P1961\">Wolf Silberbart</a> and Sara née Proper. The same rescript authorised the late registration of his son Mendel&#x27;s 1905 birth (b-1905-33), which names the father Józef Silberbart. The family otherwise used Silberberg. Remarks: Birth certificate dated Bukowsko, 8 Mar 1900, no. 55; certificate of the Imperial-Royal District Office (Starostwo) in Sanok of 19 Jan 1899, ref. no. 1964/99, that he has fulfilled his military obligation; certificate of the banns dated Nowotaniec, 7 Mar 1900; notice of the rabbinate of 8 Apr 1900; for the groom, kept in the register files. For the bride, this registry&#x27;s own birth book attests, vol. II, p. 29, no. 18, of [18]78."
   },
   "unlinked_prose_tokens": [
-   "Silberbart",
+   "Silberbartz",
    "Sara",
    "Proper",
    "Mendel",
@@ -93656,7 +93618,7 @@
    {
     "role": "GM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Groom's mother",
     "written_as": "Gela née Kajner",
     "linked_inline": true
@@ -94631,7 +94593,7 @@
    {
     "role": "BM",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": true
@@ -94667,7 +94629,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P1042.html\" data-pid=\"P1042\">Kelman Birnbaum</a>, born in Sędziszów, an innkeeper living in Brzostek, son of Mojżesz Birnbaum, a former industrialist in Sędziszów, and Sara nee <a href=\"../person/P1984.html\" data-pid=\"P1984\">König</a>.",
-   "Bride (prose)": "<a href=\"../person/P1808.html\" data-pid=\"P1808\">Gittla</a> <a href=\"../person/P0181.html\" data-pid=\"P0181\">Kajner</a>, also called Plattner, daughter of the alleged father Rubin Plattner, a stallkeeper in dry goods in Brzostek, and <a href=\"../person/P0181.html\" data-pid=\"P0181\">Gela née Kajner</a>, the bride having been born in Brzostek",
+   "Bride (prose)": "<a href=\"../person/P1808.html\" data-pid=\"P1808\">Gittla</a> Kajner, also called Plattner, daughter of the alleged father Rubin Plattner, a stallkeeper in dry goods in Brzostek, and <a href=\"../person/P0181.html\" data-pid=\"P0181\">Gela</a> née Kajner, the bride having been born in Brzostek",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman</a>, ritual slaughterer (Schächter) in Brzostek, witness. <a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>, ritual slaughterer (Schächter) in Brzostek, witness.",
    "Notes": "Remarks: Birth certificate for the groom dated Sędziszów, 21 Jun 1896, ref. no. 43, vol. II, fol. 82; assessment of the military tax by the Imperial-Royal District Office (Starostwo) in Ropczyce, of 6 Jul 1894, ref. no. 9692. For the bride, [the registrar&#x27;s] own knowledge, under § 82 [sic] of the register instructions; and the banns announced three times."
@@ -94676,7 +94638,8 @@
    "Mojżesz",
    "Sara",
    "Sch",
-   "Rubin"
+   "Rubin",
+   "Kajner"
   ]
  },
  {
@@ -94698,9 +94661,9 @@
    {
     "role": "Groom",
     "person_id": "P0735",
-    "display": "Shulem Schilloj",
+    "display": "Shulem Schilloy",
     "role_label": "Groom",
-    "written_as": null,
+    "written_as": "Shulem Schilloj",
     "linked_inline": false
    },
    {
@@ -94714,9 +94677,9 @@
    {
     "role": "GF",
     "person_id": "P0185",
-    "display": "Joseph Schilloj",
+    "display": "Joseph Schilloy",
     "role_label": "Groom's father",
-    "written_as": null,
+    "written_as": "Joseph Schilloj",
     "linked_inline": false
    },
    {
@@ -94781,7 +94744,6 @@
   },
   "unlinked_prose_tokens": [
    "Josef",
-   "Schilloy",
    "Freidla",
    "Sch",
    "Majer",
@@ -96885,7 +96847,7 @@
    {
     "role": "Groom",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Groom",
     "written_as": null,
     "linked_inline": false
@@ -96893,7 +96855,7 @@
    {
     "role": "Bride",
     "person_id": "P0257",
-    "display": "Hinde Gottlieb, married name Guttstein",
+    "display": "Hinde Gottlieb, married name Gutstein",
     "role_label": "Bride",
     "written_as": "Hinde Windstroh née Gottlieb",
     "linked_inline": true
@@ -96901,7 +96863,7 @@
    {
     "role": "GF",
     "person_id": "P2030",
-    "display": "Elias Guttstein",
+    "display": "Elias Gutstein",
     "role_label": "Groom's father",
     "written_as": null,
     "linked_inline": false
@@ -96909,7 +96871,7 @@
    {
     "role": "GM",
     "person_id": "P2584",
-    "display": "Rivka Guttstein",
+    "display": "Rivka Gutstein",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -96968,7 +96930,6 @@
   },
   "unlinked_prose_tokens": [
    "Kopel",
-   "Gutstein",
    "Elje",
    "Ryfka",
    "Gotlieb",
@@ -97442,7 +97403,7 @@
    {
     "role": "GM",
     "person_id": "P2038",
-    "display": "Freida Fornat",
+    "display": "Freida Fornal",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": true
@@ -97493,7 +97454,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Abraham Izaak, called Izaak, Freiberger, born and residing in Błaszkowa, innkeeper, son of the late <a href=\"../person/P2037.html\" data-pid=\"P2037\">Leiser Freiberger</a>, a former innkeeper in Błaszkowa, and <a href=\"../person/P2038.html\" data-pid=\"P2038\">Freida</a>, nee Fornal",
+   "Groom (prose)": "Abraham Izaak, called Izaak, Freiberger, born and residing in Błaszkowa, innkeeper, son of the late <a href=\"../person/P2037.html\" data-pid=\"P2037\">Leiser Freiberger</a>, a former innkeeper in Błaszkowa, and <a href=\"../person/P2038.html\" data-pid=\"P2038\">Freida</a>, nee <a href=\"../person/P2038.html\" data-pid=\"P2038\">Fornal</a>",
    "Bride (prose)": "<a href=\"../person/P0310.html\" data-pid=\"P0310\">Serla Bakon</a>, born in Podgrodzie, residing in Blaszkowa without employment, daughter of the blessed Israel Hilel Bakon, former brewer in Siedliszczany, Imperial-Royal Starostwo Mielec, and Sary Mindli, called Mindli, Bakon",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman</a>, Schächter in Brzostek, witness. <a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer (Schächter) in Brzostek [a second signature &#x27;Markus Kleinman&#x27; below is struck</a> through], witness.",
@@ -97501,7 +97462,6 @@
   },
   "unlinked_prose_tokens": [
    "Izaak",
-   "Fornal",
    "Sch",
    "Hilel",
    "Siedliszczany",
@@ -97643,7 +97603,7 @@
    {
     "role": "Bride",
     "person_id": "P0066",
-    "display": "Reisla Ryf",
+    "display": "Reisla Riff",
     "role_label": "Bride",
     "written_as": "Reisla Riw",
     "linked_inline": true
@@ -97667,7 +97627,7 @@
    {
     "role": "BF",
     "person_id": "P0067",
-    "display": "Leib Ryf",
+    "display": "Leib Riff",
     "role_label": "Bride's father",
     "written_as": "Leib Riw",
     "linked_inline": true
@@ -99526,7 +99486,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Markus Nison, called Nison, Feit, called Holloschutz, born in Rzeszów, without occupation, illegitimate son of <a href=\"../person/P2081.html\" data-pid=\"P2081\">Matla Feit</a> and <a href=\"../person/P2080.html\" data-pid=\"P2080\">Chaim Holloschutz</a>, innkeeper in Rzeszów",
-   "Bride (prose)": "<a href=\"../person/P2082.html\" data-pid=\"P2082\">Witla Karpf</a>, born in Łęki ad Frysztak, daughter (illegitimate in civil law) of Salamon Karpf, owner of the estate in Opacionka and residing here, and <a href=\"../person/P0466.html\" data-pid=\"P0466\">Perla</a>, married Karpf, née <a href=\"../person/P0466.html\" data-pid=\"P0466\">Diamant</a>",
+   "Bride (prose)": "<a href=\"../person/P2082.html\" data-pid=\"P2082\">Witla Karpf</a>, born in Łęki ad Frysztak, daughter (illegitimate in civil law) of Salamon Karpf, owner of the estate in Opacionka and residing here, and <a href=\"../person/P0466.html\" data-pid=\"P0466\">Perla</a>, married Karpf, née Diamant",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman (Schächter) in Brzostek</a>, witness. <a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer (Schächter) in Brzostek</a>, witness.",
    "Notes": "Remarks: Birth certificate for the groom dated Rzeszów, 3 Feb 1904, no. 53, vol. IV, pp. 126–7, no. 15; certificate of the Imperial-Royal District Office (Starostwo) in Rzeszów of 4 Feb 1904, ref. no. 76, that the military obligations have been fulfilled; certificate of the banns dated Rzeszów, 19 Feb 1904; birth certificate for the bride dated Frysztak, 25 Dec 1904, ref. no. 282, birth book p. 247, no. 48/83. The undersigned Salamon Karpf permits his illegitimate daughter <a href=\"../person/P2082.html\" data-pid=\"P2082\">Witla</a> to [struck through: &quot;zamęście&quot;; one short struck word] contract marriage. Salamon Karpf [signature]."
@@ -99671,7 +99631,7 @@
    {
     "role": "Bride",
     "person_id": "P0416",
-    "display": "Itta Reiger, married name Bieder",
+    "display": "Itta Rieger, married name Bieder",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -99695,7 +99655,7 @@
    {
     "role": "BF",
     "person_id": "P0417",
-    "display": "Leib Reiger",
+    "display": "Leib Rieger",
     "role_label": "Bride's father",
     "written_as": null,
     "linked_inline": false
@@ -99739,7 +99699,7 @@
   "translator_note": "The groom's mother's maiden name is left off the record and this is the only place his parents appear.",
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a>, born and residing in Brzostek, unemployed, son of Blessed <a href=\"../person/P0036.html\" data-pid=\"P0036\">Israel Bieder</a>, former shemes in Brzostek, and Maryem nee (mother&#x27;s maiden name missing)",
-   "Bride (prose)": "Itte Rieger, born in Gorlice, daughter of Blessed Leiba and <a href=\"../person/P0418.html\" data-pid=\"P0418\">Perla</a> Rieger, former industrialists in Gorlice",
+   "Bride (prose)": "Itte Rieger, born in Gorlice, daughter of Blessed Leiba and <a href=\"../person/P0418.html\" data-pid=\"P0418\">Perla Rieger</a>, former industrialists in Gorlice",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman (Schächter) in Brzostek</a>, witness. <a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>, Schächter in Brzostek, witness.",
    "Notes": "Remarks: The capacity for the marriage entered alongside rests on [the registrar&#x27;s] own knowledge, and also on the bride&#x27;s birth certificate in Gorlice, vol. III, p. 85, no. 79, of 28 Jun 1900, no. 178; the banns announced three times, and the notice of the rabbinate. Below: Checked 17 Jun 1904 [signature, Pola?/Pole?], Imperial-Royal district commissioner[?]."
@@ -99750,7 +99710,6 @@
    "Pole",
    "Maryem",
    "Sch",
-   "Rieger",
    "Leiba"
   ]
  },
@@ -99998,10 +99957,10 @@
    {
     "role": "Bride",
     "person_id": "P0181",
-    "display": "Gela Kajner, married name Kainer",
+    "display": "Gela Kainer",
     "role_label": "Bride",
     "written_as": null,
-    "linked_inline": true
+    "linked_inline": false
    },
    {
     "role": "GF",
@@ -100066,13 +100025,14 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Rubin Plattner, born in Biecz, owner of a drapery stall in Brzostek and residing here, son of Jozef and <a href=\"../person/P2087.html\" data-pid=\"P2087\">Gittla Plattner</a>, former bakers in Biecz",
-   "Bride (prose)": "Gele <a href=\"../person/P0181.html\" data-pid=\"P0181\">Kajner</a>, born in Tarnów, unemployed, residing in Brzostek, daughter of Salamon <a href=\"../person/P0181.html\" data-pid=\"P0181\">Kajner</a>, a horse dealer in Tarnów, and Laja <a href=\"../person/P0181.html\" data-pid=\"P0181\">Kajner</a>",
+   "Bride (prose)": "Gele Kajner, born in Tarnów, unemployed, residing in Brzostek, daughter of Salamon Kajner, a horse dealer in Tarnów, and Laja Kajner",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0006.html\" data-pid=\"P0006\">Hersch Schlenger</a>, private person in Brzostek, witness. <a href=\"../person/P0063.html\" data-pid=\"P0063\">Chaskel Goldberg</a>, tavern keeper in Brzostek, witness.",
    "Notes": "Remarks: The capacity to contract this marriage rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
    "Jozef",
+   "Kajner",
    "Salamon",
    "Laja"
   ]
@@ -100104,7 +100064,7 @@
    {
     "role": "Bride",
     "person_id": "P2091",
-    "display": "Rachel Gleicher",
+    "display": "Rachel Gleichter",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -100128,7 +100088,7 @@
    {
     "role": "BF",
     "person_id": "P2089",
-    "display": "Leib Gleicher",
+    "display": "Leib Gleichter",
     "role_label": "Bride's father",
     "written_as": null,
     "linked_inline": false
@@ -100176,7 +100136,6 @@
    "Pola",
    "Jonasz",
    "Rechla",
-   "Gleichter",
    "Leiba"
   ]
  },
@@ -102931,7 +102890,7 @@
    {
     "role": "Groom",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Groom",
     "written_as": null,
     "linked_inline": true
@@ -102947,7 +102906,7 @@
    {
     "role": "GF",
     "person_id": "P2030",
-    "display": "Elias Guttstein",
+    "display": "Elias Gutstein",
     "role_label": "Groom's father",
     "written_as": null,
     "linked_inline": false
@@ -102955,7 +102914,7 @@
    {
     "role": "GM",
     "person_id": "P2584",
-    "display": "Rivka Guttstein",
+    "display": "Rivka Gutstein",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -102979,9 +102938,9 @@
    {
     "role": "Witness2",
     "person_id": "P0919",
-    "display": "Simon Reimer",
+    "display": "Simon Riemer",
     "role_label": "Witness",
-    "written_as": "Simon Riemer",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -103005,7 +102964,6 @@
    "Notes": "Remarks: Birth certificate dated Jezupol, 5 Nov 1890, ref. no. 37, vol. I, p. 3[4?], for the groom; birth certificate for the bride dated Halicz, 29 May 1907, ref. no. 59, vol. III, p. 37, no. 59; the banns announced, and the notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
-   "Gutstein",
    "Eliasz",
    "Ryfka",
    "Chana"
@@ -106751,7 +106709,7 @@
    {
     "role": "Groom",
     "person_id": "P0256",
-    "display": "Koppel Guttstein",
+    "display": "Koppel Gutstein",
     "role_label": "Groom",
     "written_as": null,
     "linked_inline": false
@@ -106767,7 +106725,7 @@
    {
     "role": "GF",
     "person_id": "P2030",
-    "display": "Elias Guttstein",
+    "display": "Elias Gutstein",
     "role_label": "Groom's father",
     "written_as": null,
     "linked_inline": false
@@ -106775,7 +106733,7 @@
    {
     "role": "GM",
     "person_id": "P2584",
-    "display": "Rivka Guttstein",
+    "display": "Rivka Gutstein",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -106836,7 +106794,6 @@
    "Documents",
    "Landwehr",
    "Kopel",
-   "Gutstein",
    "Eli",
    "Ryfka",
    "Salamon",
@@ -106969,15 +106926,15 @@
    {
     "role": "Groom",
     "person_id": "P1278",
-    "display": "Nute Shuster",
+    "display": "Nute Schuster",
     "role_label": "Groom",
-    "written_as": "Nathan Shuster",
+    "written_as": "Nathan Schuster",
     "linked_inline": true
    },
    {
     "role": "Bride",
     "person_id": "P1279",
-    "display": "Pessel Siegfried, married name Shuster",
+    "display": "Pessel Siegfried, married name Schuster",
     "role_label": "Bride",
     "written_as": null,
     "linked_inline": false
@@ -106985,7 +106942,7 @@
    {
     "role": "GF",
     "person_id": "P2212",
-    "display": "Jacob Shuster",
+    "display": "Jacob Schuster",
     "role_label": "Groom's father",
     "written_as": null,
     "linked_inline": true
@@ -106993,7 +106950,7 @@
    {
     "role": "GM",
     "person_id": "P2213",
-    "display": "Leah Shuster",
+    "display": "Leah Schuster",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": false
@@ -107044,7 +107001,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "<a href=\"../person/P1278.html\" data-pid=\"P1278\">Nathan</a> Schuster, born in Belz, a shoemaker living in Brzostek, son of <a href=\"../person/P2212.html\" data-pid=\"P2212\">Jacob</a> and Laja Schuster, no profession in Belz",
+   "Groom (prose)": "<a href=\"../person/P1278.html\" data-pid=\"P1278\">Nathan Schuster</a>, born in Belz, a shoemaker living in Brzostek, son of <a href=\"../person/P2212.html\" data-pid=\"P2212\">Jacob</a> and Laja Schuster, no profession in Belz",
    "Bride (prose)": "Pesla Siegfried, without profession in Brzostek, daughter of the deceased Moshe Siegfried and Laja née <a href=\"../person/P1281.html\" data-pid=\"P1281\">Bauner</a>, workers in Brzostek",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0689.html\" data-pid=\"P0689\">Abraham Amsterdam</a>, merchant living in Brzostek, witness. <a href=\"../person/P0055.html\" data-pid=\"P0055\">Salamon Karpf</a>, timber dealer in Brzostek, witness.",
@@ -107053,7 +107010,6 @@
   "unlinked_prose_tokens": [
    "Documents",
    "Laja",
-   "Schuster",
    "Moshe"
   ]
  },
@@ -107302,9 +107258,9 @@
    {
     "role": "Bride",
     "person_id": "P2227",
-    "display": "Amalia Schonbach",
+    "display": "Amalia Scheinbach",
     "role_label": "Bride",
-    "written_as": null,
+    "written_as": "Amalia Schonbach",
     "linked_inline": false
    },
    {
@@ -107326,9 +107282,9 @@
    {
     "role": "BF",
     "person_id": "P1305",
-    "display": "Mendel Schonbach",
+    "display": "Mendel Scheinbach",
     "role_label": "Bride's father",
-    "written_as": null,
+    "written_as": "Mendel Schonbach",
     "linked_inline": true
    },
    {
@@ -107757,10 +107713,10 @@
    {
     "role": "BM",
     "person_id": "P0184",
-    "display": "Hannah Schilloj, married name Faust",
+    "display": "Hannah Schilloy, married name Faust",
     "role_label": "Bride's mother",
-    "written_as": null,
-    "linked_inline": false
+    "written_as": "Hannah née Schiloy",
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -107793,7 +107749,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P2235.html\" data-pid=\"P2235\">Chaim Plutzer</a>, born in Rzeszów on 3/5 1891, son of the deceased <a href=\"../person/P2233.html\" data-pid=\"P2233\">Lazar Plutzer</a> and Chana Kloc, dealer in Rzeszów, residing without profession in Brzostek",
-   "Bride (prose)": "Pesla Faust, no profession in Brzostek, daughter of Leiba Feivla Faust and Chana née Schiloy, leather dealers in Brzostek",
+   "Bride (prose)": "Pesla Faust, no profession in Brzostek, daughter of Leiba Feivla Faust and Chana née <a href=\"../person/P0184.html\" data-pid=\"P0184\">Schiloy</a>, leather dealers in Brzostek",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a>, synagogue attendant in Brzostek, witness. <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor in Brzostek, witness.",
    "Notes": "Remarks: Documents: for the bride, this registry&#x27;s own birth book, vol. II, p. 261. For the groom: birth certificate dated Rzeszów, 19 Jun 1919, ref. no. 587; certificate of the commune office in Brzostek of 26 Jun 1919; the banns register, and certificate of the rabbinate."
@@ -107803,8 +107759,7 @@
    "Chana",
    "Kloc",
    "Leiba",
-   "Feivla",
-   "Schiloy"
+   "Feivla"
   ]
  },
  {
@@ -108170,7 +108125,7 @@
    {
     "role": "GM",
     "person_id": "P2243",
-    "display": "Cerla Jochanowich",
+    "display": "Cerla Jochanowicz",
     "role_label": "Groom's mother",
     "written_as": null,
     "linked_inline": true
@@ -108221,7 +108176,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Uszer Grzyb, born in Jaszczurowa, without profession, son of Feivl Grzyb and <a href=\"../person/P2243.html\" data-pid=\"P2243\">Cerla</a> née Jochanowicz, innkeepers in Jaszczurowa",
+   "Groom (prose)": "Uszer Grzyb, born in Jaszczurowa, without profession, son of Feivl Grzyb and <a href=\"../person/P2243.html\" data-pid=\"P2243\">Cerla née Jochanowicz</a>, innkeepers in Jaszczurowa",
    "Bride (prose)": "Mariem Berger, born in Nawsie Wielopolskie, daughter of <a href=\"../person/P1474.html\" data-pid=\"P1474\">Wolf Berger</a> and Gitla née <a href=\"../person/P1475.html\" data-pid=\"P1475\">Friedman</a>, farmers in Bączałka",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a>, synagogue attendant in Brzostek, witness. <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor in Brzostek, witness.",
@@ -108231,7 +108186,6 @@
    "Documents",
    "Landsturm",
    "Feivl",
-   "Jochanowicz",
    "Gitla"
   ]
  },
@@ -108710,10 +108664,10 @@
    {
     "role": "GM",
     "person_id": "P2258",
-    "display": "Sarah Bernknop, married name Schneps",
+    "display": "Sarah Bernknopf, married name Schneps",
     "role_label": "Groom's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "BF",
@@ -108761,7 +108715,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "<a href=\"../person/P2259.html\" data-pid=\"P2259\">Abraham Aron</a>, called <a href=\"../person/P2259.html\" data-pid=\"P2259\">Aron</a>, Schneps, born in Bagienica, a miller living in Januszkowice, son of Leiba Schneps and Sara née Bernknopf. millers in Januszkowice",
+   "Groom (prose)": "<a href=\"../person/P2259.html\" data-pid=\"P2259\">Abraham Aron</a>, called <a href=\"../person/P2259.html\" data-pid=\"P2259\">Aron</a>, Schneps, born in Bagienica, a miller living in Januszkowice, son of Leiba Schneps and Sara née <a href=\"../person/P2258.html\" data-pid=\"P2258\">Bernknopf</a>. millers in Januszkowice",
    "Bride (prose)": "<a href=\"../person/P1314.html\" data-pid=\"P1314\">Rivka Waldman</a>, no profession, residing in Januszkowice, daughter of Mechla Waldman, merchant in Brzostek and Gitla née Hers",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P2235.html\" data-pid=\"P2235\">Chaim Plutzer</a>, merchant in Brzostek, witness. <a href=\"../person/P0937.html\" data-pid=\"P0937\">Kelman Storcz</a>, watchmaker in Brzostek, witness.",
@@ -108774,7 +108728,6 @@
    "Command",
    "Leiba",
    "Sara",
-   "Bernknopf",
    "Mechla",
    "Gitla",
    "Hers"
@@ -109048,7 +109001,7 @@
    {
     "role": "BM",
     "person_id": "P0184",
-    "display": "Hannah Schilloj, married name Faust",
+    "display": "Hannah Schilloy, married name Faust",
     "role_label": "Bride's mother",
     "written_as": null,
     "linked_inline": false
@@ -109264,9 +109217,9 @@
    {
     "role": "BM",
     "person_id": "P0066",
-    "display": "Reisla Ryf",
+    "display": "Reisla Riff",
     "role_label": "Bride's mother",
-    "written_as": null,
+    "written_as": "Reisla née Ryf",
     "linked_inline": false
    },
    {
@@ -110454,9 +110407,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -110565,9 +110518,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -110663,9 +110616,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -110772,9 +110725,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -110881,9 +110834,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -110992,9 +110945,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -111099,9 +111052,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -111209,9 +111162,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -111630,10 +111583,10 @@
    {
     "role": "BM",
     "person_id": "P0184",
-    "display": "Hannah Schilloj, married name Faust",
+    "display": "Hannah Schilloy, married name Faust",
     "role_label": "Bride's mother",
-    "written_as": null,
-    "linked_inline": false
+    "written_as": "Hannah née Schiloj",
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -111666,7 +111619,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P2331.html\" data-pid=\"P2331\">Bernard Krebs</a>, residing without profession in Brzostek, son of Izak Krebs, merchant in Żmigród and <a href=\"../person/P2330.html\" data-pid=\"P2330\">Sirsche nee Zimet</a>",
-   "Bride (prose)": "Ruchla Faust, without profession in Brzostek, daughter of Leiby Faust, leather dealer in Brzostek and Chana nee Schiloj",
+   "Bride (prose)": "Ruchla Faust, without profession in Brzostek, daughter of Leiby Faust, leather dealer in Brzostek and Chana nee <a href=\"../person/P0184.html\" data-pid=\"P0184\">Schiloj</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0937.html\" data-pid=\"P0937\">Kelman Storcz</a>, merchant in Brzostek, witness. <a href=\"../person/P1140.html\" data-pid=\"P1140\">Pinkas Zoller</a>, merchant in Brzostek, witness.",
    "Notes": "groom 1893, bride 26 Feb 1899. Remarks: For the groom: resolution of the District Office (Starostwo) in Jasło of 4 Sep 1924 that the Voivodeship in Kraków, by rescript of 21 Aug 1924, ref. no. V 5208, granted a dispensation from producing a birth certificate; certificate of residence of the commune of Brzostek of 24[?] Oct 1925; military service book, District Recruiting Command (P.K.U.) Sanok, of 1[?] Sep 1923, that he has fulfilled [his] military [duty]. For the bride: this registry&#x27;s own birth book, vol. III, p. 69, no. 4; certificates of the banns, and also certificates of the rabbinate in Brzostek of 22 [month blotted] 1925. Below entry 7: Closed as of 31 Dec 1925 [signature]; stamp: Jewish Registrar in Brzostek. Lower left, in another hand: Checked! [Pilzno or Dębno?], 17 Jan 1926, Jan [surname illegible] [stamp, partly visible]."
@@ -111680,8 +111633,7 @@
    "Dębno",
    "Izak",
    "Leiby",
-   "Chana",
-   "Schiloj"
+   "Chana"
   ]
  },
  {
@@ -112302,9 +112254,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -112412,9 +112364,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -112521,9 +112473,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -112631,9 +112583,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -112692,7 +112644,7 @@
    {
     "role": "Groom",
     "person_id": "P2357",
-    "display": "Mordechi Sarno",
+    "display": "Mordechi Sarna",
     "role_label": "Groom",
     "written_as": null,
     "linked_inline": false
@@ -112708,7 +112660,7 @@
    {
     "role": "GF",
     "person_id": "P2355",
-    "display": "Leiser Sarno",
+    "display": "Leiser Sarna",
     "role_label": "Groom's father",
     "written_as": null,
     "linked_inline": false
@@ -112716,10 +112668,10 @@
    {
     "role": "GM",
     "person_id": "P2356",
-    "display": "Zipporah Spira",
+    "display": "Zipporah Spiro",
     "role_label": "Groom's mother",
     "written_as": null,
-    "linked_inline": false
+    "linked_inline": true
    },
    {
     "role": "BF",
@@ -112767,7 +112719,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Mordka Sarna, religion teacher, born in Warsaw and residing in Brzostek, son of Lejzor Sarna and Cypry nee Spiro from Warsaw",
+   "Groom (prose)": "Mordka Sarna, religion teacher, born in Warsaw and residing in Brzostek, son of Lejzor Sarna and Cypry nee <a href=\"../person/P2356.html\" data-pid=\"P2356\">Spiro</a> from Warsaw",
    "Bride (prose)": "Ryfka Ehrlich, who goes by Bochner, daughter of Feiwel Ehrlich, who also goes by Bochner, baker in Brzostek, currently in America, and Devora nee <a href=\"../person/P1054.html\" data-pid=\"P1054\">Rein</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0917.html\" data-pid=\"P0917\">Menasche Amsterdam</a>, egg dealer in Brzostek, witness. <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor in Brzostek, witness.",
@@ -112777,10 +112729,8 @@
    "For",
    "Recruiting",
    "Command",
-   "Sarna",
    "Lejzor",
    "Cypry",
-   "Spiro",
    "Feiwel",
    "Devora"
   ]
@@ -112963,9 +112913,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -113281,9 +113231,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -113393,9 +113343,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -113501,9 +113451,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -114383,7 +114333,7 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
     "written_as": null,
     "linked_inline": true
@@ -114413,7 +114363,7 @@
    "Groom (prose)": "Moses Markus, known as Markus, Rokach born in Magierów, Wesoła and currently residing in Brzostek son of Schulim Rokach rabbi of Rawa Ruska and <a href=\"../person/P2400.html\" data-pid=\"P2400\">Malka nee Rokach</a>",
    "Bride (prose)": "Scheindla Wolkenfeld daughter of <a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>, rabbi of Brzostek and Bieny nee <a href=\"../person/P1106.html\" data-pid=\"P1106\">Silberstein</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
-   "Witnesses": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> Rosner, Synagogue attendant from Brzostek and <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor from Brzostek",
+   "Witnesses": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa Rosner</a>, Synagogue attendant from Brzostek and <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor from Brzostek",
    "Notes": "As to the groom birth record obtained from Magierow 8/3/1927 l. 38 . Military booklet PKU Rava-Ruska, file of 20 July 1927, entry 1618. As to the bride, birth record Vol 3 page 152 entry 40 and certificate of banns and rabinical certification."
   },
   "unlinked_prose_tokens": [
@@ -114491,7 +114441,7 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
     "written_as": null,
     "linked_inline": true
@@ -114521,7 +114471,7 @@
    "Groom (prose)": "<a href=\"../person/P2404.html\" data-pid=\"P2404\">Abraham Glassner</a> born in Załubińcze near Nowy Sacz, laborer in Błaszkowa, residing there, son of Susl Glassner and Malki Kolender from Błaszkowa",
    "Bride (prose)": "<a href=\"../person/P1479.html\" data-pid=\"P1479\">Malka Mirla</a>, called <a href=\"../person/P1479.html\" data-pid=\"P1479\">Mirla</a>, Lehrer, born in Dwernik near Lutowiska, residing in Błaszkowa, daughter of <a href=\"../person/P1480.html\" data-pid=\"P1480\">Serla Welkes</a> and the illegitimate father Mojer Lehrer.",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
-   "Witnesses": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> Rosner, Synagogue attendant from Brzostek and <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor from Brzostek",
+   "Witnesses": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa Rosner</a>, Synagogue attendant from Brzostek and <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor from Brzostek",
    "Notes": "Bride born 21 Jan 1887. A later official note (rescript of the Kraków voivode) corrects the entry: her family surname is Welkes, not Lehrer, and she was born 21 Jan 1887, not 2 Jan 1887. Remarks: For the groom: birth certificate, Nowy Sącz, 22 Feb 1895, no. 41, vol. II, p. 147, no. 187; also death record of [his] first wife Laja dated Frysztak, 30 Jan 1930, ref. no. 32, vol. II, p. 73, no. 13. For the bride: birth certificate dated Lutowiska, 8 Jul 1910, vol. 5, p. 2, no. 1[?]; and certificates of the banns, and notices of the rabbinate."
   },
   "unlinked_prose_tokens": [
@@ -114593,7 +114543,7 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
     "written_as": null,
     "linked_inline": true
@@ -114623,7 +114573,7 @@
    "Groom (prose)": "Mojzesz Diamant, illegitimate son of Sara Diamant, born in Grodzisko, residing in Bukowa without a profession",
    "Bride (prose)": "Laja Diamant, recte Slanger, daughter of Isak Diamant, recte Slanger, farmer from Bukowa and <a href=\"../person/P0403.html\" data-pid=\"P0403\">Ruchla née Offner</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
-   "Witnesses": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> Rosner, Synagogue attendant from Brzostek and <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor from Brzostek",
+   "Witnesses": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa Rosner</a>, Synagogue attendant from Brzostek and <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor from Brzostek",
    "Notes": "As for the groom, birth record dated Leżajsk, 1 Sep 1913, ref. no. 20[4?], vol. VI, p. ii, no. 84; also military service book, District Recruiting Command (P.K.U.) Sanok, Łańcut, gr. ew. 361, of 9 Feb 1928. As for the bride, birth record dated Frysztak, 17 Feb 1929, ref. no. 239, vol. IV, p. 214, no. 10; certificate of the banns, and notice of the rabbinate."
   },
   "unlinked_prose_tokens": [
@@ -114692,7 +114642,7 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
     "written_as": null,
     "linked_inline": true
@@ -114722,7 +114672,7 @@
    "Groom (prose)": "<a href=\"../person/P2412.html\" data-pid=\"P2412\">Daniel Katz</a>, born and lives in Debica, no profession, illegitimate son of Itty Katz in Debica",
    "Bride (prose)": "<a href=\"../person/P0794.html\" data-pid=\"P0794\">Mindla</a>, also known as <a href=\"../person/P0794.html\" data-pid=\"P0794\">Minnie</a>, Siegfried, born in Brzostek, dauther of the deceased <a href=\"../person/P0218.html\" data-pid=\"P0218\">Leiser Siegfried</a>, merchant in Brzostek and Chany Feigi nee <a href=\"../person/P0219.html\" data-pid=\"P0219\">Bochner</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
-   "Witnesses": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa</a> Rosner, Synagogue attendant from Brzostek and <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor from Brzostek",
+   "Witnesses": "<a href=\"../person/P0924.html\" data-pid=\"P0924\">Lipa Rosner</a>, Synagogue attendant from Brzostek and <a href=\"../person/P1487.html\" data-pid=\"P1487\">Hersch March</a>, cantor from Brzostek",
    "Notes": "Remarks: For the groom: birth certificate dated Dębica, 4 Jun 1930, ref. no. 121/30; certificate of the banns dated Dębica, 4 Jun 1930, ref. no. 122. For the bride: this registry&#x27;s own birth book, vol. III, p. 93, no. 24; certificate of the banns, and notices of the rabbinate. Below: I certify that in the first half of 1930 up to today [?] [number cut off] marriage records were entered in this duplicate [the rest runs off the bottom of the photo]; round seal."
   },
   "unlinked_prose_tokens": [
@@ -114799,9 +114749,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -114907,9 +114857,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -115132,9 +115082,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -115234,9 +115184,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -115341,9 +115291,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -115450,9 +115400,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -115567,9 +115517,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -115668,9 +115618,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -115776,9 +115726,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -115971,9 +115921,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -116078,9 +116028,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -116186,9 +116136,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -116294,9 +116244,9 @@
    {
     "role": "Witness1",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -117995,10 +117945,10 @@
    {
     "role": "BM",
     "person_id": "P2227",
-    "display": "Amalia Schonbach",
+    "display": "Amalia Scheinbach",
     "role_label": "Bride's mother",
-    "written_as": null,
-    "linked_inline": false
+    "written_as": "Amalia née Schonbach",
+    "linked_inline": true
    },
    {
     "role": "Witness1",
@@ -118031,7 +117981,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "<a href=\"../person/P2506.html\" data-pid=\"P2506\">Israel Springer</a>, born in Brzyszczki ad Jasło, merchant son Chiel Markus Springer, merchant in Jaslo and Chaja nee <a href=\"../person/P2505.html\" data-pid=\"P2505\">Spierer</a>",
-   "Bride (prose)": "Ester Niche, called Niche, Finder, born and living in Brzostek, daughter of Kiwa <a href=\"../person/P2224.html\" data-pid=\"P2224\">Leib</a>, calle <a href=\"../person/P2224.html\" data-pid=\"P2224\">Leib</a>, Finder, tinsmith in Brzostek and Amalja nee Schonbach",
+   "Bride (prose)": "Ester Niche, called Niche, Finder, born and living in Brzostek, daughter of Kiwa <a href=\"../person/P2224.html\" data-pid=\"P2224\">Leib</a>, calle <a href=\"../person/P2224.html\" data-pid=\"P2224\">Leib</a>, Finder, tinsmith in Brzostek and Amalja nee <a href=\"../person/P2227.html\" data-pid=\"P2227\">Schonbach</a>",
    "Rabbi": "<a href=\"../person/P0056.html\" data-pid=\"P0056\">Chaim Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P2392.html\" data-pid=\"P2392\">Herz Parnes</a>, cantor in Brzostek, witness. <a href=\"../person/P0052.html\" data-pid=\"P0052\">Abraham Barber</a>, butcher in Brzostek, witness.",
    "Notes": "groom 16 Dec 1905, bride 16 Sep 1911. Remarks: Documents of the groom: birth certificate dated Jasło, 13 Feb 1936, ref. no. 23/36, according to the register there, vol. VII, p. 254, no. 110; certificate of the banns dated Jasło, 29 Feb 1936, no. 7/36. Documents of the bride: this registry&#x27;s book, vol. III, [p.] 181, no. 19; and the notice of the rabbinate in Brzostek of 2 Mar 1936."
@@ -118449,9 +118399,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -118557,9 +118507,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -118667,9 +118617,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -118765,9 +118715,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -118862,9 +118812,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -118969,9 +118919,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -119069,9 +119019,9 @@
    {
     "role": "Witness2",
     "person_id": "P0924",
-    "display": "Lipa Rozner",
+    "display": "Lipa Rosner",
     "role_label": "Witness",
-    "written_as": "Lipa Rosner",
+    "written_as": null,
     "linked_inline": true
    },
    {
@@ -119270,9 +119220,9 @@
    {
     "role": "BM",
     "person_id": "P2227",
-    "display": "Amalia Schonbach",
+    "display": "Amalia Scheinbach",
     "role_label": "Bride's mother",
-    "written_as": "Amalia née Scheinbach",
+    "written_as": null,
     "linked_inline": false
    },
    {

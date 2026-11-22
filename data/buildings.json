@@ -1599,7 +1599,7 @@
    "town": "Brzostek",
    "number": "31",
    "events": 14,
-   "distinct_surnames": 8,
+   "distinct_surnames": 9,
    "year_min": 1894,
    "year_max": 1917,
    "surnames": [
@@ -1609,10 +1609,6 @@
     ],
     [
      "Rauch",
-     2
-    ],
-    [
-     "Schilloj",
      2
     ],
     [
@@ -1626,6 +1622,14 @@
     [
      "Bergman",
      2
+    ],
+    [
+     "Schilaj",
+     1
+    ],
+    [
+     "Schilloj",
+     1
     ],
     [
      "Ratz",
@@ -3152,7 +3156,7 @@
    "town": "Brzostek",
    "number": "149",
    "events": 335,
-   "distinct_surnames": 127,
+   "distinct_surnames": 130,
    "year_min": 1894,
    "year_max": 1917,
    "surnames": [
@@ -3245,10 +3249,6 @@
      4
     ],
     [
-     "Guttstein",
-     4
-    ],
-    [
      "Kichel",
      4
     ],
@@ -3313,10 +3313,6 @@
      3
     ],
     [
-     "Schilloj",
-     3
-    ],
-    [
      "Friedenbach",
      3
     ],
@@ -3374,6 +3370,10 @@
     ],
     [
      "Goldman",
+     2
+    ],
+    [
+     "Guttstein",
      2
     ],
     [
@@ -3450,6 +3450,10 @@
     ],
     [
      "Bochner",
+     2
+    ],
+    [
+     "Gutstein",
      2
     ],
     [
@@ -3545,11 +3549,23 @@
      1
     ],
     [
+     "Schillaj",
+     1
+    ],
+    [
      "Tesser",
      1
     ],
     [
      "Kornblutt",
+     1
+    ],
+    [
+     "Schilaj",
+     1
+    ],
+    [
+     "Schilloj",
      1
     ],
     [
@@ -3723,7 +3739,7 @@
    "year_max": 1911,
    "surnames": [
     [
-     "Shuster",
+     "Schuster",
      2
     ]
    ],
@@ -4507,7 +4523,7 @@
    "year_max": 1903,
    "surnames": [
     [
-     "Rozner",
+     "Rosner",
      1
     ]
    ],
@@ -4524,7 +4540,7 @@
    "year_max": 1904,
    "surnames": [
     [
-     "Rozner",
+     "Rosner",
      2
     ]
    ],
@@ -5664,13 +5680,17 @@
    "town": "Skurowa",
    "number": "1",
    "events": 7,
-   "distinct_surnames": 3,
+   "distinct_surnames": 4,
    "year_min": 1895,
    "year_max": 1901,
    "surnames": [
     [
      "Guttstein",
-     5
+     3
+    ],
+    [
+     "Gutstein",
+     2
     ],
     [
      "Schaller",
@@ -5696,7 +5716,7 @@
    "year_max": 1904,
    "surnames": [
     [
-     "Reimer",
+     "Rimer",
      2
     ],
     [
@@ -5714,13 +5734,17 @@
    "town": "Skurowa",
    "number": "3",
    "events": 10,
-   "distinct_surnames": 1,
+   "distinct_surnames": 2,
    "year_min": 1901,
    "year_max": 1916,
    "surnames": [
     [
      "Guttstein",
-     10
+     5
+    ],
+    [
+     "Gutstein",
+     5
     ]
    ],
    "events_by_kind": {
@@ -5733,13 +5757,17 @@
    "town": "Skurowa",
    "number": "4",
    "events": 4,
-   "distinct_surnames": 1,
+   "distinct_surnames": 2,
    "year_min": 1906,
    "year_max": 1909,
    "surnames": [
     [
-     "Reimer",
-     4
+     "Rimer",
+     2
+    ],
+    [
+     "Riemer",
+     2
     ]
    ],
    "events_by_kind": {
@@ -7604,6 +7632,30 @@
    ]
   },
   {
+   "surname": "Gutstein",
+   "events": 9,
+   "distinct_buildings": 3,
+   "year_min": 1899,
+   "year_max": 1916,
+   "places": [
+    {
+     "town": "Skurowa",
+     "number": "3",
+     "events": 5
+    },
+    {
+     "town": "Skurowa",
+     "number": "1",
+     "events": 2
+    },
+    {
+     "town": "Brzostek",
+     "number": "149",
+     "events": 2
+    }
+   ]
+  },
+  {
    "surname": "Guttenberg",
    "events": 7,
    "distinct_buildings": 3,
@@ -7629,25 +7681,25 @@
   },
   {
    "surname": "Guttstein",
-   "events": 19,
+   "events": 10,
    "distinct_buildings": 3,
    "year_min": 1895,
-   "year_max": 1916,
+   "year_max": 1907,
    "places": [
     {
      "town": "Skurowa",
      "number": "3",
-     "events": 10
+     "events": 5
     },
     {
      "town": "Skurowa",
      "number": "1",
-     "events": 5
+     "events": 3
     },
     {
      "town": "Brzostek",
      "number": "149",
-     "events": 4
+     "events": 2
     }
    ]
   },
@@ -8985,25 +9037,6 @@
    ]
   },
   {
-   "surname": "Reimer",
-   "events": 6,
-   "distinct_buildings": 2,
-   "year_min": 1904,
-   "year_max": 1909,
-   "places": [
-    {
-     "town": "Skurowa",
-     "number": "4",
-     "events": 4
-    },
-    {
-     "town": "Skurowa",
-     "number": "2",
-     "events": 2
-    }
-   ]
-  },
-  {
    "surname": "Rein",
    "events": 4,
    "distinct_buildings": 3,
@@ -9091,6 +9124,20 @@
    ]
   },
   {
+   "surname": "Riemer",
+   "events": 2,
+   "distinct_buildings": 1,
+   "year_min": 1909,
+   "year_max": 1909,
+   "places": [
+    {
+     "town": "Skurowa",
+     "number": "4",
+     "events": 2
+    }
+   ]
+  },
+  {
    "surname": "Riff",
    "events": 1,
    "distinct_buildings": 1,
@@ -9101,6 +9148,25 @@
      "town": "Brzostek",
      "number": "35",
      "events": 1
+    }
+   ]
+  },
+  {
+   "surname": "Rimer",
+   "events": 4,
+   "distinct_buildings": 2,
+   "year_min": 1904,
+   "year_max": 1906,
+   "places": [
+    {
+     "town": "Skurowa",
+     "number": "2",
+     "events": 2
+    },
+    {
+     "town": "Skurowa",
+     "number": "4",
+     "events": 2
     }
    ]
   },
@@ -9144,6 +9210,25 @@
      "town": "Grudna Gorna",
      "number": "70",
      "events": 2
+    }
+   ]
+  },
+  {
+   "surname": "Rosner",
+   "events": 3,
+   "distinct_buildings": 2,
+   "year_min": 1903,
+   "year_max": 1904,
+   "places": [
+    {
+     "town": "Grudna Gorna",
+     "number": "6",
+     "events": 2
+    },
+    {
+     "town": "Grudna Gorna",
+     "number": "5",
+     "events": 1
     }
    ]
   },
@@ -9236,9 +9321,9 @@
   },
   {
    "surname": "Rozner",
-   "events": 12,
-   "distinct_buildings": 6,
-   "year_min": 1903,
+   "events": 9,
+   "distinct_buildings": 4,
+   "year_min": 1907,
    "year_max": 1916,
    "places": [
     {
@@ -9253,22 +9338,12 @@
     },
     {
      "town": "Grudna Gorna",
-     "number": "6",
-     "events": 2
-    },
-    {
-     "town": "Grudna Gorna",
      "number": "51",
      "events": 2
     },
     {
      "town": "Globikowa",
      "number": "1",
-     "events": 1
-    },
-    {
-     "town": "Grudna Gorna",
-     "number": "5",
      "events": 1
     }
    ]
@@ -9509,6 +9584,25 @@
    ]
   },
   {
+   "surname": "Schilaj",
+   "events": 2,
+   "distinct_buildings": 2,
+   "year_min": 1902,
+   "year_max": 1902,
+   "places": [
+    {
+     "town": "Brzostek",
+     "number": "31",
+     "events": 1
+    },
+    {
+     "town": "Brzostek",
+     "number": "149",
+     "events": 1
+    }
+   ]
+  },
+  {
    "surname": "Schild",
    "events": 1,
    "distinct_buildings": 1,
@@ -9524,11 +9618,16 @@
   },
   {
    "surname": "Schillaj",
-   "events": 1,
-   "distinct_buildings": 1,
-   "year_min": 1901,
+   "events": 2,
+   "distinct_buildings": 2,
+   "year_min": 1900,
    "year_max": 1901,
    "places": [
+    {
+     "town": "Brzostek",
+     "number": "149",
+     "events": 1
+    },
     {
      "town": "Brzostek",
      "number": "31",
@@ -9538,20 +9637,20 @@
   },
   {
    "surname": "Schilloj",
-   "events": 5,
+   "events": 2,
    "distinct_buildings": 2,
-   "year_min": 1900,
+   "year_min": 1904,
    "year_max": 1904,
    "places": [
     {
      "town": "Brzostek",
-     "number": "149",
-     "events": 3
+     "number": "31",
+     "events": 1
     },
     {
      "town": "Brzostek",
-     "number": "31",
-     "events": 2
+     "number": "149",
+     "events": 1
     }
    ]
   },
@@ -9862,6 +9961,20 @@
    ]
   },
   {
+   "surname": "Schuster",
+   "events": 2,
+   "distinct_buildings": 1,
+   "year_min": 1911,
+   "year_max": 1911,
+   "places": [
+    {
+     "town": "Brzostek",
+     "number": "159",
+     "events": 2
+    }
+   ]
+  },
+  {
    "surname": "Schwarz",
    "events": 22,
    "distinct_buildings": 2,
@@ -9877,20 +9990,6 @@
      "town": "Brzostek",
      "number": "149",
      "events": 5
-    }
-   ]
-  },
-  {
-   "surname": "Shuster",
-   "events": 2,
-   "distinct_buildings": 1,
-   "year_min": 1911,
-   "year_max": 1911,
-   "places": [
-    {
-     "town": "Brzostek",
-     "number": "159",
-     "events": 2
     }
    ]
   },
@@ -11212,7 +11311,7 @@
    "town": "Brzostek",
    "number": "31",
    "events": 14,
-   "distinct_surnames": 8,
+   "distinct_surnames": 9,
    "year_min": 1894,
    "year_max": 1917,
    "surnames": [
@@ -11222,10 +11321,6 @@
     ],
     [
      "Rauch",
-     2
-    ],
-    [
-     "Schilloj",
      2
     ],
     [
@@ -11239,6 +11334,14 @@
     [
      "Bergman",
      2
+    ],
+    [
+     "Schilaj",
+     1
+    ],
+    [
+     "Schilloj",
+     1
     ],
     [
      "Ratz",
@@ -11977,7 +12080,7 @@
    "town": "Brzostek",
    "number": "149",
    "events": 335,
-   "distinct_surnames": 127,
+   "distinct_surnames": 130,
    "year_min": 1894,
    "year_max": 1917,
    "surnames": [
@@ -12070,10 +12173,6 @@
      4
     ],
     [
-     "Guttstein",
-     4
-    ],
-    [
      "Kichel",
      4
     ],
@@ -12138,10 +12237,6 @@
      3
     ],
     [
-     "Schilloj",
-     3
-    ],
-    [
      "Friedenbach",
      3
     ],
@@ -12199,6 +12294,10 @@
     ],
     [
      "Goldman",
+     2
+    ],
+    [
+     "Guttstein",
      2
     ],
     [
@@ -12275,6 +12374,10 @@
     ],
     [
      "Bochner",
+     2
+    ],
+    [
+     "Gutstein",
      2
     ],
     [
@@ -12370,11 +12473,23 @@
      1
     ],
     [
+     "Schillaj",
+     1
+    ],
+    [
      "Tesser",
      1
     ],
     [
      "Kornblutt",
+     1
+    ],
+    [
+     "Schilaj",
+     1
+    ],
+    [
+     "Schilloj",
      1
     ],
     [
@@ -12898,13 +13013,17 @@
    "town": "Skurowa",
    "number": "3",
    "events": 10,
-   "distinct_surnames": 1,
+   "distinct_surnames": 2,
    "year_min": 1901,
    "year_max": 1916,
    "surnames": [
     [
      "Guttstein",
-     10
+     5
+    ],
+    [
+     "Gutstein",
+     5
     ]
    ],
    "events_by_kind": {
@@ -12919,7 +13038,7 @@
    "town": "Brzostek",
    "number": "149",
    "events": 335,
-   "distinct_surnames": 127,
+   "distinct_surnames": 130,
    "year_min": 1894,
    "year_max": 1917,
    "surnames": [
@@ -13012,10 +13131,6 @@
      4
     ],
     [
-     "Guttstein",
-     4
-    ],
-    [
      "Kichel",
      4
     ],
@@ -13080,10 +13195,6 @@
      3
     ],
     [
-     "Schilloj",
-     3
-    ],
-    [
      "Friedenbach",
      3
     ],
@@ -13141,6 +13252,10 @@
     ],
     [
      "Goldman",
+     2
+    ],
+    [
+     "Guttstein",
      2
     ],
     [
@@ -13217,6 +13332,10 @@
     ],
     [
      "Bochner",
+     2
+    ],
+    [
+     "Gutstein",
      2
     ],
     [
@@ -13312,11 +13431,23 @@
      1
     ],
     [
+     "Schillaj",
+     1
+    ],
+    [
      "Tesser",
      1
     ],
     [
      "Kornblutt",
+     1
+    ],
+    [
+     "Schilaj",
+     1
+    ],
+    [
+     "Schilloj",
      1
     ],
     [
@@ -13676,6 +13807,57 @@
   },
   {
    "town": "Brzostek",
+   "number": "31",
+   "events": 14,
+   "distinct_surnames": 9,
+   "year_min": 1894,
+   "year_max": 1917,
+   "surnames": [
+    [
+     "Czopp",
+     2
+    ],
+    [
+     "Rauch",
+     2
+    ],
+    [
+     "Finberg",
+     2
+    ],
+    [
+     "Nechemje",
+     2
+    ],
+    [
+     "Bergman",
+     2
+    ],
+    [
+     "Schilaj",
+     1
+    ],
+    [
+     "Schilloj",
+     1
+    ],
+    [
+     "Ratz",
+     1
+    ],
+    [
+     "Schillaj",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 9,
+    "Naming": 1,
+    "Death": 4
+   }
+  },
+  {
+   "town": "Brzostek",
    "number": "111",
    "events": 21,
    "distinct_surnames": 8,
@@ -13720,53 +13902,6 @@
     "Naming": 3,
     "Death": 3,
     "Bride": 1
-   }
-  },
-  {
-   "town": "Brzostek",
-   "number": "31",
-   "events": 14,
-   "distinct_surnames": 8,
-   "year_min": 1894,
-   "year_max": 1917,
-   "surnames": [
-    [
-     "Czopp",
-     2
-    ],
-    [
-     "Rauch",
-     2
-    ],
-    [
-     "Schilloj",
-     2
-    ],
-    [
-     "Finberg",
-     2
-    ],
-    [
-     "Nechemje",
-     2
-    ],
-    [
-     "Bergman",
-     2
-    ],
-    [
-     "Ratz",
-     1
-    ],
-    [
-     "Schillaj",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 9,
-    "Naming": 1,
-    "Death": 4
    }
   },
   {
@@ -14479,6 +14614,37 @@
    }
   },
   {
+   "town": "Skurowa",
+   "number": "1",
+   "events": 7,
+   "distinct_surnames": 4,
+   "year_min": 1895,
+   "year_max": 1901,
+   "surnames": [
+    [
+     "Guttstein",
+     3
+    ],
+    [
+     "Gutstein",
+     2
+    ],
+    [
+     "Schaller",
+     1
+    ],
+    [
+     "Finder",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Birth": 4,
+    "Naming": 1,
+    "Death": 2
+   }
+  },
+  {
    "town": "Baczalka",
    "number": "40",
    "events": 5,
@@ -14506,37 +14672,6 @@
    "events_by_kind": {
     "Death": 5
    }
-  },
-  {
-   "town": "Brzostek",
-   "number": "69",
-   "events": 5,
-   "distinct_surnames": 4,
-   "year_min": 1900,
-   "year_max": 1914,
-   "surnames": [
-    [
-     "Rauch",
-     2
-    ],
-    [
-     "Galizer",
-     1
-    ],
-    [
-     "Kornfeld",
-     1
-    ],
-    [
-     "Kern",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "Birth": 1,
-    "Naming": 1,
-    "Death": 3
-   }
   }
  ],
  "town_only_events": [
@@ -14560,7 +14695,7 @@
    "events": 1,
    "surnames": [
     [
-     "Guttstein",
+     "Gutstein",
      1
     ]
    ],
@@ -14688,7 +14823,7 @@
    "events": 2,
    "surnames": [
     [
-     "Shuster",
+     "Schuster",
      2
     ]
    ],
@@ -15183,10 +15318,6 @@
      7
     ],
     [
-     "Schilloj",
-     7
-    ],
-    [
      "Birnbaum",
      7
     ],
@@ -15287,7 +15418,15 @@
      3
     ],
     [
+     "Schillaj",
+     3
+    ],
+    [
      "Russ",
+     3
+    ],
+    [
+     "Schilloj",
      3
     ],
     [
@@ -15415,6 +15554,10 @@
      1
     ],
     [
+     "Schilaj",
+     1
+    ],
+    [
      "Reich",
      1
     ],
@@ -15431,7 +15574,7 @@
      1
     ],
     [
-     "Shuster",
+     "Schuster",
      1
     ],
     [
@@ -15552,8 +15695,12 @@
    "events": 2,
    "surnames": [
     [
-     "Schilloj",
-     2
+     "Schillaj",
+     1
+    ],
+    [
+     "Schilaj",
+     1
     ]
    ],
    "events_by_kind": {
@@ -16040,11 +16187,15 @@
    "surnames": [
     [
      "Guttstein",
-     5
+     4
     ],
     [
      "Windstroh",
      2
+    ],
+    [
+     "Gutstein",
+     1
     ]
    ],
    "events_by_kind": {
@@ -16234,7 +16385,7 @@
    "events": 2,
    "surnames": [
     [
-     "Gleicher",
+     "Gleichter",
      2
     ]
    ],
@@ -16269,12 +16420,12 @@
      4
     ],
     [
-     "Kleinman",
+     "Rieger",
      4
     ],
     [
-     "Rieger",
-     2
+     "Kleinman",
+     4
     ],
     [
      "Low",
@@ -16282,10 +16433,6 @@
     ],
     [
      "Wild",
-     2
-    ],
-    [
-     "Reiger",
      2
     ],
     [
@@ -16453,11 +16600,15 @@
      5
     ],
     [
-     "Rozner",
-     2
+     "Dembitzer",
+     1
     ],
     [
-     "Dembitzer",
+     "Rosner",
+     1
+    ],
+    [
+     "Rozner",
      1
     ],
     [
@@ -16562,7 +16713,7 @@
    "events": 1,
    "surnames": [
     [
-     "Guttstein",
+     "Gutstein",
      1
     ]
    ],
@@ -16979,7 +17130,7 @@
    "events": 6,
    "surnames": [
     [
-     "Guttstein",
+     "Gutstein",
      6
     ]
    ],
@@ -17606,7 +17757,11 @@
    "surnames": [
     [
      "Rozner",
-     6
+     5
+    ],
+    [
+     "Rosner",
+     1
     ]
    ],
    "events_by_kind": {
@@ -18122,7 +18277,7 @@
    "events": 1,
    "surnames": [
     [
-     "Guttstein",
+     "Gutstein",
      1
     ]
    ],
@@ -18219,7 +18374,7 @@
    "events": 2,
    "surnames": [
     [
-     "Silberbartz",
+     "Silberbart",
      2
     ]
    ],
@@ -18300,7 +18455,7 @@
      9
     ],
     [
-     "Guttstein",
+     "Gutstein",
      1
     ],
     [
@@ -18839,8 +18994,8 @@
    "events": 11,
    "surnames": [
     [
-     "Reimer",
-     3
+     "Rimer",
+     2
     ],
     [
      "Blum",
@@ -18856,6 +19011,10 @@
     ],
     [
      "Leuchtag",
+     1
+    ],
+    [
+     "Riemer",
      1
     ],
     [
@@ -19184,15 +19343,19 @@
    "events": 18,
    "surnames": [
     [
-     "Guttstein",
-     9
+     "Gutstein",
+     5
     ],
     [
-     "Reimer",
-     3
+     "Guttstein",
+     4
     ],
     [
      "Schaller",
+     2
+    ],
+    [
+     "Rimer",
      2
     ],
     [
@@ -19202,6 +19365,10 @@
     [
      "Dembitzer",
      2
+    ],
+    [
+     "Riemer",
+     1
     ]
    ],
    "events_by_kind": {
@@ -19823,7 +19990,7 @@
    "events": 3,
    "surnames": [
     [
-     "Sarno",
+     "Sarna",
      2
     ],
     [
@@ -22853,7 +23020,7 @@
   "events": 1502,
   "town_only_events": 2270,
   "buildings": 242,
-  "surnames_with_buildings": 203,
+  "surnames_with_buildings": 207,
   "towns": 28
  }
 }
