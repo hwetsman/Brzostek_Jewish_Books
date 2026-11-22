@@ -73689,9 +73689,16 @@
    "birth_date_text": null,
    "death_date_text": null
   },
-  "unions": [],
+  "unions": [
+   {
+    "kind": "children",
+    "evidence": "b-1899-6, b-1900-21",
+    "partner_id": "P1641",
+    "group": "unclear"
+   }
+  ],
   "partner_groups": {
-   "P1641": "1"
+   "P1641": "unclear"
   }
  },
  {
@@ -155740,10 +155747,16 @@
    "birth_date_text": null,
    "death_date_text": null
   },
-  "unions": [],
-  "heading_name": "Leah Brandsdorfer, married name Glassner",
+  "unions": [
+   {
+    "kind": "children",
+    "evidence": "b-1899-6, b-1900-21",
+    "partner_id": "P0628",
+    "group": "unclear"
+   }
+  ],
   "partner_groups": {
-   "P0628": "1"
+   "P0628": "unclear"
   }
  },
  {
