@@ -59966,7 +59966,7 @@
    "Naming Date": "10 May 1913",
    "Naming Place": "Brzostek, house 56",
    "Father (prose)": "Hersch Jacob Braunheim, butcher in Brzostek",
-   "Mother (prose)": "Malka Leiman, daughter of Nechemje and Sara Lejman, farmers in Lopuchowa",
+   "Mother (prose)": "Malka Leiman, daughter of Nechemje [sic, = Szymon Nechemje] and Sara Lejman, farmers in Lopuchowa",
    "Witnesses (prose)": "Jonas Feigenbaum, dealer in Brzostek, witness. Leib Faust, leather dealer in Brzostek, witness.",
    "Mohel/Name Giver": "Marcus Kleinman, name-giver in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
@@ -60044,13 +60044,14 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P1170.html\" data-pid=\"P1170\">Hersch Jacob Braunheim</a>, butcher in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P1171.html\" data-pid=\"P1171\">Malka Leiman</a>, daughter of Nechemje and Sara Lejman, farmers in Lopuchowa",
+   "Mother (prose)": "<a href=\"../person/P1171.html\" data-pid=\"P1171\">Malka Leiman</a>, daughter of Nechemje [sic, = Szymon Nechemje] and Sara Lejman, farmers in Lopuchowa",
    "Witnesses (prose)": "<a href=\"../person/P1258.html\" data-pid=\"P1258\">Jonas Feigenbaum</a>, dealer in Brzostek, witness. <a href=\"../person/P0183.html\" data-pid=\"P0183\">Leib Faust</a>, leather dealer in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>, name-giver in Brzostek",
    "Midwife": "Josefa Lisowa, midwife in Brzostek",
    "Notes": "Marriage in Brzostek 15 Dec 1912. Marriage register vol. II p. 175."
   },
   "unlinked_prose_tokens": [
+   "Szymon",
    "Sara",
    "Lejman"
   ]
@@ -68700,7 +68701,7 @@
    "Naming Date": "8 Dec 1917",
    "Naming Place": "Brzostek",
    "Father (prose)": "Simche Hersch Gluckman, called Hersch, tenant of the manor in Blaszkowa",
-   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolice, and Fany nee Richter",
+   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of David Schiff, farmer in Okolice, and Tauba nee Richter",
    "Witnesses (prose)": "Hersch Bieder, schames in Brzostek, witness. Solomon Karpf, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "Marcus Kleinman",
    "Midwife": "Josefa Lisowa",
@@ -68778,7 +68779,7 @@
   "translator_note": null,
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P1372.html\" data-pid=\"P1372\">Simche Hersch Gluckman</a>, called <a href=\"../person/P1372.html\" data-pid=\"P1372\">Hersch</a>, tenant of the manor in Blaszkowa",
-   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of <a href=\"../person/P1374.html\" data-pid=\"P1374\">David Schiff</a>, farmer in Okolice, and <a href=\"../person/P1375.html\" data-pid=\"P1375\">Fany nee Richter</a>",
+   "Mother (prose)": "Hendla Sosche, called Sosche, daughter of <a href=\"../person/P1374.html\" data-pid=\"P1374\">David Schiff</a>, farmer in Okolice, and <a href=\"../person/P1375.html\" data-pid=\"P1375\">Tauba nee Richter</a>",
    "Witnesses (prose)": "<a href=\"../person/P0415.html\" data-pid=\"P0415\">Hersch Bieder</a>, schames in Brzostek, witness. <a href=\"../person/P0055.html\" data-pid=\"P0055\">Solomon Karpf</a>, merchant in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Josefa Lisowa",
