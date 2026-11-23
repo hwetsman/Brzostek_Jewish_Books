@@ -251,11 +251,11 @@
    "id": "P0014",
    "type": "person",
    "display": "Abraham Plattner",
-   "other_names": "Abraham Plattner; Plattner",
+   "other_names": "Abraham Plattner; Plattner; Kainer",
    "subtitle": "son of Reuben Plattner",
    "legal_given": "Abraham",
    "common_given": "Abraham",
-   "legal_surname": "Plattner",
+   "legal_surname": "Kainer",
    "common_surname": "Plattner",
    "maiden_surname": "",
    "father_name": "Reuben Plattner",
@@ -264,7 +264,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "079560 783690 079560 783690"
+   "phonetic": "079560 569000 783690 079560 569000 783690"
   },
   {
    "id": "P0016",
@@ -38441,7 +38441,7 @@
    "id": "P2283",
    "type": "person",
    "display": "Itta Kukuk, married name Oling",
-   "other_names": "Itta née Kureik; Kukuk; Kureik; Oling",
+   "other_names": "Itta née Kukuk; Kukuk; Oling",
    "subtitle": "wife of Leiser Oling",
    "legal_given": "Chaya Itta",
    "common_given": "Itta",
@@ -38454,7 +38454,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "030000 410000 500000 510000 030000 086500 500000 595000 600000"
+   "phonetic": "030000 410000 500000 510000 030000 086500 500000 600000"
   },
   {
    "id": "P2284",
@@ -55415,7 +55415,7 @@
    "year": 1911,
    "number": "11",
    "summary": "Death 11/1911: Abraham Abrahamowicz",
-   "prose": "27 Nov 1911 Blaszkowa 29 Nov 1911 Brzostek Abraham Abrahamowicz, farmer in Blaszkowa, parents unknown Blaszkowa, house 272 Male 86 years Married farmer Blaszkowa inflammation of the blood (blood poisoning), natural death [reading uncertain] Sepsis Parents of the deceased unknown and cannot be traced. Cause as written: 'Zapalenie krwi[?] śmierć zwyczajna' (third letter of krwi written like u). Below the entry: Closed as of 31 Dec 1911 A. Wróbl [signature], Jewish registrar. I certify that the duplicate agrees with the original [signature], Imperial-Royal secretary of the Governorship.",
+   "prose": "27 Nov 1911 Blaszkowa 29 Nov 1911 Brzostek Abraham Abrahamowicz, farmer in Blaszkowa, parents unknown Blaszkowa, house 272 Male 86 years Married farmer Blaszkowa inflammation of the blood (blood poisoning), natural death Sepsis Parents of the deceased unknown and cannot be traced. Cause as written: 'Zapalenie krwi[?] śmierć zwyczajna' (third letter of krwi written like u). Below the entry: Closed as of 31 Dec 1911 A. Wróbl [signature], Jewish registrar. I certify that the duplicate agrees with the original [signature], Imperial-Royal secretary of the Governorship.",
    "people": "Abraham Abrahamowicz",
    "phonetic": "079560 079567"
   },
@@ -55943,7 +55943,7 @@
    "year": 1915,
    "number": "8",
    "summary": "Death 8/1915: Deborah Arnold",
-   "prose": "27 Oct 1915 Skurowa 28 Oct 1915 Brzostek Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and of the mother Chana, of unknown surname, from Ostrawy in the district of Stanislawow Skurowa Female 36 years Married smallpox Smallpox daughter of",
+   "prose": "27 Oct 1915 Skurowa 28 Oct 1915 Brzostek Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and of the mother Chana, of unknown surname, from Ostrawy [= Ostrów] in the district of Stanislawow Skurowa Female 36 years Married smallpox Smallpox daughter of",
    "people": "Deborah Arnold; Leib Arnold; Hannah Arnold",
    "phonetic": "096830 379000 560000 870000"
   },

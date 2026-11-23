@@ -2659,8 +2659,9 @@
  {
   "surname": "Kainer",
   "fname": "Kainer",
-  "count": 7,
+  "count": 8,
   "person_ids": [
+   "P0014",
    "P0179",
    "P0181",
    "P0270",
@@ -3346,14 +3347,6 @@
    "P0390",
    "P0391",
    "P0392"
-  ]
- },
- {
-  "surname": "Kureik",
-  "fname": "Kureik",
-  "count": 1,
-  "person_ids": [
-   "P2283"
   ]
  },
  {

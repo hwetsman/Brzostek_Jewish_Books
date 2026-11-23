@@ -79680,7 +79680,7 @@
    "Marital Status": "Married",
    "Own Occupation": "farmer",
    "Own Residence": "Blaszkowa",
-   "Cause of Death": "inflammation of the blood (blood poisoning), natural death [reading uncertain]",
+   "Cause of Death": "inflammation of the blood (blood poisoning), natural death",
    "Adjudicated Cause of Death": "Sepsis",
    "Register Remarks": "Parents of the deceased unknown and cannot be traced. Cause as written: 'Zapalenie krwi[?] śmierć zwyczajna' (third letter of krwi written like u). Below the entry: Closed as of 31 Dec 1911 A. Wróbl [signature], Jewish registrar. I certify that the duplicate agrees with the original [signature], Imperial-Royal secretary of the Governorship."
   },
@@ -79698,7 +79698,7 @@
   "translator_note": null,
   "fields_html": {
    "Decedent (prose)": "<a href=\"../person/P0307.html\" data-pid=\"P0307\">Abraham Abrahamowicz</a>, farmer in Blaszkowa, parents unknown",
-   "Cause of Death": "inflammation of the blood (blood poisoning), natural death [reading uncertain]"
+   "Cause of Death": "inflammation of the blood (blood poisoning), natural death"
   }
  },
  {
@@ -82140,7 +82140,7 @@
    "Death Place": "Skurowa",
    "Burial Date": "28 Oct 1915",
    "Burial Place": "Brzostek",
-   "Decedent (prose)": "Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and of the mother Chana, of unknown surname, from Ostrawy in the district of Stanislawow",
+   "Decedent (prose)": "Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and of the mother Chana, of unknown surname, from Ostrawy [= Ostrów] in the district of Stanislawow",
    "Decedent Place": "Skurowa",
    "Sex": "Female",
    "Age": "36 years",
@@ -82176,9 +82176,9 @@
    }
   ],
   "unlinked_roles": [],
-  "translator_note": "Place read as Ostrawy (possibly Ostzawy/Ostrany), district Stanisławów; village not yet identified.",
+  "translator_note": "Place read as Ostrawy; it is Ostrów, Stanisławów district, as in her 1908 marriage (m-1908-1).",
   "fields_html": {
-   "Decedent (prose)": "Dora Gutstein, daughter of <a href=\"../person/P1128.html\" data-pid=\"P1128\">Moses Leib Oblat</a>, who was called <a href=\"../person/P1128.html\" data-pid=\"P1128\">Leib</a>, and of the mother <a href=\"../person/P1129.html\" data-pid=\"P1129\">Chana</a>, of unknown surname, from Ostrawy in the district of Stanislawow",
+   "Decedent (prose)": "Dora Gutstein, daughter of <a href=\"../person/P1128.html\" data-pid=\"P1128\">Moses Leib Oblat</a>, who was called <a href=\"../person/P1128.html\" data-pid=\"P1128\">Leib</a>, and of the mother <a href=\"../person/P1129.html\" data-pid=\"P1129\">Chana</a>, of unknown surname, from Ostrawy [= Ostrów] in the district of Stanislawow",
    "Cause of Death": "smallpox"
   }
  },
@@ -109623,7 +109623,7 @@
     "person_id": "P2283",
     "display": "Itta Kukuk",
     "role_label": "Groom's mother",
-    "written_as": "Itta née Kureik",
+    "written_as": null,
     "linked_inline": true
    },
    {

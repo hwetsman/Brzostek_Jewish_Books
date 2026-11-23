@@ -5487,7 +5487,7 @@
   "id": "P0014",
   "legal_given": "Abraham",
   "common_given": "Abraham",
-  "legal_surname": "Plattner",
+  "legal_surname": "Kainer",
   "common_surname": "Plattner",
   "maiden_surname": null,
   "married_surname": null,
@@ -5767,6 +5767,7 @@
     }
    ],
    "surnames": [
+    "Kainer",
     "Plattner"
    ],
    "born": null,
@@ -119434,7 +119435,7 @@
     {
      "rid": "d-1915-8",
      "role": "The deceased",
-     "text": "Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and of the mother Chana, of unknown surname, from Ostrawy in the district of Stanislawow"
+     "text": "Dora Gutstein, daughter of Moses Leib Oblat, who was called Leib, and of the mother Chana, of unknown surname, from Ostrawy [= Ostrów] in the district of Stanislawow"
     }
    ],
    "surnames": [
@@ -196114,7 +196115,7 @@
   "identity": {
    "names": [
     {
-     "form": "Itta née Kureik",
+     "form": "Itta née Kukuk",
      "rids": [
       "m-1922-6"
      ]
@@ -196123,7 +196124,6 @@
    "quotes": [],
    "surnames": [
     "Kukuk",
-    "Kureik",
     "Oling"
    ],
    "born": null,
