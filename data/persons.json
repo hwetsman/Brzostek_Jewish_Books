@@ -615,7 +615,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "shopkeeper of colonial goods (1894); spice stallholder (1895-1896); cloth goods stallholder (1895); innkeeper in Grudna Dolna (1899); industrialist (1900); private person (1902-1907); sawmill overseer in Gorzejowa (1906)",
+  "occupations": "shopkeeper of colonial goods (1894); spice stallholder (1895-1896); cloth goods stallholder (1895); tavern keeper in Grudna Dolna (1899); industrialist (1900); private person (1902-1907); sawmill overseer in Gorzejowa (1906)",
   "residences": "Brzostek (primary); Grudna Dolna (1899 only); Gorzejowa (1906 — work)",
   "status": "S (per d-1902-5: ritual wife — civil marriage status was Single)",
   "birth_legitimacy": null,
@@ -1071,7 +1071,7 @@
     {
      "rid": "b-1899-3",
      "role": "Father",
-     "text": "Hersch Schlenger, innkeeper in Grudna Dolna"
+     "text": "Hersch Schlenger, tavern keeper in Grudna Dolna"
     }
    ],
    "surnames": [
@@ -7098,7 +7098,7 @@
     {
      "rid": "d-1916-2",
      "role": "The deceased",
-     "text": "Uszer Thun, labourer in Brzostek, son of Chiel Leib Thun, who is called Leib, and Sara, innkeepers in Gorzejowa"
+     "text": "Uszer Thun, labourer in Brzostek, son of Chiel Leib Thun, who is called Leib, and Sara, tavern keepers in Gorzejowa"
     }
    ],
    "surnames": [
@@ -7211,7 +7211,7 @@
   "birth_date": "c. 1842 (age 65 at death 1907)",
   "death_date": "10 Nov 1907",
   "marriage_dates": "24 October 1900 in Brzostek; 24 Oct 1900 in Brzostek (civil)",
-  "occupations": "baker and owner of real estate (1894-1897); hide and leather dealer (1896-1907)",
+  "occupations": "baker and owner of real estate (1894-1897); dealer in hides (1896-1907)",
   "residences": "Brzostek (house 31)",
   "status": "M",
   "birth_legitimacy": null,
@@ -8366,7 +8366,7 @@
   "birth_date": "c. 1853 (age 60 at death 1913)",
   "death_date": "18 Oct 1913",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Brzostek (house 52)",
   "status": "M",
   "birth_legitimacy": null,
@@ -8769,7 +8769,7 @@
     {
      "rid": "b-1876-139",
      "role": "Father",
-     "text": "Nechemje Storch innkeeper in Brzostek"
+     "text": "Nechemje Storch tavern keeper in Brzostek"
     },
     {
      "rid": "d-1913-12",
@@ -13380,7 +13380,7 @@
     {
      "rid": "b-1898-17",
      "role": "Father",
-     "text": "Hersch Chaskel Goldberg, called Chaskel, innkeeper in Brzostek"
+     "text": "Hersch Chaskel Goldberg, called Chaskel, tavern keeper in Brzostek"
     },
     {
      "rid": "b-1901-25",
@@ -18864,7 +18864,7 @@
     {
      "rid": "m-1906-10",
      "role": "Groom",
-     "text": "Salamon Schonwetter, born in Zawadka ad Brzostek, innkeeper and resident there, son of Leiba Schonwetter, unemployed, and the deceased Chana nee Korzenik"
+     "text": "Salamon Schonwetter, born in Zawadka ad Brzostek, tavern keeper and resident there, son of Leiba Schonwetter, unemployed, and the deceased Chana nee Korzenik"
     }
    ],
    "surnames": [
@@ -23649,7 +23649,7 @@
     {
      "rid": "b-1900-15",
      "role": "Father",
-     "text": "Leib Meer, innkeeper in Globikowa"
+     "text": "Leib Meer, tavern keeper in Globikowa"
     },
     {
      "rid": "b-1902-5",
@@ -23659,12 +23659,12 @@
     {
      "rid": "m-1902-2",
      "role": "Groom",
-     "text": "Leib Meer, born and living in Głobikówka, innkeeper, son of Jojna Meer, a former innkeeper there, and Matla, nee Friedman"
+     "text": "Leib Meer, born and living in Głobikówka, tavern keeper, son of Jojna Meer, a former tavern keeper there, and Matla, nee Friedman"
     },
     {
      "rid": "m-1905-2",
      "role": "Groom",
-     "text": "Leib Meer, born in Głobikowa, leaseholder of the liquor concession there, son of deceased Jonasz Meer and Matla nee Friedman, former innkeepers there"
+     "text": "Leib Meer, born in Głobikowa, leaseholder of the liquor concession there, son of deceased Jonasz Meer and Matla nee Friedman, former tavern keepers there"
     }
    ],
    "surnames": [
@@ -23833,27 +23833,27 @@
     {
      "rid": "b-1894-8",
      "role": "Mother",
-     "text": "Yehudit, daughter or the late Wolf and Pessel Wurzel, former innkeepers in Głobikówka"
+     "text": "Yehudit, daughter or the late Wolf and Pessel Wurzel, former tavern keepers in Głobikówka"
     },
     {
      "rid": "b-1900-15",
      "role": "Mother",
-     "text": "Yehudit, daughter of the late Wolf and Pessel Wurzel, former innkeepers in Globikowa"
+     "text": "Yehudit, daughter of the late Wolf and Pessel Wurzel, former tavern keepers in Globikowa"
     },
     {
      "rid": "b-1902-5",
      "role": "Mother",
-     "text": "Yehudit, daughter of the late Wolf Wurzel, former innkeeper in Globikowa, and Pessel nee Kranz"
+     "text": "Yehudit, daughter of the late Wolf Wurzel, former tavern keeper in Globikowa, and Pessel nee Kranz"
     },
     {
      "rid": "m-1902-2",
      "role": "Bride",
-     "text": "Hudesa Kranz, called Wurzel, born in Głobikówka, daughter of the deceased Wolf Wurzel, a former innkeeper in Głobikówka, and Pesla, née Kranz."
+     "text": "Hudesa Kranz, called Wurzel, born in Głobikówka, daughter of the deceased Wolf Wurzel, a former tavern keeper in Głobikówka, and Pesla, née Kranz."
     },
     {
      "rid": "d-1903-5",
      "role": "The deceased",
-     "text": "Yehudit Meer, wife of Leib Meer, propinator in Globikowka, daughter of Wolf Wurzel and Pessel, former innkeepers in Globikowka"
+     "text": "Yehudit Meer, wife of Leib Meer, propinator in Globikowka, daughter of Wolf Wurzel and Pessel, former tavern keepers in Globikowka"
     }
    ],
    "surnames": [
@@ -23899,7 +23899,7 @@
   "birth_date": null,
   "death_date": "before 2 Apr 1894 (deceased)",
   "marriage_dates": null,
-  "occupations": "innkeeper; former holder of the alcohol monopoly in Globikowa",
+  "occupations": "tavern keeper; former holder of the alcohol monopoly in Globikowa",
   "residences": "Globikowa",
   "status": null,
   "birth_legitimacy": null,
@@ -24218,7 +24218,7 @@
     {
      "rid": "d-1894-10",
      "role": "The deceased",
-     "text": "Moses Zeughauser, son of Judah and Rachel Zeughauser, innkeepers in Januszkowice"
+     "text": "Moses Zeughauser, son of Judah and Rachel Zeughauser, tavern keepers in Januszkowice"
     }
    ],
    "surnames": [
@@ -24319,7 +24319,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "8 August 1900 in Brzostek; 8 Aug 1900 in Brzostek (civil)",
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Januszkowice",
   "status": "M",
   "birth_legitimacy": null,
@@ -24433,12 +24433,12 @@
     {
      "rid": "b-1894-9",
      "role": "Father",
-     "text": "Judah Zeughauser, innkeeper in Januszkowice"
+     "text": "Judah Zeughauser, tavern keeper in Januszkowice"
     },
     {
      "rid": "m-1900-12",
      "role": "Groom",
-     "text": "Juda Zeighäuser, born in Ryglice, Imperial-Royal Starost of Tarnów, innkeeper in Januszkowice and residing there, son of Mojzesz Hersch Zeighäuser, former leaseholder of the liquor concession in Januszkowice and Selda nee Glassner"
+     "text": "Juda Zeighäuser, born in Ryglice, Imperial-Royal Starost of Tarnów, tavern keeper in Januszkowice and residing there, son of Mojzesz Hersch Zeighäuser, former leaseholder of the liquor concession in Januszkowice and Selda nee Glassner"
     }
    ],
    "surnames": [
@@ -26006,7 +26006,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Zawadka Brzostecka",
   "status": null,
   "birth_legitimacy": null,
@@ -26059,7 +26059,7 @@
     {
      "rid": "b-1894-13",
      "role": "Father",
-     "text": "Marcus Turk innkeeper in Zawadka Brzostecka"
+     "text": "Marcus Turk tavern keeper in Zawadka Brzostecka"
     }
    ],
    "surnames": [
@@ -29221,37 +29221,37 @@
     {
      "rid": "b-1894-18",
      "role": "Mother",
-     "text": "Reisla, daughter of Nachman Fichner, innkeeper in Błaszkowa, and the late Mirla nee Rubel"
+     "text": "Reisla, daughter of Nachman Fichner, tavern keeper in Błaszkowa, and the late Mirla nee Rubel"
     },
     {
      "rid": "b-1896-15",
      "role": "Mother",
-     "text": "Reisla, daughter of Nachman Fichner and Mirla nee Rubel, innkeepers in Błaszkowa"
+     "text": "Reisla, daughter of Nachman Fichner and Mirla nee Rubel, tavern keepers in Błaszkowa"
     },
     {
      "rid": "b-1899-39",
      "role": "Mother",
-     "text": "Malka Reisla, called Reisla, daughter of Nachman Fichner, innkeeper in Blaszkowa, and the late Mirla nee Rubel"
+     "text": "Malka Reisla, called Reisla, daughter of Nachman Fichner, tavern keeper in Blaszkowa, and the late Mirla nee Rubel"
     },
     {
      "rid": "m-1901-19",
      "role": "Bride",
-     "text": "Malka Reisla, called Reisla, Rubel, called Fichner, unemployed, born in Błaszkowa, daughter of Nachman Fichner and Blessed Mirla née Rubel, innkeepers in Błaszkowa"
+     "text": "Malka Reisla, called Reisla, Rubel, called Fichner, unemployed, born in Błaszkowa, daughter of Nachman Fichner and Blessed Mirla née Rubel, tavern keepers in Błaszkowa"
     },
     {
      "rid": "b-1902-1",
      "role": "Mother",
-     "text": "Reisla Malka, daughter of Nachman Fichner, innkeeper in Blaszkowa, and the late Mirla nee Rubel"
+     "text": "Reisla Malka, daughter of Nachman Fichner, tavern keeper in Blaszkowa, and the late Mirla nee Rubel"
     },
     {
      "rid": "b-1904-19",
      "role": "Mother",
-     "text": "Reisla, daughter of Nachman Fichner, innkeeper in Blaszkowa, and the late Mirla nee Rubel"
+     "text": "Reisla, daughter of Nachman Fichner, tavern keeper in Blaszkowa, and the late Mirla nee Rubel"
     },
     {
      "rid": "b-1907-11",
      "role": "Mother",
-     "text": "Malka Reisla (goes by Reisla), daughter of Nachman Fichner, innkeeper in Blaszkowa, and the late Mirla nee Rubel"
+     "text": "Malka Reisla (goes by Reisla), daughter of Nachman Fichner, tavern keeper in Blaszkowa, and the late Mirla nee Rubel"
     },
     {
      "rid": "b-1911-25",
@@ -29297,7 +29297,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Blaszkowa",
   "status": null,
   "birth_legitimacy": null,
@@ -30151,7 +30151,7 @@
     {
      "rid": "d-1921-10",
      "role": "The deceased",
-     "text": "Malka Korzenik, widow of the late Jacob Korzenik, innkeeper in Czermna"
+     "text": "Malka Korzenik, widow of the late Jacob Korzenik, tavern keeper in Czermna"
     }
    ],
    "surnames": [
@@ -30875,12 +30875,12 @@
     {
      "rid": "b-1910-9",
      "role": "Mother",
-     "text": "Shayndel, daughter of late Isaac Lobel and late Zelda nee Glassner, former innkeepers in Januszkowice"
+     "text": "Shayndel, daughter of late Isaac Lobel and late Zelda nee Glassner, former tavern keepers in Januszkowice"
     },
     {
      "rid": "b-1911-13",
      "role": "Mother",
-     "text": "Shayndel, daughter of the late Isaac Lobel, former innkeeper in Januszkowice, and the late Zelda nee Glassner"
+     "text": "Shayndel, daughter of the late Isaac Lobel, former tavern keeper in Januszkowice, and the late Zelda nee Glassner"
     }
    ],
    "surnames": [
@@ -31022,7 +31022,7 @@
     {
      "rid": "m-1900-11",
      "role": "Groom",
-     "text": "Izaak Löbel, born in Sędziszów, leaseholder of the liquor concession in Januszkowice and residing there, son of Joseph and Judesa Löbel, former innkeepers in Sędziszów."
+     "text": "Izaak Löbel, born in Sędziszów, leaseholder of the liquor concession in Januszkowice and residing there, son of Joseph and Judesa Löbel, former tavern keepers in Sędziszów."
     },
     {
      "rid": "d-1907-8",
@@ -31386,12 +31386,12 @@
     {
      "rid": "b-1901-6",
      "role": "Father",
-     "text": "Moses Samul, innkeeper in Kamienica Gorna"
+     "text": "Moses Samul, tavern keeper in Kamienica Gorna"
     },
     {
      "rid": "m-1906-4",
      "role": "Groom",
-     "text": "Moses Samul, born in Kamienica Górna and a resident innkeeper, son of Naftali Samul and deceased Freida Liba, called Liba, nee Herman"
+     "text": "Moses Samul, born in Kamienica Górna and a resident tavern keeper, son of Naftali Samul and deceased Freida Liba, called Liba, nee Herman"
     }
    ],
    "surnames": [
@@ -35470,7 +35470,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "3 Jun 1893 in Brzostek",
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Klecie",
   "status": null,
   "birth_legitimacy": null,
@@ -35667,7 +35667,7 @@
     {
      "rid": "b-1894-33",
      "role": "Father",
-     "text": "Leib Tager, innkeeper in Klecie"
+     "text": "Leib Tager, tavern keeper in Klecie"
     },
     {
      "rid": "b-1911-7",
@@ -35850,7 +35850,7 @@
     {
      "rid": "d-1902-4",
      "role": "The deceased",
-     "text": "Deicha Tager, nee Zweig, wife of Leib Tager, innkeeper in Klecie"
+     "text": "Deicha Tager, nee Zweig, wife of Leib Tager, tavern keeper in Klecie"
     }
    ],
    "surnames": [
@@ -37908,7 +37908,7 @@
   "birth_date": "c. 1866-1867 (age 38 at m-1905-5 → ~1867; age 66 at d-1932-4 → ~1866; off-by-one within margin)",
   "death_date": "23 Mar 1932",
   "marriage_dates": "11 Sep 1905 in Brzostek (civil); 11 September 1905 in Brzostek",
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Siedliska",
   "status": "M",
   "birth_legitimacy": null,
@@ -38049,7 +38049,7 @@
     {
      "rid": "b-1895-6",
      "role": "Father",
-     "text": "Mendel Bein, innkeeper in Siedliska"
+     "text": "Mendel Bein, tavern keeper in Siedliska"
     },
     {
      "rid": "b-1905-9",
@@ -39720,12 +39720,12 @@
     {
      "rid": "b-1895-13",
      "role": "Mother",
-     "text": "Hannah, daughter of Hersch Herman, former innkeeper in Kamienica Gorna, and Malka nee unknown"
+     "text": "Hannah, daughter of Hersch Herman, former tavern keeper in Kamienica Gorna, and Malka nee unknown"
     },
     {
      "rid": "m-1907-5",
      "role": "Bride",
-     "text": "Chana Herman, without a profession in Kamienica Górna, daughter of the deceased Hersch and deceased Malka Herman, former innkeepers in Kamienica Górna"
+     "text": "Chana Herman, without a profession in Kamienica Górna, daughter of the deceased Hersch and deceased Malka Herman, former tavern keepers in Kamienica Górna"
     },
     {
      "rid": "d-1921-4",
@@ -39775,7 +39775,7 @@
   "birth_date": null,
   "death_date": "deceased",
   "marriage_dates": null,
-  "occupations": "innkeeper / tenant of propination",
+  "occupations": "tavern keeper / tenant of propination",
   "residences": "Kamienica Gorna",
   "status": null,
   "birth_legitimacy": null,
@@ -40029,7 +40029,7 @@
   "birth_date": "c. 1869 (age 60 at death 1929)",
   "death_date": "29 Jan 1929",
   "marriage_dates": "17 Apr 1893",
-  "occupations": "innkeeper; owner of real estate; merchant",
+  "occupations": "tavern keeper; owner of real estate; merchant",
   "residences": "Brzostek",
   "status": "W",
   "birth_legitimacy": null,
@@ -40258,7 +40258,7 @@
     {
      "rid": "d-1929-4",
      "role": "The deceased",
-     "text": "Samuel Moses Konigsdorf, innkeeper and owner of real estate in Brzostek"
+     "text": "Samuel Moses Konigsdorf, tavern keeper and owner of real estate in Brzostek"
     }
    ],
    "surnames": [
@@ -42445,7 +42445,7 @@
     {
      "rid": "m-1901-17",
      "role": "Bride",
-     "text": "Hene Freiberger, recte Bakon, was born in Blaszkowa and lived here, unemployed, daughter of Abraham Izaak, called Izaak, Freiberger, an innkeeper in Blaszkowa, and Serla, née Bakon."
+     "text": "Hene Freiberger, recte Bakon, was born in Blaszkowa and lived here, unemployed, daughter of Abraham Izaak, called Izaak, Freiberger, an tavern keeper in Blaszkowa, and Serla, née Bakon."
     },
     {
      "rid": "d-1936-1",
@@ -42496,7 +42496,7 @@
   "birth_date": "c. 1840 (age 85 at death 1925)",
   "death_date": "9 Apr 1925",
   "marriage_dates": "11 December 1901 in Brzostek; 11 Dec 1901 in Brzostek (civil)",
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Blaszkowa",
   "status": "M",
   "birth_legitimacy": null,
@@ -42658,12 +42658,12 @@
     {
      "rid": "m-1901-18",
      "role": "Groom",
-     "text": "Abraham Izaak, called Izaak, Freiberger, born and residing in Błaszkowa, innkeeper, son of the late Leiser Freiberger, a former innkeeper in Błaszkowa, and Freida, nee Fornal"
+     "text": "Abraham Izaak, called Izaak, Freiberger, born and residing in Błaszkowa, tavern keeper, son of the late Leiser Freiberger, a former tavern keeper in Błaszkowa, and Freida, nee Fornal"
     },
     {
      "rid": "d-1925-2",
      "role": "The deceased",
-     "text": "Abraham Isaac Freiberger, innkeeper in Blaszkowa"
+     "text": "Abraham Isaac Freiberger, tavern keeper in Blaszkowa"
     }
    ],
    "surnames": [
@@ -44827,7 +44827,7 @@
     {
      "rid": "m-1900-22",
      "role": "Groom",
-     "text": "Nusym Weintraub, born and living in Grudna Gorna, owner of a landholding there, son of Fischl and Mindla Weintraub, former innkeepers in Grudna Gorna"
+     "text": "Nusym Weintraub, born and living in Grudna Gorna, owner of a landholding there, son of Fischl and Mindla Weintraub, former tavern keepers in Grudna Gorna"
     },
     {
      "rid": "b-1905-22",
@@ -47202,7 +47202,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "12 Jan 1898 in Brzostek; 12 January 1898 in Brzostek; 12 Jan 1898 in Brzostek (civil)",
-  "occupations": "owner of a spice or colonial goods stall (1896-1904); owner of a mixed goods stall (1902-1913); industrialist (1909); grain dealer (1911, 1924); egg dealer (1912); merchant (1913, 1926)",
+  "occupations": "owner of a spice stall (1896-1904); owner of a mixed goods stall (1902-1913); later grain dealer and merchant (1911-1926)",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -48046,7 +48046,7 @@
     {
      "rid": "m-1899-1",
      "role": "Groom",
-     "text": "Izaak Fichner, tailor, born in Blaszkowa, residing in Brzostek, son of Nachman Fichner, innkeeper in Blaszkowa, and Mirla nee Rubel"
+     "text": "Izaak Fichner, tailor, born in Blaszkowa, residing in Brzostek, son of Nachman Fichner, tavern keeper in Blaszkowa, and Mirla nee Rubel"
     },
     {
      "rid": "b-1900-23",
@@ -48198,7 +48198,7 @@
     {
      "rid": "b-1896-3",
      "role": "Mother",
-     "text": "Feige, daughter of David Low, innkeeper in Gorlice, and Bluma Rivka nee unknown"
+     "text": "Feige, daughter of David Low, tavern keeper in Gorlice, and Bluma Rivka nee unknown"
     },
     {
      "rid": "m-1899-1",
@@ -48208,17 +48208,17 @@
     {
      "rid": "b-1900-23",
      "role": "Mother",
-     "text": "Feige, daughter of David Low, innkeeper in Gorlice, and Bluma Rivka nee Malz"
+     "text": "Feige, daughter of David Low, tavern keeper in Gorlice, and Bluma Rivka nee Malz"
     },
     {
      "rid": "b-1905-15",
      "role": "Mother",
-     "text": "Feige, daughter of David Leser Low, called Leser, innkeeper in Magdalena near Gorlice, and Bluma Rivka, called Rivka, nee unknown"
+     "text": "Feige, daughter of David Leser Low, called Leser, tavern keeper in Magdalena near Gorlice, and Bluma Rivka, called Rivka, nee unknown"
     },
     {
      "rid": "b-1908-29",
      "role": "Mother",
-     "text": "Feige, daughter of David Low, innkeeper in Gorlice, and Bluma Rivka, called Rivka, nee unknown"
+     "text": "Feige, daughter of David Low, tavern keeper in Gorlice, and Bluma Rivka, called Rivka, nee unknown"
     },
     {
      "rid": "d-1927-6",
@@ -48268,7 +48268,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Gorlice",
   "status": null,
   "birth_legitimacy": null,
@@ -50763,7 +50763,7 @@
     {
      "rid": "b-1916-7",
      "role": "Mother",
-     "text": "Ruchla, daughter of Joseph Offner, former innkeeper in Bukowa, and Chaya nee Krautblatt"
+     "text": "Ruchla, daughter of Joseph Offner, former tavern keeper in Bukowa, and Chaya nee Krautblatt"
     }
    ],
    "surnames": [
@@ -50870,7 +50870,7 @@
     {
      "rid": "m-1900-21",
      "role": "Groom",
-     "text": "Jozef Offner, born in Bukowa and residing here, tenant of the manor farm there, son of deceased parents Eisik Offner, former innkeeper in Bukowa, and Nichy nee Meth"
+     "text": "Jozef Offner, born in Bukowa and residing here, tenant of the manor farm there, son of deceased parents Eisik Offner, former tavern keeper in Bukowa, and Nichy nee Meth"
     }
    ],
    "surnames": [
@@ -52895,7 +52895,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "10 Nov 1897 in Brzostek (civil); 10 November 1897 in Brzostek",
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -52981,12 +52981,12 @@
     {
      "rid": "b-1896-24",
      "role": "Father",
-     "text": "Moses Goldberg, innkeeper in Brzostek"
+     "text": "Moses Goldberg, tavern keeper in Brzostek"
     },
     {
      "rid": "m-1897-5",
      "role": "Groom",
-     "text": "Mojzesz Goldberg, born at No. 37 in Rzepiennik Strzyzewski, innkeeper in Brzostek, son of Baruch Goldberg, merchant in Rzepiennik Strzyzewski, and Freidli nee Spitz"
+     "text": "Mojzesz Goldberg, born at No. 37 in Rzepiennik Strzyzewski, tavern keeper in Brzostek, son of Baruch Goldberg, merchant in Rzepiennik Strzyzewski, and Freidli nee Spitz"
     }
    ],
    "surnames": [
@@ -53788,12 +53788,12 @@
     {
      "rid": "m-1902-4",
      "role": "Groom",
-     "text": "Markus Dawid, called Dawid, Hirsch, innkeeper in Brzostek, born in Bistuszowa ad Ryglice, son of the deceased Joel Hirsch, former tenant of the liquor concession in Bistuszowa and Ryfka, nee Stecher, his living mother"
+     "text": "Markus Dawid, called Dawid, Hirsch, tavern keeper in Brzostek, born in Bistuszowa ad Ryglice, son of the deceased Joel Hirsch, former tenant of the liquor concession in Bistuszowa and Ryfka, nee Stecher, his living mother"
     },
     {
      "rid": "d-1918-9",
      "role": "The deceased",
-     "text": "Marcus David Hirsch, innkeeper in Brzostek, son of Joel Hirsch innkeeper in Bistuszowa near Ryglice"
+     "text": "Marcus David Hirsch, tavern keeper in Brzostek, son of Joel Hirsch tavern keeper in Bistuszowa near Ryglice"
     }
    ],
    "surnames": [
@@ -55021,7 +55021,7 @@
     {
      "rid": "b-1896-34",
      "role": "Mother",
-     "text": "Sarah, daughter of Chaskel Krauc, innkeeper in Jodlowa, and Rosa nee unknown"
+     "text": "Sarah, daughter of Chaskel Krauc, tavern keeper in Jodlowa, and Rosa nee unknown"
     }
    ],
    "surnames": [
@@ -55061,7 +55061,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Jodlowa",
   "status": null,
   "birth_legitimacy": null,
@@ -59179,7 +59179,7 @@
     {
      "rid": "b-1897-12",
      "role": "Mother",
-     "text": "Hinde, daughter of Isaac and Basia Turk, innkeepers in Zawadka Brzostecka"
+     "text": "Hinde, daughter of Isaac and Basia Turk, tavern keepers in Zawadka Brzostecka"
     },
     {
      "rid": "b-1899-42",
@@ -59223,7 +59223,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Zawadka Brzostecka",
+  "occupations": "tavern keeper in Zawadka Brzostecka",
   "residences": "Zawadka Brzostecka",
   "status": null,
   "birth_legitimacy": null,
@@ -61068,12 +61068,12 @@
     {
      "rid": "b-1897-17",
      "role": "Mother",
-     "text": "Reisla, daughter of Jacob Sporn, innkeeper, and Shayndel nee unknown"
+     "text": "Reisla, daughter of Jacob Sporn, tavern keeper, and Shayndel nee unknown"
     },
     {
      "rid": "m-1898-1",
      "role": "Bride",
-     "text": "Reisla, daughter of Jakob Sporn, an innkeeper in Hutanka [probably Huta Przedborska], Imperial-Royal district of Kolbuszowa, and Scheindli née Keller."
+     "text": "Reisla, daughter of Jakob Sporn, an tavern keeper in Hutanka [probably Huta Przedborska], Imperial-Royal district of Kolbuszowa, and Scheindli née Keller."
     }
    ],
    "surnames": [
@@ -61113,7 +61113,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": null,
   "status": null,
   "birth_legitimacy": null,
@@ -61822,12 +61822,12 @@
     {
      "rid": "b-1897-18",
      "role": "Mother",
-     "text": "Malka Perla, daughter of Leib Tager, innkeeper in Klecie, and Dacha nee Zweig"
+     "text": "Malka Perla, daughter of Leib Tager, tavern keeper in Klecie, and Dacha nee Zweig"
     },
     {
      "rid": "b-1900-10",
      "role": "Mother",
-     "text": "Malka Perla, called Perla, daughter of Leib Tager, innkeeper in Klecie, and Dacha nee Zweig"
+     "text": "Malka Perla, called Perla, daughter of Leib Tager, tavern keeper in Klecie, and Dacha nee Zweig"
     },
     {
      "rid": "m-1900-6",
@@ -61837,17 +61837,17 @@
     {
      "rid": "b-1904-32",
      "role": "Mother",
-     "text": "Malka Perla, called Perla, daughter of Leib Tager, innkeeper in Klecie, and the late Dacha nee Zweig"
+     "text": "Malka Perla, called Perla, daughter of Leib Tager, tavern keeper in Klecie, and the late Dacha nee Zweig"
     },
     {
      "rid": "b-1907-39",
      "role": "Mother",
-     "text": "Malka Perla, called Perla, daughter of Leib Tager, innkeeper in Klecie, and the late Dajcha nee Zweig"
+     "text": "Malka Perla, called Perla, daughter of Leib Tager, tavern keeper in Klecie, and the late Dajcha nee Zweig"
     },
     {
      "rid": "b-1909-12",
      "role": "Mother",
-     "text": "Malka Perla, called Perla, daughter of Leib Tager, innkeeper in Klecie, and Deicha nee Zweig"
+     "text": "Malka Perla, called Perla, daughter of Leib Tager, tavern keeper in Klecie, and Deicha nee Zweig"
     },
     {
      "rid": "b-1913-15",
@@ -64845,7 +64845,7 @@
     {
      "rid": "b-1897-27",
      "role": "Mother",
-     "text": "Yehudit, daughter of Marcus David Hirsch, called David, innkeeper in Brzostek, and Hendla nee Sperber"
+     "text": "Yehudit, daughter of Marcus David Hirsch, called David, tavern keeper in Brzostek, and Hendla nee Sperber"
     },
     {
      "rid": "b-1899-16",
@@ -64870,17 +64870,17 @@
     {
      "rid": "b-1910-7",
      "role": "Mother",
-     "text": "Yehudit, daughter of Marcus David Hirsch, called David, innkeeper in Brzostek, and Hendela nee Sperber"
+     "text": "Yehudit, daughter of Marcus David Hirsch, called David, tavern keeper in Brzostek, and Hendela nee Sperber"
     },
     {
      "rid": "b-1916-12",
      "role": "Mother",
-     "text": "Yehudit, daughter of Marcus David Hirsch, innkeeper in Brzostek, and Hendela nee Sperber"
+     "text": "Yehudit, daughter of Marcus David Hirsch, tavern keeper in Brzostek, and Hendela nee Sperber"
     },
     {
      "rid": "b-1917-14",
      "role": "Mother",
-     "text": "Yehudit, daughter of Marcus David Hirsch, innkeeper in Brzostek, and the late Hendela nee Sperber"
+     "text": "Yehudit, daughter of Marcus David Hirsch, tavern keeper in Brzostek, and the late Hendela nee Sperber"
     }
    ],
    "surnames": [
@@ -65110,7 +65110,7 @@
     {
      "rid": "m-1916-4",
      "role": "Groom",
-     "text": "Israel Herman, born in Kamienica Górna, industrialist residing in Blaszkowa, son of the deceased Mojzesz and Chaja Herman, former innkeepers in Kamienica Górna"
+     "text": "Israel Herman, born in Kamienica Górna, industrialist residing in Blaszkowa, son of the deceased Mojzesz and Chaja Herman, former tavern keepers in Kamienica Górna"
     }
    ],
    "surnames": [
@@ -65231,17 +65231,17 @@
     {
      "rid": "b-1907-5",
      "role": "Mother",
-     "text": "Freida daughter of Abraham Isaac Freiberger, called Isaac, innkeeper in Blaszkowa and Serla nee Bakon"
+     "text": "Freida daughter of Abraham Isaac Freiberger, called Isaac, tavern keeper in Blaszkowa and Serla nee Bakon"
     },
     {
      "rid": "b-1909-4",
      "role": "Mother",
-     "text": "Freida, daughter of Abraham Isaac Freiberger, called Isaac, innkeeper in Blaszkowa, and Serla nee Bakon"
+     "text": "Freida, daughter of Abraham Isaac Freiberger, called Isaac, tavern keeper in Blaszkowa, and Serla nee Bakon"
     },
     {
      "rid": "m-1916-4",
      "role": "Bride",
-     "text": "Freida Freiberger, without profession, residing in Błaszkowa, daughter of Abraham Izaak, called Izaak, and Serlie Freiberger, former innkeepers in Błaszkowa"
+     "text": "Freida Freiberger, without profession, residing in Błaszkowa, daughter of Abraham Izaak, called Izaak, and Serlie Freiberger, former tavern keepers in Błaszkowa"
     }
    ],
    "surnames": [
@@ -68245,22 +68245,22 @@
     {
      "rid": "b-1898-15",
      "role": "Mother",
-     "text": "Miriam, daughter of Nachman Fichner, innkeeper in Błaszkowa, and Mirla nee Rubel"
+     "text": "Miriam, daughter of Nachman Fichner, tavern keeper in Błaszkowa, and Mirla nee Rubel"
     },
     {
      "rid": "m-1900-8",
      "role": "Bride",
-     "text": "Maria Fichner, born in Blaszkowa and living here, daughter of Nachman Fichner, an innkeeper in Blaszkowa, and Mirla née Rubel."
+     "text": "Maria Fichner, born in Blaszkowa and living here, daughter of Nachman Fichner, an tavern keeper in Blaszkowa, and Mirla née Rubel."
     },
     {
      "rid": "b-1901-27",
      "role": "Mother",
-     "text": "Miriam, daughter of Nachman Fichner, innkeeper in Blaszkowa, and Mirla nee Rubel"
+     "text": "Miriam, daughter of Nachman Fichner, tavern keeper in Blaszkowa, and Mirla nee Rubel"
     },
     {
      "rid": "b-1904-15",
      "role": "Mother",
-     "text": "Miriam, daughter of Nachman Fichner, innkeeper in Blaszkowa, and the late Mirla nee Rubel"
+     "text": "Miriam, daughter of Nachman Fichner, tavern keeper in Blaszkowa, and the late Mirla nee Rubel"
     },
     {
      "rid": "b-1912-8",
@@ -68536,12 +68536,12 @@
     {
      "rid": "b-1898-17",
      "role": "Mother",
-     "text": "Hinde, daughter of Kalman Grossbard, innkeeper in Zabno, and Teme Grossbard"
+     "text": "Hinde, daughter of Kalman Grossbard, tavern keeper in Zabno, and Teme Grossbard"
     },
     {
      "rid": "b-1901-25",
      "role": "Mother",
-     "text": "Hinde, daughter of Kelman Grossbard, innkeeper in Zabno, and Teme nee Binenstock"
+     "text": "Hinde, daughter of Kelman Grossbard, tavern keeper in Zabno, and Teme nee Binenstock"
     }
    ],
    "surnames": [
@@ -68574,7 +68574,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Zabno",
+  "occupations": "tavern keeper in Zabno",
   "residences": "Zabno",
   "status": null,
   "birth_legitimacy": null,
@@ -68920,7 +68920,7 @@
     {
      "rid": "m-1901-12",
      "role": "Groom",
-     "text": "Symche Jozef, called Jozef, Bodner, called Weintraub, born in Grudna Gorna, House No. 82, residing in Brzostek, industrialist, son of the ritual marriage of Efroim Fischl, called Fishl, Weintraub, former innkeeper in Grudna Gorna and Mindla nee Berger [sic, = Bodner]"
+     "text": "Symche Jozef, called Jozef, Bodner, called Weintraub, born in Grudna Gorna, House No. 82, residing in Brzostek, industrialist, son of the ritual marriage of Efroim Fischl, called Fishl, Weintraub, former tavern keeper in Grudna Gorna and Mindla nee Berger [sic, = Bodner]"
     }
    ],
    "surnames": [
@@ -69037,7 +69037,7 @@
     {
      "rid": "b-1898-18",
      "role": "Mother",
-     "text": "Esther, daughter of Aron List, innkeeper in Brzeziny, and Feige nee Berger"
+     "text": "Esther, daughter of Aron List, tavern keeper in Brzeziny, and Feige nee Berger"
     },
     {
      "rid": "m-1901-12",
@@ -69083,7 +69083,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Brzeziny",
+  "occupations": "tavern keeper in Brzeziny",
   "residences": "Brzeziny",
   "status": null,
   "birth_legitimacy": null,
@@ -70271,7 +70271,7 @@
     {
      "rid": "d-1912-9",
      "role": "The deceased",
-     "text": "Aba Wrobel, tobacconist in Brzostek son of Samuel Wrobel, innkeeper in Olpiny"
+     "text": "Aba Wrobel, tobacconist in Brzostek son of Samuel Wrobel, tavern keeper in Olpiny"
     }
    ],
    "surnames": [
@@ -71027,7 +71027,7 @@
     {
      "rid": "m-1900-9",
      "role": "Groom",
-     "text": "Leib Schneps, born in Podgrodzie, miller, tenant of the mill in Januszkowice and there residing, son of Mojżesz Schneps, a former innkeeper in Podgrodzie, and Chaja Ruchla, called Ruchla, nee Miller"
+     "text": "Leib Schneps, born in Podgrodzie, miller, tenant of the mill in Januszkowice and there residing, son of Mojżesz Schneps, a former tavern keeper in Podgrodzie, and Chaja Ruchla, called Ruchla, nee Miller"
     },
     {
      "rid": "b-1907-14",
@@ -71170,7 +71170,7 @@
     {
      "rid": "b-1900-18",
      "role": "Mother",
-     "text": "Malka, daughter of Usher Schneps, innkeeper in Podgrodzie, and Sarah Leah nee Schachter"
+     "text": "Malka, daughter of Usher Schneps, tavern keeper in Podgrodzie, and Sarah Leah nee Schachter"
     },
     {
      "rid": "m-1900-9",
@@ -71185,12 +71185,12 @@
     {
      "rid": "b-1905-8",
      "role": "Mother",
-     "text": "Malka, daughter of Usher Schneps, innkeeper in Podgrodzie, and Sarah nee Schachter"
+     "text": "Malka, daughter of Usher Schneps, tavern keeper in Podgrodzie, and Sarah nee Schachter"
     },
     {
      "rid": "b-1907-14",
      "role": "Mother",
-     "text": "Malka daughter of Usher Schneps innkeeper in Podgrodzie and Sarah Leah nee Schachter"
+     "text": "Malka daughter of Usher Schneps tavern keeper in Podgrodzie and Sarah Leah nee Schachter"
     }
    ],
    "surnames": [
@@ -74702,7 +74702,7 @@
     {
      "rid": "b-1899-14",
      "role": "Mother",
-     "text": "Sarah Mindla, daughter of Abraham Isaac Freiberger, called Isaac, and Serla nee Bakon, innkeepers in Blaszkowa"
+     "text": "Sarah Mindla, daughter of Abraham Isaac Freiberger, called Isaac, and Serla nee Bakon, tavern keepers in Blaszkowa"
     },
     {
      "rid": "b-1912-2",
@@ -74712,7 +74712,7 @@
     {
      "rid": "b-1914-6",
      "role": "Mother",
-     "text": "Sarah Mindla Freiberger, unemployed in Brzostek, daughter of Abraham Isaac Freiberger, innkeeper in Blaszkowa, and Serla nee unknown"
+     "text": "Sarah Mindla Freiberger, unemployed in Brzostek, daughter of Abraham Isaac Freiberger, tavern keeper in Blaszkowa, and Serla nee unknown"
     },
     {
      "rid": "b-1916-19",
@@ -75141,22 +75141,17 @@
     {
      "rid": "b-1899-17",
      "role": "Father",
-     "text": "Moses Peretz Sperber, called Peretz, innkeeper in Gorzejowa"
+     "text": "Moses Peretz Sperber, called Peretz, tavern keeper in Gorzejowa"
     },
     {
      "rid": "m-1901-5",
      "role": "Groom",
-     "text": "Mojzesz Peretz, called Peretz, Tager, called Sperber, born in Siedliska and residing there, innkeeper, son of Estera Tager, called Sperber, owner of a farm in Siedliska"
+     "text": "Mojzesz Peretz, called Peretz, Tager, called Sperber, born in Siedliska and residing there, tavern keeper, son of Estera Tager, called Sperber, owner of a farm in Siedliska"
     },
     {
      "rid": "b-1902-17",
      "role": "Father",
      "text": "Moses Peretz Sperber, called Peretz, holder of the alcohol monopoly in Gorzejowa"
-    },
-    {
-     "rid": "b-1905-13",
-     "role": "Father",
-     "text": "Moses Peretz Sperber, called Peretz, tavern keeper in Gorzejowa"
     },
     {
      "rid": "b-1907-25",
@@ -76892,7 +76887,7 @@
     {
      "rid": "b-1899-24",
      "role": "Mother",
-     "text": "Miriam, daughter of Marcus Mahler, former innkeeper in Nawsie Brzosteckie, and Tzyna nee unknown"
+     "text": "Miriam, daughter of Marcus Mahler, former tavern keeper in Nawsie Brzosteckie, and Tzyna nee unknown"
     },
     {
      "rid": "m-1925-3",
@@ -76937,7 +76932,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "former innkeeper in Nawsie Brzosteckie",
+  "occupations": "former tavern keeper in Nawsie Brzosteckie",
   "residences": "Nawsie Brzosteckie",
   "status": null,
   "birth_legitimacy": null,
@@ -84728,22 +84723,22 @@
     {
      "rid": "b-1900-30",
      "role": "Mother",
-     "text": "Leah, daughter of Aron Goldman, innkeeper in Krakow, and Tauba nee Drobner"
+     "text": "Leah, daughter of Aron Goldman, tavern keeper in Krakow, and Tauba nee Drobner"
     },
     {
      "rid": "b-1902-28",
      "role": "Mother",
-     "text": "Leah, daughter of Aron Goldman, innkeeper in Krakow, and the late Tauba nee Drobner"
+     "text": "Leah, daughter of Aron Goldman, tavern keeper in Krakow, and the late Tauba nee Drobner"
     },
     {
      "rid": "b-1909-10",
      "role": "Mother",
-     "text": "Leah, daughter of the late Aron Goldman, former innkeeper in Krakow, and the late Tauba nee Drobner"
+     "text": "Leah, daughter of the late Aron Goldman, former tavern keeper in Krakow, and the late Tauba nee Drobner"
     },
     {
      "rid": "b-1916-17",
      "role": "Mother",
-     "text": "Leah, daughter of Aron Goldman innkeeper in Krakow, and Tauba nee Drobner"
+     "text": "Leah, daughter of Aron Goldman tavern keeper in Krakow, and Tauba nee Drobner"
     }
    ],
    "surnames": [
@@ -84776,7 +84771,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Krakow",
+  "occupations": "tavern keeper in Krakow",
   "residences": "Krakow",
   "status": "deceased",
   "birth_legitimacy": null,
@@ -87094,7 +87089,7 @@
   "birth_date": "c. Oct 1869 (age 31y5m at m-1901-7, born Wola Brzostecka)",
   "death_date": null,
   "marriage_dates": "1 Apr 1901 in Brzostek (civil)",
-  "occupations": "innkeeper in Wola Brzostecka (per all his records 1901-1911)",
+  "occupations": "tavern keeper in Wola Brzostecka (1901-1911)",
   "residences": "Wola Brzostecka (house 35)",
   "status": "M",
   "birth_legitimacy": null,
@@ -87205,17 +87200,17 @@
     {
      "rid": "b-1901-14",
      "role": "Father",
-     "text": "Samuel Kornfeld, innkeeper in Wola Brzostecka"
+     "text": "Samuel Kornfeld, tavern keeper in Wola Brzostecka"
     },
     {
      "rid": "m-1901-7",
      "role": "Groom",
-     "text": "Samuel Tum, called Kornfeld, born in Wola Brzostecka, an innkeeper who lived there, the son of Izaak Kornfeld, a former innkeeper of Wola Brzostecka, and Hena, nee Tum"
+     "text": "Samuel Tum, called Kornfeld, born in Wola Brzostecka, an tavern keeper who lived there, the son of Izaak Kornfeld, a former tavern keeper of Wola Brzostecka, and Hena, nee Tum"
     },
     {
      "rid": "b-1907-8",
      "role": "Father",
-     "text": "Samuel Kornfeld innkeeper in Wola Brzostecka"
+     "text": "Samuel Kornfeld tavern keeper in Wola Brzostecka"
     }
    ],
    "surnames": [
@@ -88157,7 +88152,7 @@
     {
      "rid": "m-1900-10",
      "role": "Groom",
-     "text": "Hersch Storch, born in Brzostek and residing here, son of Nechemia Storch, innkeeper, and Marya nee Sperber, residing in Brzostek."
+     "text": "Hersch Storch, born in Brzostek and residing here, son of Nechemia Storch, tavern keeper, and Marya nee Sperber, residing in Brzostek."
     },
     {
      "rid": "b-1901-21",
@@ -90909,12 +90904,12 @@
     {
      "rid": "b-1902-7",
      "role": "Mother",
-     "text": "Rivka, daughter of the late Hersch Leib Riner, called Leib, and Frymeta Haber, innkeepers in Widacz near Frysztak"
+     "text": "Rivka, daughter of the late Hersch Leib Riner, called Leib, and Frymeta Haber, tavern keepers in Widacz near Frysztak"
     },
     {
      "rid": "b-1905-19",
      "role": "Mother",
-     "text": "Rivka, daughter of the late Hersch Leib Riner, called Leib, former innkeeper in Widacz near Frysztak, and Frymeta nee unknown"
+     "text": "Rivka, daughter of the late Hersch Leib Riner, called Leib, former tavern keeper in Widacz near Frysztak, and Frymeta nee unknown"
     }
    ],
    "surnames": [
@@ -90949,7 +90944,7 @@
   "birth_date": null,
   "death_date": "before 9 Feb 1902",
   "marriage_dates": null,
-  "occupations": "innkeeper in Widacz near Frysztak",
+  "occupations": "tavern keeper in Widacz near Frysztak",
   "residences": "Widacz near Frysztak",
   "status": null,
   "birth_legitimacy": null,
@@ -91028,7 +91023,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Widacz near Frysztak",
   "status": null,
   "birth_legitimacy": null,
@@ -92151,7 +92146,7 @@
   "birth_date": "28 Dec 1878",
   "death_date": null,
   "marriage_dates": "1912-05-06 in Brzostek (civil)",
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Gorzejowa",
   "status": "M",
   "birth_legitimacy": null,
@@ -92473,7 +92468,7 @@
     {
      "rid": "d-1902-11",
      "role": "The deceased",
-     "text": "Chaim Kleinman, known as Sperber, son of Moses Peretz, called Peretz, and Hinde Kleinman, innkeepers in Gorzejowa"
+     "text": "Chaim Kleinman, known as Sperber, son of Moses Peretz, called Peretz, and Hinde Kleinman, tavern keepers in Gorzejowa"
     }
    ],
    "surnames": [
@@ -92627,7 +92622,7 @@
     {
      "rid": "m-1900-3",
      "role": "Groom",
-     "text": "Jozef Silberbart, recte Silberberg, born in Pielnia ad Sanok, unemployed, son of Wolf Silberbart, recte Silberberg, innkeeper in Pielnia, and Sara Poper, residing there"
+     "text": "Jozef Silberbart, recte Silberberg, born in Pielnia ad Sanok, unemployed, son of Wolf Silberbart, recte Silberberg, tavern keeper in Pielnia, and Sara Poper, residing there"
     },
     {
      "rid": "b-1902-18",
@@ -94342,12 +94337,12 @@
     {
      "rid": "b-1907-22",
      "role": "Mother",
-     "text": "Miriam, daughter of Marcus David Hirsch, called David, innkeeper in Brzostek and Hendela nee Sperber"
+     "text": "Miriam, daughter of Marcus David Hirsch, called David, tavern keeper in Brzostek and Hendela nee Sperber"
     },
     {
      "rid": "b-1909-6",
      "role": "Mother",
-     "text": "Miriam, daughter of Marcus David Hirsch, called David, innkeeper in Brzostek, and Hendela nee Sperber"
+     "text": "Miriam, daughter of Marcus David Hirsch, called David, tavern keeper in Brzostek, and Hendela nee Sperber"
     },
     {
      "rid": "b-1910-26",
@@ -95678,12 +95673,12 @@
     {
      "rid": "b-1904-12",
      "role": "Mother",
-     "text": "Tzilka, daughter of the late Kelman Sperber, former innkeeper in Siedliska, and Esther nee Tager"
+     "text": "Tzilka, daughter of the late Kelman Sperber, former tavern keeper in Siedliska, and Esther nee Tager"
     },
     {
      "rid": "b-1907-19",
      "role": "Mother",
-     "text": "Tzilka daughter of the late Kelman Sperber former innkeeper in Siedliska and Esther nee Tager"
+     "text": "Tzilka daughter of the late Kelman Sperber former tavern keeper in Siedliska and Esther nee Tager"
     },
     {
      "rid": "d-1910-7",
@@ -97514,7 +97509,7 @@
     {
      "rid": "b-1904-22",
      "role": "Mother",
-     "text": "Chaya Sarah, called Sarah, daughter of Chiel Ader, innkeeper in Czermna, and Hannah Beila, called Beila, nee Kleinman"
+     "text": "Chaya Sarah, called Sarah, daughter of Chiel Ader, tavern keeper in Czermna, and Hannah Beila, called Beila, nee Kleinman"
     },
     {
      "rid": "b-1907-29",
@@ -97534,12 +97529,12 @@
     {
      "rid": "b-1914-17",
      "role": "Mother",
-     "text": "Chaya Sarah, daughter of Chiel Ader, innkeeper in Brzostek, and Hannah Beila nee Tratner"
+     "text": "Chaya Sarah, daughter of Chiel Ader, tavern keeper in Brzostek, and Hannah Beila nee Tratner"
     },
     {
      "rid": "b-1917-17",
      "role": "Mother",
-     "text": "Chaya Sarah, called Sarah, daughter of Chiel Ader, innkeeper in Czermna, and Hannah Beila, called Beila, nee Tratner"
+     "text": "Chaya Sarah, called Sarah, daughter of Chiel Ader, tavern keeper in Czermna, and Hannah Beila, called Beila, nee Tratner"
     }
    ],
    "surnames": [
@@ -97580,7 +97575,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Czermna; tavern keeper in Brzostek (1914)",
+  "occupations": "tavern keeper in Czermna (1904-1917); leaseholder of propination in Czermna (1907-1909); tavern keeper in Brzostek (1914)",
   "residences": "Czermna; Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -98800,7 +98795,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "17 Jun 1902 in Chrzanow (civil)",
-  "occupations": "innkeeper in Brzostek; leaseholder of the propination (liquor concession); industrialist from 1909",
+  "occupations": "tavern keeper in Brzostek; leaseholder of the propination (liquor concession); industrialist from 1909",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -98922,7 +98917,7 @@
     {
      "rid": "b-1904-31",
      "role": "Father",
-     "text": "Pinkus Kurz, innkeeper in Brzostek"
+     "text": "Pinkus Kurz, tavern keeper in Brzostek"
     },
     {
      "rid": "b-1906-9",
@@ -99573,7 +99568,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Skurowa",
+  "occupations": "tavern keeper in Skurowa",
   "residences": "Skurowa",
   "status": null,
   "birth_legitimacy": null,
@@ -99646,17 +99641,17 @@
     {
      "rid": "b-1904-29",
      "role": "Father",
-     "text": "Simon Rimer innkeeper in Skurowa"
+     "text": "Simon Rimer tavern keeper in Skurowa"
     },
     {
      "rid": "b-1906-15",
      "role": "Father",
-     "text": "Simon Rimer, innkeeper in Skurowa"
+     "text": "Simon Rimer, tavern keeper in Skurowa"
     },
     {
      "rid": "b-1909-1",
      "role": "Father",
-     "text": "Simon Riemer, innkeeper in Skurowa"
+     "text": "Simon Riemer, tavern keeper in Skurowa"
     }
    ],
    "surnames": [
@@ -100039,7 +100034,7 @@
     {
      "rid": "d-1904-13",
      "role": "The deceased",
-     "text": "Mendel Lederer, illegitimate son of Simon Rimer, innkeeper in Skurowa, and his mother Rivka Lederer"
+     "text": "Mendel Lederer, illegitimate son of Simon Rimer, tavern keeper in Skurowa, and his mother Rivka Lederer"
     }
    ],
    "surnames": [
@@ -100539,32 +100534,32 @@
     {
      "rid": "b-1904-30",
      "role": "Mother",
-     "text": "Rachel, daughter of Baruch Just, innkeeper in Lubinko near Zmigrod, and Rivka nee unknown"
+     "text": "Rachel, daughter of Baruch Just, tavern keeper in Lubinko near Zmigrod, and Rivka nee unknown"
     },
     {
      "rid": "b-1907-1",
      "role": "Mother",
-     "text": "Rachel, daughter of the late Baruch Just, former innkeeper in Lubinko, and Rivka maiden name not given"
+     "text": "Rachel, daughter of the late Baruch Just, former tavern keeper in Lubinko, and Rivka maiden name not given"
     },
     {
      "rid": "b-1909-5",
      "role": "Mother",
-     "text": "Rachel, daughter of Baruch Just, former innkeeper in Lubienko near Zmigrod, and the late Rivka nee unknown"
+     "text": "Rachel, daughter of Baruch Just, former tavern keeper in Lubienko near Zmigrod, and the late Rivka nee unknown"
     },
     {
      "rid": "b-1912-9",
      "role": "Mother",
-     "text": "Rachel, daughter of Baruch Just, former innkeeper in Lubinko near Zmigrod, and the late Rivka nee unknown"
+     "text": "Rachel, daughter of Baruch Just, former tavern keeper in Lubinko near Zmigrod, and the late Rivka nee unknown"
     },
     {
      "rid": "b-1914-2",
      "role": "Mother",
-     "text": "Rachel, daughter of Baruch Just, former innkeeper in Lubienko and the late Rivka nee unknown"
+     "text": "Rachel, daughter of Baruch Just, former tavern keeper in Lubienko and the late Rivka nee unknown"
     },
     {
      "rid": "b-1916-6",
      "role": "Mother",
-     "text": "Rachel, daughter of Baruch Just, former innkeeper in Lubienko, and Rivka nee unknown"
+     "text": "Rachel, daughter of Baruch Just, former tavern keeper in Lubienko, and Rivka nee unknown"
     }
    ],
    "surnames": [
@@ -100598,7 +100593,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Lubinko near Zmigrod",
+  "occupations": "tavern keeper in Lubinko near Zmigrod",
   "residences": "Lubinko near Zmigrod",
   "status": null,
   "birth_legitimacy": null,
@@ -105067,7 +105062,7 @@
     {
      "rid": "d-1904-2",
      "role": "The deceased",
-     "text": "Resia Reiss, egg dealer, daughter of the deceased Solomon Kornfeld and Hannah Hirsch, former innkeepers in Brzostek"
+     "text": "Resia Reiss, egg dealer, daughter of the deceased Solomon Kornfeld and Hannah Hirsch, former tavern keepers in Brzostek"
     }
    ],
    "surnames": [
@@ -105712,7 +105707,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "12 Dec 1904 in Leki (civil)",
-  "occupations": "innkeeper in Januszkowice",
+  "occupations": "tavern keeper in Januszkowice",
   "residences": "Januszkowice",
   "status": null,
   "birth_legitimacy": null,
@@ -105827,7 +105822,7 @@
     {
      "rid": "b-1908-2",
      "role": "Father",
-     "text": "Mayer Lobel, innkeeper in Januszkowice"
+     "text": "Mayer Lobel, tavern keeper in Januszkowice"
     },
     {
      "rid": "b-1909-29",
@@ -107570,7 +107565,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "25 Feb 1902 in Siedliszczany near Baranow (civil); 25 Feb 1902 in Siedliszczany (civil)",
-  "occupations": "innkeeper in Blaszkowa",
+  "occupations": "tavern keeper in Blaszkowa",
   "residences": "Blaszkowa",
   "status": null,
   "birth_legitimacy": null,
@@ -107634,7 +107629,7 @@
     {
      "rid": "b-1906-12",
      "role": "Father",
-     "text": "Solomon Freiberger, innkeeper in Blaszkowa"
+     "text": "Solomon Freiberger, tavern keeper in Blaszkowa"
     }
    ],
    "surnames": [
@@ -109890,12 +109885,12 @@
     {
      "rid": "b-1906-21",
      "role": "Mother",
-     "text": "Rachel Leah called Leah, daughter of Simon Leiman, innkeeper in Globikowa, and Shayndel nee Denn"
+     "text": "Rachel Leah called Leah, daughter of Simon Leiman, tavern keeper in Globikowa, and Shayndel nee Denn"
     },
     {
      "rid": "b-1908-1",
      "role": "Mother",
-     "text": "Rachel Leah, called Leah, daughter of Simon Leiman, innkeeper in Globikowa, and Shayndel nee Denn"
+     "text": "Rachel Leah, called Leah, daughter of Simon Leiman, tavern keeper in Globikowa, and Shayndel nee Denn"
     },
     {
      "rid": "b-1912-12",
@@ -109933,7 +109928,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Globikowa",
+  "occupations": "tavern keeper in Globikowa",
   "residences": "Globikowa",
   "status": null,
   "birth_legitimacy": null,
@@ -110690,7 +110685,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": "8 August 1900 in Brzostek; 8 Aug 1900 in Brzostek (civil)",
-  "occupations": "innkeeper in Brzostek; merchant (1918)",
+  "occupations": "tavern keeper in Brzostek; merchant (1918)",
   "residences": "Brzostek",
   "status": "M",
   "birth_legitimacy": null,
@@ -110795,7 +110790,7 @@
     {
      "rid": "m-1900-13",
      "role": "Groom",
-     "text": "Kelman Birnbaum, born in Sędziszów, an innkeeper living in Brzostek, son of Mojżesz Birnbaum, a former industrialist in Sędziszów, and Sara nee König."
+     "text": "Kelman Birnbaum, born in Sędziszów, an tavern keeper living in Brzostek, son of Mojżesz Birnbaum, a former industrialist in Sędziszów, and Sara nee König."
     }
    ],
    "surnames": [
@@ -113965,17 +113960,17 @@
     {
      "rid": "b-1907-23",
      "role": "Mother",
-     "text": "Gittla, daughter of Marcus David Hirsch, called David, innkeeper in Brzostek and Hendela nee Sperber"
+     "text": "Gittla, daughter of Marcus David Hirsch, called David, tavern keeper in Brzostek and Hendela nee Sperber"
     },
     {
      "rid": "b-1908-23",
      "role": "Mother",
-     "text": "Gittla, daughter of Marcus David Hirsch, innkeeper in Brzostek, and Hendela nee Sperber"
+     "text": "Gittla, daughter of Marcus David Hirsch, tavern keeper in Brzostek, and Hendela nee Sperber"
     },
     {
      "rid": "b-1910-6",
      "role": "Mother",
-     "text": "Gittla, daughter of Marcus David Hirsch, called David, innkeeper in Brzostek, and Hendela nee Sperber"
+     "text": "Gittla, daughter of Marcus David Hirsch, called David, tavern keeper in Brzostek, and Hendela nee Sperber"
     },
     {
      "rid": "m-1910-5",
@@ -113990,7 +113985,7 @@
     {
      "rid": "b-1913-13",
      "role": "Mother",
-     "text": "Gittla, daughter of Marcus David Hirsch, innkeeper in Brzostek, Hendela nee Sperber"
+     "text": "Gittla, daughter of Marcus David Hirsch, tavern keeper in Brzostek, Hendela nee Sperber"
     }
    ],
    "surnames": [
@@ -115863,12 +115858,12 @@
     {
      "rid": "b-1907-33",
      "role": "Mother",
-     "text": "Feige, daughter of the late Samuel David Rothman, called David, former innkeeper in Gorzejowa, and Freida nee Roth"
+     "text": "Feige, daughter of the late Samuel David Rothman, called David, former tavern keeper in Gorzejowa, and Freida nee Roth"
     },
     {
      "rid": "m-1907-11",
      "role": "Bride",
-     "text": "Feige Rothman, born in Gorzejowa, daughter of the deceased Samuel Dawid, called Dawid, Rothman, a former innkeeper in Gorzejowa, and Freidla, née Roth"
+     "text": "Feige Rothman, born in Gorzejowa, daughter of the deceased Samuel Dawid, called Dawid, Rothman, a former tavern keeper in Gorzejowa, and Freidla, née Roth"
     },
     {
      "rid": "b-1909-17",
@@ -116879,7 +116874,7 @@
     {
      "rid": "b-1908-2",
      "role": "Mother",
-     "text": "Rachel, daughter of Leib Diamant, innkeeper in Leki Strzyzowskie near Frysztak, and Chaya nee Heffner"
+     "text": "Rachel, daughter of Leib Diamant, tavern keeper in Leki Strzyzowskie near Frysztak, and Chaya nee Heffner"
     },
     {
      "rid": "b-1909-29",
@@ -116923,7 +116918,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Lekach near Frysztak",
+  "occupations": "tavern keeper in Lekach near Frysztak",
   "residences": "Lekach near Frysztak",
   "status": null,
   "birth_legitimacy": null,
@@ -119568,7 +119563,7 @@
     {
      "rid": "b-1908-17",
      "role": "Mother",
-     "text": "Chaya, daughter of Nechemje Storch, innkeeper in Brzostek, and Maria nee Sperber"
+     "text": "Chaya, daughter of Nechemje Storch, tavern keeper in Brzostek, and Maria nee Sperber"
     },
     {
      "rid": "b-1912-18",
@@ -119578,12 +119573,12 @@
     {
      "rid": "b-1913-25",
      "role": "Mother",
-     "text": "Chaya, daughter of the late Nechemje Storch, innkeeper in Brzostek, and Maria nee Sperber"
+     "text": "Chaya, daughter of the late Nechemje Storch, tavern keeper in Brzostek, and Maria nee Sperber"
     },
     {
      "rid": "b-1917-6",
      "role": "Mother",
-     "text": "Chaya, daughter of Nechemje Storch and Maria nee Sperber, innkeepers in Brzostek"
+     "text": "Chaya, daughter of Nechemje Storch and Maria nee Sperber, tavern keepers in Brzostek"
     }
    ],
    "surnames": [
@@ -119715,7 +119710,7 @@
     {
      "rid": "d-1916-15",
      "role": "The deceased",
-     "text": "Miriam Storch, widow of the late Nechemje Storch, innkeeper in Brzostek"
+     "text": "Miriam Storch, widow of the late Nechemje Storch, tavern keeper in Brzostek"
     }
    ],
    "surnames": [
@@ -121749,12 +121744,12 @@
     {
      "rid": "b-1909-8",
      "role": "Mother",
-     "text": "Malka, daughter of Simon Nechemje, innkeeper in Lopuchowa near Ropczyce and Sarah nee unknown"
+     "text": "Malka, daughter of Simon Nechemje, tavern keeper in Lopuchowa near Ropczyce and Sarah nee unknown"
     },
     {
      "rid": "b-1911-12",
      "role": "Mother",
-     "text": "Malka, daughter of Simon Nechemje, former innkeeper in Lopuchowa near Ropczyce, and Sarah nee Leiman"
+     "text": "Malka, daughter of Simon Nechemje, former tavern keeper in Lopuchowa near Ropczyce, and Sarah nee Leiman"
     },
     {
      "rid": "m-1912-3",
@@ -121813,7 +121808,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Lopochow near Ropczyce",
+  "occupations": "tavern keeper in Lopochow near Ropczyce",
   "residences": "Lopochow near Ropczyce",
   "status": null,
   "birth_legitimacy": null,
@@ -123601,7 +123596,7 @@
     {
      "rid": "b-1909-20",
      "role": "Mother",
-     "text": "Chaya, daughter of Leib Tager, innkeeper in Klecie, and the late Deicha nee Zweig"
+     "text": "Chaya, daughter of Leib Tager, tavern keeper in Klecie, and the late Deicha nee Zweig"
     }
    ],
    "surnames": [
@@ -123751,7 +123746,7 @@
     {
      "rid": "d-1911-1",
      "role": "The deceased",
-     "text": "Adela Konigsdorf daughter of Samuel Konigsdorf, innkeeper in Brzostek, and Muszkieta nee Liebschutz"
+     "text": "Adela Konigsdorf daughter of Samuel Konigsdorf, tavern keeper in Brzostek, and Muszkieta nee Liebschutz"
     }
    ],
    "surnames": [
@@ -127624,7 +127619,7 @@
     {
      "rid": "b-1910-15",
      "role": "Mother",
-     "text": "Rosa, daughter of Marcus David Hirsch, called David, innkeeper in Brzostek, and Hendela nee Sperber"
+     "text": "Rosa, daughter of Marcus David Hirsch, called David, tavern keeper in Brzostek, and Hendela nee Sperber"
     },
     {
      "rid": "m-1910-6",
@@ -129154,7 +129149,7 @@
     {
      "rid": "b-1910-24",
      "role": "Mother",
-     "text": "Malka, daughter of Hersch Chaskel Goldberg, called Chaskel, innkeeper in Brzostek, and Hinde Itta, called Itta, nee Grossbard"
+     "text": "Malka, daughter of Hersch Chaskel Goldberg, called Chaskel, tavern keeper in Brzostek, and Hinde Itta, called Itta, nee Grossbard"
     },
     {
      "rid": "b-1912-3",
@@ -131089,7 +131084,7 @@
     {
      "rid": "m-1906-7",
      "role": "Groom",
-     "text": "Israel Kampf, recte Neubart, born in Jaworze, land tenant there, illegitimate son of Nusen Kampf, innkeeper in Jaworze, and Beila, nee Neubart"
+     "text": "Israel Kampf, recte Neubart, born in Jaworze, land tenant there, illegitimate son of Nusen Kampf, tavern keeper in Jaworze, and Beila, nee Neubart"
     },
     {
      "rid": "b-1911-8",
@@ -131201,17 +131196,17 @@
     {
      "rid": "m-1906-7",
      "role": "Bride",
-     "text": "Aidla Sperber, recte Tager, born in Siedliska, the illegitimate daughter of deceased Kelman Sperber, a former innkeeper in Siedliska, and Estera, née Tager"
+     "text": "Aidla Sperber, recte Tager, born in Siedliska, the illegitimate daughter of deceased Kelman Sperber, a former tavern keeper in Siedliska, and Estera, née Tager"
     },
     {
      "rid": "b-1911-8",
      "role": "Mother",
-     "text": "Aidla, daughter of the late Kelman Sperber, former innkeeper in Siedliska, and Esther nee Tager"
+     "text": "Aidla, daughter of the late Kelman Sperber, former tavern keeper in Siedliska, and Esther nee Tager"
     },
     {
      "rid": "b-1912-33",
      "role": "Mother",
-     "text": "Aidla, daughter of the late Kelman Sperber, innkeeper in Siedliska, and Esther nee Tager"
+     "text": "Aidla, daughter of the late Kelman Sperber, tavern keeper in Siedliska, and Esther nee Tager"
     }
    ],
    "surnames": [
@@ -140033,7 +140028,7 @@
     {
      "rid": "b-1913-17",
      "role": "Mother",
-     "text": "Serla, daughter of Sima Heffner, former innkeeper in Gogolow"
+     "text": "Serla, daughter of Sima Heffner, former tavern keeper in Gogolow"
     },
     {
      "rid": "m-1914-2",
@@ -140091,7 +140086,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Gorzejowa",
+  "occupations": "tavern keeper in Gorzejowa",
   "residences": "Gogolow; Januszkowice",
   "status": null,
   "birth_legitimacy": null,
@@ -140378,7 +140373,7 @@
     {
      "rid": "b-1913-18",
      "role": "Mother",
-     "text": "Zipporah Birn, unemployed, daughter of Marcus Birn, former innkeeper in Siedliska and Beila nee Sperber."
+     "text": "Zipporah Birn, unemployed, daughter of Marcus Birn, former tavern keeper in Siedliska and Beila nee Sperber."
     }
    ],
    "surnames": [
@@ -140684,12 +140679,12 @@
     {
      "rid": "b-1913-21",
      "role": "Mother",
-     "text": "Shayndel List, daughter of Aron List, former innkeeper in Brzeziny and the late Feige, without employment"
+     "text": "Shayndel List, daughter of Aron List, former tavern keeper in Brzeziny and the late Feige, without employment"
     },
     {
      "rid": "b-1916-13",
      "role": "Mother",
-     "text": "Shayndel List, without occupation in Nawsie Brzosteckie, daughter of Aron List, innkeeper in Brzeziny"
+     "text": "Shayndel List, without occupation in Nawsie Brzosteckie, daughter of Aron List, tavern keeper in Brzeziny"
     }
    ],
    "surnames": [
@@ -145106,7 +145101,7 @@
     {
      "rid": "b-1916-1",
      "role": "Mother",
-     "text": "Gittla daughter of Solomon Friedman innkeeper in Brzeziny, and Leah nee Berger"
+     "text": "Gittla daughter of Solomon Friedman tavern keeper in Brzeziny, and Leah nee Berger"
     }
    ],
    "surnames": [
@@ -145139,7 +145134,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper in Brzeziny",
+  "occupations": "tavern keeper in Brzeziny",
   "residences": "Brzeziny",
   "status": null,
   "birth_legitimacy": null,
@@ -152595,7 +152590,7 @@
     {
      "rid": "m-1925-5",
      "role": "Groom",
-     "text": "Josef Schonwetter, without profession residing in Zawadka Brzostecka, son of Salamon Schonwetter, an innkeeper in Zawadka Brzostecka and Malki nee Amsterdam"
+     "text": "Josef Schonwetter, without profession residing in Zawadka Brzostecka, son of Salamon Schonwetter, an tavern keeper in Zawadka Brzostecka and Malki nee Amsterdam"
     }
    ],
    "surnames": [
@@ -154636,7 +154631,7 @@
     {
      "rid": "d-1896-8",
      "role": "The deceased",
-     "text": "Esther daughter of Judah Zeughauser, innkeeper in Januszkowice, and Rachel nee Zeughauser"
+     "text": "Esther daughter of Judah Zeughauser, tavern keeper in Januszkowice, and Rachel nee Zeughauser"
     }
    ],
    "surnames": [
@@ -154838,7 +154833,7 @@
   "birth_date": "c. 1830 (age 67 at death 1897)",
   "death_date": "1 Jan 1897",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Wola Brzostecka",
   "status": "W",
   "birth_legitimacy": null,
@@ -154893,7 +154888,7 @@
     {
      "rid": "d-1897-2",
      "role": "The deceased",
-     "text": "Hannah nee Thum, known as Kornfeld after ritual marriage, innkeeper in Wola Brzostecka"
+     "text": "Hannah nee Thum, known as Kornfeld after ritual marriage, tavern keeper in Wola Brzostecka"
     }
    ],
    "surnames": [
@@ -155327,7 +155322,7 @@
   "birth_date": "c. 1877 (age 21 at death 1898)",
   "death_date": "26 Jul 1898",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Wola Brzostecka (house 35)",
   "status": null,
   "birth_legitimacy": null,
@@ -155363,7 +155358,7 @@
     {
      "rid": "d-1898-8",
      "role": "The deceased",
-     "text": "Chaim Kornfeld, innkeeper in Wola Brzostecka"
+     "text": "Chaim Kornfeld, tavern keeper in Wola Brzostecka"
     }
    ],
    "surnames": [
@@ -157178,7 +157173,7 @@
     {
      "rid": "d-1903-3",
      "role": "The deceased",
-     "text": "Mendel Meer, son of Leib Meer and Yehudit, nee Wurzl, innkeeper in Globikowka"
+     "text": "Mendel Meer, son of Leib Meer and Yehudit, nee Wurzl, tavern keeper in Globikowka"
     }
    ],
    "surnames": [
@@ -157718,7 +157713,7 @@
   "birth_date": null,
   "death_date": "deceased before 1904",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Brzostek",
   "status": "S",
   "birth_legitimacy": null,
@@ -157788,7 +157783,7 @@
   "birth_date": null,
   "death_date": "deceased before 1904",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -157964,7 +157959,7 @@
     {
      "rid": "d-1904-7",
      "role": "The deceased",
-     "text": "Marcus Joseph Sperber, son of Moses Peretz Sperber, innkeeper in Gorzejowa, and Hinde nee Walter"
+     "text": "Marcus Joseph Sperber, son of Moses Peretz Sperber, tavern keeper in Gorzejowa, and Hinde nee Walter"
     }
    ],
    "surnames": [
@@ -161443,7 +161438,7 @@
   "birth_date": null,
   "death_date": "before 1902 (from m-1902-3 'the late')",
   "marriage_dates": null,
-  "occupations": "trader in Brzostek; former innkeeper in Sedziszow Malopolski (from m-1902-3)",
+  "occupations": "trader in Brzostek; former tavern keeper in Sedziszow Malopolski",
   "residences": "Brzostek",
   "status": null,
   "birth_legitimacy": null,
@@ -161679,7 +161674,7 @@
     {
      "rid": "m-1902-3",
      "role": "Bride",
-     "text": "Chaje Blime, called Blime, born in Sędziszów ad Ropczyce, daughter of the late Eliasz Senft, a former innkeeper there, and her mother Etla, née Bergman"
+     "text": "Chaje Blime, called Blime, born in Sędziszów ad Ropczyce, daughter of the late Eliasz Senft, a former tavern keeper there, and her mother Etla, née Bergman"
     },
     {
      "rid": "d-1914-1",
@@ -162171,7 +162166,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Gorzejowa",
   "status": null,
   "birth_legitimacy": null,
@@ -162241,7 +162236,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Gorzejowa",
   "status": null,
   "birth_legitimacy": null,
@@ -163215,7 +163210,7 @@
   "birth_date": null,
   "death_date": "deceased before 1918",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Trzcinica near Jaslo (1901); Baczalka (by 1918)",
   "status": null,
   "birth_legitimacy": null,
@@ -163295,7 +163290,7 @@
   "birth_date": null,
   "death_date": "deceased before 1918",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Trzcinica near Jaslo (1901); Baczalka (by 1918)",
   "status": null,
   "birth_legitimacy": null,
@@ -163630,7 +163625,7 @@
   "birth_date": null,
   "death_date": "deceased before m-1902-4 (GF-deceased)",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Bistuszowy near Ryglice",
   "status": null,
   "birth_legitimacy": null,
@@ -166207,7 +166202,7 @@
     {
      "rid": "m-1920-2",
      "role": "Bride",
-     "text": "Freida Neubart was born in Bączałka and lived here, daughter of the deceased Nusym and Gittli Neubart, innkeepers in Bączałka"
+     "text": "Freida Neubart was born in Bączałka and lived here, daughter of the deceased Nusym and Gittli Neubart, tavern keepers in Bączałka"
     },
     {
      "rid": "d-1928-1",
@@ -171576,7 +171571,7 @@
     {
      "rid": "m-1900-2",
      "role": "Groom",
-     "text": "Benzion Izaak, called Izaak, Rinder, born in Roza ad Radomysl, currently residing in Tarnów, unmarried, son of the deceased parents, Moses Rinder, a former innkeeper in Roza, and Estera nee Feld"
+     "text": "Benzion Izaak, called Izaak, Rinder, born in Roza ad Radomysl, currently residing in Tarnów, unmarried, son of the deceased parents, Moses Rinder, a former tavern keeper in Roza, and Estera nee Feld"
     }
    ],
    "surnames": [
@@ -171614,7 +171609,7 @@
   "birth_date": null,
   "death_date": "deceased before 1900",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Roza",
   "status": null,
   "birth_legitimacy": null,
@@ -171808,7 +171803,7 @@
     {
      "rid": "m-1900-2",
      "role": "Bride",
-     "text": "Lea Konigsdorf, born in Brzostek to her unmarried parents, Feigi Konigsdorf and her illegitimate father, Moses Sperber, innkeepers living in Tarnów."
+     "text": "Lea Konigsdorf, born in Brzostek to her unmarried parents, Feigi Konigsdorf and her illegitimate father, Moses Sperber, tavern keepers living in Tarnów."
     }
    ],
    "surnames": [
@@ -171848,7 +171843,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Pielnia",
   "status": null,
   "birth_legitimacy": null,
@@ -172860,7 +172855,7 @@
   "birth_date": null,
   "death_date": "deceased before 1900",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Polgrodzie",
   "status": null,
   "birth_legitimacy": null,
@@ -173014,7 +173009,7 @@
   "birth_date": null,
   "death_date": "deceased before 1900",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Sedziszow",
   "status": null,
   "birth_legitimacy": null,
@@ -173995,7 +173990,7 @@
     {
      "rid": "m-1900-17",
      "role": "Bride",
-     "text": "Marjem Herman, born in Kamienica Górna, residing in Brzostek, unemployed, daughter of her deceased parents Hersch and Malka Herman, innkeepers in Kamienica Górna."
+     "text": "Marjem Herman, born in Kamienica Górna, residing in Brzostek, unemployed, daughter of her deceased parents Hersch and Malka Herman, tavern keepers in Kamienica Górna."
     }
    ],
    "surnames": [
@@ -174487,7 +174482,7 @@
     {
      "rid": "m-1900-19",
      "role": "Groom",
-     "text": "Eisik Dembicer, owner of real estate and tobacconist in Skurowa and born there, son of deceased parents Szymon Dembicer, former innkeeper in Skurowa and Chana nee Gruber"
+     "text": "Eisik Dembicer, owner of real estate and tobacconist in Skurowa and born there, son of deceased parents Szymon Dembicer, former tavern keeper in Skurowa and Chana nee Gruber"
     }
    ],
    "surnames": [
@@ -174525,7 +174520,7 @@
   "birth_date": null,
   "death_date": "deceased before 1900",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Skurowa",
   "status": null,
   "birth_legitimacy": null,
@@ -174679,7 +174674,7 @@
   "birth_date": null,
   "death_date": "deceased before 1900",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Gogolow",
   "status": null,
   "birth_legitimacy": null,
@@ -174873,7 +174868,7 @@
     {
      "rid": "m-1900-19",
      "role": "Bride",
-     "text": "Ryfka Storch, born in Gogołów, residing in Skurowa, unemployed, daughter of Mendel Storch, a former innkeeper in Gogołów, and Laja née Buchholz"
+     "text": "Ryfka Storch, born in Gogołów, residing in Skurowa, unemployed, daughter of Mendel Storch, a former tavern keeper in Gogołów, and Laja née Buchholz"
     }
    ],
    "surnames": [
@@ -175065,7 +175060,7 @@
   "birth_date": null,
   "death_date": "deceased before 1900",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Bukowa",
   "status": null,
   "birth_legitimacy": null,
@@ -175373,7 +175368,7 @@
   "birth_date": null,
   "death_date": "deceased before 1900",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Grudna Gorna",
   "status": "deceased",
   "birth_legitimacy": null,
@@ -175567,7 +175562,7 @@
     {
      "rid": "m-1901-1",
      "role": "Groom",
-     "text": "Chiel Schiff, called Roth, born and residing in Januszkowice, son of Mojzesz Roth and Rojza Schiff, former innkeepers in Januszkowice"
+     "text": "Chiel Schiff, called Roth, born and residing in Januszkowice, son of Mojzesz Roth and Rojza Schiff, former tavern keepers in Januszkowice"
     }
    ],
    "surnames": [
@@ -176046,7 +176041,7 @@
   "birth_date": null,
   "death_date": "before 1 Jan 1897 (per Hannah's Marital_Status='W' at her d-1897-2; described as deceased GF in m-1901-7)",
   "marriage_dates": null,
-  "occupations": "innkeeper in Wola Brzostecka (from m-1901-7 'former')",
+  "occupations": "former tavern keeper in Wola Brzostecka",
   "residences": "Wola Brzostecka",
   "status": "M",
   "birth_legitimacy": null,
@@ -176821,7 +176816,7 @@
   "birth_date": null,
   "death_date": "deceased before 1901",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Zmigrod",
   "status": null,
   "birth_legitimacy": null,
@@ -177041,7 +177036,7 @@
     {
      "rid": "m-1901-16",
      "role": "Groom",
-     "text": "Abraham Schönwetter, recte Salamon, born in Żmigród, farmer residing in Kamienica Dolna, son of the late Wolf Schönwetter, former innkeeper in Żmigród, and Rojza, nee Salamon"
+     "text": "Abraham Schönwetter, recte Salamon, born in Żmigród, farmer residing in Kamienica Dolna, son of the late Wolf Schönwetter, former tavern keeper in Żmigród, and Rojza, nee Salamon"
     },
     {
      "rid": "d-1913-10",
@@ -177244,7 +177239,7 @@
   "birth_date": null,
   "death_date": "deceased before 1901",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Blaszkowa",
   "status": null,
   "birth_legitimacy": null,
@@ -177865,7 +177860,7 @@
    "P1811"
   ],
   "spouse_names": [
-   "Joel Hirsch (innkeeper Bistuszowy)"
+   "Joel Hirsch (tavern keeper Bistuszowy)"
   ],
   "children_ids": [
    "P0430"
@@ -178950,7 +178945,7 @@
     {
      "rid": "m-1903-6",
      "role": "Groom",
-     "text": "Süssel Winter, called Glasner, born in Piątkowa ad Nowy Sącz, residing in Blaszkowa, owner of real estate and dealer, son of Leiba Glasner and Golda Winter, former innkeepers in Piątkowa"
+     "text": "Süssel Winter, called Glasner, born in Piątkowa ad Nowy Sącz, residing in Blaszkowa, owner of real estate and dealer, son of Leiba Glasner and Golda Winter, former tavern keepers in Piątkowa"
     }
    ],
    "surnames": [
@@ -179283,7 +179278,7 @@
     {
      "rid": "m-1903-7",
      "role": "Groom",
-     "text": "Mojzesz Blatt, called Sperber, born in Brzostek and residing in Tarnów, an innkeeper, the son of Kelman Sperber, former owner of real estate and innkeeper in Brzostek, and Chana, nee Blatt."
+     "text": "Mojzesz Blatt, called Sperber, born in Brzostek and residing in Tarnów, an tavern keeper, the son of Kelman Sperber, former owner of real estate and tavern keeper in Brzostek, and Chana, nee Blatt."
     }
    ],
    "surnames": [
@@ -179541,7 +179536,7 @@
     {
      "rid": "m-1903-7",
      "role": "Bride",
-     "text": "Feige Konigsdorf, born in Tarnów and settled there as an innkeeper, daughter of the late Markus and Chana Konigsdorf, former industrialists in Tarnów"
+     "text": "Feige Konigsdorf, born in Tarnów and settled there as an tavern keeper, daughter of the late Markus and Chana Konigsdorf, former industrialists in Tarnów"
     }
    ],
    "surnames": [
@@ -179853,7 +179848,7 @@
     {
      "rid": "m-1904-2",
      "role": "Groom",
-     "text": "Markus Nison, called Nison, Feit, called Holloschutz, born in Rzeszów, without occupation, illegitimate son of Matla Feit and Chaim Holloschutz, innkeeper in Rzeszów"
+     "text": "Markus Nison, called Nison, Feit, called Holloschutz, born in Rzeszów, without occupation, illegitimate son of Matla Feit and Chaim Holloschutz, tavern keeper in Rzeszów"
     }
    ],
    "surnames": [
@@ -182998,7 +182993,7 @@
   "birth_date": "~1859",
   "death_date": null,
   "marriage_dates": "1907-06-30 in Brzostek (civil)",
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Wolica near Debica",
   "status": "M",
   "birth_legitimacy": null,
@@ -183038,7 +183033,7 @@
     {
      "rid": "m-1907-6",
      "role": "Groom",
-     "text": "Samuel Fass, born in Radgoszcz ad Dabrowa, residing in Wolica ad Debica, innkeeper, son of Markus Fass, a butcher in Radgoszcz ad Dąbrowa, and Pesla, nee Luskind"
+     "text": "Samuel Fass, born in Radgoszcz ad Dabrowa, residing in Wolica ad Debica, tavern keeper, son of Markus Fass, a butcher in Radgoszcz ad Dąbrowa, and Pesla, nee Luskind"
     }
    ],
    "surnames": [
@@ -188960,7 +188955,7 @@
   "birth_date": null,
   "death_date": "between 16 Feb 1916 and 28 May 1916 (alive m-1916-2, deceased m-1916-4)",
   "marriage_dates": null,
-  "occupations": "laborer; innkeeper",
+  "occupations": "laborer; tavern keeper",
   "residences": "Kamienica Gorna",
   "status": "deceased by m-1916-4",
   "birth_legitimacy": null,
@@ -189430,7 +189425,7 @@
   "birth_date": null,
   "death_date": "deceased before m-1916-6 (28 Dec 1916)",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Brzeziny",
   "status": null,
   "birth_legitimacy": null,
@@ -189639,7 +189634,7 @@
     {
      "rid": "m-1916-6",
      "role": "Groom",
-     "text": "Dawid Tesser, born in Brzeziny, son of the deceased Psachja and Jochweda Tesser, innkeepers in Brzeziny, dealer in Nawsie Brzosteckie, residing"
+     "text": "Dawid Tesser, born in Brzeziny, son of the deceased Psachja and Jochweda Tesser, tavern keepers in Brzeziny, dealer in Nawsie Brzosteckie, residing"
     }
    ],
    "surnames": [
@@ -191410,7 +191405,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Jaszczurowa",
   "status": null,
   "birth_legitimacy": null,
@@ -191604,7 +191599,7 @@
     {
      "rid": "m-1919-6",
      "role": "Groom",
-     "text": "Uszer Grzyb, born in Jaszczurowa, without profession, son of Feivl Grzyb and Cerla née Jochanowicz, innkeepers in Jaszczurowa"
+     "text": "Uszer Grzyb, born in Jaszczurowa, without profession, son of Feivl Grzyb and Cerla née Jochanowicz, tavern keepers in Jaszczurowa"
     }
    ],
    "surnames": [
@@ -192408,7 +192403,7 @@
   "birth_date": null,
   "death_date": "deceased before m-1920-2 (28 Dec 1920)",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Baczal Dolny",
   "status": null,
   "birth_legitimacy": null,
@@ -193939,7 +193934,7 @@
     {
      "rid": "m-1922-5",
      "role": "Bride",
-     "text": "Ryfke Freiberger, without a profession in Błaszkowa, daughter of Abraham Isak Freiberger, an innkeeper in Błaszkowa, and Serla née Bakon"
+     "text": "Ryfke Freiberger, without a profession in Błaszkowa, daughter of Abraham Isak Freiberger, an tavern keeper in Błaszkowa, and Serla née Bakon"
     }
    ],
    "surnames": [
@@ -194256,7 +194251,7 @@
     {
      "rid": "m-1922-6",
      "role": "Bride",
-     "text": "Sara Ryfka, called Ryfka, Konigsdorf, without a job in Brzostek, daughter of Samuel Moses, called Moses, Konigsdorf and Muszkieta née Liebschutz, innkeepers in Brzostek"
+     "text": "Sara Ryfka, called Ryfka, Konigsdorf, without a job in Brzostek, daughter of Samuel Moses, called Moses, Konigsdorf and Muszkieta née Liebschutz, tavern keepers in Brzostek"
     }
    ],
    "surnames": [
@@ -199635,7 +199630,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Ulanow",
   "status": null,
   "birth_legitimacy": null,
@@ -199829,7 +199824,7 @@
     {
      "rid": "m-1927-6",
      "role": "Bride",
-     "text": "Hinde Rywe Baron, single and living with her parents, daughter of Chaim Markus Baron, innkeeper in Ulanow and Chaja nee Birnbaum"
+     "text": "Hinde Rywe Baron, single and living with her parents, daughter of Chaim Markus Baron, tavern keeper in Ulanow and Chaja nee Birnbaum"
     }
    ],
    "surnames": [
@@ -211456,7 +211451,7 @@
     {
      "rid": "m-1937-1",
      "role": "Bride",
-     "text": "Scheindel Spira born in Mała near Ropczyce, lives in Brzostek, daughter of Jakob Spira, innkeeper in Mała and Chana nee Berger"
+     "text": "Scheindel Spira born in Mała near Ropczyce, lives in Brzostek, daughter of Jakob Spira, tavern keeper in Mała and Chana nee Berger"
     }
    ],
    "surnames": [
@@ -215368,7 +215363,7 @@
   "birth_date": null,
   "death_date": "before 18 May 1904 (from b-1904-12 \"the late\")",
   "marriage_dates": null,
-  "occupations": "innkeeper / tavern keeper / lessee of propination",
+  "occupations": "tavern keeper / lessee of propination",
   "residences": "Siedliska",
   "status": "M",
   "birth_legitimacy": null,
@@ -217757,7 +217752,7 @@
   "birth_date": null,
   "death_date": "before 18 Oct 1913",
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Nagoszyn in the Ropczyce District",
   "status": null,
   "birth_legitimacy": null,
@@ -218043,7 +218038,7 @@
   "birth_date": null,
   "death_date": null,
   "marriage_dates": null,
-  "occupations": "innkeeper",
+  "occupations": "tavern keeper",
   "residences": "Olpiny",
   "status": null,
   "birth_legitimacy": null,
@@ -218472,7 +218467,7 @@
   "birth_date": null,
   "death_date": "before 22 Jan 1902 (deceased)",
   "marriage_dates": null,
-  "occupations": "innkeeper in Globikowa (former)",
+  "occupations": "tavern keeper in Globikowa (former)",
   "residences": "Globikowa",
   "status": null,
   "birth_legitimacy": null,
@@ -218944,7 +218939,7 @@
     {
      "rid": "m-1924-7",
      "role": "Groom",
-     "text": "Israel Hillel, called Hillel, Freiberger, single, no occupation, son of Abraham Izak Freiberger, an innkeeper in Błaszkowa and Serla née Bakon"
+     "text": "Israel Hillel, called Hillel, Freiberger, single, no occupation, son of Abraham Izak Freiberger, an tavern keeper in Błaszkowa and Serla née Bakon"
     }
    ],
    "surnames": [
@@ -219120,7 +219115,7 @@
   "birth_date": null,
   "death_date": "before 18 Oct 1913",
   "marriage_dates": null,
-  "occupations": "innkeeper in Nagoszyn",
+  "occupations": "tavern keeper in Nagoszyn",
   "residences": "Nagoszyn in the Ropczyce District",
   "status": null,
   "birth_legitimacy": null,
