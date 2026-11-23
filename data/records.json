@@ -80878,7 +80878,7 @@
    },
    {
     "role": "Father",
-    "person_id": "P2571",
+    "person_id": "P2741",
     "display": "Kelman Sperber",
     "role_label": "Father of the deceased",
     "written_as": null,
@@ -80896,7 +80896,7 @@
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "Hendla Hirsch, unemployed in Brzostek, daughter of the late <a href=\"../person/P2571.html\" data-pid=\"P2571\">Kelman Sperber</a> and <a href=\"../person/P2052.html\" data-pid=\"P2052\">Hannah nee Blatt</a> in Brzostek",
+   "Decedent (prose)": "Hendla Hirsch, unemployed in Brzostek, daughter of the late <a href=\"../person/P2741.html\" data-pid=\"P2741\">Kelman Sperber</a> and <a href=\"../person/P2052.html\" data-pid=\"P2052\">Hannah nee Blatt</a> in Brzostek",
    "Cause of Death": "withered with age"
   }
  },
@@ -98054,7 +98054,7 @@
    },
    {
     "role": "BF",
-    "person_id": "P2571",
+    "person_id": "P2741",
     "display": "Kelman Sperber",
     "role_label": "Bride's father",
     "written_as": null,
@@ -98099,7 +98099,7 @@
   "translator_note": null,
   "fields_html": {
    "Groom (prose)": "Markus Dawid, called Dawid, Hirsch, tavern keeper in Brzostek, born in Bistuszowa ad Ryglice, son of the deceased <a href=\"../person/P1811.html\" data-pid=\"P1811\">Joel Hirsch</a>, former tenant of the liquor concession in Bistuszowa and Ryfka, nee <a href=\"../person/P2051.html\" data-pid=\"P2051\">Stecher</a>, his living mother",
-   "Bride (prose)": "Hendla Sperber, born in Brzostek, daughter of <a href=\"../person/P2571.html\" data-pid=\"P2571\">Kelman Sperber</a>, a tavern keeper in Brzostek, and Chana, née Blatt",
+   "Bride (prose)": "Hendla Sperber, born in Brzostek, daughter of <a href=\"../person/P2741.html\" data-pid=\"P2741\">Kelman Sperber</a>, a tavern keeper in Brzostek, and Chana, née Blatt",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>, witness. <a href=\"../person/P0061.html\" data-pid=\"P0061\">Zalel Löbel</a>, owner of an iron stall in Brzostek, witness.",
    "Notes": "Remarks: The capacity to contract the marriage entered alongside rests on [the registrar&#x27;s] own knowledge, under § 32 of the register instructions; also the banns announced three times, and the notice of the rabbinate."
@@ -99213,7 +99213,7 @@
    },
    {
     "role": "GF",
-    "person_id": "P2571",
+    "person_id": "P2741",
     "display": "Kelman Sperber",
     "role_label": "Groom's father",
     "written_as": null,
@@ -99273,7 +99273,7 @@
   ],
   "translator_note": null,
   "fields_html": {
-   "Groom (prose)": "Mojzesz Blatt, called Sperber, born in Brzostek and residing in Tarnów, an tavern keeper, the son of <a href=\"../person/P2571.html\" data-pid=\"P2571\">Kelman Sperber</a>, former owner of real estate and tavern keeper in Brzostek, and Chana, nee Blatt.",
+   "Groom (prose)": "Mojzesz Blatt, called Sperber, born in Brzostek and residing in Tarnów, an tavern keeper, the son of <a href=\"../person/P2741.html\" data-pid=\"P2741\">Kelman Sperber</a>, former owner of real estate and tavern keeper in Brzostek, and Chana, nee Blatt.",
    "Bride (prose)": "<a href=\"../person/P2075.html\" data-pid=\"P2075\">Feige Konigsdorf</a>, born in Tarnów and settled there as an tavern keeper, daughter of the late Markus and Chana Konigsdorf, former industrialists in Tarnów",
    "Rabbi": "<a href=\"../person/P0016.html\" data-pid=\"P0016\">Judah Leib Wolkenfeld</a>",
    "Witnesses": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>, ritual slaughterer (Schächter) in Brzostek, witness. <a href=\"../person/P0008.html\" data-pid=\"P0008\">Markus Kleinman</a>, ritual slaughterer (Schächter) in Brzostek, witness.",
