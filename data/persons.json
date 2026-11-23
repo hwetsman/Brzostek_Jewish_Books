@@ -6657,7 +6657,7 @@
   "maiden_surname": null,
   "married_surname": null,
   "sex": "F",
-  "birth_date": "25 Mar 1897",
+  "birth_date": "23 Mar 1897",
   "death_date": null,
   "marriage_dates": null,
   "occupations": null,
@@ -22120,7 +22120,7 @@
     {
      "rid": "b-1899-26",
      "role": "Mother",
-     "text": "Scheindla Trachman, without occupation in Grudna Gorna"
+     "text": "Scheindla Trautman [sic, = Trachman], without occupation in Grudna Gorna"
     },
     {
      "rid": "b-1900-11",
@@ -29837,7 +29837,7 @@
   "id": "P0193",
   "legal_given": "Mirla",
   "common_given": "Mirla",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Fichner",
   "maiden_surname": null,
   "married_surname": null,
@@ -29879,7 +29879,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Fichner"
+    "Fichner",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1894-19",
@@ -29901,7 +29902,7 @@
   "id": "P0194",
   "legal_given": "Moses David",
   "common_given": "David",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Fichner",
   "maiden_surname": null,
   "married_surname": null,
@@ -57104,7 +57105,7 @@
   "id": "P0462",
   "legal_given": "Marcus Jacob",
   "common_given": "Marcus Jacob",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Fichner",
   "maiden_surname": null,
   "married_surname": null,
@@ -57162,7 +57163,8 @@
     }
    ],
    "surnames": [
-    "Fichner"
+    "Fichner",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1896-39",
@@ -74459,7 +74461,7 @@
    "P0798"
   ],
   "children_names": [
-   "Hene Schonberg",
+   "Hese Schonberg",
    "Pessel Schonberg"
   ],
   "in_area": "IN_AREA",
@@ -74547,7 +74549,7 @@
    "P0798"
   ],
   "children_names": [
-   "Hene Schonberg",
+   "Hese Schonberg",
    "Pessel Schonberg"
   ],
   "in_area": "IN_AREA",
@@ -74767,8 +74769,8 @@
  },
  {
   "id": "P0637",
-  "legal_given": "Hene",
-  "common_given": "Hene",
+  "legal_given": "Hese",
+  "common_given": "Hese",
   "legal_surname": "Schonberg",
   "common_surname": "Schonberg",
   "maiden_surname": null,
@@ -74803,7 +74805,7 @@
   "identity": {
    "names": [
     {
-     "form": "Hene (no surname written; child's birth entry)",
+     "form": "Hese (no surname written; child's birth entry)",
      "rids": [
       "b-1899-10"
      ]
@@ -74963,7 +74965,7 @@
   "id": "P0640",
   "legal_given": "Judah",
   "common_given": "Judah",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Fichner",
   "maiden_surname": null,
   "married_surname": null,
@@ -75005,7 +75007,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Fichner"
+    "Fichner",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1899-13",
@@ -88733,7 +88736,7 @@
   "id": "P0786",
   "legal_given": "Shulem Hersch",
   "common_given": "Shulem Hersch",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Fichner",
   "maiden_surname": null,
   "married_surname": null,
@@ -88791,7 +88794,8 @@
     }
    ],
    "surnames": [
-    "Fichner"
+    "Fichner",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1901-19",
@@ -108433,7 +108437,7 @@
   "id": "P1007",
   "legal_given": "Naftali",
   "common_given": "Naftali",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Fichner",
   "maiden_surname": null,
   "married_surname": null,
@@ -108475,7 +108479,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Fichner"
+    "Fichner",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1906-11",
@@ -117327,7 +117332,7 @@
   "id": "P1103",
   "legal_given": "Shaya",
   "common_given": "Shaya",
-  "legal_surname": "Landau",
+  "legal_surname": "Nusbaum",
   "common_surname": "Landau",
   "maiden_surname": null,
   "married_surname": null,
@@ -117369,7 +117374,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Landau"
+    "Landau",
+    "Nusbaum"
    ],
    "born": {
     "rid": "b-1907-37",
@@ -121820,7 +121826,7 @@
   "id": "P1156",
   "legal_given": "Rivka",
   "common_given": "Rivka",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Fichner",
   "maiden_surname": null,
   "married_surname": null,
@@ -121878,7 +121884,8 @@
     }
    ],
    "surnames": [
-    "Fichner"
+    "Fichner",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1908-26",
@@ -121905,7 +121912,7 @@
   "id": "P1157",
   "legal_given": "Tzirla",
   "common_given": "Tzirla",
-  "legal_surname": "Fichner",
+  "legal_surname": "Rubel",
   "common_surname": "Fichner",
   "maiden_surname": null,
   "married_surname": null,
@@ -121967,7 +121974,8 @@
     }
    ],
    "surnames": [
-    "Fichner"
+    "Fichner",
+    "Rubel"
    ],
    "born": {
     "rid": "b-1908-27",
@@ -141794,7 +141802,7 @@
   "id": "P1415",
   "legal_given": "Reizel",
   "common_given": "Reizel",
-  "legal_surname": "Bochner",
+  "legal_surname": "Ehrlich",
   "common_surname": "Bochner",
   "maiden_surname": null,
   "married_surname": null,
@@ -141836,7 +141844,8 @@
    ],
    "quotes": [],
    "surnames": [
-    "Bochner"
+    "Bochner",
+    "Ehrlich"
    ],
    "born": {
     "rid": "b-1913-19",
@@ -145248,7 +145257,7 @@
   "id": "P1460",
   "legal_given": "Chaim Wigidor",
   "common_given": "Wigidor",
-  "legal_surname": "Malz",
+  "legal_surname": "Wallech",
   "common_surname": "Malz",
   "maiden_surname": null,
   "married_surname": null,
@@ -153271,7 +153280,6 @@
     }
    ],
    "surnames": [
-    "Bier",
     "Klein"
    ],
    "born": null,

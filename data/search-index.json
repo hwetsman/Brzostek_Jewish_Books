@@ -3405,11 +3405,11 @@
    "id": "P0193",
    "type": "person",
    "display": "Mirla Fichner",
-   "other_names": "Mirla (no surname written; child's birth entry); Fichner",
+   "other_names": "Mirla (no surname written; child's birth entry); Fichner; Rubel",
    "subtitle": "born 1894; daughter of David Fichner",
    "legal_given": "Mirla",
    "common_given": "Mirla",
-   "legal_surname": "Fichner",
+   "legal_surname": "Rubel",
    "common_surname": "Fichner",
    "maiden_surname": "",
    "father_name": "Moses Fichner",
@@ -3418,7 +3418,7 @@
    "residences": "Blaszkowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "698000 746900 756900 063900 483400 496000 583400 600000 698000 746900 756900 793000 793600"
+   "phonetic": "698000 746900 756900 978000 063900 483400 496000 583400 600000 698000 746900 756900 793000 793600 978000"
   },
   {
    "id": "P0194",
@@ -3428,7 +3428,7 @@
    "subtitle": "1859–1911; son of Nachman Fichner",
    "legal_given": "Moses David",
    "common_given": "David",
-   "legal_surname": "Fichner",
+   "legal_surname": "Rubel",
    "common_surname": "Fichner",
    "maiden_surname": "",
    "father_name": "",
@@ -3437,7 +3437,7 @@
    "residences": "Blaszkowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "373000 640000 746900 756900 373000 640000 746900 756900 978000"
+   "phonetic": "373000 640000 746900 756900 978000 373000 640000 746900 756900 978000"
   },
   {
    "id": "P0196",
@@ -7870,11 +7870,11 @@
    "id": "P0462",
    "type": "person",
    "display": "Marcus Jacob Fichner",
-   "other_names": "Marcus Jacob (no surname written; child's birth entry); Jacob Fichner; Fichner",
+   "other_names": "Marcus Jacob (no surname written; child's birth entry); Jacob Fichner; Fichner; Rubel",
    "subtitle": "1896–1900; son of David Fichner",
    "legal_given": "Marcus Jacob",
    "common_given": "Marcus Jacob",
-   "legal_surname": "Fichner",
+   "legal_surname": "Rubel",
    "common_surname": "Fichner",
    "maiden_surname": "",
    "father_name": "Moses Fichner",
@@ -7883,7 +7883,7 @@
    "residences": "Blaszkowa (house 85)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "147000 157000 457000 470000 694000 695400 746900 756900 063900 147000 157000 457000 470000 483400 496000 583400 600000 694000 695400 746900 756900 793000 793600"
+   "phonetic": "147000 157000 457000 470000 694000 695400 746900 756900 978000 063900 147000 157000 457000 470000 483400 496000 583400 600000 694000 695400 746900 756900 793000 793600 978000"
   },
   {
    "id": "P0463",
@@ -11099,11 +11099,11 @@
   {
    "id": "P0637",
    "type": "person",
-   "display": "Hene Schonberg",
-   "other_names": "Hene (no surname written; child's birth entry); Schonberg",
+   "display": "Hese Schonberg",
+   "other_names": "Hese (no surname written; child's birth entry); Schonberg",
    "subtitle": "born 1899; daughter of Judah Schonberg",
-   "legal_given": "Hene",
-   "common_given": "Hene",
+   "legal_given": "Hese",
+   "common_given": "Hese",
    "legal_surname": "Schonberg",
    "common_surname": "Schonberg",
    "maiden_surname": "",
@@ -11113,7 +11113,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "467950 560000 063900 467950 483400 496000 560000 583400 600000 793000 793600"
+   "phonetic": "467950 540000 063900 467950 483400 496000 540000 583400 600000 793000 793600"
   },
   {
    "id": "P0638",
@@ -11157,11 +11157,11 @@
    "id": "P0640",
    "type": "person",
    "display": "Judah Fichner",
-   "other_names": "Judah (no surname written; child's birth entry); Fichner",
+   "other_names": "Judah (no surname written; child's birth entry); Fichner; Rubel",
    "subtitle": "born 1899; son of David Fichner",
    "legal_given": "Judah",
    "common_given": "Judah",
-   "legal_surname": "Fichner",
+   "legal_surname": "Rubel",
    "common_surname": "Fichner",
    "maiden_surname": "",
    "father_name": "Moses Fichner",
@@ -11170,7 +11170,7 @@
    "residences": "Blaszkowa",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "130000 430000 746900 756900 063900 130000 430000 483400 496000 583400 600000 746900 756900 793000 793600"
+   "phonetic": "130000 430000 746900 756900 978000 063900 130000 430000 483400 496000 583400 600000 746900 756900 793000 793600 978000"
   },
   {
    "id": "P0641",
@@ -13855,11 +13855,11 @@
    "id": "P0786",
    "type": "person",
    "display": "Shulem Hersch Fichner",
-   "other_names": "Shulem Hersch (no surname written; child's birth entry); Hersch Fichner; Fichner",
+   "other_names": "Shulem Hersch (no surname written; child's birth entry); Hersch Fichner; Fichner; Rubel",
    "subtitle": "1901–1905; son of David Fichner",
    "legal_given": "Shulem Hersch",
    "common_given": "Shulem Hersch",
-   "legal_surname": "Fichner",
+   "legal_surname": "Rubel",
    "common_surname": "Fichner",
    "maiden_surname": "",
    "father_name": "Moses Fichner",
@@ -13868,7 +13868,7 @@
    "residences": "Blaszkowa (house 84)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "486000 540000 545000 594000 594500 746900 756900 063900 483400 486000 496000 540000 545000 583400 594000 594500 600000 746900 756900 793000 793600"
+   "phonetic": "486000 540000 545000 594000 594500 746900 756900 978000 063900 483400 486000 496000 540000 545000 583400 594000 594500 600000 746900 756900 793000 793600 978000"
   },
   {
    "id": "P0788",
@@ -17845,11 +17845,11 @@
    "id": "P1007",
    "type": "person",
    "display": "Naftali Fichner",
-   "other_names": "Naftali (no surname written; child's birth entry); Fichner",
+   "other_names": "Naftali (no surname written; child's birth entry); Fichner; Rubel",
    "subtitle": "born 1906; son of David Fichner",
    "legal_given": "Naftali",
    "common_given": "Naftali",
-   "legal_surname": "Fichner",
+   "legal_surname": "Rubel",
    "common_surname": "Fichner",
    "maiden_surname": "",
    "father_name": "Moses David Rubel/Fichner",
@@ -17858,7 +17858,7 @@
    "residences": "Blaszkowa (house 84)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "673800 746900 756900 063900 483400 496000 583400 600000 673800 746900 756900 793000 793600"
+   "phonetic": "673800 746900 756900 978000 063900 483400 496000 583400 600000 673800 746900 756900 793000 793600 978000"
   },
   {
    "id": "P1008",
@@ -19669,11 +19669,11 @@
    "id": "P1103",
    "type": "person",
    "display": "Shaya Landau",
-   "other_names": "Shaya (no surname written; child's birth entry); Landau",
+   "other_names": "Shaya (no surname written; child's birth entry); Landau; Nusbaum",
    "subtitle": "born 1907; son of Koppel Landau",
    "legal_given": "Shaya",
    "common_given": "Shaya",
-   "legal_surname": "Landau",
+   "legal_surname": "Nusbaum",
    "common_surname": "Landau",
    "maiden_surname": "",
    "father_name": "Jacob Koppel Nusbaum/Landau",
@@ -19682,7 +19682,7 @@
    "residences": "Brzostek (house 131)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "410000 863000 063900 410000 483400 496000 583400 600000 793000 793600 863000"
+   "phonetic": "410000 647600 863000 063900 410000 483400 496000 583400 600000 647600 793000 793600 863000"
   },
   {
    "id": "P1104",
@@ -20638,11 +20638,11 @@
    "id": "P1156",
    "type": "person",
    "display": "Rivka Fichner",
-   "other_names": "Rivka (no surname written; child's birth entry); Rivka Fichner; Fichner",
+   "other_names": "Rivka (no surname written; child's birth entry); Rivka Fichner; Fichner; Rubel",
    "subtitle": "1908–1914; daughter of David Fichner",
    "legal_given": "Rivka",
    "common_given": "Rivka",
-   "legal_surname": "Fichner",
+   "legal_surname": "Rubel",
    "common_surname": "Fichner",
    "maiden_surname": "",
    "father_name": "Moses David Rubel/Fichner",
@@ -20651,17 +20651,17 @@
    "residences": "Blaszkowa (house 84)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "746900 756900 975000 063900 483400 496000 583400 600000 746900 756900 793000 793600 975000"
+   "phonetic": "746900 756900 975000 978000 063900 483400 496000 583400 600000 746900 756900 793000 793600 975000 978000"
   },
   {
    "id": "P1157",
    "type": "person",
    "display": "Tzirla Fichner, married name Klein",
-   "other_names": "Cyla (no surname written; child's birth entry); Tzirla Fichner; Fichner",
+   "other_names": "Cyla (no surname written; child's birth entry); Tzirla Fichner; Fichner; Rubel",
    "subtitle": "born 1908; daughter of David Fichner",
    "legal_given": "Tzirla",
    "common_given": "Tzirla",
-   "legal_surname": "Fichner",
+   "legal_surname": "Rubel",
    "common_surname": "Fichner",
    "maiden_surname": "",
    "father_name": "Moses David Rubel/Fichner",
@@ -20670,7 +20670,7 @@
    "residences": "Blaszkowa (house 84)",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "498000 746900 756900 063900 480000 483400 496000 498000 580000 583400 600000 746900 756900 793000 793600"
+   "phonetic": "498000 746900 756900 978000 063900 480000 483400 496000 498000 580000 583400 600000 746900 756900 793000 793600 978000"
   },
   {
    "id": "P1158",
@@ -25217,11 +25217,11 @@
    "id": "P1415",
    "type": "person",
    "display": "Reizel Bochner",
-   "other_names": "Reizel (no surname written; child's birth entry); Bochner",
+   "other_names": "Reizel (no surname written; child's birth entry); Bochner; Ehrlich",
    "subtitle": "born 1913; daughter of Fivel Bochner",
    "legal_given": "Reizel",
    "common_given": "Reizel",
-   "legal_surname": "Bochner",
+   "legal_surname": "Ehrlich",
    "common_surname": "Bochner",
    "maiden_surname": "",
    "father_name": "Fivel Ehrlich/Bochner",
@@ -25230,7 +25230,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "746900 756900 948000 063900 483400 496000 583400 600000 746900 756900 793000 793600 948000"
+   "phonetic": "098400 098500 746900 756900 948000 063900 098400 098500 483400 496000 583400 600000 746900 756900 793000 793600 948000"
   },
   {
    "id": "P1416",
@@ -26076,7 +26076,7 @@
    "subtitle": "1881–1931; husband of Malka Teitelbaum, married name Malz",
    "legal_given": "Chaim Wigidor",
    "common_given": "Wigidor",
-   "legal_surname": "Malz",
+   "legal_surname": "Wallech",
    "common_surname": "Malz",
    "maiden_surname": "",
    "father_name": "",
@@ -26085,7 +26085,7 @@
    "residences": "Brzostek",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "460000 560000 684000 753900 460000 560000 684000 753900 784000 785000"
+   "phonetic": "460000 560000 684000 753900 784000 785000 460000 560000 684000 753900 784000 785000"
   },
   {
    "id": "P1461",
@@ -27972,7 +27972,7 @@
    "id": "P1571",
    "type": "person",
    "display": "Chaya Rivka Klein, married name Bier",
-   "other_names": "Chaya Rivka née Klein; Bier; Klein",
+   "other_names": "Chaya Rivka née Klein; Klein",
    "subtitle": "wife of Samuel Bier",
    "legal_given": "Chaya Rivka",
    "common_given": "Chaya Rivka",
@@ -27985,7 +27985,7 @@
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "410000 510000 586000 975000 410000 510000 586000 600000 790000 975000"
+   "phonetic": "410000 510000 586000 975000 410000 510000 586000 600000 975000"
   },
   {
    "id": "P1572",
@@ -47230,10 +47230,10 @@
    "book": "birth",
    "year": 1899,
    "number": "10",
-   "summary": "Birth 10/1899: Hene",
-   "prose": "Hene Female Legitimate 15 Feb 1899 Brzostek 18 Feb 1899 Brzostek, house 149 Judah Schonberg, forest guard in Przeczyca, residing in Brzostek Reisla, daughter of Hersch Weinberg, merchant in cloth goods in Zator, and Feige nee Klinger Nechemje Storch, tavern keeper in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Biecz 27 Jan 1896, marriage register vol. I p. 8, no. 4",
-   "people": "Hene Schonberg; Judah Schonberg; Reisla Weinberg; Hersch Weinberg; Feige Klinger; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
-   "phonetic": "130000 146000 156000 294000 295000 430000 456000 460000 467950 540000 545000 560000 586590 586600 594000 594500 646100 646400 656100 656400 694000 695400 750000 767950 948000"
+   "summary": "Birth 10/1899: Hese",
+   "prose": "Hese Female Legitimate 15 Feb 1899 Brzostek 18 Feb 1899 Brzostek, house 149 Judah Schonberg, forest guard in Przeczyca, residing in Brzostek Reisla, daughter of Hersch Weinberg, merchant in cloth goods in Zator, and Feige nee Klinger Nechemje Storch, tavern keeper in Brzostek, witness. Jochene Nechemje, cloth merchant in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Biecz 27 Jan 1896, marriage register vol. I p. 8, no. 4",
+   "people": "Hese Schonberg; Judah Schonberg; Reisla Weinberg; Hersch Weinberg; Feige Klinger; Nechemje Storch; Jochene Nechemje; Marcus Kleinman",
+   "phonetic": "130000 146000 156000 294000 295000 430000 456000 460000 467950 540000 545000 586590 586600 594000 594500 646100 646400 656100 656400 694000 695400 750000 767950 948000"
   },
   {
    "id": "b-1899-11",
@@ -47407,7 +47407,7 @@
    "year": 1899,
    "number": "26",
    "summary": "Birth 26/1899: (birth)",
-   "prose": "Female Illegitimate 5 Jun 1899 Grudna Gorna, house 56 1899 Scheindla Trachman, without occupation in Grudna Gorna Stillborn",
+   "prose": "Female Illegitimate 5 Jun 1899 Grudna Gorna, house 56 1899 Scheindla Trautman [sic, = Trachman], without occupation in Grudna Gorna Stillborn",
    "people": "Trachman; Shayndel Trachman",
    "phonetic": "394600 395600 463800"
   },
@@ -47583,7 +47583,7 @@
    "year": 1899,
    "number": "42",
    "summary": "Birth 42/1899: Barcha",
-   "prose": "Barcha Female Illegitimate 1899 Kamienica Dolna 1899 Kamienica Dolna Moses Kranz, shoemaker in Kamienica Dolna Hinde Turk Baracha, the illegitimate daughter of Hinde Turk, was born in Kamienica Dolna, Pilzno district, in the year 1899, that is, in the one-thousand-eight-hundred-and-ninety-ninth year. Paternity of this child was acknowledged by Moses Kranz, who entered into a lawful marriage with the child's mother in the year 1902 in Jaslo, recorded in the marriage register of the Israelite metrical district in Jaslo for the year 1902, Volume III, page 170/1, entry no. 26; therefore, the child was legitimated by the subsequent marriage of the parents and is legally entitled to bear the father's family name \"Kranz.\" The entry was made pursuant to a rescript of the Voivodeship Office in Krakow dated 29 December 1931, reference SPD VI 1123/31, in Pilzno on 28 January 1932.",
+   "prose": "Barcha Female Illegitimate 1899 Kamienica Dolna 1899 Kamienica Dolna Moses Kranz, shoemaker in Kamienica Dolna Hinde Turk \"Barcha\", the illegitimate daughter of Hinde Turk, was born in Kamienica Dolna, Pilzno district, in the year 1899, that is, in the one-thousand-eight-hundred-and-ninety-ninth year. Paternity of this child was acknowledged by Moses Kranz, who entered into a lawful marriage with the child's mother in the year 1902 in Jaslo, recorded in the marriage register of the Israelite metrical district in Jaslo for the year 1902, Volume III, page 170/1, entry no. 26; therefore, the child was legitimated by the subsequent marriage of the parents and is legally entitled to bear the father's family name \"Kranz.\" The entry was made pursuant to a rescript of the Voivodeship Office in Krakow dated 29 December 1931, reference SPD VI 1123/31, in Pilzno on 28 January 1932.",
    "people": "Barcha Kranz; Moses Kranz; Hinde Turk, married name Kranz; Isaac Turk; Besa Turk",
    "phonetic": "040000 045000 395000 563000 596400 600000 640000 693000 740000 794000 795000"
   },
