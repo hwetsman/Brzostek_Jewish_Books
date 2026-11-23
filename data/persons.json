@@ -141560,9 +141560,9 @@
   "marital_status_at_marriage": "Single (m-1906-12)",
   "marital_status_at_death": null,
   "father_id": "P2111",
-  "father_name": "Mendel Gropker",
+  "father_name": "Mendel Propker",
   "mother_id": "P2112",
-  "mother_name": "Breindel Gropker née Wrobel",
+  "mother_name": "Breindel Propker née Wrobel",
   "spouse_ids": [
    "P1413"
   ],
@@ -183489,13 +183489,13 @@
    "P2112"
   ],
   "spouse_names": [
-   "Breindel Gropker née Wrobel"
+   "Breindel Propker née Wrobel"
   ],
   "children_ids": [
    "P1412"
   ],
   "children_names": [
-   "Moses Wrobel/Gropker"
+   "Moses Wrobel/Propker"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
@@ -183566,13 +183566,13 @@
    "P2111"
   ],
   "spouse_names": [
-   "Mendel Gropker"
+   "Mendel Propker"
   ],
   "children_ids": [
    "P1412"
   ],
   "children_names": [
-   "Moses Wrobel/Gropker"
+   "Moses Wrobel/Propker"
   ],
   "in_area": "NOT_IN_AREA",
   "refs": [
