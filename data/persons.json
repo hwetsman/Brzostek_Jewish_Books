@@ -41545,9 +41545,9 @@
   "id": "P0300",
   "legal_given": "Hene",
   "common_given": "Hene",
-  "legal_surname": "Licht",
+  "legal_surname": "Luft",
   "common_surname": "Licht",
-  "maiden_surname": "Licht",
+  "maiden_surname": "Luft",
   "married_surname": null,
   "sex": "F",
   "birth_date": null,
@@ -41635,7 +41635,7 @@
   "identity": {
    "names": [
     {
-     "form": "Hencie née Licht",
+     "form": "Hencie née Luft",
      "rids": [
       "b-1876-153",
       "b-1876-154"
@@ -41658,15 +41658,15 @@
      "form": "Hene née Licht",
      "rids": [
       "b-1900-8",
-      "b-1902-8",
-      "b-1904-3",
-      "b-1905-5",
-      "b-1906-5"
+      "b-1902-8"
      ]
     },
     {
      "form": "Hene née Luft",
      "rids": [
+      "b-1904-3",
+      "b-1905-5",
+      "b-1906-5",
       "m-1906-9"
      ]
     }

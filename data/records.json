@@ -4846,7 +4846,7 @@
    {
     "role": "MGM",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -7121,9 +7121,9 @@
    {
     "role": "Mother",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Mother",
-    "written_as": "Hencie née Licht",
+    "written_as": "Hencie née Luft",
     "linked_inline": true
    },
    {
@@ -7139,7 +7139,7 @@
   "translator_note": "Hene Orner's maiden name is listed as both Licht and Luft in more than one record. Her father is never mentioned and there is no way to know which name was her fathers and her mothers.",
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0299.html\" data-pid=\"P0299\">Aba Orner</a>, baker in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0300.html\" data-pid=\"P0300\">Hencie</a> nee <a href=\"../person/P0298.html\" data-pid=\"P0298\">Luft</a>",
+   "Mother (prose)": "<a href=\"../person/P0300.html\" data-pid=\"P0300\">Hencie nee Luft</a>",
    "Mohel/Name Giver": "<a href=\"../person/P1993.html\" data-pid=\"P1993\">Berel Bergman</a>",
    "Midwife": "Jadwiga Lukowicz"
   }
@@ -7182,9 +7182,9 @@
    {
     "role": "Mother",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Mother",
-    "written_as": "Hencie née Licht",
+    "written_as": "Hencie née Luft",
     "linked_inline": true
    },
    {
@@ -7200,7 +7200,7 @@
   "translator_note": "Hene Orner's maiden name is listed as both Licht and Luft in more than one record. Her father is never mentioned and there is no way to know which name was her fathers and her mothers.",
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0299.html\" data-pid=\"P0299\">Aba Orner</a>, baker in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0300.html\" data-pid=\"P0300\">Hencie</a> nee <a href=\"../person/P0298.html\" data-pid=\"P0298\">Luft</a>",
+   "Mother (prose)": "<a href=\"../person/P0300.html\" data-pid=\"P0300\">Hencie nee Luft</a>",
    "Mohel/Name Giver": "<a href=\"../person/P1993.html\" data-pid=\"P1993\">Berel Bergman</a>",
    "Midwife": "Jadwiga Lukowicz"
   }
@@ -10292,7 +10292,7 @@
    {
     "role": "MGM",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -22923,7 +22923,7 @@
    {
     "role": "MGM",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -29052,7 +29052,7 @@
    {
     "role": "MGM",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Mother's mother",
     "written_as": null,
     "linked_inline": true
@@ -31808,9 +31808,9 @@
    {
     "role": "MGM",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Hene née Luft",
     "linked_inline": true
    },
    {
@@ -31842,7 +31842,7 @@
   "translator_note": "Hene Orner's maiden name is listed as both Licht and Luft in more than one record. Her father is never mentioned and there is no way to know which name was her fathers and her mothers.",
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0709.html\" data-pid=\"P0709\">Elias Singer</a>, leather dealer in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0710.html\" data-pid=\"P0710\">Itta</a>, daughter of <a href=\"../person/P0299.html\" data-pid=\"P0299\">Aba Orner</a>, baker in Brzostek, and the late <a href=\"../person/P0300.html\" data-pid=\"P0300\">Hene</a> nee <a href=\"../person/P0298.html\" data-pid=\"P0298\">Luft</a>",
+   "Mother (prose)": "<a href=\"../person/P0710.html\" data-pid=\"P0710\">Itta</a>, daughter of <a href=\"../person/P0299.html\" data-pid=\"P0299\">Aba Orner</a>, baker in Brzostek, and the late <a href=\"../person/P0300.html\" data-pid=\"P0300\">Hene nee Luft</a>",
    "Witnesses (prose)": "<a href=\"../person/P0061.html\" data-pid=\"P0061\">Zalel Lobel</a>, dealer in iron goods in Brzostek, witness. <a href=\"../person/P0368.html\" data-pid=\"P0368\">Wolf Towel</a>, owner of a mixed goods stall in Brzostek, witness.",
    "Mohel/Name Giver": "<a href=\"../person/P0008.html\" data-pid=\"P0008\">Marcus Kleinman</a>",
    "Midwife": "Josefa Lizowa midwife in Brzostek",
@@ -35583,9 +35583,9 @@
    {
     "role": "MGM",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Hene née Luft",
     "linked_inline": true
    },
    {
@@ -35609,7 +35609,7 @@
   "translator_note": "Hene Orner's maiden name is listed as both Licht and Luft in more than one record. Her father is never mentioned and there is no way to know which name was her fathers and her mothers.",
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0709.html\" data-pid=\"P0709\">Elias Singer</a>, leather dealer in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0710.html\" data-pid=\"P0710\">Itta</a>, daughter of <a href=\"../person/P0299.html\" data-pid=\"P0299\">Aba Orner</a>, baker in Brzostek, and the late <a href=\"../person/P0300.html\" data-pid=\"P0300\">Hene</a> nee <a href=\"../person/P0298.html\" data-pid=\"P0298\">Luft</a>",
+   "Mother (prose)": "<a href=\"../person/P0710.html\" data-pid=\"P0710\">Itta</a>, daughter of <a href=\"../person/P0299.html\" data-pid=\"P0299\">Aba Orner</a>, baker in Brzostek, and the late <a href=\"../person/P0300.html\" data-pid=\"P0300\">Hene nee Luft</a>",
    "Witnesses (prose)": "<a href=\"../person/P0776.html\" data-pid=\"P0776\">Samuel Kornfeld</a>, tavern keeper in Wola Brzostecka, witness. <a href=\"../person/P0430.html\" data-pid=\"P0430\">Marcus David Hirsch</a>, tavern keeper in Brzostek, witness",
    "Midwife": "Josefa Lisowa midwife in Brzostek",
    "Notes": "Marriage performed in Brzostek 21 Jun 1899, marriage register vol. II p. 73/4, no. 3 of 1899. child died 7 Feb 1905"
@@ -38799,9 +38799,9 @@
    {
     "role": "MGM",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Mother's mother",
-    "written_as": null,
+    "written_as": "Hene née Luft",
     "linked_inline": true
    },
    {
@@ -38833,7 +38833,7 @@
   "translator_note": "Hene Orner's maiden name is listed as both Licht and Luft in more than one record. Her father is never mentioned and there is no way to know which name was her fathers and her mothers.",
   "fields_html": {
    "Father (prose)": "<a href=\"../person/P0709.html\" data-pid=\"P0709\">Elias Singer</a>, hide dealer in Brzostek",
-   "Mother (prose)": "<a href=\"../person/P0710.html\" data-pid=\"P0710\">Itta</a>, daughter of <a href=\"../person/P0299.html\" data-pid=\"P0299\">Aba Orner</a>, baker in Brzostek, and the late <a href=\"../person/P0300.html\" data-pid=\"P0300\">Hene</a> nee <a href=\"../person/P0298.html\" data-pid=\"P0298\">Luft</a>",
+   "Mother (prose)": "<a href=\"../person/P0710.html\" data-pid=\"P0710\">Itta</a>, daughter of <a href=\"../person/P0299.html\" data-pid=\"P0299\">Aba Orner</a>, baker in Brzostek, and the late <a href=\"../person/P0300.html\" data-pid=\"P0300\">Hene nee Luft</a>",
    "Witnesses (prose)": "<a href=\"../person/P0430.html\" data-pid=\"P0430\">Marcus David Hirsch</a>, tavern keeper in Brzostek, witness; <a href=\"../person/P2692.html\" data-pid=\"P2692\">Solomon Kornfeld</a>, private citizen in Brzostek, witness",
    "Mohel/Name Giver": "<a href=\"../person/P0071.html\" data-pid=\"P0071\">Chaim Galizer</a>, name-giver in Brzostek",
    "Midwife": "Jozefa Lisowa, midwife in Brzostek",
@@ -92975,7 +92975,7 @@
    {
     "role": "BM",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Bride's mother",
     "written_as": "Hannah née Licht",
     "linked_inline": true
@@ -101341,7 +101341,7 @@
    {
     "role": "BM",
     "person_id": "P0300",
-    "display": "Hene Licht",
+    "display": "Hene Luft, married name Licht",
     "role_label": "Bride's mother",
     "written_as": "Hene née Luft",
     "linked_inline": true

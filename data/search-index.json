@@ -5267,20 +5267,20 @@
    "id": "P0300",
    "type": "person",
    "display": "Hene Licht, married name Orner",
-   "other_names": "Hencie née Licht; Hene Orner; Hannah née Licht; Hene née Licht; Hene née Luft; Licht; Luft; Orner",
+   "other_names": "Hencie née Luft; Hene Orner; Hannah née Licht; Hene née Licht; Hene née Luft; Licht; Luft; Orner",
    "subtitle": "died by 1904; wife of Aba Orner",
    "legal_given": "Hene",
    "common_given": "Hene",
-   "legal_surname": "Licht",
+   "legal_surname": "Luft",
    "common_surname": "Licht",
-   "maiden_surname": "Licht",
+   "maiden_surname": "Luft",
    "father_name": "",
    "mother_name": "",
    "spouse_names": "Aba Orner",
    "residences": "",
    "birth_date": "",
    "death_date": "",
-   "phonetic": "560000 843000 853000 096900 560000 564000 565000 600000 843000 853000 873000"
+   "phonetic": "560000 843000 853000 873000 096900 560000 564000 565000 600000 843000 853000 873000"
   },
   {
    "id": "P0301",
@@ -45549,8 +45549,8 @@
    "number": "15",
    "summary": "Birth 15/1895: Jacob",
    "prose": "Jacob Male Legitimate 29 May 1895 Brzostek 5 Jun 1895 Brzostek, house 149 Joel Panzer, butcher in Brzostek Esther, daughter of Aba Orner, baker in Brzostek, and Hene nee unknown Hersch Schlenger, shopkeeper of colonial goods in Brzostek, witness. Marcus Kleinman Maria Przybyło, midwife in Brzostek Married 7 Dec 1873 in Brzostek, marriage register vol. I p. 7, no. 4",
-   "people": "Jacob Panzer; Joel Panzer; Esther Orner; Aba Orner; Hene Licht; Hersch Schlenger; Marcus Kleinman",
-   "phonetic": "043590 070000 096900 147000 157000 180000 457000 470000 480000 486590 540000 545000 560000 586600 594000 594500 694000 695400 764900 843000 853000"
+   "people": "Jacob Panzer; Joel Panzer; Esther Orner; Aba Orner; Hene Luft, married name Licht; Hersch Schlenger; Marcus Kleinman",
+   "phonetic": "043590 070000 096900 147000 157000 180000 457000 470000 480000 486590 540000 545000 560000 586600 594000 594500 600000 693000 694000 695400 764900 843000 853000 873000"
   },
   {
    "id": "b-1895-16",
@@ -45868,8 +45868,8 @@
    "number": "153",
    "summary": "Birth 153/1876: Moses Orner",
    "prose": "Moses Orner Male Legitimate 21 Dec 1876 Brzostek, house 47 28 Dec 1876 Aba Orner, baker in Brzostek Hencie nee Luft Berel Bergman Jadwiga Lukowicz",
-   "people": "Moses Orner; Aba Orner; Hene Licht; Berel Bergman",
-   "phonetic": "070000 096900 560000 640000 795600 798000 843000 853000"
+   "people": "Moses Orner; Aba Orner; Hene Luft, married name Licht; Berel Bergman",
+   "phonetic": "070000 096900 560000 600000 640000 693000 795600 798000 843000 853000 873000"
   },
   {
    "id": "b-1876-154",
@@ -45879,8 +45879,8 @@
    "number": "154",
    "summary": "Birth 154/1876: Isaac Orner",
    "prose": "Isaac Orner Male Legitimate 21 Dec 1876 Brzostek, house 47 28 Dec 1876 Aba Orner, baker in Brzostek Hencie nee Luft Berel Bergman Jadwiga Lukowicz",
-   "people": "Isaac Orner; Aba Orner; Hene Licht; Berel Bergman",
-   "phonetic": "040000 045000 070000 096900 560000 795600 798000 843000 853000"
+   "people": "Isaac Orner; Aba Orner; Hene Luft, married name Licht; Berel Bergman",
+   "phonetic": "040000 045000 070000 096900 560000 600000 693000 795600 798000 843000 853000 873000"
   },
   {
    "id": "b-1876-155",
@@ -46242,8 +46242,8 @@
    "number": "31",
    "summary": "Birth 31/1896: Hencie",
    "prose": "Hencie Female Illegitimate 1 Sep 1896 Brzostek, house 82 5 Sep 1896 Brzostek, house 149 Solomon Grabkowicz without employment in Brzostek Rivka, daughter of Aba Orner, baker in Brzostek, and Hene nee unknown Joseph Bergman, baker in Brzostek, witness. Joshane Nechemje, merchant of cloth goods in Brzostek, witness. Marcus Kleinman The undersigned acknowledges paternity: Solomon Grabkowicz [signature]. Alter Ungarischer [signature], cloth dealer in Brzostek, witness. By virtue of the decree of the Governor's Office in Lwow dated 18 May 1921, no. 4391, and of the District Office in Pilzno dated 31 May 1921, no. 8022, it is entered that the parents of this child were married on 5 December 1900, and the relevant act is recorded in the marriage register of the vital records office in Brzostek, volume II, page 141, entry 9. As a result, this child has been legitimized. Brzostek, 5 June 1921",
-   "people": "Henca Grabkowicz; Solomon Grabkowicz; Rivka Orner; Aba Orner; Hene Licht; Joseph Bergman; Joshane Nechemje; Marcus Kleinman",
-   "phonetic": "070000 096900 146000 147000 460000 470000 486000 560000 564000 565000 586600 597574 646100 646400 656100 656400 694000 695400 795600 843000 853000 975000"
+   "people": "Henca Grabkowicz; Solomon Grabkowicz; Rivka Orner; Aba Orner; Hene Luft, married name Licht; Joseph Bergman; Joshane Nechemje; Marcus Kleinman",
+   "phonetic": "070000 096900 146000 147000 460000 470000 486000 560000 564000 565000 586600 597574 600000 646100 646400 656100 656400 693000 694000 695400 795600 843000 853000 873000 975000"
   },
   {
    "id": "b-1896-32",
@@ -47672,8 +47672,8 @@
    "number": "8",
    "summary": "Birth 8/1900: Hence",
    "prose": "Hence Female Legitimate 5 Apr 1900 Brzostek, house 52 7 Apr 1900 Brzostek, house 149 Elias Singer, legally Jortner, leather dealer in Brzostek Itta, daughter of Aba Orner, baker in Brzostek, and Hene nee Licht Moses Mayer Czopp, manager of the cheder in Brzostek, witness. Leib Orner, cattle dealer in Brzostek, witness. Chaim Galizer Josefa Lizowa midwife in Brzostek Marriage performed 21 Jun 1899 in Brzostek, marriage register vol. II p. 73-74, no. 3 of 1899",
-   "people": "Hence Singer; Elias Singer; Itta Orner; Aba Orner; Hene Licht; Mayer Czopp; Leib Orner; Chaim Galizer",
-   "phonetic": "030000 070000 084000 096900 460000 465900 470000 560000 564000 565000 584900 619000 843000 853000 870000"
+   "people": "Hence Singer; Elias Singer; Itta Orner; Aba Orner; Hene Luft, married name Licht; Mayer Czopp; Leib Orner; Chaim Galizer",
+   "phonetic": "030000 070000 084000 096900 460000 465900 470000 560000 564000 565000 584900 600000 619000 693000 843000 853000 870000 873000"
   },
   {
    "id": "b-1900-9",
@@ -48387,8 +48387,8 @@
    "number": "8",
    "summary": "Birth 8/1902: Sasha Deborah",
    "prose": "Sasha Deborah Female Legitimate 13 Feb 1902 Brzostek, house 52 15 Feb 1902 Brzostek, house 149 Elias Singer, leather dealer in Brzostek Itta, daughter of Aba Orner, baker in Brzostek, and the late Hene nee Licht Hersch Schlenger, private person in Brzostek, witness. Moses Klotz spice stallholder in Brzostek, witness. Chaim Galizer Marriage performed at Brzostek 21 Jun 1899, marriage register vol. II p. 73-74, no. 3 of 1899",
-   "people": "Sasha Deborah Singer; Elias Singer; Itta Orner; Aba Orner; Hene Licht; Hersch Schlenger; Moses Klotz; Chaim Galizer",
-   "phonetic": "030000 070000 084000 096900 379000 400000 460000 465900 486590 540000 545000 560000 584000 584900 594000 594500 640000 843000 853000"
+   "people": "Sasha Deborah Singer; Elias Singer; Itta Orner; Aba Orner; Hene Luft, married name Licht; Hersch Schlenger; Moses Klotz; Chaim Galizer",
+   "phonetic": "030000 070000 084000 096900 379000 400000 460000 465900 486590 540000 545000 560000 584000 584900 594000 594500 600000 640000 693000 843000 853000 873000"
   },
   {
    "id": "b-1902-9",
@@ -48695,8 +48695,8 @@
    "number": "3",
    "summary": "Birth 3/1904: Chaskel",
    "prose": "Chaskel Male Legitimate 14 Jan 1904 Brzostek, house 52 21 Jan 1904 Brzostek, house 52 Elias Singer, leather dealer in Brzostek Itta, daughter of Aba Orner, baker in Brzostek, and the late Hene nee Luft Zalel Lobel, dealer in iron goods in Brzostek, witness. Wolf Towel, owner of a mixed goods stall in Brzostek, witness. Marcus Kleinman Josefa Lizowa midwife in Brzostek Marriage performed in Brzostek 21 Jun 1899. Died 1 Apr 1904 (death register vol. II p. 209/10, no. 4)",
-   "people": "Chaskel Singer; Elias Singer; Itta Orner; Aba Orner; Hene Licht; Zalel Lobel; Wolf Towel; Marcus Kleinman",
-   "phonetic": "030000 070000 084000 096900 378000 458000 465900 480000 545800 560000 586600 694000 695400 787000 843000 853000 878000"
+   "people": "Chaskel Singer; Elias Singer; Itta Orner; Aba Orner; Hene Luft, married name Licht; Zalel Lobel; Wolf Towel; Marcus Kleinman",
+   "phonetic": "030000 070000 084000 096900 378000 458000 465900 480000 545800 560000 586600 600000 693000 694000 695400 787000 843000 853000 873000 878000"
   },
   {
    "id": "b-1904-4",
@@ -49124,8 +49124,8 @@
    "number": "5",
    "summary": "Birth 5/1905: Died without name",
    "prose": "Died without name Male Legitimate 6 Feb 1905 Brzostek, house 52 1905 Elias Singer, leather dealer in Brzostek Itta, daughter of Aba Orner, baker in Brzostek, and the late Hene nee Luft Samuel Kornfeld, tavern keeper in Wola Brzostecka, witness. Marcus David Hirsch, tavern keeper in Brzostek, witness Josefa Lisowa midwife in Brzostek Marriage performed in Brzostek 21 Jun 1899, marriage register vol. II p. 73/4, no. 3 of 1899. child died 7 Feb 1905",
-   "people": "Singer; Elias Singer; Itta Orner; Aba Orner; Hene Licht; Samuel Kornfeld; David Hirsch",
-   "phonetic": "030000 070000 084000 096900 373000 465900 468000 540000 545000 560000 594000 594500 596783 843000 853000"
+   "people": "Singer; Elias Singer; Itta Orner; Aba Orner; Hene Luft, married name Licht; Samuel Kornfeld; David Hirsch",
+   "phonetic": "030000 070000 084000 096900 373000 465900 468000 540000 545000 560000 594000 594500 596783 600000 693000 843000 853000 873000"
   },
   {
    "id": "b-1905-6",
@@ -49487,8 +49487,8 @@
    "number": "5",
    "summary": "Birth 5/1906: Tziva",
    "prose": "Tziva Female Legitimate 13 February 1906 Brzostek, house 52 17 February 1906 Brzostek, house 149 Elias Singer, hide dealer in Brzostek Itta, daughter of Aba Orner, baker in Brzostek, and the late Hene nee Luft Marcus David Hirsch, tavern keeper in Brzostek, witness; Solomon Kornfeld, private citizen in Brzostek, witness Chaim Galizer, name-giver in Brzostek Jozefa Lisowa, midwife in Brzostek Marriage in Brzostek on 21 Jun 1899. Marriage register vol. II p. 73/4, no. 3",
-   "people": "Tziva Singer; Elias Singer; Itta Orner; Aba Orner; Hene Licht; David Hirsch; Solomon Kornfeld; Chaim Galizer",
-   "phonetic": "030000 070000 084000 096900 373000 460000 465900 470000 486000 540000 545000 560000 584900 594000 594500 596783 843000 853000"
+   "people": "Tziva Singer; Elias Singer; Itta Orner; Aba Orner; Hene Luft, married name Licht; David Hirsch; Solomon Kornfeld; Chaim Galizer",
+   "phonetic": "030000 070000 084000 096900 373000 460000 465900 470000 486000 540000 545000 560000 584900 594000 594500 596783 600000 693000 843000 853000 873000"
   },
   {
    "id": "b-1906-6",
@@ -58155,8 +58155,8 @@
    "number": "3",
    "summary": "Marriage 3/1899: Elias Singer & Itta Orner",
    "prose": "21 June 1899 Brzostek Elias Jortner, who used the last name Singer, born in Debica, dealer of tanned leather, son of Israel Singer, leather dealer in Debica, and Chaja Sara Jortner Itte Orner was born in Brzostek, single, living with her father, the daughter of Abe Orner, a baker in Brzostek, and Hena née Licht. Judah Leib Wolkenfeld Jochene Nechemje, owner of a cloth business in Brzostek, witness. Markus Kleinman, witness. Remarks: The groom's birth certificate dated Dębica, 21 Jun 1899, ref. no. 86, vol. III, p. 106, no. 42; assessment of the military tax dated Ropczyce, 22 May 1898, ref. no. 6642; certificate of the banns, in the files. For the bride, this registry's own book attests, vol. I, p. 4, no. 36, year 1871.",
-   "people": "Elias Singer; Itta Orner; Israel Singer; Chaya Sarah Jortner; Aba Orner; Hene Licht; Jochene Nechemje; Marcus Kleinman; Judah Leib Wolkenfeld",
-   "phonetic": "030000 049800 070000 084000 096900 130000 146000 156000 193690 410000 430000 456000 460000 465900 490000 493690 510000 560000 586600 646100 646400 656100 656400 694000 695400 785678 843000 853000 870000"
+   "people": "Elias Singer; Itta Orner; Israel Singer; Chaya Sarah Jortner; Aba Orner; Hene Luft, married name Licht; Jochene Nechemje; Marcus Kleinman; Judah Leib Wolkenfeld",
+   "phonetic": "030000 049800 070000 084000 096900 130000 146000 156000 193690 410000 430000 456000 460000 465900 490000 493690 510000 560000 586600 600000 646100 646400 656100 656400 693000 694000 695400 785678 843000 853000 870000 873000"
   },
   {
    "id": "m-1899-4",
@@ -59024,8 +59024,8 @@
    "number": "9",
    "summary": "Marriage 9/1906: Solomon Grabkowicz & Rivka Orner",
    "prose": "5 December 1906 Brzostek Salamon Grabkowicz, born in Brzostek, running Jewish schools and residing in Brzostek, son of deceased Juda Grabkowicz, a former barber in Brzostek, and Chaja Sara, called Sara, nee Weisenberg Ryfka Orner, born in Brzostek, unemployed, daughter of Abe Orner, a baker in Brzostek, and the deceased Hene, née Luft Judah Leib Wolkenfeld Chaim Galizer, ritual slaughterer in Brzostek, witness. Markus Kleinman, ritual slaughterer in Brzostek, witness. Remarks: The capacity for the marriage contracted alongside rests on [the registrar's] own knowledge, under § 32 of the register instructions; the banns announced three times, and the notice of the rabbinate.",
-   "people": "Solomon Grabkowicz; Rivka Orner; Judah Grabkowicz; Sarah Weisenberg; Aba Orner; Hene Licht; Chaim Galizer; Marcus Kleinman; Judah Leib Wolkenfeld",
-   "phonetic": "070000 096900 130000 430000 460000 486000 490000 560000 584900 586600 597574 694000 695400 746795 785678 843000 853000 870000 975000"
+   "people": "Solomon Grabkowicz; Rivka Orner; Judah Grabkowicz; Sarah Weisenberg; Aba Orner; Hene Luft, married name Licht; Chaim Galizer; Marcus Kleinman; Judah Leib Wolkenfeld",
+   "phonetic": "070000 096900 130000 430000 460000 486000 490000 560000 584900 586600 597574 600000 693000 694000 695400 746795 785678 843000 853000 870000 873000 975000"
   },
   {
    "id": "m-1906-10",
