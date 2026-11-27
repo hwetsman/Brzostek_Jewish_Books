@@ -74120,7 +74120,7 @@
    "Death Place": "Brzostek",
    "Burial Date": "1 Apr 1902",
    "Burial Place": "Brzostek",
-   "Decedent (prose)": "Mendel Shaya Szkulisk, called Shaya, Szkulisk who works at the cheder in Brzostek",
+   "Decedent (prose)": "Mendel Shaya Szkulnik, called Shaya, Szkulnik who works at the cheder in Brzostek",
    "Decedent Place": "Brzostek, house 162",
    "Sex": "Male",
    "Age": "54 years",
@@ -74136,14 +74136,14 @@
     "person_id": "P1662",
     "display": "Shaya Szkolnik",
     "role_label": "The deceased",
-    "written_as": "Shaya Szkulisk",
+    "written_as": "Shaya Szkulnik",
     "linked_inline": true
    }
   ],
   "unlinked_roles": [],
   "translator_note": null,
   "fields_html": {
-   "Decedent (prose)": "<a href=\"../person/P1662.html\" data-pid=\"P1662\">Mendel Shaya Szkulisk</a>, called <a href=\"../person/P1662.html\" data-pid=\"P1662\">Shaya</a>, <a href=\"../person/P1662.html\" data-pid=\"P1662\">Szkulisk</a> who works at the cheder in Brzostek",
+   "Decedent (prose)": "<a href=\"../person/P1662.html\" data-pid=\"P1662\">Mendel Shaya Szkulnik</a>, called <a href=\"../person/P1662.html\" data-pid=\"P1662\">Shaya</a>, <a href=\"../person/P1662.html\" data-pid=\"P1662\">Szkulnik</a> who works at the cheder in Brzostek",
    "Cause of Death": "Apoplexy"
   }
  },
