@@ -823,8 +823,8 @@
    "town": "Brzostek",
    "lat": 49.880454,
    "lon": 21.409835,
-   "events": 1840,
-   "buildings": 104,
+   "events": 1839,
+   "buildings": 103,
    "year_min": 1876,
    "year_max": 1938,
    "top_surnames": [
@@ -858,7 +858,7 @@
     "Naming": 469,
     "Death": 129,
     "Bride": 3,
-    "Groom": 5,
+    "Groom": 4,
     "Father_Residence": 389,
     "MGF_Residence": 192,
     "MGM_Residence": 9,
@@ -871,7 +871,7 @@
    "categories": {
     "birth_naming": 853,
     "death": 129,
-    "marriage_spouse": 108,
+    "marriage_spouse": 107,
     "remote_relative": 750
    },
    "top_buildings": [
@@ -7171,14 +7171,14 @@
    "town": "Rzepiennik Strzyzewski",
    "lat": 49.808615,
    "lon": 21.029308,
-   "events": 3,
-   "buildings": 0,
+   "events": 4,
+   "buildings": 1,
    "year_min": 1896,
    "year_max": 1897,
    "top_surnames": [
     [
      "Goldberg",
-     2
+     3
     ],
     [
      "Kichel",
@@ -7186,16 +7186,30 @@
     ]
    ],
    "events_by_kind": {
+    "Groom": 1,
     "Groom birthplace": 2,
     "GF_Residence": 1
    },
    "categories": {
     "birth_naming": 0,
     "death": 0,
-    "marriage_spouse": 2,
+    "marriage_spouse": 3,
     "remote_relative": 1
    },
-   "top_buildings": [],
+   "top_buildings": [
+    {
+     "number": "37",
+     "events": 1,
+     "surnames": [
+      [
+       "Goldberg",
+       1
+      ]
+     ],
+     "year_min": 1897,
+     "year_max": 1897
+    }
+   ],
    "town_only_events": 3,
    "notes": ""
   },
@@ -9474,33 +9488,6 @@
    "town": "Zurawiczki",
    "lat": 50.010689,
    "lon": 22.49161,
-   "events": 1,
-   "buildings": 0,
-   "year_min": 1907,
-   "year_max": 1907,
-   "top_surnames": [
-    [
-     "Frommer",
-     1
-    ]
-   ],
-   "events_by_kind": {
-    "GF_Residence": 1
-   },
-   "categories": {
-    "birth_naming": 0,
-    "death": 0,
-    "marriage_spouse": 0,
-    "remote_relative": 1
-   },
-   "top_buildings": [],
-   "town_only_events": 1,
-   "notes": "Source records used 'Lurawiezki' — Editorial note: Z↔L misread + locative case. Zurawiczki near Jarosław. | Editorial note: coords refined to (50.010689, 22.491610)."
-  },
-  {
-   "town": "Zurawiczki near Jaroslaw",
-   "lat": 50.010689,
-   "lon": 22.49161,
    "events": 2,
    "buildings": 1,
    "year_min": 1907,
@@ -9513,13 +9500,13 @@
    ],
    "events_by_kind": {
     "Groom": 1,
-    "Groom birthplace": 1
+    "GF_Residence": 1
    },
    "categories": {
     "birth_naming": 0,
     "death": 0,
-    "marriage_spouse": 2,
-    "remote_relative": 0
+    "marriage_spouse": 1,
+    "remote_relative": 1
    },
    "top_buildings": [
     {
@@ -9535,6 +9522,33 @@
      "year_max": 1907
     }
    ],
+   "town_only_events": 1,
+   "notes": "Source records used 'Lurawiezki' — Editorial note: Z↔L misread + locative case. Zurawiczki near Jarosław. | Editorial note: coords refined to (50.010689, 22.491610)."
+  },
+  {
+   "town": "Zurawiczki near Jaroslaw",
+   "lat": 50.010689,
+   "lon": 22.49161,
+   "events": 1,
+   "buildings": 0,
+   "year_min": 1907,
+   "year_max": 1907,
+   "top_surnames": [
+    [
+     "Frommer",
+     1
+    ]
+   ],
+   "events_by_kind": {
+    "Groom birthplace": 1
+   },
+   "categories": {
+    "birth_naming": 0,
+    "death": 0,
+    "marriage_spouse": 1,
+    "remote_relative": 0
+   },
+   "top_buildings": [],
    "town_only_events": 1,
    "notes": "same as Zurawiczki"
   },
